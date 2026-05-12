@@ -1,89 +1,352 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Monetisasi Website Modern</title>
+  <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+    }
 
-<title>Sunset Blog Pro</title>
+    body{
+      font-family:'Poppins',sans-serif;
+      background:#fff;
+      color:#202124;
+      overflow-x:hidden;
+    }
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    a{
+      text-decoration:none;
+    }
 
-<meta name="description" content="Blog modern teknologi dan inspirasi">
+    header{
+      width:100%;
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:20px 8%;
+      background:#fff;
+      position:sticky;
+      top:0;
+      z-index:1000;
+      box-shadow:0 2px 10px rgba(0,0,0,.05);
+    }
 
-<link rel="stylesheet" href="style.css">
+    .logo{
+      font-size:28px;
+      font-weight:700;
+      color:#ff6f00;
+    }
 
+    nav a{
+      margin:0 15px;
+      color:#444;
+      font-weight:500;
+      transition:.3s;
+    }
+
+    nav a:hover{
+      color:#ff6f00;
+    }
+
+    .btn{
+      background:#ff6f00;
+      color:#fff;
+      padding:12px 22px;
+      border-radius:30px;
+      display:inline-block;
+      transition:.3s;
+      font-weight:600;
+    }
+
+    .btn:hover{
+      background:#e65100;
+      transform:translateY(-2px);
+    }
+
+    .hero{
+      min-height:90vh;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      padding:60px 8%;
+      background:linear-gradient(to right,#fff,#fff3e0);
+      gap:50px;
+      flex-wrap:wrap;
+    }
+
+    .hero-text{
+      flex:1;
+      min-width:300px;
+    }
+
+    .hero-text h1{
+      font-size:58px;
+      line-height:1.2;
+      margin-bottom:25px;
+      color:#202124;
+    }
+
+    .hero-text p{
+      font-size:18px;
+      line-height:1.8;
+      color:#5f6368;
+      margin-bottom:35px;
+    }
+
+    .hero-image{
+      flex:1;
+      text-align:center;
+      min-width:300px;
+    }
+
+    .hero-image img{
+      width:100%;
+      max-width:550px;
+      border-radius:25px;
+      box-shadow:0 10px 30px rgba(0,0,0,.12);
+    }
+
+    .stats{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+      gap:25px;
+      padding:80px 8%;
+      background:#fff;
+    }
+
+    .stat-box{
+      background:#fff;
+      border-radius:25px;
+      padding:35px;
+      text-align:center;
+      box-shadow:0 5px 20px rgba(0,0,0,.06);
+      transition:.3s;
+    }
+
+    .stat-box:hover{
+      transform:translateY(-5px);
+    }
+
+    .stat-box h2{
+      font-size:42px;
+      color:#ff6f00;
+      margin-bottom:10px;
+    }
+
+    .stat-box p{
+      color:#666;
+    }
+
+    .features{
+      padding:90px 8%;
+      background:#fafafa;
+    }
+
+    .section-title{
+      text-align:center;
+      margin-bottom:60px;
+    }
+
+    .section-title h2{
+      font-size:42px;
+      margin-bottom:15px;
+    }
+
+    .section-title p{
+      color:#666;
+      max-width:700px;
+      margin:auto;
+      line-height:1.8;
+    }
+
+    .feature-grid{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+      gap:30px;
+    }
+
+    .feature-card{
+      background:#fff;
+      padding:40px 30px;
+      border-radius:25px;
+      box-shadow:0 5px 20px rgba(0,0,0,.05);
+      transition:.3s;
+    }
+
+    .feature-card:hover{
+      transform:translateY(-8px);
+    }
+
+    .feature-card h3{
+      margin:20px 0;
+      color:#202124;
+    }
+
+    .feature-card p{
+      color:#666;
+      line-height:1.8;
+    }
+
+    .icon{
+      width:70px;
+      height:70px;
+      border-radius:20px;
+      background:#fff3e0;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      font-size:30px;
+    }
+
+    .cta{
+      padding:100px 8%;
+      text-align:center;
+      background:linear-gradient(to right,#ff9800,#ff6f00);
+      color:#fff;
+    }
+
+    .cta h2{
+      font-size:48px;
+      margin-bottom:20px;
+    }
+
+    .cta p{
+      max-width:700px;
+      margin:0 auto 35px;
+      line-height:1.8;
+      opacity:.95;
+    }
+
+    .cta .btn{
+      background:#fff;
+      color:#ff6f00;
+    }
+
+    footer{
+      background:#202124;
+      color:#ccc;
+      text-align:center;
+      padding:30px;
+      font-size:14px;
+    }
+
+    @media(max-width:768px){
+      .hero-text h1{
+        font-size:42px;
+      }
+
+      nav{
+        display:none;
+      }
+
+      .cta h2{
+        font-size:36px;
+      }
+    }
+  </style>
 </head>
-
 <body>
 
 <header>
+  <div class="logo">MONETIZE+</div>
 
-<h1>Sunset Blog Pro</h1>
+  <nav>
+    <a href="#fitur">Fitur</a>
+    <a href="#keunggulan">Keunggulan</a>
+    <a href="#pendapatan">Pendapatan</a>
+    <a href="#kontak">Kontak</a>
+  </nav>
 
-<nav>
-
-<a href="index.html">Home</a>
-
-<a href="about.html">About</a>
-
-<a href="contact.html">Contact</a>
-
-<a href="privacy.html">Privacy</a>
-
-</nav>
-
+  <a href="#" class="btn">Mulai Sekarang</a>
 </header>
 
 <section class="hero">
+  <div class="hero-text">
+    <h1>Hasilkan Uang Dari Website Anda Dengan Mudah</h1>
 
-<h2>Website Modern & Profesional</h2>
+    <p>
+      Tingkatkan penghasilan digital Anda menggunakan sistem monetisasi modern yang cepat, ringan, dan profesional. Cocok untuk blogger, portal berita, hingga website pribadi.
+    </p>
 
-<p>
-Belajar teknologi, coding, AI dan dunia digital modern.
-</p>
+    <a href="#" class="btn">Daftar Gratis</a>
+  </div>
 
-<a href="artikel1.html" class="btn">
-Baca Artikel
-</a>
-
+  <div class="hero-image">
+    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop" alt="dashboard"/>
+  </div>
 </section>
 
-<section class="container">
+<section class="stats" id="pendapatan">
+  <div class="stat-box">
+    <h2>98%</h2>
+    <p>Peningkatan performa website modern</p>
+  </div>
 
-<div class="card">
+  <div class="stat-box">
+    <h2>24/7</h2>
+    <p>Sistem online tanpa henti</p>
+  </div>
 
-<h3>Belajar Coding</h3>
-
-<p>
-Tutorial coding modern untuk pemula langsung dari HP.
-</p>
-
-</div>
-
-<div class="card">
-
-<h3>Teknologi AI</h3>
-
-<p>
-Membahas perkembangan AI dan tools masa depan.
-</p>
-
-</div>
-
-<div class="card">
-
-<h3>Bisnis Online</h3>
-
-<p>
-Belajar membuat website yang menghasilkan uang.
-</p>
-
-</div>
-
+  <div class="stat-box">
+    <h2>1M+</h2>
+    <p>Pengunjung aktif setiap bulan</p>
+  </div>
 </section>
 
-<footer>
+<section class="features" id="fitur">
+  <div class="section-title">
+    <h2>Fitur Profesional Modern</h2>
+    <p>
+      Desain modern, loading cepat, dan sistem yang dibuat untuk meningkatkan pengalaman pengguna sekaligus memaksimalkan potensi penghasilan website.
+    </p>
+  </div>
 
-<p>Copyright 2026 - Sunset Blog Pro</p>
+  <div class="feature-grid">
 
+    <div class="feature-card">
+      <div class="icon">⚡</div>
+      <h3>Loading Super Cepat</h3>
+      <p>
+        Website ringan dengan optimasi performa terbaik sehingga nyaman diakses pengguna mobile maupun desktop.
+      </p>
+    </div>
+
+    <div class="feature-card">
+      <div class="icon">📈</div>
+      <h3>Statistik Real-Time</h3>
+      <p>
+        Pantau trafik dan perkembangan website Anda secara langsung dengan tampilan dashboard modern.
+      </p>
+    </div>
+
+    <div class="feature-card">
+      <div class="icon">🔒</div>
+      <h3>Keamanan Maksimal</h3>
+      <p>
+        Sistem keamanan modern untuk menjaga website tetap stabil dan aman dari ancaman digital.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+<section class="cta">
+  <h2>Bangun Website Profesional Sekarang</h2>
+
+  <p>
+    Tingkatkan kualitas blog atau website Anda dengan tampilan premium yang modern, bersih, dan SEO friendly.
+  </p>
+
+  <a href="#" class="btn">Mulai Gratis</a>
+</section>
+
+<footer id="kontak">
+  © 2026 Monetize+ • Desain modern HTML CSS responsive.
 </footer>
 
 </body>
