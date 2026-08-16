@@ -1,6 +1,6 @@
 baseURL = 'https://teukuanca-creat.github.io/situsku/'
 languageCode = 'id-id'
-title = 'Situs Ku'
+title = 'Situsku'
 
 [taxonomies]
   category = 'categories'
