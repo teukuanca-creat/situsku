@@ -9,5 +9,3 @@ featured_image: ""
 description: ""
 comments: true
 ---
-
-Write your article content here...
