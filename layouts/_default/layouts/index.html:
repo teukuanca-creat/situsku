@@ -2,11 +2,23 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
+  <!-- Wajib untuk layar HP -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
   <title>{{ .Title }}</title>
+  <!-- Menghubungkan CSS Tailwind -->
+  <link rel="stylesheet" href="/css/main.css">
 </head>
-<body>
-  <h1>{{ .Title }}</h1>
-  <div>{{ .Content }}</div>
+<body class="bg-gray-100 text-gray-900 min-h-screen p-4 md:p-8">
+  
+  <header class="max-w-4xl mx-auto mb-6">
+    <h1 class="text-2xl md:text-4xl font-bold text-blue-600">{{ .Title }}</h1>
+  </header>
+
+  <main class="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-md">
+    <div class="prose max-w-none">
+      {{ .Content }}
+    </div>
+  </main>
+
 </body>
 </html>
-
