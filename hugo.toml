@@ -1,7 +1,7 @@
 baseURL = 'https://teukuanca-creat.github.io/situsku/'
 languageCode = 'id-id'
-title = 'Situsku'
+title = 'teukuanca.com'
 
 [params]
-description = "Situs Web Resmi"
+description = "Situs Web Resmi teukuanca.com"
 author = "Admin"
