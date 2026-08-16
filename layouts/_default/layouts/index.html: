@@ -2,22 +2,42 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <!-- Wajib untuk layar HP -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ .Title }}</title>
-  <!-- Menghubungkan CSS Tailwind -->
   <link rel="stylesheet" href="/css/main.css">
 </head>
-<body class="bg-gray-100 text-gray-900 min-h-screen p-4 md:p-8">
-  
-  <header class="max-w-4xl mx-auto mb-6">
-    <h1 class="text-2xl md:text-4xl font-bold text-blue-600">{{ .Title }}</h1>
+<body class="bg-gray-100 text-gray-800">
+
+  <!-- Navigasi / Header -->
+  <header class="bg-blue-600 text-white p-4">
+    <div class="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center">
+      <h1 class="text-xl font-bold">{{ .Site.Title }}</h1>
+      <!-- Di HP: Numpuk ke bawah | Di PC (md): Berjejer ke samping -->
+      <nav class="flex gap-4 mt-3 md:mt-0">
+        <a href="/" class="hover:underline">Beranda</a>
+        <a href="#" class="hover:underline">Tentang</a>
+      </nav>
+    </div>
   </header>
 
-  <main class="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-md">
-    <div class="prose max-w-none">
-      {{ .Content }}
-    </div>
+  <!-- Konten Utama & Sidebar -->
+  <!-- Di HP: 1 Kolom (Numpuk) | Di PC (md): Grid 3 Kolom (Content 2 kolom + Sidebar 1 kolom) -->
+  <main class="max-w-6xl mx-auto p-4 grid grid-cols-1 md:grid-cols-3 gap-6 my-6">
+    
+    <!-- Area Artikel Utama -->
+    <article class="md:col-span-2 bg-white p-6 rounded-lg shadow">
+      <h2 class="text-2xl font-bold mb-4">{{ .Title }}</h2>
+      <div class="prose max-w-none">
+        {{ .Content }}
+      </div>
+    </article>
+
+    <!-- Sidebar / Info Samping -->
+    <aside class="bg-white p-6 rounded-lg shadow h-fit">
+      <h3 class="font-bold text-lg mb-2">Informasi</h3>
+      <p class="text-sm text-gray-600">Ini adalah sidebar yang akan berada di samping saat dibuka di PC, dan turun ke bawah saat dibuka di HP.</p>
+    </aside>
+
   </main>
 
 </body>
