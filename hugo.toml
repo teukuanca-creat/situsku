@@ -5,3 +5,40 @@ title = 'teukuanca.com'
 [params]
 description = "Situs Web Resmi teukuanca.com"
 author = "Admin"
+
+# --- Konfigurasi Menu ---
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Profil"
+  url = "/profil/"
+  weight = 2
+
+# Menu Utama yang Memiliki Sub-Menu
+[[menu.main]]
+  name = "Layanan"
+  url = "#"
+  identifier = "layanan"
+  weight = 3
+
+# Sub-Menu (Induknya 'layanan')
+[[menu.main]]
+  name = "Desain Web"
+  url = "/layanan/desain-web/"
+  parent = "layanan"
+  weight = 1
+
+[[menu.main]]
+  name = "SEO"
+  url = "/layanan/seo/"
+  parent = "layanan"
+  weight = 2
+
+[[menu.main]]
+  name = "Kontak"
+  url = "/kontak/"
+  weight = 4
+  
