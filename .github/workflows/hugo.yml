@@ -40,8 +40,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install PostCSS
-        run: npm install -g postcss postcss-cli autoprefixer tailwindcss
+      - name: Install Tailwind & PostCSS Locally
+        run: |
+          npm init -y
+          npm install -D tailwindcss autoprefixer postcss postcss-cli
 
       - name: Setup Pages
         id: pages
