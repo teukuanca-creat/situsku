@@ -1,7 +1,5 @@
 ---
-title: "Selamat Datang"
+title: "Halaman Utama"
 draft: false
 ---
-
-Selamat datang di situs saya.
-
+Selamat datang di situsku.
