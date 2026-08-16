@@ -31,10 +31,27 @@ googleAnalytics = "" # Isi dengan "G-XXXXXXXXXX" jika ada
   writeStats = true
   noJSConfigInAssets = false
 
-[build.cachebusters]
-  [build.cachebusters."(postcss|tailwind)\\.config\\.js"]
-    source = "(postcss|tailwind)\\.config\\.js"
-    target = "css"
+baseURL = 'https://teukuanca-creat.github.io/situsku/'
+languageCode = 'id-id'
+title = 'My Hugo news site'
+
+[params]
+  description = "Breaking news and in-depth analysis"
+  author = "News Team"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menus.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
