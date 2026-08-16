@@ -2,4 +2,3 @@ baseURL = 'https://teukuanca-creat.github.io/situsku/'
 languageCode = 'id-id'
 title = 'Situsku'
 theme = 'hugo-news'
-
