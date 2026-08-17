@@ -1,6 +1,7 @@
 ---
 title: 'Memahami Media Sosial: Fungsi, Peluang, dan UU ITE'
-date: 2026-07-17
+permalink: /2026/08/memahami-media-sosial-fungsi-peluang.html
+date: 2026-08-03
 draft: false
 featured_image: "/situsku/images/ilustrasi-media-sosial.webp"
 categories: ["Kreativitas"]
