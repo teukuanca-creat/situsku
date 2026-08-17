@@ -1,14 +1,16 @@
 ---
 title: "Hubungi Kami"
-date: 2026-08-17
+date: 2026-07-17
 draft: false
 ---
 
-Jika Anda memiliki pertanyaan, saran, atau kerja sama, silakan hubungi kami melalui formulir atau kontak di bawah ini:
 
-* **Email:** admin@teukuanca.com
-* **Alamat:** Simeulue, Aceh, Indonesia
+# Hubungi Kami
+Jika Anda memiliki pertanyaan, saran, atau penawaran kerja sama, silakan hubungi kami melalui formulir di bawah ini atau melalui kontak resmi kami.
 
-Kami akan berusaha membalas pesan Anda secepat mungkin.
+## Informasi Kontak:
+**• Email: penata3a@gmail.com**
 
+**• Telepon/WhatsApp: 085133950982**
 
+**• Situs Web: teukuanca.com**
