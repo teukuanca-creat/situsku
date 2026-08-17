@@ -5,8 +5,8 @@
     </header>
 
     <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-        <!-- .Site.RegularPages MEMBUANG grid folder/sections dan HANYA mengambil file artikel .md -->
-        {{ range .Site.RegularPages }}
+        <!-- HANYA MENAMPILKAN KONTEN FOLDER POSTS (MEMBUANG PAGES SEPERTI DISCLAIMER/PRIVASI) -->
+        {{ range where .Site.RegularPages "Section" "posts" }}
         <article class="bg-white rounded-lg shadow-md overflow-hidden flex flex-col justify-between border border-gray-100">
             <div>
                 {{ if .Params.featured_image }}
@@ -39,7 +39,7 @@
             </div>
         </article>
         {{ else }}
-        <p class="col-span-3 text-gray-500">Belum ada artikel yang diterbitkan.</p>
+        <p class="col-span-3 text-gray-500">Belum ada artikel yang diterbitkan di folder content/posts/.</p>
         {{ end }}
     </div>
 </div>
