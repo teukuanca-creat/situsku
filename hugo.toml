@@ -42,3 +42,7 @@ author = "Admin"
   url = "/kontak/"
   weight = 4
   
+[[menus.main]]
+  name = "Hubungi Kami"
+  url = "/hubungi-kami/"
+  weight = 99
