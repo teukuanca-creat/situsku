@@ -1,1 +1,25 @@
+<footer class="bg-gray-800 text-white py-6 mt-10">
+  <div class="max-w-6xl mx-auto px-4 flex flex-col items-center gap-4 text-sm">
+    
+    <!-- 1. BARIS ATAS: Menu Navigasi Footer -->
+    <ul class="flex flex-wrap justify-center gap-6">
+      {{ range .Site.Menus.footer }}
+        <li>
+          <a href="{{ .URL }}" target="_blank" rel="noopener" class="hover:text-gray-400 underline">
+            {{ .Name }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+
+    <!-- Garis Pembatas Tipis (Opsional) -->
+    <div class="w-full border-t border-gray-700 my-1"></div>
+
+    <!-- 2. BARIS PALING BAWAH: Hak Cipta -->
+    <p class="text-xs text-gray-400 text-center">
+      &copy; {{ now.Format "2006" }} {{ .Site.Title }}. All rights reserved.
+    </p>
+
+  </div>
+</footer>
 
