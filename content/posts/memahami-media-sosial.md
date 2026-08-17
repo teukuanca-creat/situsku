@@ -2,11 +2,12 @@
 title: 'Memahami Media Sosial: Fungsi, Peluang, dan UU ITE'
 date: 2026-07-17
 draft: false
-featured_image: "/images/ilustrasi-media-sosial.webp"
+featured_image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=800&q=80"
 categories: ["Kreativitas"]
 description: "Ulasan mendalam mengenai manfaat media sosial, peluang saat me, serta aspek hukum UU ITE."
 tags: ["Media Sosial", "Internet"]
 ---
+
 
 
 Sekarang ini, media sosial sudah berevolusi dari sarana berkirim-kirim pesan menjadi platform multifungsi yang membentuk lanskap sosial, ekonomi, dan budaya modern. Apalagi kita bebas memilih ataupun memanfaatkan beragam platform yang ada sesuai dengan kebutuhan baik itu individual maupun profesional.
