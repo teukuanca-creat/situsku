@@ -1,6 +1,7 @@
 ---
 title: 'Mengurai Potensi Rumput Laut Pesisir Pulau Simeulue'
-date: 2026-07-18
+permalink:https: /2026/08/mengurai-potensi-rumput-laut-pesisir.html
+date: 2026-08-02
 draft: false
 featured_image: "/situsku/images/ilustrasi-rumput-laut-simeulue.webp"
 categories: ["Cerita Menarik"]
