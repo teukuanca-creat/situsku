@@ -5,6 +5,11 @@ title = 'teukuanca.com'
 # --- Pengaturan Ekstra (Mematikan Auto-Section Grid) ---
 ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
 
+# --- Pengaturan Kategori & Tags (Taksonomi) ---
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
   description = "Situs Web Resmi teukuanca.com"
   author = "Admin"
@@ -23,18 +28,22 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
   url = "/"
   weight = 1
 
+[[menu.main]]
+  name = "Teknologi"
+  url = "/categories/teknologi/"
+  weight = 2
 
 [[menu.main]]
   name = "Tentang Kami"
   url = "/pages/tentang-kami/"
-  weight = 2
+  weight = 3
 
-# Menu Utama dengan Sub-Menu
+# Menu Utama dengan Sub-Menu (Contoh Layanan)
 [[menu.main]]
   name = "Layanan"
   url = "#"
   identifier = "layanan"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Desain Web"
@@ -68,3 +77,4 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
   name = "Disclaimer"
   url = "/pages/disclaimer/"
   weight = 4
+  
