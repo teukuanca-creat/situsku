@@ -29,8 +29,8 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
   weight = 1
 
 [[menu.main]]
-  name = "Teknologi"
-  url = "/categories/teknologi/"
+  name = "Hubungi Kami"
+  url = "/pages/hubungi-kami/"
   weight = 2
 
 [[menu.main]]
@@ -40,21 +40,21 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
 
 # Menu Utama dengan Sub-Menu (Contoh Layanan)
 [[menu.main]]
-  name = "Layanan"
+  name = "Direktori Publik"
   url = "#"
-  identifier = "layanan"
+  identifier = "Direktori Publik"
   weight = 4
 
 [[menu.main]]
-  name = "Desain Web"
-  url = "/layanan/desain-web/"
-  parent = "layanan"
+  name = "Cerita Menarik"
+  url = "/pages/cerita-menarik/"
+  parent = "cerita Menarik"
   weight = 1
 
 [[menu.main]]
-  name = "SEO"
-  url = "/layanan/seo/"
-  parent = "layanan"
+  name = "Edukasi"
+  url = "/pages/edukasi/"
+  parent = "Edukasi"
   weight = 2
 
 # --- Menu Navigasi Footer ---
