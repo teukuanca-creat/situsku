@@ -5,17 +5,17 @@
     </h1>
 
     <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem;">
-        <!-- .Site.RegularPages HANYA mengambil file artikel .md, menghapus total 2 grid (Pages & Home) -->
+        <!-- .Site.RegularPages HANYA mengambil file artikel .md -->
         {{ range .Site.RegularPages }}
         <article style="background-color: #ffffff; border: 1px solid #e5e7eb; border-radius: 0.5rem; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between;">
             <div>
                 {{ if .Params.featured_image }}
                 <a href="{{ .RelPermalink }}">
-                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width: 100%; height: 200px; object-fit: cover;">
+                    <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}" style="width: 100%; height: 200px; object-fit: cover;">
                 </a>
                 {{ else if .Params.image }}
                 <a href="{{ .RelPermalink }}">
-                    <img src="{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; height: 200px; object-fit: cover;">
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="width: 100%; height: 200px; object-fit: cover;">
                 </a>
                 {{ end }}
 
