@@ -7,6 +7,13 @@ title = 'teukuanca.com'
   author = "Admin"
   mainSections = ["posts"]
 
+  # --- Tautan Media Sosial ---
+  facebook = "https://facebook.com/usernameanda"
+  twitter = "https://x.com/usernameanda"
+  instagram = "https://instagram.com/usernameanda"
+  youtube = "https://youtube.com/@usernameanda"
+
+
 # --- Konfigurasi Menu Navigasi ---
 [[menu.main]]
   name = "Home"
