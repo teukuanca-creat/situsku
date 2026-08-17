@@ -3,7 +3,8 @@
     <h1 class="text-2xl font-bold mb-6 border-b pb-2 text-gray-800">Artikel Terbaru</h1>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {{ range (where .Site.RegularPages "Section" "posts") }}
+        <!-- PENTING: .Site.RegularPages membuang folder "pages" dan "posts", hanya mengambil file artikel .md -->
+        {{ range where .Site.RegularPages "Section" "posts" }}
         <article class="bg-white border rounded-lg overflow-hidden shadow-sm flex flex-col justify-between hover:shadow-md transition">
             <div>
                 {{ if .Params.featured_image }}
@@ -36,9 +37,8 @@
             </div>
         </article>
         {{ else }}
-        <p class="col-span-3 text-gray-500">Tidak ada artikel ditemukan di folder content/posts.</p>
+        <p class="col-span-3 text-gray-500">Belum ada postingan artikel di folder content/posts/.</p>
         {{ end }}
     </div>
 </div>
 {{ end }}
-
