@@ -7,9 +7,11 @@ categories: ["Cerita Menarik"]
 tags: ["memancing", "gurita"]
 ---
 Ketika saya menyusuri jalur pesisir menuju ke Desa Labuhan Bakti Kecamatan Teupah Selatan, Kabupaten Simeulue, mata ini kerap disuguhkan oleh pemandangan yang memikat.
+
 Di atas hamparan permukaan laut, terlihat sampan kecil melaju secara bersamaan menyongsong terbitnya matahari dan senja yang mulai membayangi garis horison.
 
 Bagi masyarakat pesisir Simeulue, perairan bukan sekadar pemandangan alam yang indah, melainkan ladang untuk kelangsungan hidup.
+
 Selain terkenal sebagai penghasil lobster, perairan Simeulue juga menyimpan potensi kekayaan bahari lainnya yang tak kalah menjanjikan: Gurita (Octopus cyanea).
 Saat musimnya tiba, aktivitas perburuan gurita kian populer, ini menjadi rutinitas guna penopang ekonomi keluarga.
 
@@ -20,6 +22,7 @@ Berbeda dengan perburuan ikan di kedalaman yang membutuhkan boat besar dengan ba
 
 ### Apa itu "Gosong"?
 Gosong adalah bukit pasir atau terumbu karang yang melandai di tengah laut dengan kedalaman relatif dangkal. Area ini kaya akan celah karang alami, batu-batuan, serta ekosistem makroalga yang menjadi tempat bersembunyi favorit bagi kepiting kecil dan kerang, makanan utama gurita.
+
 Karena letak gosong ini tidak terlalu jauh dari garis pantai, nelayan hanya perlu menggunakan sampan kayu yang berukuran kecil (perahu ketinting), dilengkapi dengan mesin penggerak sederhana.
 Penggunaan mesin penggerak ini sangat membantu menghemat tenaga nelayan agar tidak perlu mendayung jauh, sekaligus memungkinkan mereka bergerak cepat berpindah dari satu titik gosong ke titik lainnya.
 
@@ -63,6 +66,7 @@ Fungsi: Menangkap dan mengunci lengan tentakel gurita secara otomatis dari berba
 Memancing gurita ini menawarkan sensasi yang berbeda jika dibandingkan dengan memancing ikan pelagis. Tidak ada lompatan ke udara atau tarikan liar yang meliuk-liuk.
 
 Ketika umpan diturunkan ke area gosong, kemudian digerakkan perlahan menyapu dasar laut. Disaat momen strike, ditandai dengan beban yang mendadak terasa sangat berat, seolah-olah mata pancing tersangkut pada bongkahan batu karang.
+
 Itu adalah pertanda bahwa seekor gurita telah meluncur dari persembunyiannya dan mengunci patung kepiting dengan seluruh lengan tentakelnya.
 
 "Bila sedang musimnya, tidak perlu menunggu lama. Umpan langsung memberat dan siap diangkat. Dalam sehari biasa dapat 23 ekor, kadang bisa lebih tergantung cuaca dan kondisi angin," ujar salah seorang pemancing gurita lokal di Teupah Selatan.
@@ -105,5 +109,8 @@ Jika seorang nelayan berhasil mengumpulkan 15 hingga 20 ekor gurita dengan rata-
 
 ## Kesimpulan: Menjaga Kekayaan Laut Simeulue untuk Masa Depan
 Pengalaman menyaksikan aktivitas para pencari gurita di Labuhan Bakti Teupah Selatan membuktikan betapa kaya dan bahagianya masyarakat pesisir yang hidup berdampingan secara harmonis dengan alam. 
+
 Simeulue bukan hanya tanah yang diberkahi dengan keindahan panorama, melainkan laboratorium kearifan lokal yang mengajarkan kita tentang kemandirian, inovasi, dan kerja keras.
-Melalui metode pancing tradisional yang ramah lingkungan, potensi gurita akan terus menjadi pilar ekonomi yang kokoh bagi pemuda dan warga desa. Menjaga ekosistem "gosong" dan terumbu karang Simeulue adalah tugas bersama, sehingga tetap lestari sampai anak cucu.
+Melalui metode pancing tradisional yang ramah lingkungan, potensi gurita akan terus menjadi pilar ekonomi yang kokoh bagi pemuda dan warga desa.
+
+Menjaga ekosistem "gosong" dan terumbu karang Simeulue adalah tugas bersama, sehingga tetap lestari sampai anak cucu.
