@@ -14,9 +14,10 @@ title = 'teukuanca.com'
   weight = 1
 
 [[menu.main]]
-  name = "Profil"
-  url = "/profil/"
+  name = "Tentang Kami"
+  url = "/pages/tentang-kami/"
   weight = 2
+
 
 # Menu Utama yang Memiliki Sub-Menu
 [[menu.main]]
