@@ -16,15 +16,14 @@ title = 'teukuanca.com'
 
 # --- Konfigurasi Menu Navigasi ---
 [[menu.main]]
-  name = "Home"
-  url = "/"
+  name = "Artikel"
+  url = "/posts/"
   weight = 1
 
 [[menu.main]]
   name = "Tentang Kami"
   url = "/pages/tentang-kami/"
   weight = 2
-
 
 # Menu Utama yang Memiliki Sub-Menu
 [[menu.main]]
@@ -66,5 +65,4 @@ title = 'teukuanca.com'
   name = "Disclaimer"
   url = "/pages/disclaimer/"
   weight = 4
-
   
