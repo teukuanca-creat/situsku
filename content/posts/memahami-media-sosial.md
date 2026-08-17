@@ -2,7 +2,7 @@
 title: 'Memahami Media Sosial: Fungsi, Peluang, dan UU ITE'
 date: 2026-07-17
 draft: false
-featured_image: "/images/Ilustrasi media sosial.webp"
+featured_image: "/images/ilustrasi-media-sosial.webp"
 categories: ["Kreativitas"]
 description: "Ulasan mendalam mengenai manfaat media sosial, peluang saat me, serta aspek hukum UU ITE."
 tags: ["Media Sosial", "Internet"]
