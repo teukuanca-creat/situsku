@@ -25,21 +25,26 @@ Komitmen tersebut terus diperbarui melalui berbagai program, hingga koordinasi s
 ## ​Mengapa Rumput Laut? Mengurai Keunggulan dan Nilai Ekonomi Komoditas
 ​Sebagaimana diketahui, rumput laut spesies Eucheuma cottonii dan Gracilaria, menjadi komoditas unggulan pesisir. Secara ekologi dan ekonomis, rumput laut menawarkan keunggulan komparatif sangat tinggi dibandingkan sektor perikanan lainnya, karena:
 
-### A. ​Siklus Panen yang Singkat.
+**A. ​Siklus Panen yang Singkat.**
+
 Rumput laut hanya membutuhkan waktu sekitar 40-45 hari dari masa pembibitan hingga siap dipanen. Singkatnya, rotasi ini memungkinkan nelayan memiliki arus kas (cash flow) harian dan bulanan yang cepat untuk memenuhi kebutuhan rumah tangga.
 
-### B. ​Modal Operasional dan Teknologi yang Terjangkau
+**B. ​Modal Operasional dan Teknologi yang Terjangkau.**
+
 Budidaya rumput laut ini tidak menuntut peralatan yang bernilai ratusan juta atau konsumsi bahan bakar minyak (BBM) yang besar.
 
 Warga pedesaan sudah dapat memulai unit usahanya secara mandiri. Dengan memanfaatkan tali ris, pelampung botol bekas, pancang bambu/kayu, serta perahu kayu kecil (ketinting).
 
-### ​C. Inklusivitas Tenaga Kerja di Desa
+**​C. Inklusivitas Tenaga Kerja di Desa.**
+
 Dapat menyerap tenaga kerja lintas generasi. Karena sanggup dikerjakan oleh remaja, wanita, hingga kalangan lansia di teras-teras rumah dalam proses penalian atau pengikatan bibit pada tali ris. Sehingga menjadikan ekonomi desa bergerak secara inklusif.
 
-### ​D. Manfaat Ekologis & Lingkungan (Restorasi Laut)
+**D. Manfaat Ekologis & Lingkungan (Restorasi Laut).**
+
 Tanaman ini berperan sebagai pemicu kesuburan perairan, penyedia oksigen, serta penyaring alami yang dapat memperbaiki kualitas air laut di sekitar lokasi budidaya. Karena, rumput laut yang sebagai organisme autotrof, dapat menyerap karbon dioksida (CO_2) serta nitrogen yang terlarut dari dalam air secara alami. 
 ​
-### E. Pasar Global yang Sangat Luas
+**E. Pasar Global yang Sangat Luas.**
+
 Hidrokoloid yang dihasilkan (karagenan dan agar-agar), dibutuhkan oleh industri pembekuan makanan, farmasi, kosmetik, tekstil, hingga pembuatan kemasan ramah lingkungan (biodegradable packaging). Sehingga Rumput laut kering menjadi bahan baku vital bagi industri ekstraktif skala dunia
 
 ## ​Prospek Keberhasilan dan Tantangan Nyata di Lapangan
@@ -49,31 +54,39 @@ Karakteristik air laut yang jernih dengan tingkat salinitas yang stabil merupaka
 
 Tentunya jalan menuju keberhasilan industri rumput laut yang berkelanjutan tidak pernah lepas dari hambatan teknis dan ekologis di lapangan, dan ini sudah menjadi resiko yang harus di antisipasi, misalnya:
 
-### ​A. Serangan Hama dan Penyakit (Ice-Ice)
+**A. Serangan Hama dan Penyakit (Ice-Ice)**
+
 Ice-ice umumnya terpicu oleh fluktuasi suhu air laut yang ekstrem, perubahan salinitas akibat curah hujan tinggi, serta stres lingkungan pada tanaman.
+
 Fenomena penyakit ice-ice​ merupakan tantangan terbesar yang kerap menghinggapi nelayan. Penyakit ini ditandai dengan memutihnya batang (thallus) rumput laut yang berakibat pada kropos dan patahnya tanaman sebelum mencapai bobot maksimal.
 
-### ​B. Akumulasi Epifit dan Sisa Sedimen
+**​B. Akumulasi Epifit dan Sisa Sedimen**
+
 ​Tanaman liar penempel (epifit) dan endapan lumpur halus sering kali menutupi permukaan thallus rumput laut. Sehingga menutupi akses sinar matahari yang dibutuhkan guna proses fotosintesis, akibatnya pertumbuhan tanaman menjadi kerdil dan mudah membusuk.
 
-### ​C. Predasi Alami
+**C. Predasi Alami**
+
 ​Keberadaan penyu, ikan baronang (Siganus sp), serta bulu babi di sekitar perairan dangkal sering kali menjadi predator yang memakan bibit muda rumput laut di tali bentangan.
 
-### ​D. Tantangan Paschapanen dan Mutu
+**D. Tantangan Paschapanen dan Mutu**
+
 ​Proses pengeringan dengan cara penjemuran tradisional di atas terpal, tentu saja sangat bergantung pada cuaca. Dengan demikian, sering menyebabkan kadar air dan kadar kotoran (foreign matter) tidak kering secara konsisten. Akibatnya, mutu menurun dan posisi tawaran harga menjadi lemah di hadapan penampung atau pedagang perantara.
 
 ## ​Pembelajaran dari Daerah Sukses Budidaya Rumput Laut di Indonesia
-​Simeulue tidak berjalan sendirian dalam memetakan potensi baharinya. Indonesia memiliki beberapa daerah pelopor yang telah berhasil menjadikan rumput laut sebagai tulang punggung ekonomi daerah dan komoditas ekspor bernilai triliunan rupiah, berikut ulasannya.
+​Simeulue tidak berjalan sendirian dalam memetakan potensi baharinya. Indonesia memiliki beberapa daerah pelopor yang telah berhasil menjadikan rumput laut sebagai tulang punggung ekonomi daerah dan komoditas ekspor bernilai triliunan rupiah, berikut informasi nya.
 
-### ​A. Kabupaten Nunukan Provinsi Kalimantan Utara
+**​A. Kabupaten Nunukan Provinsi Kalimantan Utara**
+
 ​Nunukan, khususnya wilayah Mamolo di Kecamatan Nunukan Selatan, merupakan salah satu sentra industri rumput laut terbesar di Indonesia.
 
 Dengan produksi mencapai ribuan ton rumput laut kering per bulan, Nunukan berhasil menggerakkan ekonomi ribuan kepala keluarga, menyerap ribuan tenaga kerja pengikat bibit, serta meningkatkan Pendapatan Asli Daerah (PAD) secara signifikan melalui aktivitas retribusi logistik pelabuhan dan perdagangan antar-pulau.
 
-### ​B. Nusa Penida dan Buleleng, Bali
+**B. Nusa Penida dan Buleleng, Bali**
+
 ​Wilayah Bali berhasil memadukan budidaya rumput laut dengan penataan kawasan pesisir berbasis kearifan lokal. Nelayan di Bali berhasil menerapkan zonasi perairan yang harmonis antara sektor pariwisata bahari dan kawasan budidaya rumput laut, sekaligus menghasilkan produk rumput laut dengan standar mutu ekspor yang diserap oleh pasar Jepang dan Eropa.
 
-### ​C. Kabupaten Wakatobi, Sulawesi Tenggara
+**​C. Kabupaten Wakatobi, Sulawesi Tenggara**
+
 ​Melalui pendekatan pengelolaan kawasan konservasi laut yang ketat, Wakatobi membuktikan bahwa budidaya rumput laut metode ramah lingkungan dapat berjalan seiring dengan perlindungan terumbu karang. Keberhasilan ini didukung oleh penguatan kelembagaan koperasi nelayan lokal yang mampu memotong rantai pasok panjang, sehingga harga di tingkat petani tetap stabil dan menguntungkan.
 
 ## ​Peluang Strategis: Mengintegrasikan Potensi Laut demi PAD dan Kesejahteraan
