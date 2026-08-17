@@ -6,12 +6,16 @@
         <span>Dipublikasikan: {{ .Date.Format "02 January 2006" }}</span>
     </div>
 
-    <!-- Gambar Utama di Dalam Artikel (Sudah Diperbaiki dengan relURL) -->
+    <!-- Gambar Utama (Bisa untuk Link Eksternal Unsplash & Gambar Lokal) -->
     {{ with .Params.featured_image }}
-    <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full h-auto rounded-lg mb-6 object-cover max-h-96">
+      {{ if hasPrefix . "http" }}
+        <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-auto rounded-lg mb-6 object-cover max-h-96">
+      {{ else }}
+        <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full h-auto rounded-lg mb-6 object-cover max-h-96">
+      {{ end }}
     {{ end }}
 
-    <!-- Isi Artikel Lengkap dengan Formating H2, H3, H4, H5 -->
+    <!-- Isi Artikel Lengkap -->
     <div class="prose max-w-none text-gray-800 leading-relaxed space-y-4 mb-8
         [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:text-gray-900 [&_h2]:mt-8 [&_h2]:mb-4 [&_h2]:border-b [&_h2]:pb-2
         [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:text-gray-800 [&_h3]:mt-6 [&_h3]:mb-3
@@ -29,28 +33,21 @@
 
     <hr class="my-8 border-gray-200">
 
-    <!-- BAGIAN TOMBOL BAGIKAN MEDIA SOSIAL -->
+    <!-- Tombol Bagikan -->
     <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 bg-gray-50 p-4 rounded-lg border">
         <span class="font-semibold text-gray-700 text-sm">Bagikan artikel ini:</span>
         
         <div class="flex flex-wrap gap-2 text-xs">
-            <!-- Facebook -->
             <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener" class="bg-blue-600 text-white px-3 py-1.5 rounded hover:bg-blue-700 font-medium">
                 Facebook
             </a>
-
-            <!-- Twitter / X -->
             <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" target="_blank" rel="noopener" class="bg-black text-white px-3 py-1.5 rounded hover:bg-gray-800 font-medium">
                 Twitter / X
             </a>
-
-            <!-- WhatsApp -->
             <a href="https://api.whatsapp.com/send?text={{ .Title }}%20{{ .Permalink }}" target="_blank" rel="noopener" class="bg-green-600 text-white px-3 py-1.5 rounded hover:bg-green-700 font-medium">
                 WhatsApp
             </a>
-
-            <!-- TikTok / Salin Tautan -->
-            <button onclick="navigator.clipboard.writeText('{{ .Permalink }}'); alert('Tautan artikel telah disalin! Anda dapat membagikannya ke TikTok.');" class="bg-pink-600 text-white px-3 py-1.5 rounded hover:bg-pink-700 font-medium cursor-pointer">
+            <button onclick="navigator.clipboard.writeText('{{ .Permalink }}'); alert('Tautan artikel telah disalin!');" class="bg-pink-600 text-white px-3 py-1.5 rounded hover:bg-pink-700 font-medium cursor-pointer">
                 TikTok / Salin Link
             </button>
         </div>
