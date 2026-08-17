@@ -105,22 +105,38 @@
         {{ block "main" . }}{{ end }}
     </main>
 
-    <!-- FOOTER TUNGGAL: MENU DI ATAS, HAK CIPTA DI PALING BAWAH -->
+    <!    <!-- FOOTER TUNGGAL: MEDSOS -> MENU -> HAK CIPTA -->
     <footer class="bg-gray-800 text-white py-6 mt-12">
-        <div class="container mx-auto px-6 flex flex-col items-center gap-3 text-sm">
+        <div class="container mx-auto px-6 flex flex-col items-center gap-4 text-sm">
             
-            <!-- 1. BARIS ATAS: Menu Footer -->
+            <!-- 1. BARIS PALING ATAS: Media Sosial -->
+            <div class="flex gap-4 text-lg">
+                {{ with .Site.Params.facebook }}
+                <a href="{{ . }}" target="_blank" rel="noopener" class="hover:text-blue-400" title="Facebook">Facebook</a>
+                {{ end }}
+                {{ with .Site.Params.instagram }}
+                <a href="{{ . }}" target="_blank" rel="noopener" class="hover:text-pink-400" title="Instagram">Instagram</a>
+                {{ end }}
+                {{ with .Site.Params.twitter }}
+                <a href="{{ . }}" target="_blank" rel="noopener" class="hover:text-sky-400" title="X (Twitter)">Twitter</a>
+                {{ end }}
+                {{ with .Site.Params.youtube }}
+                <a href="{{ . }}" target="_blank" rel="noopener" class="hover:text-red-500" title="YouTube">YouTube</a>
+                {{ end }}
+            </div>
+
+            <!-- 2. BARIS TENGAH: Menu Footer -->
             <ul class="flex flex-wrap justify-center gap-6">
                 {{ range .Site.Menus.footer }}
                 <li>
-                    <a href="{{ .URL }}" target="_blank" rel="noopener" class="hover:text-gray-400 underline">
+                    <a href="{{ .URL }}" target="_blank" rel="noopener" class="hover:text-gray-400 underline text-xs md:text-sm">
                         {{ .Name }}
                     </a>
                 </li>
                 {{ end }}
             </ul>
 
-            <!-- 2. BARIS PALING BAWAH: Hak Cipta -->
+            <!-- 3. BARIS PALING BAWAH: Hak Cipta -->
             <p class="text-xs text-gray-400 text-center border-t border-gray-700 pt-3 w-full">
                 &copy; {{ now.Format "2006" }} {{ .Site.Title }}. All rights reserved.
             </p>
