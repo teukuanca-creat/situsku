@@ -19,9 +19,10 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
 
 # --- Konfigurasi Menu Navigasi Utama ---
 [[menu.main]]
-  name = "Artikel"
-  url = "/posts/"
+  name = "Home"
+  url = "/"
   weight = 1
+
 
 [[menu.main]]
   name = "Tentang Kami"
