@@ -18,26 +18,26 @@ draft: false
 ### ​Definisi
 ​Untuk tujuan Kebijakan Privasi ini:
 
-1. **​Akun** berarti akun unik yang dibuat untuk Anda agar dapat mengakses Layanan Kami atau bagian dari Layanan Kam
-2. **Afiliasi** berarti suatu entitas yang mengendalikan, dikendalikan oleh, atau berada di bawah pengendalian bersama dengan suatu pihak, di mana "pengendalian" berarti kepemilikan 50% atau lebih dari saham, kepentingan ekuitas, atau efek lainnya yang memiliki hak suara untuk pemilihan direktur atau otoritas pengelola lainnya.
-3. **​Perusahaan** (dirujuk sebagai "Perusahaan", "Kami", atau "Milik Kami" dalam Kebijakan Privasi ini) merujuk pada Teuku Anca.
-4. **​Cookie** adalah berkas kecil yang ditempatkan di komputer, perangkat seluler, atau perangkat lainnya milik Anda oleh situs web, yang berisi rincian riwayat penelusuran Anda di situs web tersebut, di antara banyak kegunaan lainnya
-5. **Negara/Wilayah** merujuk pada: Indonesia.
-6. **​Perangkat** berarti perangkat apa pun yang dapat mengakses Layanan, seperti komputer, telepon seluler, atau tablet digital.
-7. **​Data Pribadi** (atau "Informasi Pribadi") adalah setiap informasi yang berkaitan dengan individu yang teridentifikasi atau dapat diidentifikasi. Kami menggunakan istilah "Data Pribadi" dan "Informasi Pribadi" secara bergantian kecuali jika hukum menggunakan istilah tertentu.
-8. **​Layanan** merujuk pada Situs Web.
-9. **​Penyedia Layanan** berarti setiap orang perseorangan atau badan hukum yang memproses data atas nama Perusahaan. Ini merujuk pada perusahaan pihak ketiga atau individu yang dipekerjakan oleh Perusahaan untuk memfasilitasi Layanan, menyediakan Layanan atas nama Perusahaan, melakukan layanan yang terkait dengan Layanan, atau membantu Perusahaan dalam menganalisis bagaimana Layanan digunakan.
-10. **​Data Penggunaan** merujuk pada data yang dikumpulkan secara otomatis, baik yang dihasilkan oleh penggunaan Layanan atau dari infrastruktur Layanan itu sendiri (misalnya, durasi kunjungan halaman).
-11. **​Pengguna** berarti setiap individu yang mengakses atau menggunakan Layanan.
-12. **​Situs Web** merujuk pada Teuku Anca, yang dapat diakses dari teukuanca.com.
-13. **​Anda** berarti individu yang mengakses atau menggunakan Layanan, atau perusahaan, atau badan hukum lain atas nama mana individu tersebut mengakses atau menggunakan Layanan, sebagaimana berlaku.
+- **​Akun** berarti akun unik yang dibuat untuk Anda agar dapat mengakses Layanan Kami atau bagian dari Layanan Kam
+- **Afiliasi** berarti suatu entitas yang mengendalikan, dikendalikan oleh, atau berada di bawah pengendalian bersama dengan suatu pihak, di mana "pengendalian" berarti kepemilikan 50% atau lebih dari saham, kepentingan ekuitas, atau efek lainnya yang memiliki hak suara untuk pemilihan direktur atau otoritas pengelola lainnya.
+- **​Perusahaan** (dirujuk sebagai "Perusahaan", "Kami", atau "Milik Kami" dalam Kebijakan Privasi ini) merujuk pada Teuku Anca.
+- **​Cookie** adalah berkas kecil yang ditempatkan di komputer, perangkat seluler, atau perangkat lainnya milik Anda oleh situs web, yang berisi rincian riwayat penelusuran Anda di situs web tersebut, di antara banyak kegunaan lainnya
+- **Negara/Wilayah** merujuk pada: Indonesia.
+- **​Perangkat** berarti perangkat apa pun yang dapat mengakses Layanan, seperti komputer, telepon seluler, atau tablet digital.
+- **​Data Pribadi** (atau "Informasi Pribadi") adalah setiap informasi yang berkaitan dengan individu yang teridentifikasi atau dapat diidentifikasi. Kami menggunakan istilah "Data Pribadi" dan "Informasi Pribadi" secara bergantian kecuali jika hukum menggunakan istilah tertentu.
+- **​Layanan** merujuk pada Situs Web.
+- **​Penyedia Layanan** berarti setiap orang perseorangan atau badan hukum yang memproses data atas nama Perusahaan. Ini merujuk pada perusahaan pihak ketiga atau individu yang dipekerjakan oleh Perusahaan untuk memfasilitasi Layanan, menyediakan Layanan atas nama Perusahaan, melakukan layanan yang terkait dengan Layanan, atau membantu Perusahaan dalam menganalisis bagaimana Layanan digunakan.
+- **​Data Penggunaan** merujuk pada data yang dikumpulkan secara otomatis, baik yang dihasilkan oleh penggunaan Layanan atau dari infrastruktur Layanan itu sendiri (misalnya, durasi kunjungan halaman).
+- **​Pengguna** berarti setiap individu yang mengakses atau menggunakan Layanan.
+- **​Situs Web** merujuk pada Teuku Anca, yang dapat diakses dari teukuanca.com.
+- **​Anda** berarti individu yang mengakses atau menggunakan Layanan, atau perusahaan, atau badan hukum lain atas nama mana individu tersebut mengakses atau menggunakan Layanan, sebagaimana berlaku.
 
 ## ​Pengumpulan dan Penggunaan Data Pribadi Anda
 ### ​Jenis Data yang Dikumpulkan
 #### ​Data Pribadi
 ​Saat menggunakan Layanan Kami, Kami mungkin meminta Anda untuk memberikan informasi pengenal pribadi tertentu yang dapat digunakan untuk menghubungi atau mengidentifikasi Anda. Informasi pengenal pribadi dapat mencakup, namun tidak terbatas pada:
 
-• Nama depan dan nama belakang
+- **Nama depan dan nama belakang**
 
 #### ​Data Penggunaan
 ​Data Penggunaan dikumpulkan secara otomatis saat menggunakan Layanan.
@@ -50,9 +50,8 @@ draft: false
 #### ​Teknologi Pelacakan dan Cookie
 ​Kami menggunakan teknologi pelacakan (seperti cookie) untuk melacak aktivitas dan meningkatkan Layanan Kami. Teknologi yang Kami gunakan dapat mencakup:
 
-1. **Cookie atau Cookie Peramban.** Cookie adalah berkas kecil yang ditempatkan pada Perangkat Anda. Anda dapat menginstruksikan peramban Anda untuk menolak semua Cookie atau untuk memberi tahu saat Cookie dikirimkan. Namun, jika Anda tidak menerima Cookie, Anda mungkin tidak dapat menggunakan beberapa bagian dari Layanan Kami.
-
-2. **​Suar Web (Web Beacons).** Bagian tertentu dari Layanan Kami dapat berisi berkas elektronik kecil yang dikenal sebagai web beacon (juga disebut sebagai clear gif, pixel tag, dan single-pixel gif) yang memungkinkan Perusahaan, misalnya, untuk menghitung pengguna yang telah mengunjungi halaman tersebut dan untuk statistik situs web terkait lainnya (misalnya, merekam popularitas bagian tertentu dan memverifikasi integritas sistem dan server).
+- **Cookie atau Cookie Peramban.** Cookie adalah berkas kecil yang ditempatkan pada Perangkat Anda. Anda dapat menginstruksikan peramban Anda untuk menolak semua Cookie atau untuk memberi tahu saat Cookie dikirimkan. Namun, jika Anda tidak menerima Cookie, Anda mungkin tidak dapat menggunakan beberapa bagian dari Layanan Kami.
+- **​Suar Web (Web Beacons).** Bagian tertentu dari Layanan Kami dapat berisi berkas elektronik kecil yang dikenal sebagai web beacon (juga disebut sebagai clear gif, pixel tag, dan single-pixel gif) yang memungkinkan Perusahaan, misalnya, untuk menghitung pengguna yang telah mengunjungi halaman tersebut dan untuk statistik situs web terkait lainnya (misalnya, merekam popularitas bagian tertentu dan memverifikasi integritas sistem dan server).
 
 ​Cookie dapat berupa Cookie "Persisten" atau "Sesi". Cookie Persisten tetap berada di komputer pribadi atau perangkat seluler Anda saat Anda luring (offline), sedangkan Cookie Sesi dihapus segera setelah Anda menutup peramban web Anda.
 
@@ -76,23 +75,21 @@ draft: false
 ​
 ## Penggunaan Data Pribadi Anda
 ​Kami dapat menggunakan Data Pribadi untuk tujuan berikut:
-
-1. **Untuk menyediakan dan memelihara Layanan Kami,** termasuk untuk memantau penggunaan Layanan Kami.
-2. **Untuk mengelola Akun Anda:** untuk mengelola pendaftaran Anda sebagai pengguna Layanan. Data Pribadi yang Anda berikan dapat memberi Anda akses ke berbagai fungsionalitas Layanan yang tersedia bagi Anda sebagai pengguna terdafta
-3. **Untuk pelaksanaan kontrak:** pengembangan, kepatuhan, dan pelaksanaan kontrak pembelian untuk produk, barang, atau layanan yang telah Anda beli atau kontrak lainnya dengan Kami melalui Layanan.
-4. **​Untuk menghubungi Anda:** Untuk menghubungi Anda melalui email, panggilan telepon, SMS, atau bentuk komunikasi elektronik setara lainnya, seperti pemberitahuan push aplikasi seluler mengenai pembaruan atau komunikasi informatif terkait fungsionalitas, produk, atau layanan yang dikontrak, termasuk pembaruan keamanan, jika diperlukan atau masuk akal untuk pelaksanaannya.
-5. **Untuk memberi Anda berita, penawaran khusus, dan informasi umum** tentang barang, layanan, dan acara lain yang Kami tawarkan yang serupa dengan yang telah Anda beli atau tanyakan. Kami mengirimkan komunikasi pemasaran tersebut hanya jika diizinkan oleh hukum yang berlaku: jika persetujuan sebelumnya diperlukan, Kami hanya akan mengirimkannya dengan persetujuan Anda; jika tidak, Kami dapat mengirimkannya hingga Anda memilih untuk berhenti (opt-out). Anda dapat memilih untuk berhenti atau menarik persetujuan Anda kapan saja dengan menggunakan tautan berhenti berlangganan di email pemasaran apa pun yang Kami kirimkan atau dengan menghubungi Kami.
-6. **​Untuk mengelola permintaan Anda:** Untuk melayani dan mengelola permintaan Anda kepada Kami.
-7. **​Untuk pengalihan bisnis:** Kami dapat menggunakan Data Pribadi Anda untuk mengevaluasi atau melakukan penggabungan, pelepasan, restrukturisasi, reorganisasi, pembubaran, atau penjualan atau pengalihan lain atas sebagian atau seluruh Aset Kami, baik sebagai usaha yang berjalan atau sebagai bagian dari kebangkrutan, likuidasi, atau proses serupa, di mana Data Pribadi yang dipegang oleh Kami tentang pengguna Layanan Kami termasuk dalam aset yang dialihkan.
-8. **​Untuk tujuan lain:** Kami dapat menggunakan informasi Anda untuk tujuan lain, seperti analisis data, mengidentifikasi tren penggunaan, menentukan efektivitas kampanye promosi Kami, dan mengevaluasi serta meningkatkan Layanan, produk, layanan, pemasaran, dan pengalaman Anda.
+- **Untuk menyediakan dan memelihara Layanan Kami,** termasuk untuk memantau penggunaan Layanan Kami.
+- **Untuk mengelola Akun Anda:** untuk mengelola pendaftaran Anda sebagai pengguna Layanan. Data Pribadi yang Anda berikan dapat memberi Anda akses ke berbagai fungsionalitas Layanan yang tersedia bagi Anda sebagai pengguna terdafta
+- **Untuk pelaksanaan kontrak:** pengembangan, kepatuhan, dan pelaksanaan kontrak pembelian untuk produk, barang, atau layanan yang telah Anda beli atau kontrak lainnya dengan Kami melalui Layanan.
+- **​Untuk menghubungi Anda:** Untuk menghubungi Anda melalui email, panggilan telepon, SMS, atau bentuk komunikasi elektronik setara lainnya, seperti pemberitahuan push aplikasi seluler mengenai pembaruan atau komunikasi informatif terkait fungsionalitas, produk, atau layanan yang dikontrak, termasuk pembaruan keamanan, jika diperlukan atau masuk akal untuk pelaksanaannya.
+- **Untuk memberi Anda berita, penawaran khusus, dan informasi umum** tentang barang, layanan, dan acara lain yang Kami tawarkan yang serupa dengan yang telah Anda beli atau tanyakan. Kami mengirimkan komunikasi pemasaran tersebut hanya jika diizinkan oleh hukum yang berlaku: jika persetujuan sebelumnya diperlukan, Kami hanya akan mengirimkannya dengan persetujuan Anda; jika tidak, Kami dapat mengirimkannya hingga Anda memilih untuk berhenti (opt-out). Anda dapat memilih untuk berhenti atau menarik persetujuan Anda kapan saja dengan menggunakan tautan berhenti berlangganan di email pemasaran apa pun yang Kami kirimkan atau dengan menghubungi Kami.
+- **​Untuk mengelola permintaan Anda:** Untuk melayani dan mengelola permintaan Anda kepada Kami.
+- **​Untuk pengalihan bisnis:** Kami dapat menggunakan Data Pribadi Anda untuk mengevaluasi atau melakukan penggabungan, pelepasan, restrukturisasi, reorganisasi, pembubaran, atau penjualan atau pengalihan lain atas sebagian atau seluruh Aset Kami, baik sebagai usaha yang berjalan atau sebagai bagian dari kebangkrutan, likuidasi, atau proses serupa, di mana Data Pribadi yang dipegang oleh Kami tentang pengguna Layanan Kami termasuk dalam aset yang dialihkan.
+- **​Untuk tujuan lain:** Kami dapat menggunakan informasi Anda untuk tujuan lain, seperti analisis data, mengidentifikasi tren penggunaan, menentukan efektivitas kampanye promosi Kami, dan mengevaluasi serta meningkatkan Layanan, produk, layanan, pemasaran, dan pengalaman Anda.
 ​
 Kami dapat membagikan Data Pribadi Anda dalam situasi berikut:
-
-1. **Dengan Penyedia Layanan:** Kami dapat membagikan Data Pribadi Anda dengan Penyedia Layanan untuk memantau dan menganalisis penggunaan Layanan Kami, serta untuk menghubungi Anda.
-2. **Untuk pengalihan bisnis:** Kami dapat membagikan atau mengalihkan Data Pribadi Anda sehubungan dengan, atau selama negosiasi, penggabungan, penjualan aset Perusahaan, pembiayaan, atau akuisisi seluruh atau sebagian dari bisnis Kami ke perusahaan lain.
-3. **Dengan Afiliasi:** Kami dapat membagikan Data Pribadi Anda dengan afiliasi Kami, dalam hal mana Kami akan mensyaratkan afiliasi tersebut untuk menghormati Kebijakan Privasi ini. Afiliasi mencakup perusahaan induk Kami dan anak perusahaan lainnya, mitra usaha patungan, atau perusahaan lain yang Kami kendalikan atau yang berada di bawah pengendalian bersama dengan Kami.
-4. **Dengan pengguna lain:** Jika Layanan Kami menawarkan area publik, saat Anda membagikan Data Pribadi atau berinteraksi di area publik dengan pengguna lain, informasi tersebut dapat dilihat oleh semua pengguna dan dapat didistribusikan secara publik di luar Layanan.
-5. **Dengan persetujuan Anda:** Kami dapat mengungkapkan Data Pribadi Anda untuk tujuan lain apa pun dengan persetujuan Anda.
+- **Dengan Penyedia Layanan:** Kami dapat membagikan Data Pribadi Anda dengan Penyedia Layanan untuk memantau dan menganalisis penggunaan Layanan Kami, serta untuk menghubungi Anda.
+- **Untuk pengalihan bisnis:** Kami dapat membagikan atau mengalihkan Data Pribadi Anda sehubungan dengan, atau selama negosiasi, penggabungan, penjualan aset Perusahaan, pembiayaan, atau akuisisi seluruh atau sebagian dari bisnis Kami ke perusahaan lain.
+- **Dengan Afiliasi:** Kami dapat membagikan Data Pribadi Anda dengan afiliasi Kami, dalam hal mana Kami akan mensyaratkan afiliasi tersebut untuk menghormati Kebijakan Privasi ini. Afiliasi mencakup perusahaan induk Kami dan anak perusahaan lainnya, mitra usaha patungan, atau perusahaan lain yang Kami kendalikan atau yang berada di bawah pengendalian bersama dengan Kami.
+- **Dengan pengguna lain:** Jika Layanan Kami menawarkan area publik, saat Anda membagikan Data Pribadi atau berinteraksi di area publik dengan pengguna lain, informasi tersebut dapat dilihat oleh semua pengguna dan dapat didistribusikan secara publik di luar Layanan.
+- **Dengan persetujuan Anda:** Kami dapat mengungkapkan Data Pribadi Anda untuk tujuan lain apa pun dengan persetujuan Anda.
 
 ## ​Penyimpanan Data Pribadi Anda
 ​Kami akan menyimpan Data Pribadi Anda hanya selama diperlukan untuk tujuan yang ditetapkan dalam Kebijakan Privasi ini. Kami akan menyimpan dan menggunakan Data Pribadi Anda sejauh yang diperlukan untuk mematuhi kewajiban hukum Kami (misalnya, jika Kami diwajibkan untuk menyimpan data Anda untuk mematuhi hukum yang berlaku), menyelesaikan perselisihan, dan menegakkan perjanjian serta kebijakan hukum Kami.
@@ -117,7 +114,6 @@ Kami dapat membagikan Data Pribadi Anda dalam situasi berikut:
 ​Anda dapat meminta informasi tentang berapa lama Kami akan menyimpan Data Pribadi Anda dengan menghubungi Kami.
 
 ​Ketika periode penyimpanan berakhir, Kami menghapus atau menganonimkan Data Pribadi secara aman sesuai dengan prosedur berikut:
-
 - **​Penghapusan:** Data Pribadi dihapus dari sistem Kami dan tidak lagi diproses secara aktif.
 - **​Penyimpanan cadangan:** Salinan sisa dapat tetap berada dalam cadangan terenkripsi untuk jangka waktu terbatas yang konsisten dengan jadwal penyimpanan cadangan Kami dan tidak dipulihkan kecuali jika diperlukan untuk keamanan, pemulihan bencana, atau kepatuhan hukum.
 - **Anonimisasi:** Dalam beberapa kasus, Kami mengubah Data Pribadi menjadi data statistik anonim yang tidak dapat dikaitkan kembali kepada Anda. Data yang dianonimkan ini dapat disimpan tanpa batas waktu untuk penelitian dan analitik.
@@ -145,12 +141,11 @@ Kami dapat membagikan Data Pribadi Anda dalam situasi berikut:
 
 ### ​Persyaratan Hukum Lainnya
 Kami dapat mengungkapkan Data Pribadi Anda dengan iktikad baik bahwa tindakan tersebut diperlukan untuk:
-
-1. ​Mematuhi kewajiban hukum
-2. Melindungi dan membela hak atau properti Perusahaan
-3. Mencegah atau menyelidiki kemungkinan pelanggaran sehubungan dengan Layanan
-4. Melindungi keselamatan pribadi Pengguna Layanan atau publik
-5. ​Melindungi terhadap tanggung jawab hukum
+- **​Mematuhi kewajiban hukum**
+- **Melindungi dan membela hak atau properti Perusahaan**
+- **Mencegah atau menyelidiki kemungkinan pelanggaran sehubungan dengan Layanan**
+- **Melindungi keselamatan pribadi Pengguna Layanan atau publik**
+- **Melindungi terhadap tanggung jawab hukum**
 
 ## ​Keamanan Data Pribadi Anda
 ​Keamanan Data Pribadi Anda penting bagi Kami, namun ingatlah bahwa tidak ada metode transmisi melalui Internet, atau metode penyimpanan elektronik yang 100% aman. Meskipun Kami berusaha untuk menggunakan cara yang dapat diterima secara komersial untuk melindungi Data Pribadi Anda, Kami tidak dapat menjamin keamanannya secara mutlak.
