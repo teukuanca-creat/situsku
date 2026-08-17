@@ -4,6 +4,7 @@ date: 2026-07-18
 draft: false
 featured_image: "/situsku/images/ilustrasi-rumput-laut-simeulue.webp"
 categories: ["Cerita Menarik"]
+description: "Potensi rumput laut Simeulue dari kenangan Labuhan Bajau hingga peluang ekonomi daerah. Simak analisis keunggulan dan tantangannya."
 tags: ["Rumput Laut", "Simeulue"]
 ---
 ## Flashback 
