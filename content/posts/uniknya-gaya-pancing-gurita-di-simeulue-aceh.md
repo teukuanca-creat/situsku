@@ -4,6 +4,7 @@ date: 2026-07-19
 draft: false
 featured_image: "/situsku/images/ilustrasi-umpan-sendok.webp"
 categories: ["Cerita Menarik"]
+description: "Menelusuri keunikan warga Teupah Selatan Simeulue memancing gurita menggunakan racikan umpan sendok tradisional demi menopang kehidupan ekonomi."
 tags: ["memancing", "gurita"]
 ---
 Ketika saya menyusuri jalur pesisir menuju ke Desa Labuhan Bakti Kecamatan Teupah Selatan, Kabupaten Simeulue, mata ini kerap disuguhkan oleh pemandangan yang memikat.
