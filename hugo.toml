@@ -2,9 +2,13 @@ baseURL = 'https://teukuanca-creat.github.io/situsku/'
 languageCode = 'id-id'
 title = 'teukuanca.com'
 
+# --- Pengaturan Ekstra (Mematikan Auto-Section Grid) ---
+ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
+
 [params]
   description = "Situs Web Resmi teukuanca.com"
   author = "Admin"
+  # Menentukan hanya folder 'posts' yang dihitung sebagai konten utama
   mainSections = ["posts"]
 
   # --- Tautan Media Sosial ---
@@ -13,8 +17,7 @@ title = 'teukuanca.com'
   instagram = "https://instagram.com/usernameanda"
   youtube = "https://youtube.com/@usernameanda"
 
-
-# --- Konfigurasi Menu Navigasi ---
+# --- Konfigurasi Menu Navigasi Utama ---
 [[menu.main]]
   name = "Artikel"
   url = "/posts/"
@@ -25,14 +28,13 @@ title = 'teukuanca.com'
   url = "/pages/tentang-kami/"
   weight = 2
 
-# Menu Utama yang Memiliki Sub-Menu
+# Menu Utama dengan Sub-Menu
 [[menu.main]]
   name = "Layanan"
   url = "#"
   identifier = "layanan"
   weight = 3
 
-# Sub-Menu (Induknya 'layanan')
 [[menu.main]]
   name = "Desain Web"
   url = "/layanan/desain-web/"
@@ -65,4 +67,3 @@ title = 'teukuanca.com'
   name = "Disclaimer"
   url = "/pages/disclaimer/"
   weight = 4
-  
