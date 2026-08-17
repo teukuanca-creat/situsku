@@ -1,8 +1,10 @@
 ---
 title: "Memahami Media Sosial: Fungsi, Peluang, dan UU ITE"
-date: 2026-08-16
+date: 2026-07-17
 draft: false
+categories: ["Kreativitas"]
 description: "Ulasan mendalam mengenai manfaat media sosial, peluang saat ini, serta aspek hukum UU ITE."
+tags: ["Media Sosial", "Internet"]
 ---
 
 
