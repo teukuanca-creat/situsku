@@ -1,7 +1,7 @@
 ---
 title: 'Rahasia Bumbu Mie Aceh Otentik & Teknik Warkop Sinabang'
 permalink: /2026/08/rahasia-bumbu-mie-aceh-otentik-teknik.html
-date: 2026-07-20
+date: 2026-08-02
 draft: false
 featured_image: "/situsku/images/ilustrasi-mie-aceh.jpg"
 categories: ["Cerita Menarik"]
