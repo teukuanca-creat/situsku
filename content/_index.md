@@ -1,5 +1,6 @@
 ---
-title: "Halaman Utama"
+title: "Beranda"
 draft: false
 ---
-Selamat datang di situsku.
+
+Selamat datang di situs teukuanca.com.
