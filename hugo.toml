@@ -49,4 +49,9 @@ title = 'teukuanca.com'
   name = "Kebijakan Privasi"
   url = "/pages/kebijakan-privasi/"
   weight = 1
+
+[[menu.footer]]
+  name = "Disclaimer"
+  url = "/pages/disclaimer/"
+  weight = 2
   
