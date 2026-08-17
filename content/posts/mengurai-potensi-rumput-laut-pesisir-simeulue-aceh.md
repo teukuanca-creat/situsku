@@ -4,7 +4,7 @@ date: 2026-07-18
 draft: false
 featured_image: "/situsku/images/ilustrasi-rumput-laut-simeulue.webp"
 categories: ["Cerita Menarik"]
-tags: ["Media Sosial", "Internet"]
+tags: ["Rumput Laut", "Simeulue"]
 ---
 ## Flashback 
 Sesekali ingatan saya menuju ke era 90an, ketika Pulau Simeulue masih berada dalam naungan Administrasi Kabupaten Aceh Barat. Momen yang begitu berkesan adalah ketika kami berenang ke laut menghampiri deretan rakit bambu. Yakni keramba kayu yang mengapung anggun di permukaan air, dengan tali berpelampung yang berjejer rapi seakan menghiasi cakrawala perairan.
