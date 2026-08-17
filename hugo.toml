@@ -3,10 +3,11 @@ languageCode = 'id-id'
 title = 'teukuanca.com'
 
 [params]
-description = "Situs Web Resmi teukuanca.com"
-author = "Admin"
+  description = "Situs Web Resmi teukuanca.com"
+  author = "Admin"
+  mainSections = ["posts"]
 
-# --- Konfigurasi Menu ---
+# --- Konfigurasi Menu Navigasi ---
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -38,12 +39,7 @@ author = "Admin"
   weight = 2
 
 [[menu.main]]
-  name = "Kontak"
-  url = "/kontak/"
-  weight = 4
-  
-[[menus.main]]
   name = "Hubungi Kami"
   url = "/pages/hubungi-kami/"
-  weight = 99
+  weight = 4
   
