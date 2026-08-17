@@ -1,3 +1,9 @@
+---
+title: "Tentang Kami"
+date: 2026-08-01
+draft: false
+---
+
 ## Selamat Datang di teukuanca.com
 Selamat datang di teukuanca.com, sebuah platform media digital independen yang menyajikan beragam informasi terpercaya, artikel informatif, serta ulasan mendalam mengenai administrasi publik, dinamika daerah, budaya lokal, hingga dokumentasi perjalanan dan ragam topik menarik lainnya.
 
