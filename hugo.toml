@@ -39,19 +39,25 @@ title = 'teukuanca.com'
   parent = "layanan"
   weight = 2
 
-[[menu.main]]
+# --- Menu Navigasi Footer ---
+[[menu.footer]]
+  name = "Tentang Kami"
+  url = "/pages/tentang-kami/"
+  weight = 1
+
+[[menu.footer]]
   name = "Hubungi Kami"
   url = "/pages/hubungi-kami/"
-  weight = 4
-  
-# --- Menu Navigasi Footer ---
+  weight = 2
+
 [[menu.footer]]
   name = "Kebijakan Privasi"
   url = "/pages/kebijakan-privasi/"
-  weight = 1
+  weight = 3
 
 [[menu.footer]]
   name = "Disclaimer"
   url = "/pages/disclaimer/"
-  weight = 2
+  weight = 4
+
   
