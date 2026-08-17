@@ -1,7 +1,6 @@
 ---
-title: "Beranda"
+title: "Semua Artikel"
 draft: false
 ---
 
-Selamat datang di situs teukuanca.com.
-
+Daftar seluruh artikel terbaru yang dipublikasikan.
