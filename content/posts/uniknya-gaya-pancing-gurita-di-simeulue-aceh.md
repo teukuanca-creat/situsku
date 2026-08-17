@@ -1,6 +1,7 @@
 ---
 title: 'Menilik Uniknya Pancing Gurita Umpan Sendok di Simeulue'
-date: 2026-07-19
+permalink:https: /2026/08/menilik-uniknya-pancing-gurita-umpan.html
+date: 2026-08-01
 draft: false
 featured_image: "/situsku/images/ilustrasi-umpan-sendok.webp"
 categories: ["Cerita Menarik"]
