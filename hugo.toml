@@ -44,5 +44,6 @@ author = "Admin"
   
 [[menus.main]]
   name = "Hubungi Kami"
-  url = "/hubungi-kami/"
+  url = "/pages/hubungi-kami/"
   weight = 99
+  
