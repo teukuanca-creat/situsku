@@ -9,7 +9,6 @@ tags: ["Media Sosial", "Internet"]
 ---
 
 
-
 Sekarang ini, media sosial sudah berevolusi dari sarana berkirim-kirim pesan menjadi platform multifungsi yang membentuk lanskap sosial, ekonomi, dan budaya modern. Apalagi kita bebas memilih ataupun memanfaatkan beragam platform yang ada sesuai dengan kebutuhan baik itu individual maupun profesional.
 
 Bahkan, penggunaannya terintegrasi ke dalam rutinitas sehari-hari. Ada yang mengaksesnya secara intensif setiap jam, pengguna berkala, hingga pengguna sporadis yang hanya membuka platform di saat membutuhkan informasi tertentu saja.
