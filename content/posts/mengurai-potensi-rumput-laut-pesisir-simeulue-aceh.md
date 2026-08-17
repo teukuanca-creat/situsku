@@ -6,13 +6,14 @@ featured_image: "/situsku/images/ilustrasi-rumput-laut-simeulue.webp"
 categories: ["Cerita Menarik"]
 tags: ["Media Sosial", "Internet"]
 ---
-
+## Flashback 
 Sesekali ingatan saya menuju ke era 90an, ketika Pulau Simeulue masih berada dalam naungan Administrasi Kabupaten Aceh Barat. Momen yang begitu berkesan adalah ketika kami berenang ke laut menghampiri deretan rakit bambu. Yakni keramba kayu yang mengapung anggun di permukaan air, dengan tali berpelampung yang berjejer rapi seakan menghiasi cakrawala perairan.
 
 Struktur-struktur terapung ini menjadi pengalaman nyata  bagaimana adaptasi dan kreativitas masyarakat Labuhan Bajau Teupah Selatan dalam melakukan budidaya rumput laut.
 
 Saat itu, informasi tentang siapa saja pemilik keramba-keramba ini belum menjadi fokus pikiran saya, sehingga timbul pemahaman bahwa ini merupakan hasil garapan mandiri warga lokal yang dilaksanakan dengan swadaya dan pengetahuan tradisional mereka.
 
+### Implementasi Hingga Saat Ini 
 Dinamika kehidupan di Labuhan Bajau kala itu terasa begitu hidup dan sarat nilai kebersamaan. Aktivitas harian budidaya rumput laut terlihat merata mulai dari pagi hingga sore hari. Rutinitas ini berupa mengikat bibit komoditas laut pada tali-tali jemuran bawah air, memeriksa kekuatan bentangan jaring dari arus laut, hingga menjemur hasil panen yang melimpah di sepanjang tepi pantai.
 
 Menurut saya, proses ini bukan lagi sekadar pekerjaan mencari nafkah, melainkan sebuah tradisi komunal yang terbiasa dijalani, disaksikan, dan dirasakan bersama, sebagai identitas masyarakat pesisir Simeulue yang tangguh dalam mengelola sektor kelautan dimasa lalu.
