@@ -1,6 +1,6 @@
 ---
 title: "Kebijakan Privasi"
-date: 2026-08-17
+date: 2026-08-01
 draft: false
 ---
 
