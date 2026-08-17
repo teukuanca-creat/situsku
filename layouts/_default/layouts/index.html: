@@ -2,7 +2,8 @@
 <div class="max-w-6xl mx-auto my-6 px-4">
 
   <!-- Ambil semua postingan berita kecuali halaman statis (pages) -->
-  {{ $pages := where .Site.RegularPages "Section" "!=" "pages" }}
+  {{ $pages := where .Site.RegularPages "Type" "posts" }}
+
 
   <!-- 1. HEADLINE / ARTIKEL UTAMA (Paling Baru) -->
   {{ range first 1 $pages }}
