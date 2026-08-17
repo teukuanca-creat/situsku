@@ -12,11 +12,10 @@ Kata-kata yang huruf pertamanya dikapitalisasi memiliki arti yang ditentukan dal
 
 ### Definisi
 Untuk tujuan Penafian ini:
-
-1. **Perusahaan** (dirujuk sebagai "Perusahaan", "Kami", atau "Milik Kami" dalam Penafian ini) merujuk pada Teuku Anca.
-2. **Layanan** merujuk pada Situs Web.
-3. **Anda** berarti individu yang mengakses Layanan, atau perusahaan, atau entitas hukum lain atas nama siapa individu tersebut mengakses atau menggunakan Layanan, sebagaimana berlaku.
-4. **Situs Web** merujuk pada Teuku Anca, yang dapat diakses dari teukuanca.com.
+- **Perusahaan** (dirujuk sebagai "Perusahaan", "Kami", atau "Milik Kami" dalam Penafian ini) merujuk pada Teuku Anca.
+- **Layanan** merujuk pada Situs Web.
+- **Anda** berarti individu yang mengakses Layanan, atau perusahaan, atau entitas hukum lain atas nama siapa individu tersebut mengakses atau menggunakan Layanan, sebagaimana berlaku.
+- **Situs Web** merujuk pada Teuku Anca, yang dapat diakses dari teukuanca.com.
 
 ## Penafian
 Informasi yang terkandung dalam Layanan hanya untuk tujuan informasi umum. kami tidak bertanggung jawab atas kesalahan atau kelalaian dalam konten Layanan.
@@ -53,10 +52,7 @@ Semua informasi dalam Layanan disediakan "apa adanya", tanpa jaminan kelengkapan
 
 ## Hubungi Kami
 Jika Anda memiliki pertanyaan tentang Penafian ini, Anda dapat menghubungi Kami:
-
-**• Melalui email: penata3a@gmail.com**
-
-**• Dengan mengunjungi halaman ini di situs web kami: teukuanca.com**
-
-**• Melalui telepon: 085133950982**
+- **Melalui email: penata3a@gmail.com**
+- **Dengan mengunjungi halaman ini di situs web kami: teukuanca.com**
+- **Melalui telepon: 085133950982**
 
