@@ -44,7 +44,7 @@
       {{- end }}
     {{- end }}
 </head>
-<body class="bg-gray-100 text-gray-800">
+<body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
     <header class="bg-blue-600 text-white shadow-md">
         <nav class="container mx-auto px-6 py-4">
             <div class="flex flex-col md:flex-row justify-between items-center gap-4">
@@ -83,7 +83,7 @@
                         {{ end }}
                     </ul>
 
-                    <!-- Tombol Pencarian Melayang (Aman, hanya terbuka saat diklik) -->
+                    <!-- Tombol Pencarian Melayang -->
                     <details class="relative">
                         <summary class="list-none cursor-pointer p-2 rounded hover:bg-blue-700 flex items-center gap-1 text-sm font-medium select-none">
                             🔍 <span class="hidden sm:inline">Cari</span>
@@ -101,34 +101,31 @@
         </nav>
     </header>
 
-    <main class="container mx-auto px-6 py-8">
+    <main class="container mx-auto px-6 py-8 flex-grow">
         {{ block "main" . }}{{ end }}
     </main>
 
-    <footer class="bg-gray-800 text-white mt-12">
-        <div class="container mx-auto px-6 py-4">
-            <p class="text-center text-sm">&copy; {{ now.Format "2006" }} {{ .Site.Title }}. All rights reserved.</p>
+    <!-- FOOTER TUNGGAL: MENU DI ATAS, HAK CIPTA DI PALING BAWAH -->
+    <footer class="bg-gray-800 text-white py-6 mt-12">
+        <div class="container mx-auto px-6 flex flex-col items-center gap-3 text-sm">
+            
+            <!-- 1. BARIS ATAS: Menu Footer -->
+            <ul class="flex flex-wrap justify-center gap-6">
+                {{ range .Site.Menus.footer }}
+                <li>
+                    <a href="{{ .URL }}" target="_blank" rel="noopener" class="hover:text-gray-400 underline">
+                        {{ .Name }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+
+            <!-- 2. BARIS PALING BAWAH: Hak Cipta -->
+            <p class="text-xs text-gray-400 text-center border-t border-gray-700 pt-3 w-full">
+                &copy; {{ now.Format "2006" }} {{ .Site.Title }}. All rights reserved.
+            </p>
+
         </div>
     </footer>
 </body>
 </html>
-
-<footer class="bg-gray-800 text-white py-6 mt-10">
-  <div class="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
-    
-    
-
-      
-    <!-- Menu Footer (Buka Halaman Baru saat diklik) -->
-    <ul class="flex gap-6">
-      {{ range .Site.Menus.footer }}
-        <li>
-          <a href="{{ .URL }}" target="_blank" rel="noopener" class="hover:text-gray-400 underline">
-            {{ .Name }}
-          </a>
-        </li>
-      {{ end }}
-    </ul>
-
-  </div>
-</footer>
