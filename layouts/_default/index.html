@@ -19,7 +19,7 @@
 </head>
 <body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
 
-    <!-- HEADER NAVIGATION (Support Sub-Menu Dropdown & Pencarian) -->
+    <!-- HEADER NAVIGATION (Sub-Menu Dropdown Fix) -->
     <header class="bg-blue-600 text-white shadow-md w-full">
         <nav class="max-w-[1200px] mx-auto px-4 sm:px-6 py-4 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
             
@@ -31,17 +31,15 @@
             <!-- Area Kanan: Navigasi + Form Pencarian -->
             <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 lg:gap-6 w-full lg:w-auto">
                 
-                <!-- Daftar Menu Navigasi dengan Support Sub-Menu Dropdown (DI SINI LETAKNYA) -->
+                <!-- Daftar Menu Navigasi -->
                 <ul class="flex items-center gap-4 text-sm font-medium overflow-x-auto no-scrollbar whitespace-nowrap pb-1 sm:pb-0 shrink-0">
                     {{ range .Site.Menus.main }}
                         {{ if .HasChildren }}
-                            <!-- Menu Utama yang Memiliki Sub-Menu (Parent) -->
                             <li class="relative group py-2">
-                                <button class="hover:text-blue-200 flex items-center gap-1 focus:outline-none">
+                                <a href="{{ .URL }}" class="hover:text-blue-200 inline-flex items-center gap-1">
                                     {{ .Name }}
                                     <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-                                </button>
-                                <!-- Dropdown List -->
+                                </a>
                                 <ul class="absolute left-0 hidden group-hover:block bg-white text-gray-800 shadow-lg rounded-lg py-2 min-w-[180px] z-50 border mt-1">
                                     {{ range .Children }}
                                     <li>
@@ -52,8 +50,7 @@
                                     {{ end }}
                                 </ul>
                             </li>
-                        {{ else if not .HasParent }}
-                            <!-- Menu Biasa Tanpa Sub-Menu -->
+                        {{ else }}
                             <li>
                                 <a href="{{ .URL }}" class="hover:text-blue-200 block py-2">{{ .Name }}</a>
                             </li>
@@ -90,13 +87,11 @@
             {{ range first 1 $sorted }}
             <section class="bg-white rounded-xl shadow-md overflow-hidden border">
                 <a href="{{ .Permalink }}" class="block group">
-                    <!-- A. BOX JUDUL (DI ATAS GAMBAR) -->
                     <div class="p-5 md:p-6 text-center bg-white border-b">
                         <h1 class="text-2xl sm:text-3xl font-bold text-gray-900 group-hover:text-blue-600 transition-colors">
                             {{ .Title }}
                         </h1>
                     </div>
-                    <!-- B. GAMBAR UNGGULAN (DI BAWAH JUDUL) -->
                     {{ with .Params.featured_image }}
                     <div class="w-full h-[300px] sm:h-[400px] md:h-[480px] overflow-hidden bg-gray-200">
                         <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
