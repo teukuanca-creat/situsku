@@ -43,11 +43,25 @@
         {{- end }}
       {{- end }}
     {{- end }}
+
+    <!-- CSS Tambahan Khusus Optimasi HP -->
+    <style>
+      article img, main img {
+        max-width: 100% !important;
+        height: auto !important;
+        border-radius: 0.375rem;
+      }
+      article table, main table {
+        display: block;
+        overflow-x: auto;
+        width: 100%;
+      }
+    </style>
 </head>
 <body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
-        <header class="bg-blue-600 text-white shadow-md">
-        <nav class="max-w-[1200px] mx-auto px-6 py-4">
-
+    <header class="bg-blue-600 text-white shadow-md">
+        <!-- Header: Max 1200px di PC, padding menyesuaikan di HP (px-4) -->
+        <nav class="max-w-[1200px] mx-auto px-4 sm:px-6 py-4">
             <div class="flex flex-col md:flex-row justify-between items-center gap-4">
                 
                 <!-- Nama Situs -->
@@ -102,17 +116,14 @@
         </nav>
     </header>
 
-    
-   <main class="max-w-[1200px] mx-auto px-6 py-8 flex-grow">
-    {{ block "main" . }}{{ end }}
-   </main>
-    
+    <!-- Konten Utama: Max 1200px di PC, responsif di HP -->
+    <main class="max-w-[1200px] w-full mx-auto px-4 sm:px-6 py-6 md:py-8 flex-grow">
+        {{ block "main" . }}{{ end }}
+    </main>
 
-
-        <!-- FOOTER TUNGGAL: LOGO MEDSOS -> MENU -> HAK CIPTA -->
+    <!-- FOOTER TUNGGAL: LOGO MEDSOS -> MENU -> HAK CIPTA -->
     <footer class="bg-gray-800 text-white py-6 mt-12">
-        <div class="max-w-[1200px] mx-auto px-6 flex flex-col items-center gap-4 text-sm">
-
+        <div class="max-w-[1200px] mx-auto px-4 sm:px-6 flex flex-col items-center gap-4 text-sm">
             
             <!-- 1. BARIS PALING ATAS: Logo Media Sosial -->
             <div class="flex items-center gap-5">
@@ -170,3 +181,4 @@
 
 </body>
 </html>
+
