@@ -5,20 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }} - {{ .Site.Title }}</title>
     
-    <!-- Tambahkan baris script Tailwind CDN di bawah ini -->
+    <!-- CDN Tailwind CSS agar tampilan langsung muncul -->
     <script src="https://cdn.tailwindcss.com"></script>
-
-    {{- $css := resources.Get "css/main.css" | postCSS }}
-    {{- if $css }}
-        <link rel="stylesheet" href="{{ $css.RelPermalink }}">
-    {{- end }}
 
     <style>
       article img, main img { max-width: 100%; height: auto; }
       article table, main table { display: block; overflow-x: auto; width: 100%; }
     </style>
 </head>
-    
 <body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
 
     <!-- HEADER NAVIGATION -->
@@ -83,7 +77,7 @@
         </div>
 
         <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {{ range .Pages }}
+            {{ range .RegularPagesRecursive }}
             <article class="bg-white rounded-xl shadow border overflow-hidden flex flex-col justify-between hover:shadow-lg transition-shadow">
                 <a href="{{ .RelPermalink }}" class="block group">
                     <div class="w-full h-48 bg-gray-200 overflow-hidden">
