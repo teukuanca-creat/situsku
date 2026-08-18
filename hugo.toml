@@ -1,6 +1,7 @@
 baseURL = 'https://teukuanca-creat.github.io/situsku/'
 languageCode = 'id-id'
 title = 'teukuanca.com'
+theme = 'mainroad'
 
 # --- Konfigurasi Publikasi ---
 buildFuture = true
@@ -13,6 +14,7 @@ buildFuture = true
 [params]
   description = "Situs Web Resmi teukuanca.com"
   author = "Admin"
+  subtitle = "Portal Artikel dan Berita"
 
   # --- Tautan Media Sosial ---
   facebook = "https://facebook.com/usernameanda"
@@ -43,26 +45,26 @@ buildFuture = true
 [[menu.main]]
   name = "Direktori Publik"
   url = "#"
-  identifier = "Direktori Publik"
+  identifier = "direktori"
   weight = 4
 
 # Sub-Menu Mengarah Langsung ke Taxonomy Kategori Hugo
 [[menu.main]]
   name = "Cerita Menarik"
   url = "/categories/cerita-menarik/"
-  parent = "Direktori Publik"
+  parent = "direktori"
   weight = 1
 
 [[menu.main]]
   name = "Edukasi"
   url = "/categories/edukasi/"
-  parent = "Direktori Publik"
+  parent = "direktori"
   weight = 2
 
 [[menu.main]]
   name = "Kreativitas"
   url = "/categories/kreativitas/"
-  parent = "Direktori Publik"
+  parent = "direktori"
   weight = 3
 
 # ==============================================================================
