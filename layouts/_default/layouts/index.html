@@ -2,7 +2,8 @@
 <div class="space-y-10">
 
   {{/* Mengambil semua halaman bertipe artikel/post/kreativitas */}}
-  {{ $pages := where .Site.Pages "Kind" "page" }}
+  {{ $pages := (.Site.Pages.ByDate.Reverse) }}
+  
   
   {{ if eq (len $pages) 0 }}
     <div class="text-center py-12 bg-white rounded-lg border">
