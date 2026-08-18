@@ -11,12 +11,15 @@ tags: ["Batu Akik", "Aceh"]
 
 ## Siapa yang tidak kenal dengan Batu Akik?
 Kalau kita menengok kembali ingatan beberapa tahun silam, rasanya sukar dipercaya betapa sebuah fenomena kebudayaan dan ekonomi bernama "demam gemstone" pernah menyapu hampir seluruh penjuru Indonesia.
+
 Kala itu, percakapan di pos ronda, warung kopi pinggir jalan, hingga ruang rapat perkantoran megah di kota-kota besar seolah memiliki muara yang sama, mengagumi bias warna, tingkat kejernihan, hingga kilau alami dari sebongkah batu alam.
 
 Di Serambi Mekkah, Provinsi Aceh, gelombang ini hadir dengan gairah yang begitu luar biasa. Batu akik bukan sekadar perhiasan selingan, melainkan penggerak utama ekonomi kreatif lokal. Gelombang kepopulerannya melintasi samudra hingga bermuara di pulau seberang, Kabupaten Simeulue.
+
 Teringat jelas dalam ingatan bagaimana bahan mentah (raw material) Giok Aceh yang legendaris dikirim dan diperdagangkan sampai ke Simeulue. Kios-kios pengasahan batu mendadak tumbuh di mana-mana. Orang-orang rela berdiri mengantre berjam-jam, menunggu giliran melihat bongkahan cadas yang tadinya kusam bertransformasi menjadi permata nan indah di tangan para pengrajin lokal.
 
 ​Memang, jika dibandingkan dengan masa kejayaannya dulu, keriuhan deru mesin gerinda di pinggir jalan kini telah mereda. Pasar telah menemukan titik keseimbangannya. Namun, bukan berarti pesonanya padam.
+
 Penggunaan batu akik hari ini justru bergeser menjadi lebih eksklusif dan personal. Ia dirawat dengan penuh cinta oleh komunitas penghobi sejati, kolektor kelas atas, serta para pencinta seni kerajinan batu alam.
 
 ## ​Ragam Jenis Batu Akik Khas Aceh yang Sangat Masyhur
@@ -111,4 +114,5 @@ Pengrajin memilih bahan ring seperti perak ukir etnik, titanium minimalis, atau 
 - **​Alasan:** Bidang oval yang luas memberikan ruang maksimal bagi pembaca untuk menikmati keindahan serat lumut atau lukisan alami di dalam batu.
 ## ​Penutup
 ​Kisah perjalanan batu akik di Indonesia dari pegunungan Aceh, menyeberang ke pulau Simeulue, hingga menyebar ke seluruh pelosok Nusantara adalah cermin betapa indahnya kekayaan alam yang tersembunyi di bumi kita.
+
 Meskipun hiruk-pikuk trennya telah berganti, apresiasi terhadap seni pengasahan dan keindahan otentik batu alam tidak akan pernah hilang. Selama kita menjaga kelestarian alam dan mengolahnya dengan penuh rasa hormat, sebongkah batu biasa akan selalu menemukan jalannya untuk memancarkan keindahan abadi.
