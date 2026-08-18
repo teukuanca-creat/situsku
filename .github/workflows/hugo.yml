@@ -31,16 +31,13 @@ jobs:
       - name: Extract Mainroad theme
         run: |
           cd themes
-          if [ -f Mainroad-master.zip ]; then
-            unzip -q Mainroad-master.zip
-            mv Mainroad-master mainroad
-            rm Mainroad-master.zip
-          elif [ -f mainroad.zip ]; then
+          if [ -f mainroad.zip ]; then
             unzip -q mainroad.zip
+            rm -rf mainroad
             mv Mainroad-master mainroad
             rm mainroad.zip
           else
-            echo "No theme ZIP found, checking if mainroad folder exists"
+            echo "mainroad.zip not found"
             ls -la
           fi
           cd ..
