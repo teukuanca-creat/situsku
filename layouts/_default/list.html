@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }} - {{ .Site.Title }}</title>
     
+    <!-- Tambahkan baris script Tailwind CDN di bawah ini -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
     {{- $css := resources.Get "css/main.css" | postCSS }}
     {{- if $css }}
         <link rel="stylesheet" href="{{ $css.RelPermalink }}">
@@ -15,6 +18,7 @@
       article table, main table { display: block; overflow-x: auto; width: 100%; }
     </style>
 </head>
+    
 <body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
 
     <!-- HEADER NAVIGATION -->
