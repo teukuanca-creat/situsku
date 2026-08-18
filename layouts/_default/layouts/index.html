@@ -1,19 +1,21 @@
 {{ define "main" }}
 <div class="space-y-10">
 
-  {{/* Ambil semua artikel yang dipublikasikan */}}
-  {{ $pages := .Site.RegularPages }}
+  {{/* Mengambil semua halaman bertipe artikel/post/kreativitas */}}
+  {{ $pages := where .Site.Pages "Kind" "page" }}
   
   {{ if eq (len $pages) 0 }}
-    <p class="text-center text-gray-500 py-10">Belum ada artikel yang dipublikasikan.</p>
+    <div class="text-center py-12 bg-white rounded-lg border">
+      <p class="text-gray-500 font-medium">Belum ada artikel yang terdeteksi.</p>
+    </div>
   {{ else }}
 
-    {{/* 1. ARTIKEL TERBARU (Hanya Gambar Unggulan & Judul Saja) */}}
+    {{/* 1. ARTIKEL TERBARU (Top Hero: Gambar Unggulan & Judul Saja) */}}
     {{ range first 1 $pages }}
     <section class="bg-white rounded-xl shadow-md overflow-hidden border">
       <a href="{{ .Permalink }}" class="block group">
         {{ with .Params.featured_image }}
-        <div class="w-full h-[350px] md:h-[480px] overflow-hidden bg-gray-200">
+        <div class="w-full h-[320px] md:h-[450px] overflow-hidden bg-gray-200">
           <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
         </div>
         {{ end }}
@@ -26,12 +28,12 @@
     </section>
     {{ end }}
 
-    {{/* 2. ARTIKEL LAINNYA (Grid 2 Kolom Berjejer, Ukuran Gambar Seragam) */}}
+    {{/* 2. ARTIKEL LAINNYA (Grid 2 Kolom Berjejer Rapi) */}}
     <section class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 mt-8">
       {{ range after 1 $pages }}
       <article class="bg-white rounded-xl shadow-md overflow-hidden border flex flex-col justify-between hover:shadow-lg transition-shadow">
         <a href="{{ .Permalink }}" class="block group">
-          {{/* Ukuran Gambar Seragam (Terkunci di 220px) */}}
+          {{/* Ukuran Gambar Seragam */}}
           <div class="w-full h-48 md:h-56 overflow-hidden bg-gray-200">
             {{ with .Params.featured_image }}
               <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
