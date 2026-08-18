@@ -9,47 +9,63 @@
         body { font-family: Arial, sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
         .container { max-width: 1100px; margin: 0 auto; padding: 0 15px; }
         
-        .header { background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        /* Header */
+        .header { background: #1a56db; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
         .logo { padding: 20px 0; text-align: center; }
-        .logo__title { font-size: 28px; color: #000; }
-        .logo__tagline { color: #e22d30; font-size: 14px; }
-        .divider { height: 4px; background: #e22d30; border: none; }
+        .logo__title { font-size: 32px; color: #fff; font-weight: bold; }
+        .logo a { text-decoration: none; }
         
-        .menu { background: #2a2a2a; }
+        /* Menu */
+        .menu { background: #1a56db; }
         .menu__list { list-style: none; display: flex; flex-wrap: wrap; }
         .menu__item { position: relative; }
-        .menu__item:hover { background: #e22d30; }
-        .menu__link { display: block; padding: 12px 20px; color: #fff; text-decoration: none; font-weight: bold; text-transform: uppercase; font-size: 14px; }
+        .menu__item:hover { background: #1e40af; }
+        .menu__link { display: block; padding: 12px 18px; color: #fff; text-decoration: none; font-weight: bold; text-transform: uppercase; font-size: 13px; }
         .menu__link:hover { color: #fff; }
         
-        .menu__item .menu__list { display: none; position: absolute; top: 100%; left: 0; background: #2a2a2a; min-width: 200px; z-index: 100; }
+        .menu__item .menu__list { display: none; position: absolute; top: 100%; left: 0; background: #1a56db; min-width: 200px; z-index: 100; }
         .menu__item:hover .menu__list { display: block; }
         
+        /* Main */
         .main-wrapper { display: flex; gap: 30px; padding: 30px 0; }
         .primary { flex: 2; }
         .sidebar { flex: 1; }
         
-        .list__item { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-        .list__title { font-size: 20px; margin-bottom: 10px; }
+        /* Article Card */
+        .list__item { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 25px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .list__title { font-size: 18px; margin-bottom: 10px; }
         .list__title a { color: #000; text-decoration: none; }
-        .list__title a:hover { color: #e22d30; }
+        .list__title a:hover { color: #1a56db; }
+        .list__thumbnail { width: 100%; border-radius: 5px; margin-bottom: 10px; }
         .meta { font-size: 13px; color: #666; margin-bottom: 10px; }
-        .meta a { color: #e22d30; text-decoration: none; }
+        .meta a { color: #1a56db; text-decoration: none; }
+        .read-more { display: inline-block; background: #1a56db; color: #fff; padding: 8px 20px; border-radius: 5px; text-decoration: none; font-size: 13px; font-weight: bold; margin-top: 10px; }
+        .read-more:hover { background: #1e40af; }
         
+        /* Widget */
         .widget { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-        .widget__title { font-size: 16px; text-transform: uppercase; border-bottom: 3px solid #e22d30; padding-bottom: 10px; margin-bottom: 15px; }
+        .widget__title { font-size: 16px; text-transform: uppercase; border-bottom: 3px solid #1a56db; padding-bottom: 10px; margin-bottom: 15px; }
         .widget__item { list-style: none; padding: 8px 0; border-bottom: 1px solid #eee; }
         .widget__item a { color: #333; text-decoration: none; }
-        .widget__item a:hover { color: #e22d30; }
+        .widget__item a:hover { color: #1a56db; }
         
-        .footer { background: #2a2a2a; color: #999; padding: 20px 0; margin-top: 30px; font-size: 13px; }
+        /* Footer */
+        .footer { background: #1a56db; color: #fff; padding: 30px 0; margin-top: 30px; font-size: 13px; }
         .footer a { color: #fff; text-decoration: none; }
-        .footer__container { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+        .footer a:hover { text-decoration: underline; }
+        .footer__container { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; align-items: center; }
+        .social-icons { display: flex; gap: 15px; }
+        .social-icons a { display: inline-flex; align-items: center; justify-content: center; width: 35px; height: 35px; background: #fff; color: #1a56db; border-radius: 50%; font-weight: bold; font-size: 16px; }
+        .social-icons a:hover { background: #dbeafe; }
+        
+        /* Search Icon */
+        .search-icon { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #fff; color: #1a56db; border-radius: 50%; cursor: pointer; font-size: 18px; }
         
         @media (max-width: 768px) {
             .main-wrapper { flex-direction: column; }
             .menu__list { flex-direction: column; }
             .menu__item .menu__list { position: static; }
+            .footer__container { flex-direction: column; text-align: center; }
         }
     </style>
 </head>
@@ -57,24 +73,35 @@
     <header class="header">
         <div class="container">
             <div class="logo">
-                <a href="https://teukuanca-creat.github.io/situsku/" style="text-decoration:none;">
+                <a href="https://teukuanca-creat.github.io/situsku/">
                     <h1 class="logo__title">teukuanca.com</h1>
-                    <p class="logo__tagline">Portal Artikel dan Berita</p>
                 </a>
             </div>
-            <hr class="divider">
             <nav class="menu">
                 <ul class="menu__list">
                     <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/" class="menu__link">Home</a></li>
-                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/pages/hubungi-kami/" class="menu__link">Hubungi Kami</a></li>
-                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/pages/tentang-kami/" class="menu__link">Tentang Kami</a></li>
                     <li class="menu__item">
                         <a href="#" class="menu__link">Direktori Publik ▼</a>
                         <ul class="menu__list">
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/regulasi/" class="menu__link">Regulasi</a></li>
                             <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
                             <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/edukasi/" class="menu__link">Edukasi</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link">Gaya Hidup ▼</a>
+                        <ul class="menu__list">
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/trending/" class="menu__link">Trending</a></li>
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/seni/" class="menu__link">Seni</a></li>
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/travelling/" class="menu__link">Travelling</a></li>
                             <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/kreativitas/" class="menu__link">Kreativitas</a></li>
                         </ul>
+                    </li>
+                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/budaya-sejarah/" class="menu__link">Budaya & Sejarah</a></li>
+                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/pages/tentang-kami/" class="menu__link">Tentang Kami</a></li>
+                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/pages/hubungi-kami/" class="menu__link">Hubungi Kami</a></li>
+                    <li class="menu__item">
+                        <span class="search-icon" onclick="alert('Fitur pencarian akan segera hadir!')">🔍</span>
                     </li>
                 </ul>
             </nav>
@@ -101,9 +128,9 @@
                         {{ end }}
                     </div>
                     {{ if .Params.featured_image }}
-                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:100%; border-radius:5px; margin-bottom:10px;">
+                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="list__thumbnail">
                     {{ end }}
-                    <p>{{ .Summary }}</p>
+                    <a href="{{ .Permalink }}" class="read-more">Baca Selengkapnya</a>
                 </article>
                 {{ end }}
             </div>
@@ -126,6 +153,12 @@
     <footer class="footer">
         <div class="container footer__container">
             <div>&copy; 2026 teukuanca.com. All rights reserved.</div>
+            <div class="social-icons">
+                <a href="https://facebook.com/usernameanda" title="Facebook">f</a>
+                <a href="https://x.com/usernameanda" title="Twitter">𝕏</a>
+                <a href="https://instagram.com/usernameanda" title="Instagram">📷</a>
+                <a href="https://youtube.com/@usernameanda" title="YouTube">▶</a>
+            </div>
             <div>
                 <a href="https://teukuanca-creat.github.io/situsku/pages/tentang-kami/">Tentang Kami</a> |
                 <a href="https://teukuanca-creat.github.io/situsku/pages/hubungi-kami/">Hubungi Kami</a> |
