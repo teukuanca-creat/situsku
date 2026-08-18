@@ -10,14 +10,15 @@
         .container { max-width: 800px; margin: 0 auto; padding: 30px 15px; }
         .header { background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); padding: 15px 0; margin-bottom: 30px; }
         .header .container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
-        .header a { color: #e22d30; text-decoration: none; font-weight: bold; }
+        .header a { color: #1a56db; text-decoration: none; font-weight: bold; }
         .article-card { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .article-card h2 { font-size: 20px; margin-bottom: 10px; }
         .article-card h2 a { color: #000; text-decoration: none; }
-        .article-card h2 a:hover { color: #e22d30; }
+        .article-card h2 a:hover { color: #1a56db; }
         .meta { font-size: 13px; color: #666; margin-bottom: 10px; }
-        .meta a { color: #e22d30; text-decoration: none; }
-        .footer { background: #2a2a2a; color: #999; padding: 20px 0; margin-top: 30px; font-size: 13px; text-align: center; }
+        .read-more { display: inline-block; background: #000; color: #fff; padding: 8px 20px; border-radius: 5px; text-decoration: none; font-size: 13px; font-weight: bold; margin-top: 10px; }
+        .read-more:hover { background: #333; }
+        .footer { background: #1a56db; color: #fff; padding: 20px 0; margin-top: 30px; font-size: 13px; text-align: center; }
         .footer a { color: #fff; text-decoration: none; }
     </style>
 </head>
@@ -34,7 +35,7 @@
         
         {{ range .Pages }}
         <article class="article-card">
-            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <h2><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <div class="meta">
                 <time>{{ .Date.Format "02 January 2006" }}</time>
             </div>
@@ -42,6 +43,7 @@
             <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:100%; border-radius:5px; margin-bottom:10px;">
             {{ end }}
             <p>{{ .Summary }}</p>
+            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" class="read-more">Baca Selengkapnya</a>
         </article>
         {{ else }}
         <p>Belum ada artikel dalam kategori ini.</p>
