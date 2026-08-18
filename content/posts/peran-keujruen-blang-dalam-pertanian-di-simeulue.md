@@ -3,7 +3,7 @@ title: 'Peran Keujruen Blang dalam Pertanian di Simeulue'
 permalink: /2026/08/peran-keujruen-blang-dalam-pertanian-di.html
 date: 2026-08-03
 draft: false
-featured_image: "/situsku/images/ilustrasi-keujruen-blang.webp"
+featured_image: "/situsku/images/ilustrasi-keujruen-blang.png"
 categories: ["Regulasi"]
 description: "Mengenal Keujruen Blang di Simeulue: tata kelola irigasi adat, aturan turun ke sawah, serta tradisi Kenduri Blang penjaga ketahanan pangan daerah."
 tags: ["Keujruen Blang", "Simeulue, Aceh"]
