@@ -32,13 +32,14 @@
     <!-- KONTEN UTAMA HOMEPAGE -->
     <main class="max-w-[1200px] w-full mx-auto px-2 sm:px-6 py-6 md:py-8 flex-grow">
         
-        {{/* Mengambil semua artikel dan mengurutkan dari yang paling baru */}}
-        {{ $pages := .Site.RegularPages.ByDate.Reverse }}
+        {{/* Mengambil seluruh artikel berjenis page/post dan diurutkan terbaru */}}
+        {{ $pages := where .Site.Pages "Kind" "page" }}
+        {{ $sorted := $pages.ByDate.Reverse }}
         
         <div class="space-y-8">
             
             <!-- 1. ARTIKEL TERBARU (HERO TUNGGAL: Gambar Besar & Judul Saja) -->
-            {{ range first 1 $pages }}
+            {{ range first 1 $sorted }}
             <section class="bg-white rounded-xl shadow-md overflow-hidden border">
                 <a href="{{ .Permalink }}" class="block group">
                     {{ with .Params.featured_image }}
@@ -57,7 +58,7 @@
 
             <!-- 2. ARTIKEL LAINNYA (GRID 2 KOLOM BERBARIS) -->
             <section class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
-                {{ range after 1 $pages }}
+                {{ range after 1 $sorted }}
                 <article class="bg-white rounded-xl shadow-md overflow-hidden border flex flex-col justify-between hover:shadow-lg transition-shadow">
                     <a href="{{ .Permalink }}" class="block group">
                         <div class="w-full h-48 md:h-56 overflow-hidden bg-gray-200">
