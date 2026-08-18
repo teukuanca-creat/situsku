@@ -38,6 +38,46 @@
         
         <div class="space-y-8">
             
+            <!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    
+    {{- $css := resources.Get "css/main.css" | postCSS }}
+    {{- if $css }}
+        <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    {{- end }}
+
+    <style>
+      article img, main img { max-width: 100% !important; height: auto !important; }
+      article table, main table { display: block; overflow-x: auto; width: 100%; }
+    </style>
+</head>
+<body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
+
+    <!-- HEADER -->
+    <header class="bg-blue-600 text-white shadow-md">
+        <nav class="max-w-[1200px] mx-auto px-4 sm:px-6 py-4 flex justify-between items-center">
+            <a href="/" class="text-2xl font-bold tracking-wide">{{ .Site.Title }}</a>
+            <ul class="flex items-center gap-6 text-sm font-medium">
+                {{ range .Site.Menus.main }}
+                <li><a href="{{ .URL }}" class="hover:text-blue-200">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+        </nav>
+    </header>
+
+    <!-- KONTEN UTAMA HOMEPAGE -->
+    <main class="max-w-[1200px] w-full mx-auto px-2 sm:px-6 py-6 md:py-8 flex-grow">
+        
+        {{/* Mengambil seluruh artikel berjenis page/post dan diurutkan terbaru */}}
+        {{ $pages := where .Site.Pages "Kind" "page" }}
+        {{ $sorted := $pages.ByDate.Reverse }}
+        
+        <div class="space-y-8">
+            
             <!-- 1. ARTIKEL TERBARU (HERO TUNGGAL: Gambar Besar & Judul Saja) -->
             {{ range first 1 $sorted }}
             <section class="bg-white rounded-xl shadow-md overflow-hidden border">
@@ -55,6 +95,49 @@
                 </a>
             </section>
             {{ end }}
+
+            <!-- 2. ARTIKEL LAINNYA (GRID 2 KOLOM BERBARIS) -->
+            <section class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+                {{ range after 1 $sorted }}
+                <article class="bg-white rounded-xl shadow-md overflow-hidden border flex flex-col justify-between hover:shadow-lg transition-shadow">
+                    <a href="{{ .Permalink }}" class="block group">
+                        <div class="w-full h-48 md:h-56 overflow-hidden bg-gray-200">
+                            {{ with .Params.featured_image }}
+                            <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
+                            {{ else }}
+                            <div class="w-full h-full flex items-center justify-center text-gray-400">Tanpa Gambar</div>
+                            {{ end }}
+                        </div>
+                        <div class="p-5">
+                            <span class="text-xs font-semibold text-blue-600 uppercase tracking-wider">
+                                {{ with .Params.categories }}{{ index . 0 }}{{ else }}Artikel{{ end }}
+                            </span>
+                            <h2 class="text-lg md:text-xl font-bold text-gray-800 mt-1 group-hover:text-blue-600 line-clamp-2">
+                                {{ .Title }}
+                            </h2>
+                            <p class="text-gray-600 text-sm mt-2 line-clamp-3">
+                                {{ .Description | default .Summary }}
+                            </p>
+                        </div>
+                    </a>
+                    <div class="px-5 pb-4 text-xs text-gray-400 border-t pt-3 mx-5 mb-2">
+                        📅 {{ .Date.Format "02 Jan 2006" }}
+                    </div>
+                </article>
+                {{ end }}
+            </section>
+
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="bg-gray-800 text-white py-6 mt-12 text-center text-sm">
+        <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
 
             <!-- 2. ARTIKEL LAINNYA (GRID 2 KOLOM BERBARIS) -->
             <section class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
