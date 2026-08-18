@@ -4,13 +4,68 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Site.Title }}</title>
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: Arial, sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+        .container { max-width: 1100px; margin: 0 auto; padding: 0 15px; }
+        
+        /* Header */
+        .header { background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .logo { padding: 20px 0; text-align: center; }
+        .logo__title { font-size: 28px; color: #000; }
+        .logo__tagline { color: #e22d30; font-size: 14px; }
+        .divider { height: 4px; background: #e22d30; border: none; }
+        
+        /* Menu */
+        .menu { background: #2a2a2a; }
+        .menu__list { list-style: none; display: flex; flex-wrap: wrap; }
+        .menu__item { position: relative; }
+        .menu__item:hover { background: #e22d30; }
+        .menu__link { display: block; padding: 12px 20px; color: #fff; text-decoration: none; font-weight: bold; text-transform: uppercase; font-size: 14px; }
+        .menu__link:hover { color: #fff; }
+        
+        /* Dropdown */
+        .menu__item .menu__list { display: none; position: absolute; top: 100%; left: 0; background: #2a2a2a; min-width: 200px; z-index: 100; }
+        .menu__item:hover .menu__list { display: block; }
+        
+        /* Main */
+        .main-wrapper { display: flex; gap: 30px; padding: 30px 0; }
+        .primary { flex: 2; }
+        .sidebar { flex: 1; }
+        
+        /* Article */
+        .list__item { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .list__title { font-size: 20px; margin-bottom: 10px; }
+        .list__title a { color: #000; text-decoration: none; }
+        .list__title a:hover { color: #e22d30; }
+        .meta { font-size: 13px; color: #666; margin-bottom: 10px; }
+        .meta a { color: #e22d30; text-decoration: none; }
+        
+        /* Widget */
+        .widget { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .widget__title { font-size: 16px; text-transform: uppercase; border-bottom: 3px solid #e22d30; padding-bottom: 10px; margin-bottom: 15px; }
+        .widget__item { list-style: none; padding: 8px 0; border-bottom: 1px solid #eee; }
+        .widget__item a { color: #333; text-decoration: none; }
+        .widget__item a:hover { color: #e22d30; }
+        
+        /* Footer */
+        .footer { background: #2a2a2a; color: #999; padding: 20px 0; margin-top: 30px; font-size: 13px; }
+        .footer a { color: #fff; text-decoration: none; }
+        .footer__container { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .main-wrapper { flex-direction: column; }
+            .menu__list { flex-direction: column; }
+            .menu__item .menu__list { position: static; }
+        }
+    </style>
 </head>
 <body>
     <header class="header">
         <div class="container">
             <div class="logo">
-                <a href="{{ .Site.BaseURL }}" class="logo__link">
+                <a href="{{ .Site.BaseURL }}" class="logo__link" style="text-decoration:none;">
                     <h1 class="logo__title">{{ .Site.Title }}</h1>
                     {{ if .Site.Params.subtitle }}
                     <p class="logo__tagline">{{ .Site.Params.subtitle }}</p>
@@ -39,21 +94,19 @@
         </div>
     </header>
 
-    <main class="container container--outer">
-        <div class="wrapper">
+    <main class="container">
+        <div class="main-wrapper">
             <div class="primary">
-                <h2 class="main__title">Artikel Terbaru</h2>
+                <h2 style="font-size:24px; margin-bottom:20px;">Artikel Terbaru</h2>
                 {{ range .Site.RegularPages }}
                 <article class="list__item">
-                    <div class="list__header">
-                        <h3 class="list__title">
-                            <a href="{{ .Permalink }}">{{ .Title }}</a>
-                        </h3>
-                    </div>
-                    <div class="list__meta meta">
+                    <h3 class="list__title">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h3>
+                    <div class="meta">
                         <time>{{ .Date.Format "02 January 2006" }}</time>
                         {{ if .Params.categories }}
-                        <span class="meta__item">
+                        <span>
                             {{ range .Params.categories }}
                             <a href="{{ $.Site.BaseURL }}categories/{{ . | urlize }}/">{{ . }}</a>
                             {{ end }}
@@ -68,7 +121,7 @@
             <aside class="sidebar">
                 <div class="widget">
                     <h3 class="widget__title">Kategori</h3>
-                    <ul>
+                    <ul style="list-style:none;">
                         {{ range .Site.Taxonomies.categories }}
                         <li class="widget__item">
                             <a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ .Count }})</a>
@@ -82,10 +135,8 @@
 
     <footer class="footer">
         <div class="container footer__container">
-            <div class="footer__copyright">
-                &copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.
-            </div>
-            <div class="footer__links">
+            <div>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</div>
+            <div>
                 {{ range .Site.Menus.footer }}
                 <a href="{{ .URL }}">{{ .Name }}</a> |
                 {{ end }}
