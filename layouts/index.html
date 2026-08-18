@@ -75,20 +75,17 @@
             <hr class="divider">
             <nav class="menu">
                 <ul class="menu__list">
-                    {{ range .Site.Menus.main }}
-                    <li class="menu__item">
-                        <a href="{{ .URL }}" class="menu__link">{{ .Name }}</a>
-                        {{ if .HasChildren }}
-                        <ul class="menu__list">
-                            {{ range .Children }}
-                            <li class="menu__item">
-                                <a href="{{ .URL }}" class="menu__link">{{ .Name }}</a>
-                            </li>
-                            {{ end }}
-                        </ul>
-                        {{ end }}
-                    </li>
-                    {{ end }}
+                    <li class="menu__item"><a href="{{ .Site.BaseURL }}" class="menu__link">Home</a></li>
+<li class="menu__item"><a href="{{ .Site.BaseURL }}pages/hubungi-kami/" class="menu__link">Hubungi Kami</a></li>
+<li class="menu__item"><a href="{{ .Site.BaseURL }}pages/tentang-kami/" class="menu__link">Tentang Kami</a></li>
+<li class="menu__item">
+    <a href="#" class="menu__link">Direktori Publik ▼</a>
+    <ul class="menu__list">
+        <li class="menu__item"><a href="{{ .Site.BaseURL }}categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
+        <li class="menu__item"><a href="{{ .Site.BaseURL }}categories/edukasi/" class="menu__link">Edukasi</a></li>
+        <li class="menu__item"><a href="{{ .Site.BaseURL }}categories/kreativitas/" class="menu__link">Kreativitas</a></li>
+    </ul>
+</li>
                 </ul>
             </nav>
         </div>
