@@ -110,7 +110,10 @@
                         </span>
                         {{ end }}
                     </div>
-                    <p>{{ .Summary }}</p>
+                    {{ if .Params.featured_image }}
+<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:100%; border-radius:5px; margin-bottom:10px;">
+{{ end }}
+<p>{{ .Summary }}</p>
                 </article>
                 {{ end }}
             </div>
