@@ -19,7 +19,7 @@
 </head>
 <body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
 
-    <!-- HEADER NAVIGATION (Lengkap + Tombol Cari Berfungsi Utuh) -->
+    <!-- HEADER NAVIGATION (Support Sub-Menu Dropdown & Pencarian) -->
     <header class="bg-blue-600 text-white shadow-md w-full">
         <nav class="max-w-[1200px] mx-auto px-4 sm:px-6 py-4 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
             
@@ -31,14 +31,37 @@
             <!-- Area Kanan: Navigasi + Form Pencarian -->
             <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 lg:gap-6 w-full lg:w-auto">
                 
-                <!-- Daftar Menu Navigasi -->
+                <!-- Daftar Menu Navigasi dengan Support Sub-Menu Dropdown (DI SINI LETAKNYA) -->
                 <ul class="flex items-center gap-4 text-sm font-medium overflow-x-auto no-scrollbar whitespace-nowrap pb-1 sm:pb-0 shrink-0">
                     {{ range .Site.Menus.main }}
-                    <li><a href="{{ .URL }}" class="hover:text-blue-200 block py-1">{{ .Name }}</a></li>
+                        {{ if .HasChildren }}
+                            <!-- Menu Utama yang Memiliki Sub-Menu (Parent) -->
+                            <li class="relative group py-2">
+                                <button class="hover:text-blue-200 flex items-center gap-1 focus:outline-none">
+                                    {{ .Name }}
+                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                                </button>
+                                <!-- Dropdown List -->
+                                <ul class="absolute left-0 hidden group-hover:block bg-white text-gray-800 shadow-lg rounded-lg py-2 min-w-[180px] z-50 border mt-1">
+                                    {{ range .Children }}
+                                    <li>
+                                        <a href="{{ .URL }}" class="block px-4 py-2 hover:bg-blue-50 hover:text-blue-600 transition-colors">
+                                            {{ .Name }}
+                                        </a>
+                                    </li>
+                                    {{ end }}
+                                </ul>
+                            </li>
+                        {{ else if not .HasParent }}
+                            <!-- Menu Biasa Tanpa Sub-Menu -->
+                            <li>
+                                <a href="{{ .URL }}" class="hover:text-blue-200 block py-2">{{ .Name }}</a>
+                            </li>
+                        {{ end }}
                     {{ end }}
                 </ul>
 
-                <!-- Form Pencarian Google (Ikon Profesional & Tidak Menimpa Teks) -->
+                <!-- Form Pencarian Google -->
                 <form id="search-form" action="https://www.google.com/search" method="get" target="_blank" class="relative flex items-center shrink-0 w-full sm:w-48 lg:w-56">
                     <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}">
                     <input type="text" id="search-input" name="q" placeholder="Cari artikel..." required class="w-full py-1.5 pl-3 pr-10 text-sm text-gray-800 bg-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-300">
