@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }} - {{ .Site.Title }}</title>
     
-    <!-- CDN Tailwind CSS agar tampilan langsung muncul -->
+    <!-- CDN Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
 
     <style>
@@ -77,12 +77,17 @@
         </div>
 
         <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {{ range .RegularPagesRecursive }}
+            {{ $pages := .Pages }}
+            {{ if .IsHome }}
+                {{ $pages = .Site.RegularPages }}
+            {{ end }}
+
+            {{ range $pages }}
             <article class="bg-white rounded-xl shadow border overflow-hidden flex flex-col justify-between hover:shadow-lg transition-shadow">
                 <a href="{{ .RelPermalink }}" class="block group">
                     <div class="w-full h-48 bg-gray-200 overflow-hidden">
                         {{ with .Params.featured_image }}
-                        <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
+                        <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
                         {{ else }}
                         <div class="w-full h-full flex items-center justify-center text-gray-400">Tanpa Gambar</div>
                         {{ end }}
