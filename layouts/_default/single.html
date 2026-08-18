@@ -41,7 +41,10 @@
         <a href="https://teukuanca-creat.github.io/situsku/" class="back-link">&larr; Kembali ke Beranda</a>
         <article class="article">
             <h1>{{ .Title }}</h1>
-            {{ .Content }}
+{{ if .Params.featured_image }}
+<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:100%; border-radius:8px; margin-bottom:20px;">
+{{ end }}
+{{ .Content }}
             
             <div class="share-section">
                 <h3>Bagikan Artikel Ini:</h3>
