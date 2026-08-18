@@ -13,27 +13,42 @@
     <style>
       article img, main img { max-width: 100%; height: auto; }
       article table, main table { display: block; overflow-x: auto; width: 100%; }
-      /* Menyembunyikan scrollbar menu HP agar tetap estetis */
       .no-scrollbar::-webkit-scrollbar { display: none; }
       .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
     </style>
 </head>
 <body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
 
-    <!-- HEADER NAVIGATION (Responsif HP & PC) -->
+    <!-- HEADER NAVIGATION (Lengkap + Presisi di PC & HP) -->
     <header class="bg-blue-600 text-white shadow-md w-full">
-        <nav class="max-w-[1200px] mx-auto px-4 sm:px-6 py-4 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4">
+        <nav class="max-w-[1200px] mx-auto px-4 sm:px-6 py-4 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
+            
             <!-- Logo / Judul Situs -->
-            <div class="flex justify-between items-center">
+            <div class="flex items-center justify-between shrink-0">
                 <a href="/" class="text-2xl font-bold tracking-wide text-white hover:text-blue-100">{{ .Site.Title }}</a>
             </div>
 
-            <!-- Daftar Menu Navigasi -->
-            <ul class="flex items-center gap-4 sm:gap-6 text-sm font-medium overflow-x-auto no-scrollbar whitespace-nowrap pb-1 sm:pb-0">
-                {{ range .Site.Menus.main }}
-                <li><a href="{{ .URL }}" class="hover:text-blue-200 block py-1">{{ .Name }}</a></li>
-                {{ end }}
-            </ul>
+            <!-- Area Kanan: Navigasi + Pencarian Satu Baris (PC) & Bertumpuk Rapi (HP) -->
+            <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 lg:gap-6 w-full lg:w-auto">
+                
+                <!-- Daftar Menu Navigasi -->
+                <ul class="flex items-center gap-4 text-sm font-medium overflow-x-auto no-scrollbar whitespace-nowrap pb-1 sm:pb-0 shrink-0">
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL }}" class="hover:text-blue-200 block py-1">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+
+                <!-- Form Pencarian (Terlihat Jelas di PC & HP) -->
+                <form action="https://www.google.com/search" method="get" target="_blank" class="relative flex items-center shrink-0 w-full sm:w-48 lg:w-56">
+                    <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}">
+                    <input type="text" name="q" placeholder="Cari artikel..." class="w-full px-3 py-1.5 pr-8 text-sm text-gray-800 bg-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-300">
+                    <button type="submit" class="absolute right-2 text-gray-500 hover:text-blue-600" aria-label="Cari">
+                        🔍
+                    </button>
+                </form>
+
+            </div>
+
         </nav>
     </header>
 
