@@ -1,3 +1,7 @@
+<!-- DEBUG: Jumlah menu items: {{ len .Site.Menus.main }} -->
+<!-- DEBUG: Menu items: {{ range .Site.Menus.main }}{{ .Name }} ({{ .Identifier }}) | {{ end }} -->
+<!-- DEBUG: Children count untuk Direktori: {{ range .Site.Menus.main }}{{ if eq .Name "Direktori Publik" }}{{ len .Children }}{{ end }}{{ end }} -->
+
 <nav class="main-nav">
     <ul class="nav-links">
         {{ range .Site.Menus.main }}
