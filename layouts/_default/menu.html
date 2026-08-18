@@ -1,25 +1,16 @@
-<!-- DEBUG: Jumlah menu items: {{ len .Site.Menus.main }} -->
-<!-- DEBUG: Menu items: {{ range .Site.Menus.main }}{{ .Name }} ({{ .Identifier }}) | {{ end }} -->
-<!-- DEBUG: Children count untuk Direktori: {{ range .Site.Menus.main }}{{ if eq .Name "Direktori Publik" }}{{ len .Children }}{{ end }}{{ end }} -->
-
 <nav class="main-nav">
     <ul class="nav-links">
-        {{ range .Site.Menus.main }}
-        <li class="nav-item {{ if .HasChildren }}has-dropdown{{ end }}">
-            <a href="{{ .URL }}" class="nav-link">{{ .Name }}</a>
-            
-            {{ if .HasChildren }}
-            <span class="dropdown-arrow">▼</span>
+        <li><a href="/" class="nav-link">Home</a></li>
+        <li><a href="/pages/hubungi-kami/" class="nav-link">Hubungi Kami</a></li>
+        <li><a href="/pages/tentang-kami/" class="nav-link">Tentang Kami</a></li>
+        <li class="nav-item has-dropdown">
+            <a href="#" class="nav-link">Direktori Publik ▼</a>
             <ul class="dropdown">
-                {{ range .Children }}
-                <li>
-                    <a href="{{ .URL }}" class="dropdown-link">{{ .Name }}</a>
-                </li>
-                {{ end }}
+                <li><a href="/categories/cerita-menarik/" class="dropdown-link">Cerita Menarik</a></li>
+                <li><a href="/categories/edukasi/" class="dropdown-link">Edukasi</a></li>
+                <li><a href="/categories/kreativitas/" class="dropdown-link">Kreativitas</a></li>
             </ul>
-            {{ end }}
         </li>
-        {{ end }}
     </ul>
 </nav>
 
@@ -54,12 +45,6 @@
 
 .nav-link:hover {
     color: #2c5282;
-}
-
-.dropdown-arrow {
-    margin-left: 0.25rem;
-    font-size: 0.7rem;
-    color: #4a5568;
 }
 
 .dropdown {
