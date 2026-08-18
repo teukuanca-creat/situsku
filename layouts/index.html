@@ -9,14 +9,12 @@
         body { font-family: Arial, sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
         .container { max-width: 1100px; margin: 0 auto; padding: 0 15px; }
         
-        /* Header */
         .header { background: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
         .logo { padding: 20px 0; text-align: center; }
         .logo__title { font-size: 28px; color: #000; }
         .logo__tagline { color: #e22d30; font-size: 14px; }
         .divider { height: 4px; background: #e22d30; border: none; }
         
-        /* Menu */
         .menu { background: #2a2a2a; }
         .menu__list { list-style: none; display: flex; flex-wrap: wrap; }
         .menu__item { position: relative; }
@@ -24,16 +22,13 @@
         .menu__link { display: block; padding: 12px 20px; color: #fff; text-decoration: none; font-weight: bold; text-transform: uppercase; font-size: 14px; }
         .menu__link:hover { color: #fff; }
         
-        /* Dropdown */
         .menu__item .menu__list { display: none; position: absolute; top: 100%; left: 0; background: #2a2a2a; min-width: 200px; z-index: 100; }
         .menu__item:hover .menu__list { display: block; }
         
-        /* Main */
         .main-wrapper { display: flex; gap: 30px; padding: 30px 0; }
         .primary { flex: 2; }
         .sidebar { flex: 1; }
         
-        /* Article */
         .list__item { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .list__title { font-size: 20px; margin-bottom: 10px; }
         .list__title a { color: #000; text-decoration: none; }
@@ -41,19 +36,16 @@
         .meta { font-size: 13px; color: #666; margin-bottom: 10px; }
         .meta a { color: #e22d30; text-decoration: none; }
         
-        /* Widget */
         .widget { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .widget__title { font-size: 16px; text-transform: uppercase; border-bottom: 3px solid #e22d30; padding-bottom: 10px; margin-bottom: 15px; }
         .widget__item { list-style: none; padding: 8px 0; border-bottom: 1px solid #eee; }
         .widget__item a { color: #333; text-decoration: none; }
         .widget__item a:hover { color: #e22d30; }
         
-        /* Footer */
         .footer { background: #2a2a2a; color: #999; padding: 20px 0; margin-top: 30px; font-size: 13px; }
         .footer a { color: #fff; text-decoration: none; }
         .footer__container { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
         
-        /* Responsive */
         @media (max-width: 768px) {
             .main-wrapper { flex-direction: column; }
             .menu__list { flex-direction: column; }
@@ -76,16 +68,16 @@
             <nav class="menu">
                 <ul class="menu__list">
                     <li class="menu__item"><a href="{{ .Site.BaseURL }}" class="menu__link">Home</a></li>
-<li class="menu__item"><a href="{{ .Site.BaseURL }}pages/hubungi-kami/" class="menu__link">Hubungi Kami</a></li>
-<li class="menu__item"><a href="{{ .Site.BaseURL }}pages/tentang-kami/" class="menu__link">Tentang Kami</a></li>
-<li class="menu__item">
-    <a href="#" class="menu__link">Direktori Publik ▼</a>
-    <ul class="menu__list">
-        <li class="menu__item"><a href="{{ .Site.BaseURL }}categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
-        <li class="menu__item"><a href="{{ .Site.BaseURL }}categories/edukasi/" class="menu__link">Edukasi</a></li>
-        <li class="menu__item"><a href="{{ .Site.BaseURL }}categories/kreativitas/" class="menu__link">Kreativitas</a></li>
-    </ul>
-</li>
+                    <li class="menu__item"><a href="{{ .Site.BaseURL }}pages/hubungi-kami/" class="menu__link">Hubungi Kami</a></li>
+                    <li class="menu__item"><a href="{{ .Site.BaseURL }}pages/tentang-kami/" class="menu__link">Tentang Kami</a></li>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link">Direktori Publik ▼</a>
+                        <ul class="menu__list">
+                            <li class="menu__item"><a href="{{ .Site.BaseURL }}categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
+                            <li class="menu__item"><a href="{{ .Site.BaseURL }}categories/edukasi/" class="menu__link">Edukasi</a></li>
+                            <li class="menu__item"><a href="{{ .Site.BaseURL }}categories/kreativitas/" class="menu__link">Kreativitas</a></li>
+                        </ul>
+                    </li>
                 </ul>
             </nav>
         </div>
@@ -95,7 +87,7 @@
         <div class="main-wrapper">
             <div class="primary">
                 <h2 style="font-size:24px; margin-bottom:20px;">Artikel Terbaru</h2>
-                {{ range .Site.RegularPages }}
+                {{ range where .Site.RegularPages "Section" "posts" }}
                 <article class="list__item">
                     <h3 class="list__title">
                         <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -111,9 +103,9 @@
                         {{ end }}
                     </div>
                     {{ if .Params.featured_image }}
-<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:100%; border-radius:5px; margin-bottom:10px;">
-{{ end }}
-<p>{{ .Summary }}</p>
+                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:100%; border-radius:5px; margin-bottom:10px;">
+                    {{ end }}
+                    <p>{{ .Summary }}</p>
                 </article>
                 {{ end }}
             </div>
@@ -137,9 +129,10 @@
         <div class="container footer__container">
             <div>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</div>
             <div>
-                {{ range .Site.Menus.footer }}
-                <a href="{{ .URL }}">{{ .Name }}</a> |
-                {{ end }}
+                <a href="{{ .Site.BaseURL }}pages/tentang-kami/">Tentang Kami</a> |
+                <a href="{{ .Site.BaseURL }}pages/hubungi-kami/">Hubungi Kami</a> |
+                <a href="{{ .Site.BaseURL }}pages/kebijakan-privasi/">Kebijakan Privasi</a> |
+                <a href="{{ .Site.BaseURL }}pages/disclaimer/">Disclaimer</a>
             </div>
         </div>
     </footer>
