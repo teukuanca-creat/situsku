@@ -2,17 +2,14 @@
     <ul class="nav-links">
         {{ range .Site.Menus.main }}
         <li class="nav-item {{ if .HasChildren }}has-dropdown{{ end }}">
-            <a href="{{ .URL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
-                {{ .Name }}
-            </a>
+            <a href="{{ .URL }}" class="nav-link">{{ .Name }}</a>
             
             {{ if .HasChildren }}
+            <span class="dropdown-arrow">▼</span>
             <ul class="dropdown">
                 {{ range .Children }}
                 <li>
-                    <a href="{{ .URL }}" class="dropdown-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
-                        {{ .Name }}
-                    </a>
+                    <a href="{{ .URL }}" class="dropdown-link">{{ .Name }}</a>
                 </li>
                 {{ end }}
             </ul>
@@ -30,7 +27,7 @@
 
 .nav-links {
     display: flex;
-    gap: 2rem;
+    gap: 1.5rem;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -38,6 +35,8 @@
 
 .nav-item {
     position: relative;
+    display: flex;
+    align-items: center;
 }
 
 .nav-link {
@@ -45,7 +44,6 @@
     text-decoration: none;
     font-size: 1rem;
     font-weight: 500;
-    transition: color 0.2s;
     padding: 0.5rem 0;
     display: block;
 }
@@ -54,12 +52,13 @@
     color: #2c5282;
 }
 
-.nav-link.active {
-    color: #2c5282;
-    font-weight: 600;
+.dropdown-arrow {
+    margin-left: 0.25rem;
+    font-size: 0.7rem;
+    color: #4a5568;
 }
 
-/* Styling untuk Dropdown */
+/* Dropdown Styling */
 .dropdown {
     display: none;
     position: absolute;
@@ -72,6 +71,7 @@
     padding: 0.5rem 0;
     list-style: none;
     z-index: 1000;
+    margin: 0;
 }
 
 .has-dropdown:hover .dropdown,
@@ -80,6 +80,7 @@
 }
 
 .dropdown li {
+    margin: 0;
     padding: 0;
 }
 
@@ -89,18 +90,11 @@
     font-size: 0.9rem;
     padding: 0.5rem 1rem;
     display: block;
-    transition: all 0.2s;
 }
 
 .dropdown-link:hover {
     background: #f7fafc;
     color: #2c5282;
-}
-
-.dropdown-link.active {
-    background: #ebf8ff;
-    color: #2c5282;
-    font-weight: 500;
 }
 
 /* Mobile Responsive */
@@ -116,7 +110,8 @@
         padding-left: 1rem;
     }
     
-    .has-dropdown:hover .dropdown {
+    .has-dropdown:hover .dropdown,
+    .has-dropdown:focus-within .dropdown {
         display: block;
     }
 }
