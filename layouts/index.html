@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Site.Title }}</title>
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
 </head>
 <body>
     <header class="header">
@@ -55,7 +55,7 @@
                         {{ if .Params.categories }}
                         <span class="meta__item">
                             {{ range .Params.categories }}
-                            <a href="/categories/{{ . | urlize }}/">{{ . }}</a>
+                            <a href="{{ $.Site.BaseURL }}categories/{{ . | urlize }}/">{{ . }}</a>
                             {{ end }}
                         </span>
                         {{ end }}
