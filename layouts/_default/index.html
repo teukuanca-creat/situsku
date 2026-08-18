@@ -19,7 +19,7 @@
 </head>
 <body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
 
-    <!-- HEADER NAVIGATION (Lengkap + Presisi di PC & HP) -->
+    <!-- HEADER NAVIGATION (Lengkap + Tombol Cari Berfungsi Utuh) -->
     <header class="bg-blue-600 text-white shadow-md w-full">
         <nav class="max-w-[1200px] mx-auto px-4 sm:px-6 py-4 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
             
@@ -28,7 +28,7 @@
                 <a href="/" class="text-2xl font-bold tracking-wide text-white hover:text-blue-100">{{ .Site.Title }}</a>
             </div>
 
-            <!-- Area Kanan: Navigasi + Pencarian Satu Baris (PC) & Bertumpuk Rapi (HP) -->
+            <!-- Area Kanan: Navigasi + Form Pencarian -->
             <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 lg:gap-6 w-full lg:w-auto">
                 
                 <!-- Daftar Menu Navigasi -->
@@ -38,11 +38,11 @@
                     {{ end }}
                 </ul>
 
-                <!-- Form Pencarian (Terlihat Jelas di PC & HP) -->
-                <form action="https://www.google.com/search" method="get" target="_blank" class="relative flex items-center shrink-0 w-full sm:w-48 lg:w-56">
+                <!-- Form Pencarian Google (Langsung Aktif) -->
+                <form id="search-form" action="https://www.google.com/search" method="get" target="_blank" class="relative flex items-center shrink-0 w-full sm:w-48 lg:w-56">
                     <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}">
-                    <input type="text" name="q" placeholder="Cari artikel..." class="w-full px-3 py-1.5 pr-8 text-sm text-gray-800 bg-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-300">
-                    <button type="submit" class="absolute right-2 text-gray-500 hover:text-blue-600" aria-label="Cari">
+                    <input type="text" id="search-input" name="q" placeholder="Cari artikel..." required class="w-full px-3 py-1.5 pr-9 text-sm text-gray-800 bg-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-300">
+                    <button type="submit" id="search-btn" class="absolute right-1 px-2 py-1 text-gray-500 hover:text-blue-600 focus:outline-none" aria-label="Cari">
                         🔍
                     </button>
                 </form>
