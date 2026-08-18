@@ -2,13 +2,10 @@ baseURL = 'https://teukuanca-creat.github.io/situsku/'
 languageCode = 'id-id'
 title = 'teukuanca.com'
 
-# --- Tampilkan Semua Postingan (Masa Depan & Draf untuk Testing) ---
+# --- Konfigurasi Publikasi ---
 buildFuture = true
 
-# --- Pengaturan Ekstra (Mematikan Auto-Section Grid) ---
-ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
-
-# --- Pengaturan Kategori & Tags (Taksonomi Hugo) ---
+# --- Taksonomi Resmi Hugo ---
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -16,8 +13,6 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
 [params]
   description = "Situs Web Resmi teukuanca.com"
   author = "Admin"
-  # Mengizinkan artikel dari berbagai folder/kategori
-  mainSections = ["posts", "blog", "kreativitas", "artikel"]
 
   # --- Tautan Media Sosial ---
   facebook = "https://facebook.com/usernameanda"
@@ -44,14 +39,14 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
   url = "/pages/tentang-kami/"
   weight = 3
 
-# --- Menu Utama dengan Sub-Menu (Dropdown) ---
+# Menu Utama dengan Sub-Menu Dropdown
 [[menu.main]]
   name = "Direktori Publik"
   url = "#"
   identifier = "Direktori Publik"
   weight = 4
 
-# Sub-Menu Kategori (Diperbaiki dari /pages/ ke /categories/)
+# Sub-Menu Mengarah Langsung ke Taxonomy Kategori Hugo
 [[menu.main]]
   name = "Cerita Menarik"
   url = "/categories/cerita-menarik/"
