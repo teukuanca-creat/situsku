@@ -2,6 +2,9 @@ baseURL = 'https://teukuanca-creat.github.io/situsku/'
 languageCode = 'id-id'
 title = 'teukuanca.com'
 
+# --- Tampilkan Semua Postingan (Masa Depan & Draf untuk Testing) ---
+buildFuture = true
+
 # --- Pengaturan Ekstra (Mematikan Auto-Section Grid) ---
 ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
 
@@ -13,8 +16,8 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
 [params]
   description = "Situs Web Resmi teukuanca.com"
   author = "Admin"
-  # Menentukan hanya folder 'posts' yang dihitung sebagai konten utama
-  mainSections = ["posts"]
+  # Mengizinkan artikel dari folder 'posts', 'blog', atau kategori lainnya
+  mainSections = ["posts", "blog", "kreativitas", "artikel"]
 
   # --- Tautan Media Sosial ---
   facebook = "https://facebook.com/usernameanda"
@@ -38,7 +41,7 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
   url = "/pages/tentang-kami/"
   weight = 3
 
-# Menu Utama dengan Sub-Menu (Contoh Layanan)
+# Menu Utama dengan Sub-Menu
 [[menu.main]]
   name = "Direktori Publik"
   url = "#"
@@ -48,13 +51,13 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
 [[menu.main]]
   name = "Cerita Menarik"
   url = "/pages/cerita-menarik/"
-  parent = "cerita Menarik"
+  parent = "Direktori Publik"
   weight = 1
 
 [[menu.main]]
   name = "Edukasi"
   url = "/pages/edukasi/"
-  parent = "Edukasi"
+  parent = "Direktori Publik"
   weight = 2
 
 # --- Menu Navigasi Footer ---
@@ -77,4 +80,3 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
   name = "Disclaimer"
   url = "/pages/disclaimer/"
   weight = 4
-  
