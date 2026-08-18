@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <a href="{{ .Site.BaseURL }}" class="logo__link">
+                    <h1 class="logo__title">{{ .Site.Title }}</h1>
+                    {{ if .Site.Params.subtitle }}
+                    <p class="logo__tagline">{{ .Site.Params.subtitle }}</p>
+                    {{ end }}
+                </a>
+            </div>
+            <hr class="divider">
+            <nav class="menu">
+                <ul class="menu__list">
+                    {{ range .Site.Menus.main }}
+                    <li class="menu__item">
+                        <a href="{{ .URL }}" class="menu__link">{{ .Name }}</a>
+                        {{ if .HasChildren }}
+                        <ul class="menu__list">
+                            {{ range .Children }}
+                            <li class="menu__item">
+                                <a href="{{ .URL }}" class="menu__link">{{ .Name }}</a>
+                            </li>
+                            {{ end }}
+                        </ul>
+                        {{ end }}
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container container--outer">
+        <div class="wrapper">
+            <div class="primary">
+                <h2 class="main__title">Artikel Terbaru</h2>
+                {{ range .Site.RegularPages }}
+                <article class="list__item">
+                    <div class="list__header">
+                        <h3 class="list__title">
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        </h3>
+                    </div>
+                    <div class="list__meta meta">
+                        <time>{{ .Date.Format "02 January 2006" }}</time>
+                        {{ if .Params.categories }}
+                        <span class="meta__item">
+                            {{ range .Params.categories }}
+                            <a href="/categories/{{ . | urlize }}/">{{ . }}</a>
+                            {{ end }}
+                        </span>
+                        {{ end }}
+                    </div>
+                    <p>{{ .Summary }}</p>
+                </article>
+                {{ end }}
+            </div>
+
+            <aside class="sidebar">
+                <div class="widget">
+                    <h3 class="widget__title">Kategori</h3>
+                    <ul>
+                        {{ range .Site.Taxonomies.categories }}
+                        <li class="widget__item">
+                            <a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ .Count }})</a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container footer__container">
+            <div class="footer__copyright">
+                &copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.
+            </div>
+            <div class="footer__links">
+                {{ range .Site.Menus.footer }}
+                <a href="{{ .URL }}">{{ .Name }}</a> |
+                {{ end }}
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
