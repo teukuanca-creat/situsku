@@ -18,18 +18,59 @@
 <body class="bg-gray-100 text-gray-800 flex flex-col min-h-screen">
 
     <!-- HEADER NAVIGATION -->
-    <header class="bg-blue-600 text-white shadow-md w-full">
-        <nav class="max-w-[1200px] mx-auto px-4 sm:px-6 py-4 flex justify-between items-center">
-            <a href="/" class="text-2xl font-bold text-white">{{ .Site.Title }}</a>
-            <a href="/" class="text-sm bg-blue-700 hover:bg-blue-800 text-white px-3 py-1.5 rounded-lg transition-colors">← Kembali ke Beranda</a>
+    <header class="bg-blue-600 text-white shadow-md w-full relative z-40">
+        <nav class="max-w-[1200px] mx-auto px-4 sm:px-6 py-4 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
+            
+            <div class="flex items-center justify-between shrink-0">
+                <a href="/" class="text-2xl font-bold tracking-wide text-white hover:text-blue-100">{{ .Site.Title }}</a>
+            </div>
+
+            <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 lg:gap-6 w-full lg:w-auto">
+                <ul class="flex flex-wrap items-center gap-4 text-sm font-medium shrink-0 relative z-50">
+                    {{ range .Site.Menus.main }}
+                        {{ if .HasChildren }}
+                            <li class="relative group py-1">
+                                <a href="{{ .URL }}" class="hover:text-blue-200 inline-flex items-center gap-1 py-1">
+                                    {{ .Name }}
+                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                                </a>
+                                <ul class="absolute left-0 top-full hidden group-hover:block bg-white text-gray-800 shadow-xl rounded-lg py-2 min-w-[200px] z-50 border mt-0">
+                                    {{ range .Children }}
+                                    <li>
+                                        <a href="{{ .URL }}" class="block px-4 py-2 hover:bg-blue-50 hover:text-blue-600 transition-colors text-left whitespace-nowrap">
+                                            {{ .Name }}
+                                        </a>
+                                    </li>
+                                    {{ end }}
+                                </ul>
+                            </li>
+                        {{ else }}
+                            <li>
+                                <a href="{{ .URL }}" class="hover:text-blue-200 block py-1">{{ .Name }}</a>
+                            </li>
+                        {{ end }}
+                    {{ end }}
+                </ul>
+
+                <form id="search-form" action="https://www.google.com/search" method="get" target="_blank" class="relative flex items-center shrink-0 w-full sm:w-48 lg:w-56 z-10">
+                    <input type="hidden" name="sitesearch" value="{{ .Site.BaseURL }}">
+                    <input type="text" id="search-input" name="q" placeholder="Cari artikel..." required class="w-full py-1.5 pl-3 pr-10 text-sm text-gray-800 bg-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-300">
+                    <button type="submit" id="search-btn" class="absolute right-0 top-0 bottom-0 px-3 text-gray-400 hover:text-blue-600 flex items-center justify-center focus:outline-none" aria-label="Cari">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                        </svg>
+                    </button>
+                </form>
+            </div>
+
         </nav>
     </header>
 
     <!-- KONTEN DAFTAR ARTIKEL KATEGORI -->
     <main class="max-w-[1200px] w-full mx-auto px-4 sm:px-6 py-8 flex-grow">
         <div class="mb-8 border-b pb-4">
-            <h1 class="text-2xl sm:text-3xl font-bold text-gray-900">Kategori: {{ .Title }}</h1>
-            <p class="text-gray-500 text-sm mt-1">Menampilkan seluruh artikel dalam kategori ini.</p>
+            <h1 class="text-2xl sm:text-3xl font-bold text-gray-900">Arsip: {{ .Title }}</h1>
+            <p class="text-gray-500 text-sm mt-1">Daftar artikel yang terdaftar dalam halaman ini.</p>
         </div>
 
         <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -59,8 +100,8 @@
         </section>
     </main>
 
-    <!-- FOOTER -->
-    <footer class="bg-gray-800 text-white py-6 mt-12 text-center text-sm">
+    <!-- FOOTER UTAMA (TIDAK TERTUMPOK GRID) -->
+    <footer class="bg-gray-800 text-white py-6 mt-auto text-center text-sm w-full">
         <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}. All rights reserved.</p>
     </footer>
 
