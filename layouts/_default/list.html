@@ -77,12 +77,7 @@
         </div>
 
         <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {{ $pages := .Pages }}
-            {{ if .IsHome }}
-                {{ $pages = .Site.RegularPages }}
-            {{ end }}
-
-            {{ range $pages }}
+            {{ range .Pages }}
             <article class="bg-white rounded-xl shadow border overflow-hidden flex flex-col justify-between hover:shadow-lg transition-shadow">
                 <a href="{{ .RelPermalink }}" class="block group">
                     <div class="w-full h-48 bg-gray-200 overflow-hidden">
