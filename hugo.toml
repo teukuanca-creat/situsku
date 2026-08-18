@@ -8,7 +8,7 @@ buildFuture = true
 # --- Pengaturan Ekstra (Mematikan Auto-Section Grid) ---
 ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
 
-# --- Pengaturan Kategori & Tags (Taksonomi) ---
+# --- Pengaturan Kategori & Tags (Taksonomi Hugo) ---
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -16,7 +16,7 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
 [params]
   description = "Situs Web Resmi teukuanca.com"
   author = "Admin"
-  # Mengizinkan artikel dari folder 'posts', 'blog', atau kategori lainnya
+  # Mengizinkan artikel dari berbagai folder/kategori
   mainSections = ["posts", "blog", "kreativitas", "artikel"]
 
   # --- Tautan Media Sosial ---
@@ -25,7 +25,10 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
   instagram = "https://instagram.com/usernameanda"
   youtube = "https://youtube.com/@usernameanda"
 
-# --- Konfigurasi Menu Navigasi Utama ---
+# ==============================================================================
+# MENU NAVIGASI UTAMA (HEADER)
+# ==============================================================================
+
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -41,26 +44,36 @@ ignoreFiles = ["content/pages/_index.md", "content/posts/_index.md"]
   url = "/pages/tentang-kami/"
   weight = 3
 
-# Menu Utama dengan Sub-Menu
+# --- Menu Utama dengan Sub-Menu (Dropdown) ---
 [[menu.main]]
   name = "Direktori Publik"
   url = "#"
   identifier = "Direktori Publik"
   weight = 4
 
+# Sub-Menu Kategori (Diperbaiki dari /pages/ ke /categories/)
 [[menu.main]]
   name = "Cerita Menarik"
-  url = "/pages/cerita-menarik/"
+  url = "/categories/cerita-menarik/"
   parent = "Direktori Publik"
   weight = 1
 
 [[menu.main]]
   name = "Edukasi"
-  url = "/pages/edukasi/"
+  url = "/categories/edukasi/"
   parent = "Direktori Publik"
   weight = 2
 
-# --- Menu Navigasi Footer ---
+[[menu.main]]
+  name = "Kreativitas"
+  url = "/categories/kreativitas/"
+  parent = "Direktori Publik"
+  weight = 3
+
+# ==============================================================================
+# MENU NAVIGASI FOOTER
+# ==============================================================================
+
 [[menu.footer]]
   name = "Tentang Kami"
   url = "/pages/tentang-kami/"
