@@ -22,31 +22,36 @@
         <nav class="max-w-[1200px] mx-auto px-4 sm:px-6 py-4 flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
             
             <div class="flex items-center justify-between shrink-0">
-                <a href="/" class="text-2xl font-bold tracking-wide text-white hover:text-blue-100">{{ .Site.Title }}</a>
+                <a href="{{ "/" | relURL }}" class="text-2xl font-bold tracking-wide text-white hover:text-blue-100">{{ .Site.Title }}</a>
             </div>
 
             <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 lg:gap-6 w-full lg:w-auto">
                 <ul class="flex flex-wrap items-center gap-4 text-sm font-medium shrink-0 relative z-50">
                     {{ range .Site.Menus.main }}
                         {{ if .HasChildren }}
-                            <li class="relative group py-1">
-                                <a href="{{ .URL }}" class="hover:text-blue-200 inline-flex items-center gap-1 py-1">
+                            <li class="relative group py-2">
+                                <a href="{{ .URL | relURL }}" class="hover:text-blue-200 inline-flex items-center gap-1">
                                     {{ .Name }}
-                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                                    <svg class="w-4 h-4 transition-transform duration-200 group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                    </svg>
                                 </a>
-                                <ul class="absolute left-0 top-full hidden group-hover:block bg-white text-gray-800 shadow-xl rounded-lg py-2 min-w-[200px] z-50 border mt-0">
-                                    {{ range .Children }}
-                                    <li>
-                                        <a href="{{ .URL }}" class="block px-4 py-2 hover:bg-blue-50 hover:text-blue-600 transition-colors text-left whitespace-nowrap">
-                                            {{ .Name }}
-                                        </a>
-                                    </li>
-                                    {{ end }}
-                                </ul>
+                                <!-- Dropdown Sub-Menu -->
+                                <div class="absolute left-0 top-full hidden group-hover:block pt-1 z-50">
+                                    <ul class="bg-white text-gray-800 shadow-xl rounded-lg py-2 min-w-[200px] border border-gray-100">
+                                        {{ range .Children }}
+                                        <li>
+                                            <a href="{{ .URL | relURL }}" class="block px-4 py-2 hover:bg-blue-50 hover:text-blue-600 transition-colors text-left whitespace-nowrap">
+                                                {{ .Name }}
+                                            </a>
+                                        </li>
+                                        {{ end }}
+                                    </ul>
+                                </div>
                             </li>
                         {{ else }}
-                            <li>
-                                <a href="{{ .URL }}" class="hover:text-blue-200 block py-1">{{ .Name }}</a>
+                            <li class="py-2">
+                                <a href="{{ .URL | relURL }}" class="hover:text-blue-200 block">{{ .Name }}</a>
                             </li>
                         {{ end }}
                     {{ end }}
@@ -76,7 +81,7 @@
         <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {{ range .Pages }}
             <article class="bg-white rounded-xl shadow border overflow-hidden flex flex-col justify-between hover:shadow-lg transition-shadow">
-                <a href="{{ .Permalink }}" class="block group">
+                <a href="{{ .RelPermalink }}" class="block group">
                     <div class="w-full h-48 bg-gray-200 overflow-hidden">
                         {{ with .Params.featured_image }}
                         <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
@@ -96,11 +101,15 @@
                     📅 {{ .Date.Format "02 Jan 2006" }}
                 </div>
             </article>
+            {{ else }}
+            <div class="col-span-full py-12 text-center text-gray-500">
+                Belum ada artikel yang dipublikasikan di halaman ini.
+            </div>
             {{ end }}
         </section>
     </main>
 
-    <!-- FOOTER UTAMA (TIDAK TERTUMPOK GRID) -->
+    <!-- FOOTER UTAMA -->
     <footer class="bg-gray-800 text-white py-6 mt-auto text-center text-sm w-full">
         <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}. All rights reserved.</p>
     </footer>
