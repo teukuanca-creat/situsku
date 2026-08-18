@@ -113,7 +113,7 @@
                 {{ range where .Site.RegularPages "Section" "posts" }}
                 <article class="list__item">
                     <h3 class="list__title">
-                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
                     </h3>
                     <div class="meta">
                         <time>{{ .Date.Format "02 January 2006" }}</time>
@@ -128,7 +128,7 @@
                     {{ if .Params.featured_image }}
                     <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="list__thumbnail">
                     {{ end }}
-                    <a href="{{ .RelPermalink }}" class="read-more">Baca Selengkapnya</a>
+                    <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" class="read-more">Baca Selengkapnya</a>
                 </article>
                 {{ end }}
             </div>
