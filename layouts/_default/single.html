@@ -3,24 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    <title>{{ .Title }} - teukuanca.com</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { font-family: Arial, sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
         .container { max-width: 800px; margin: 0 auto; padding: 30px 15px; }
         .article { background: #fff; border-radius: 8px; padding: 30px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-        h1 { font-size: 28px; margin-bottom: 20px; color: #000; }
-        h2 { font-size: 22px; margin: 20px 0 10px; color: #000; }
+        h1 { font-size: 24px; margin-bottom: 20px; color: #000; }
+        h2 { font-size: 20px; margin: 20px 0 10px; color: #000; }
         h3 { font-size: 18px; margin: 15px 0 10px; color: #000; }
         p { margin-bottom: 15px; }
         ul, ol { margin: 0 0 15px 20px; }
         li { margin-bottom: 5px; }
-        a { color: #e22d30; text-decoration: none; }
+        a { color: #1a56db; text-decoration: none; }
         a:hover { text-decoration: underline; }
         img { max-width: 100%; height: auto; border-radius: 5px; }
-        .back-link { display: inline-block; margin-bottom: 20px; color: #e22d30; }
-        .footer { background: #2a2a2a; color: #999; padding: 20px 0; margin-top: 30px; font-size: 13px; text-align: center; }
+        .back-link { display: inline-block; margin-bottom: 20px; color: #1a56db; }
+        
+        /* Share icons */
+        .share-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
+        .share-section h3 { font-size: 16px; margin-bottom: 15px; }
+        .share-icons { display: flex; gap: 10px; flex-wrap: wrap; }
+        .share-icons a { display: inline-flex; align-items: center; gap: 5px; padding: 8px 15px; border-radius: 5px; color: #fff; text-decoration: none; font-size: 13px; font-weight: bold; }
+        .share-fb { background: #1877f2; }
+        .share-tw { background: #000; }
+        .share-ig { background: #e4405f; }
+        .share-email { background: #ea4335; }
+        .share-tiktok { background: #000; }
+        
+        .footer { background: #1a56db; color: #fff; padding: 20px 0; margin-top: 30px; font-size: 13px; text-align: center; }
         .footer a { color: #fff; text-decoration: none; }
+        .footer a:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -29,11 +42,22 @@
         <article class="article">
             <h1>{{ .Title }}</h1>
             {{ .Content }}
+            
+            <div class="share-section">
+                <h3>Bagikan Artikel Ini:</h3>
+                <div class="share-icons">
+                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" class="share-fb">Facebook</a>
+                    <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" target="_blank" class="share-tw">Twitter</a>
+                    <a href="https://www.instagram.com/" target="_blank" class="share-ig">Instagram</a>
+                    <a href="mailto:?subject={{ .Title }}&body={{ .Permalink }}" class="share-email">Email</a>
+                    <a href="https://www.tiktok.com/" target="_blank" class="share-tiktok">TikTok</a>
+                </div>
+            </div>
         </article>
     </div>
     <footer class="footer">
         <div class="container">
-            &copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.
+            &copy; 2026 teukuanca.com. All rights reserved.
         </div>
     </footer>
 </body>
