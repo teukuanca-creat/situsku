@@ -159,7 +159,10 @@
             .list__title { font-size: 30px; }
         }
         .list__title a:hover { color: var(--primary); }
-        .list__thumbnail { width: 100%; border-radius: 8px; margin-bottom: 10px; }
+        .list__thumbnail { width: 100%; height: 250px; object-fit: cover; border-radius: 8px; margin-bottom: 10px; display: block; }
+@media (max-width: 768px) {
+    .list__thumbnail { height: 200px; }
+}
         .meta { font-size: 13px; color: #666; margin-bottom: 10px; }
         .meta a { color: var(--primary); }
         .read-more { display: inline-block; background: var(--black); color: var(--white); padding: 8px 20px; border-radius: 5px; font-size: 13px; font-weight: bold; margin-top: 10px; transition: background .3s ease; }
