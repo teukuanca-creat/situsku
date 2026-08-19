@@ -1,8 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://example.org/sitemap.xml
+Disallow: /search/
 
-# Prevent duplicate content indexing
-Disallow: /tags/
-Disallow: /categories/
-Disallow: /search/ 
+Sitemap: https://teukuanca-creat.github.io/situsku/sitemap.xml
