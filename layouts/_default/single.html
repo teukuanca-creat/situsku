@@ -241,8 +241,10 @@
                 {{ end }}
             </div>
             {{ if .Params.featured_image }}
-            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
-            {{ end }}
+<div style="text-align:center; margin: 20px 0;">
+    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width:100%; max-width:800px; height:400px; object-fit:cover; border-radius:10px; display:block; margin:0 auto;">
+</div>
+{{ end }}
             {{ .Content }}
             
             <div class="share-section">
