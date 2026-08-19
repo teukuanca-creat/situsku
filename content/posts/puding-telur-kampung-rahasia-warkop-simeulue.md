@@ -49,10 +49,8 @@ Untuk menghasilkan tekstur lembut seperti sutra (silky texture) sekaligus menjam
 - Tutup Rapat 2–3 Menit]
 - Sajikan dengan Merica/Garam.
 
-<div style="text-align:center; margin:20px 0;">
-    <img src="/situsku/images/puding-telur-konten.webp" alt="Puding Telur Ayam Kampung Khas Warkop Simeulue" style="max-width:100%; border-radius:10px; display:block; margin:0 auto;">
-    <p style="font-size:14px; color:#666; font-style:italic; margin-top:5px; margin-bottom:0;">Puding telur ayam kampung khas warkop Simeulue, Aceh. Foto: Dokumentasi Pribadi</p>
-</div>
+![Puding Telur Ayam Kampung Khas Warkop Simeulue](/situsku/images/puding-telur-konten.webp)
+*Puding telur ayam kampung khas warkop Simeulue, Aceh. Foto: Dokumentasi Pribadi*
 
 *Puding telur ayam kampung khas warkop Simeulue, Aceh. Foto: Dokumentasi Pribadi*
 ## Reaksi Medis bagi Tubuh dan Efek Penambah Stamina
