@@ -255,7 +255,7 @@
 {{ end }}
 
 <!-- Table of Contents -->
-{{ if .Content | strings.Contains "<h2" }}
+{{ if .TableOfContents }}
 <div class="toc-box" style="background:#f8f9fa; border:1px solid #e0e0e0; border-radius:10px; padding:20px; margin:20px 0;">
     <h3 style="font-size:16px; font-weight:bold; margin:0 0 15px; color:#000;">📑 Daftar Isi</h3>
     {{ .TableOfContents }}
