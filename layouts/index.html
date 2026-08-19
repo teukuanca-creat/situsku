@@ -257,19 +257,54 @@
             </div>
 
             <aside class="sidebar">
-                <div class="widget">
-                    <h3 class="widget__title">Post Terbaru</h3>
-                    {{ range first 1 (where .Site.RegularPages "Section" "posts") }}
-                    <ul style="list-style:none;">
-                        <li class="widget__item">
-                            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
-                                <strong>{{ .Title }}</strong>
-                            </a>
-                            <br><small>{{ .Date.Format "02 January 2006" }}</small>
-                        </li>
-                    </ul>
-                    {{ end }}
+    <div class="widget">
+        <h3 class="widget__title">Post Terbaru</h3>
+        {{ range first 1 (where .Site.RegularPages "Section" "posts") }}
+        <div class="widget-card">
+            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
+                {{ if .Params.featured_image }}
+                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                {{ end }}
+                <div class="widget-card-overlay">
+                    <strong>{{ .Title }}</strong>
+                    <small>{{ .Date.Format "02 January 2006" }}</small>
                 </div>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+
+    <div class="widget">
+        <h3 class="widget__title">Trending</h3>
+        {{ range first 2 (where .Site.RegularPages "Section" "posts") }}
+        <div class="widget-card">
+            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
+                {{ if .Params.featured_image }}
+                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                {{ end }}
+                <div class="widget-card-overlay">
+                    <strong>{{ .Title }}</strong>
+                    <small>{{ .Date.Format "02 January 2006" }}</small>
+                </div>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+
+    <div class="widget">
+        <h3 class="widget__title">Iklan</h3>
+        <div class="ad-placeholder">
+            Ruang Iklan<br>728 x 90
+        </div>
+    </div>
+
+    <div class="widget">
+        <h3 class="widget__title">Video</h3>
+        <div class="video-placeholder">
+            Masukkan YouTube di sini
+        </div>
+    </div>
+            </aside>
 
                 <div class="widget">
     <h3 class="widget__title">Post Terbaru</h3>
