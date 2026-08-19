@@ -65,9 +65,14 @@
         .sidebar { flex: 1; min-width: 0; }
 
         /* Article Card */
-        .list__item { background: var(--white); border-radius: 10px; padding: 20px; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform .3s ease, box-shadow .3s ease; }
+
+        .list__item { background: var(--white); border-radius: 15px; padding: 30px; margin-bottom: 40px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); transition: transform .3s ease, box-shadow .3s ease; }
         .list__item:hover { transform: translateY(-3px); box-shadow: 0 6px 15px rgba(0,0,0,0.1); }
-        .list__title { font-size: 18px; margin-bottom: 10px; }
+
+        .list__title { font-size: 40px; margin-bottom: 15px; line-height: 1.2; }
+@media (max-width: 768px) {
+    .list__title { font-size: 30px; }
+}
         .list__title a:hover { color: var(--primary); }
         .list__thumbnail { width: 100%; border-radius: 8px; margin-bottom: 10px; }
         .meta { font-size: 13px; color: #666; margin-bottom: 10px; }
@@ -82,7 +87,12 @@
         .widget__item a:hover { color: var(--primary); }
         .ad-placeholder { background: #e0e0e0; border: 2px dashed #999; border-radius: 8px; padding: 40px 20px; text-align: center; color: #666; font-size: 14px; }
         .video-placeholder { background: #000; border-radius: 8px; aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 14px; }
-
+.widget-card { position: relative; border-radius: 10px; overflow: hidden; margin-bottom: 15px; }
+.widget-card img { width: 100%; height: 180px; object-fit: cover; display: block; }
+.widget-card-overlay { position: absolute; bottom: 0; left: 0; right: 0; padding: 15px; background: linear-gradient(transparent, rgba(0,0,0,0.85)); }
+.widget-card-overlay strong { color: #fff; font-size: 14px; display: block; }
+.widget-card-overlay small { color: #ccc; font-size: 11px; }
+        
         /* 3 Columns Above Footer */
         .footer-columns { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; padding: 50px 0; }
         .footer-col { background: #000; border-radius: 15px; padding: 25px; box-shadow: 0 5px 20px rgba(0,0,0,0.3); }
@@ -262,18 +272,55 @@
                 </div>
 
                 <div class="widget">
-                    <h3 class="widget__title">Trending</h3>
-                    {{ range first 1 (where .Site.RegularPages "Section" "posts") }}
-                    <ul style="list-style:none;">
-                        <li class="widget__item">
-                            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
-                                <strong>{{ .Title }}</strong>
-                            </a>
-                            <br><small>{{ .Date.Format "02 January 2006" }}</small>
-                        </li>
-                    </ul>
-                    {{ end }}
-                </div>
+    <h3 class="widget__title">Post Terbaru</h3>
+    {{ range first 1 (where .Site.RegularPages "Section" "posts") }}
+    <div class="widget-card">
+        <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
+            {{ if .Params.featured_image }}
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+            {{ end }}
+            <div class="widget-card-overlay">
+                <strong>{{ .Title }}</strong>
+                <small>{{ .Date.Format "02 January 2006" }}</small>
+            </div>
+        </a>
+    </div>
+    {{ end }}
+</div>
+
+<div class="widget">
+    <h3 class="widget__title">Post Terbaru</h3>
+    {{ range first 1 (where .Site.RegularPages "Section" "posts") }}
+    <div class="widget-card">
+        <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
+            {{ if .Params.featured_image }}
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+            {{ end }}
+            <div class="widget-card-overlay">
+                <strong>{{ .Title }}</strong>
+                <small>{{ .Date.Format "02 January 2006" }}</small>
+            </div>
+        </a>
+    </div>
+    {{ end }}
+</div>
+
+<div class="widget">
+    <h3 class="widget__title">Trending</h3>
+    {{ range first 2 (where .Site.RegularPages "Section" "posts") }}
+    <div class="widget-card">
+        <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
+            {{ if .Params.featured_image }}
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+            {{ end }}
+            <div class="widget-card-overlay">
+                <strong>{{ .Title }}</strong>
+                <small>{{ .Date.Format "02 January 2006" }}</small>
+            </div>
+        </a>
+    </div>
+    {{ end }}
+</div>
 
                 <div class="widget">
                     <h3 class="widget__title">Iklan</h3>
