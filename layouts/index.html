@@ -24,6 +24,27 @@
         .header-top { display: flex; align-items: center; justify-content: space-between; padding: 15px 0; }
         .logo__title { font-size: 24px; font-weight: bold; color: var(--black); }
 
+/* Slider */
+.slider-container { position: relative; max-width: 100%; margin: 0; overflow: hidden; }
+.slider { display: flex; transition: transform .5s ease; }
+.slide { min-width: 100%; position: relative; }
+.slide img { width: 100%; height: 400px; object-fit: cover; display: block; }
+.slide-overlay { position: absolute; bottom: 0; left: 0; right: 0; padding: 40px 30px; background: linear-gradient(transparent, rgba(0,0,0,0.8)); }
+.slide-title { color: #fff; font-size: 22px; font-weight: bold; margin-bottom: 10px; }
+.slide-meta { color: #ddd; font-size: 13px; display: flex; gap: 15px; align-items: center; }
+.slide-category { background: #1a56db; color: #fff; padding: 3px 12px; border-radius: 20px; font-size: 12px; }
+.slider-btn { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: #fff; border: none; cursor: pointer; padding: 15px 18px; font-size: 20px; border-radius: 50%; z-index: 10; }
+.slider-btn:hover { background: rgba(0,0,0,0.8); }
+.slider-btn.prev { left: 15px; }
+.slider-btn.next { right: 15px; }
+.slider-dots { position: absolute; bottom: 15px; left: 50%; transform: translateX(-50%); display: flex; gap: 10px; z-index: 10; }
+.slider-dots span { width: 10px; height: 10px; background: rgba(255,255,255,0.5); border-radius: 50%; cursor: pointer; }
+.slider-dots span.active { background: #fff; }
+@media (max-width: 768px) {
+    .slide img { height: 250px; }
+    .slide-title { font-size: 16px; }
+}
+        
         /* Menu */
         .menu { background: var(--primary); }
         .menu__list { list-style: none; display: flex; flex-wrap: wrap; }
@@ -154,6 +175,37 @@
         </nav>
     </header>
 
+<!-- Slider -->
+<div class="slider-container">
+    <div class="slider" id="slider">
+        {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+        <div class="slide">
+            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
+                {{ if .Params.featured_image }}
+                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                {{ end }}
+                <div class="slide-overlay">
+                    <h3 class="slide-title">{{ .Title }}</h3>
+                    <div class="slide-meta">
+                        <span>{{ .Date.Format "02 January 2006" }}</span>
+                        {{ if .Params.categories }}
+                        <span>
+                            {{ range .Params.categories }}
+                            <span class="slide-category">{{ . }}</span>
+                            {{ end }}
+                        </span>
+                        {{ end }}
+                    </div>
+                </div>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+    <button class="slider-btn prev" onclick="moveSlide(-1)">&#10094;</button>
+    <button class="slider-btn next" onclick="moveSlide(1)">&#10095;</button>
+    <div class="slider-dots" id="sliderDots"></div>
+</div>
+    
     <main class="container">
         <div class="main-wrapper">
             <div class="primary">
@@ -324,5 +376,47 @@
             el.parentElement.classList.toggle('active');
         }
     </script>
+
+    <script>
+    var currentSlide = 0;
+    var slides = document.querySelectorAll('.slide');
+    var dotsContainer = document.getElementById('sliderDots');
+    
+    // Create dots
+    for (var i = 0; i < slides.length; i++) {
+        var dot = document.createElement('span');
+        dot.onclick = (function(index) {
+            return function() { goToSlide(index); };
+        })(i);
+        dotsContainer.appendChild(dot);
+    }
+    
+    function goToSlide(index) {
+        currentSlide = index;
+        updateSlider();
+    }
+    
+    function moveSlide(direction) {
+        currentSlide = (currentSlide + direction + slides.length) % slides.length;
+        updateSlider();
+    }
+    
+    function updateSlider() {
+        var slider = document.getElementById('slider');
+        slider.style.transform = 'translateX(-' + (currentSlide * 100) + '%)';
+        var dots = dotsContainer.querySelectorAll('span');
+        dots.forEach(function(dot, index) {
+            dot.classList.toggle('active', index === currentSlide);
+        });
+    }
+    
+    updateSlider();
+    
+    // Auto slide
+    setInterval(function() {
+        moveSlide(1);
+    }, 5000);
+    </script>
+
 </body>
     </html>
