@@ -218,7 +218,7 @@
                 <!-- 3 Columns Above Footer -->
         <div class="footer-columns">
             <div class="footer-col">
-                <h3>Artikel Terbaru</h3>
+                <h3>Latest Posts</h3>
                 <ul>
                     {{ range first 3 (where .Site.RegularPages "Section" "posts") }}
                     <li>
@@ -231,7 +231,7 @@
                 </ul>
             </div>
             <div class="footer-col">
-                <h3>Artikel Terlama</h3>
+                <h3>Other Posts</h3>
                 <ul>
                     {{ range last 3 (where .Site.RegularPages "Section" "posts") }}
                     <li>
@@ -244,7 +244,7 @@
                 </ul>
             </div>
             <div class="footer-col">
-                <h3>Artikel A-Z</h3>
+                <h3>Posts A to Z</h3>
                 <ul>
                     {{ range first 3 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
                     <li>
@@ -258,9 +258,9 @@
             </div>
         </div>
     <div class="footer-col">
-    <h3>Artikel Terbaru</h3>
+    <h3>List of Posts</h3>
     <ul>
-        {{ range first 3 (where .Site.RegularPages "Section" "posts") }}
+        {{ range first 10 (where .Site.RegularPages "Section" "posts") }}
         <li>
             <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
         </li>
