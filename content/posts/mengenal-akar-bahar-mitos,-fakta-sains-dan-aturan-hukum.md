@@ -1,5 +1,5 @@
 ---
-judul: 'Mengenal Akar Bahar: Mitos, Fakta Sains dan Aturan Hukum'
+judul: 'Mengenal Akar Bahar. Mitos, Fakta Sains dan Aturan Hukum'
 permalink: /2026/08/mengenal-akar-bahar-mitos-fakta-sains.html
 date: 2026-08-02
 draft: false
@@ -61,6 +61,8 @@ Merujuk pada literatur edukasi kesehatan tepercaya, belum ada penelitian ilmiah 
 Kerangka Akar Bahar memang tersusun atas materi skleroprotein dan kitin. Dalam dunia farmakologi modern, isolasi senyawa bioaktif dari biota laut memang terus diteliti untuk bahan obat-obatan.
 
 Bisa disimpulkan, klaim dapat menyembuhkan penyakit ketika mengenakanya, itu lebih dominan didorong oleh efek **plasebo (placebo effect)**, yakni keyakinan psikologis memicu rasa tenang dan meredakan stres, sehingga tubuh terasa lebih nyaman.
+
+> **Baca Juga:** [Trend Batu Akik di Simeulue, Aceh](https://teukuanca-creat.github.io/situsku/posts/pesona-batu-akik-dan-giok-aceh-jenis--pengolahan/)
 
 ## Dimensi Mistik: Penolak Bala dan Simbol Kewibawaan
 Diluar kajian medis, sudut pandang lainnya ada pada spiritual. Adapun alasan utama mengapa Akar Bahar sangat dicari oleh para pengolah benda pusaka dan praktisi keilmuan spiritual Nusantara, karena dianggap sebagai;
