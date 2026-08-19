@@ -8,7 +8,46 @@
 <meta name="description" content="{{ .Params.description }}">
 <meta name="keywords" content="{{ if .Params.tags }}{{ delimit .Params.tags ", " }}{{ end }}">
 <link rel="canonical" href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
+<!-- FAQ Schema -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Apa itu {{ .Title }}?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "{{ .Params.description }}"
+            }
+        }
+    ]
+}
+</script>
 
+<!-- Breadcrumb Schema -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://teukuanca-creat.github.io/situsku/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "{{ .Title }}",
+            "item": "https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}"
+        }
+    ]
+}
+</script>
+    
 <!-- Open Graph -->
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ .Params.description }}">
