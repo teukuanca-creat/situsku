@@ -219,7 +219,7 @@
             <div class="footer-col">
                 <h3>Artikel Terbaru</h3>
                 <ul>
-                    {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+                    {{ range first 3 (where .Site.RegularPages "Section" "posts") }}
                     <li>
                         {{ if .Params.featured_image }}
                         <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
@@ -232,7 +232,7 @@
             <div class="footer-col">
                 <h3>Artikel Terlama</h3>
                 <ul>
-                    {{ range last 5 (where .Site.RegularPages "Section" "posts") }}
+                    {{ range last 3 (where .Site.RegularPages "Section" "posts") }}
                     <li>
                         {{ if .Params.featured_image }}
                         <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
@@ -245,7 +245,7 @@
             <div class="footer-col">
                 <h3>Artikel A-Z</h3>
                 <ul>
-                    {{ range first 5 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
+                    {{ range first 3 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
                     <li>
                         {{ if .Params.featured_image }}
                         <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
@@ -257,17 +257,15 @@
             </div>
         </div>
     <div class="footer-col">
-        <h3>Artikel A-Z</h3>
-        <ul>
-            {{ range first 5 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
-            <li>
-                <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
-                <small>{{ .Summary | truncate 20 }}</small>
-            </li>
-            {{ end }}
-        </ul>
+    <h3>Artikel Terbaru</h3>
+    <ul>
+        {{ range first 3 (where .Site.RegularPages "Section" "posts") }}
+        <li>
+            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
     </div>
-</div>
 
     <footer class="footer">
         <div class="container footer__container">
