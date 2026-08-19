@@ -20,9 +20,9 @@
         img { max-width: 100%; height: auto; }
 
         /* Header */
-        .header { background: var(--white); box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .header { background: var(--white); box-shadow: 0 2px 5px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 100; }
         .header-top { display: flex; align-items: center; justify-content: space-between; padding: 15px 0; }
-        .logo__title { font-size: 24px; font-weight: bold; color: var(--black); }
+        .logo__title { font-size: 20px; font-weight: bold; color: var(--black); font-style: italic; font-family: Georgia, 'Times New Roman', serif; }
 
         /* Slider */
         .slider-container { position: relative; max-width: 100%; margin: 0; overflow: hidden; }
@@ -145,12 +145,15 @@
     <header class="header">
         <div class="container">
             <div class="header-top">
-                <a href="https://teukuanca-creat.github.io/situsku/">
-                    <h1 class="logo__title">teukuanca.com</h1>
-                </a>
-                <button class="hamburger" onclick="toggleMenu()">
-                    <span></span><span></span><span></span>
-                </button>
+    <a href="https://teukuanca-creat.github.io/situsku/">
+        <h1 class="logo__title">teukuanca.com</h1>
+    </a>
+    <div style="display:flex; align-items:center; gap:10px;">
+        <span class="search-icon" onclick="toggleSearch()">🔍</span>
+        <button class="hamburger" onclick="toggleMenu()">
+            <span></span><span></span><span></span>
+        </button>
+    </div>
             </div>
         </div>
         <nav class="menu" id="mainMenu">
@@ -177,14 +180,17 @@
                     <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/budaya-sejarah/" class="menu__link">Budaya & Sejarah</a></li>
                     <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/pages/tentang-kami/" class="menu__link">Tentang Kami</a></li>
                     <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/pages/hubungi-kami/" class="menu__link">Hubungi Kami</a></li>
-                    <li class="menu__item">
-                        <span class="search-icon" onclick="alert('Fitur pencarian akan segera hadir!')">🔍</span>
-                    </li>
+                    
                 </ul>
             </div>
         </nav>
     </header>
-
+<!-- Search Box -->
+<div id="searchBox" style="display:none; background:#fff; padding:15px 0; border-bottom:1px solid #e0e0e0;">
+    <div class="container">
+        <input type="text" id="searchInput" placeholder="Cari artikel..." style="width:100%; padding:12px 20px; border:2px solid #1a56db; border-radius:25px; font-size:16px; outline:none;">
+    </div>
+</div>
     <!-- Slider -->
     <div class="slider-container">
         <div class="slider" id="slider">
@@ -383,13 +389,22 @@
     </footer>
 
     <script>
-        function toggleMenu() {
-            var menu = document.getElementById('menuList');
-            menu.classList.toggle('active');
+    function toggleSearch() {
+        var searchBox = document.getElementById('searchBox');
+        if (searchBox.style.display === 'none') {
+            searchBox.style.display = 'block';
+        } else {
+            searchBox.style.display = 'none';
         }
-        function toggleSubmenu(el) {
-            el.parentElement.classList.toggle('active');
-        }
+    }
+    
+    function toggleMenu() {
+        var menu = document.getElementById('menuList');
+        menu.classList.toggle('active');
+    }
+    function toggleSubmenu(el) {
+        el.parentElement.classList.toggle('active');
+    }
     </script>
 
     <script>
