@@ -63,12 +63,12 @@
         .video-placeholder { background: #000; border-radius: 8px; aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 14px; }
 
         /* 3 Columns Above Footer */
-        .footer-columns { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; padding: 40px 0; }
-        .footer-col { background: var(--white); border-radius: 10px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
-        .footer-col h3 { font-size: 16px; text-transform: uppercase; border-bottom: 3px solid var(--primary); padding-bottom: 10px; margin-bottom: 15px; }
-        .footer-col ul { list-style: none; }
-        .footer-col li { padding: 8px 0; border-bottom: 1px solid #eee; font-size: 14px; }
-        .footer-col li a:hover { color: var(--primary); }
+.footer-columns { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; padding: 40px 0; }
+.footer-col { background: var(--white); border-radius: 10px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.footer-col h3 { font-size: 16px; text-transform: uppercase; border-bottom: 3px solid var(--primary); padding-bottom: 10px; margin-bottom: 15px; }
+.footer-col ul { list-style: none; }
+.footer-col li { padding: 8px 0; border-bottom: 1px solid #eee; font-size: 14px; }
+.footer-col li a:hover { color: var(--primary); }
 
         /* Footer */
         .footer { background: var(--primary); color: var(--white); padding: 30px 0; margin-top: 30px; font-size: 13px; }
@@ -213,33 +213,41 @@
         </div>
 
         <!-- 3 Columns Above Footer -->
-        <div class="footer-columns">
-            <div class="footer-col">
-                <h3>Artikel Terbaru</h3>
-                <ul>
-                    {{ range first 2 (where .Site.RegularPages "Section" "posts") }}
-                    <li><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></li>
-                    {{ end }}
-                </ul>
-            </div>
-            <div class="footer-col">
-                <h3>Artikel Terlama</h3>
-                <ul>
-                    {{ range last 2 (where .Site.RegularPages "Section" "posts") }}
-                    <li><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></li>
-                    {{ end }}
-                </ul>
-            </div>
-            <div class="footer-col">
-                <h3>Artikel A-Z</h3>
-                <ul>
-                    {{ range first 2 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
-                    <li><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></li>
-                    {{ end }}
-                </ul>
-            </div>
-        </div>
-    </main>
+<div class="footer-columns">
+    <div class="footer-col">
+        <h3>Artikel Terbaru</h3>
+        <ul>
+            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+            <li>
+                <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
+                <small>{{ .Summary | truncate 20 }}</small>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    <div class="footer-col">
+        <h3>Artikel Terlama</h3>
+        <ul>
+            {{ range last 5 (where .Site.RegularPages "Section" "posts") }}
+            <li>
+                <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
+                <small>{{ .Summary | truncate 20 }}</small>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    <div class="footer-col">
+        <h3>Artikel A-Z</h3>
+        <ul>
+            {{ range first 5 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
+            <li>
+                <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
+                <small>{{ .Summary | truncate 20 }}</small>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
 
     <footer class="footer">
         <div class="container footer__container">
