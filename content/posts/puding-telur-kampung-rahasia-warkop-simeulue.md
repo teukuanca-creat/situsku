@@ -50,7 +50,7 @@ Untuk menghasilkan tekstur lembut seperti sutra (silky texture) sekaligus menjam
 - Sajikan dengan Merica/Garam.
 
 <figure style="text-align:center; margin:30px 0;">
-    <img src="/situsku/images/puding-telur-simeulue.webp" alt="Puding Telur Ayam Kampung Khas Warkop Simeulue" style="max-width:100%; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.1);">
+    <img src="/situsku/images/puding-telur.webp" alt="Puding Telur Ayam Kampung Khas Warkop Simeulue" style="max-width:100%; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.1);">
     <figcaption style="font-size:14px; color:#666; margin-top:12px; font-style:italic;">Puding telur ayam kampung khas warkop Simeulue, Aceh. Foto: Dokumentasi Pribadi</figcaption>
 </figure>
 
