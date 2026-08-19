@@ -83,7 +83,12 @@ Kunyit memberikan warna kuning-oranye alami sekaligus berfungsi sebagai antisept
 **8. ​Cabai Merah & Cabai Kering:**
 
 Cabai kering yang dihaluskan memberikan warna merah pekat yang membangkitkan selera tanpa membuat kuah menjadi terlalu cair.
-​
+​<div style="background-color: #f0f7ff; border-left: 5px solid #2196f3; padding: 15px; margin: 20px 0; border-radius: 5px;">
+    <strong>Baca Juga: </strong> 
+    <a href="[https://teukuanca.com/?p=4673](https://teukuanca-creat.github.io/situsku/posts/puding-telur-kampung-rahasia-warkop-simeulue/)" style="text-decoration: none; color: #1a73e8; font-weight: bold;">
+        Puding Telur Kampung: Rahasia Warkop Simeulue
+    </a>
+</div>
 ### Teknik Pengolahan: Api, Air, dan Minyak yang Menentukan Hasil Akhir
 
 ​Sering kali orang mencoba meracik bumbu Mie Aceh di rumah, tetapi hasilnya terasa berbeda dengan buatan koki di warung kopi.
