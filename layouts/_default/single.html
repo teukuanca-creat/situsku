@@ -5,46 +5,155 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }} - teukuanca.com</title>
     <style>
+        :root {
+            --primary: #1a56db;
+            --primary-dark: #1e40af;
+            --black: #111;
+            --white: #fff;
+            --gray: #f5f5f5;
+            --text: #333;
+        }
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: Arial, sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
-        .container { max-width: 800px; margin: 0 auto; padding: 30px 15px; }
-        .article { background: #fff; border-radius: 8px; padding: 30px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
-        h1 { font-size: 24px; margin-bottom: 20px; color: #000; }
-        h2 { font-size: 20px; margin: 20px 0 10px; color: #000; }
-        h3 { font-size: 18px; margin: 15px 0 10px; color: #000; }
-        p { margin-bottom: 15px; }
-        ul, ol { margin: 0 0 15px 20px; }
-        li { margin-bottom: 5px; }
-        a { color: #1a56db; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        img { max-width: 100%; height: auto; border-radius: 5px; }
-        .back-link { display: inline-block; margin-bottom: 20px; color: #1a56db; }
-        
-        /* Share icons */
+        body { font-family: Arial, Helvetica, sans-serif; background: var(--gray); color: var(--text); line-height: 1.7; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        a { text-decoration: none; color: inherit; }
+        img { max-width: 100%; height: auto; }
+
+        /* Header */
+        .header { background: var(--white); box-shadow: 0 2px 5px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 100; }
+        .header-top { display: flex; align-items: center; justify-content: space-between; padding: 15px 0; }
+        .logo__title { font-size: 24px; font-weight: bold; color: var(--black); }
+
+        /* Menu */
+        .menu { background: var(--primary); }
+        .menu__list { list-style: none; display: flex; flex-wrap: wrap; }
+        .menu__item { position: relative; }
+        .menu__item:hover { background: var(--primary-dark); }
+        .menu__link { display: block; padding: 12px 18px; color: var(--white); font-weight: bold; text-transform: uppercase; font-size: 13px; }
+        .menu__link:hover { color: var(--white); }
+        .menu__item .menu__list { display: none; position: absolute; top: 100%; left: 0; background: var(--primary); min-width: 200px; z-index: 100; }
+        .menu__item:hover .menu__list { display: block; }
+
+        /* Hamburger */
+        .hamburger { display: none; background: none; border: none; cursor: pointer; padding: 5px; }
+        .hamburger span { display: block; width: 25px; height: 3px; background: var(--black); margin: 5px 0; border-radius: 3px; }
+
+        /* Article */
+        .article-container { max-width: 1200px; margin: 30px auto; padding: 0 20px; }
+        .article { background: var(--white); border-radius: 10px; padding: 40px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+        .article h1 { font-size: 32px; margin-bottom: 20px; color: #000; line-height: 1.3; }
+        .article h2 { font-size: 24px; margin: 25px 0 15px; color: #000; }
+        .article h3 { font-size: 20px; margin: 20px 0 10px; color: #000; }
+        .article p { margin-bottom: 20px; font-size: 17px; }
+        .article ul, .article ol { margin: 0 0 20px 30px; font-size: 17px; }
+        .article li { margin-bottom: 10px; }
+        .article a { color: var(--primary); font-weight: bold; }
+        .article a:hover { text-decoration: underline; }
+        .article img { border-radius: 10px; margin: 20px 0; }
+        .article blockquote { border-left: 5px solid var(--primary); padding: 15px 20px; margin: 20px 0; background: #f8f9fa; font-style: italic; }
+
+        /* Meta */
+        .article-meta { display: flex; gap: 15px; align-items: center; flex-wrap: wrap; margin-bottom: 20px; font-size: 14px; color: #666; }
+        .article-meta .category { background: var(--primary); color: #fff; padding: 4px 14px; border-radius: 20px; font-size: 12px; font-weight: bold; }
+
+        /* Share */
         .share-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
         .share-section h3 { font-size: 16px; margin-bottom: 15px; }
         .share-icons { display: flex; gap: 10px; flex-wrap: wrap; }
-        .share-icons a { display: inline-flex; align-items: center; gap: 5px; padding: 8px 15px; border-radius: 5px; color: #fff; text-decoration: none; font-size: 13px; font-weight: bold; }
+        .share-icons a { display: inline-flex; align-items: center; gap: 5px; padding: 8px 15px; border-radius: 5px; color: #fff; font-size: 13px; font-weight: bold; }
         .share-fb { background: #1877f2; }
         .share-tw { background: #000; }
         .share-ig { background: #e4405f; }
         .share-email { background: #ea4335; }
         .share-tiktok { background: #000; }
-        
-        .footer { background: #1a56db; color: #fff; padding: 20px 0; margin-top: 30px; font-size: 13px; text-align: center; }
-        .footer a { color: #fff; text-decoration: none; }
+
+        /* Footer */
+        .footer { background: var(--primary); color: var(--white); padding: 30px 0; margin-top: 30px; font-size: 13px; }
+        .footer a { color: var(--white); }
         .footer a:hover { text-decoration: underline; }
+        .footer__container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; padding: 15px 0; }
+        .footer-links { display: flex; flex-wrap: wrap; gap: 5px; }
+        .social-icons { display: flex; gap: 12px; }
+        .social-icons a { display: inline-flex; align-items: center; justify-content: center; width: 35px; height: 35px; background: var(--white); color: var(--primary); border-radius: 50%; font-weight: bold; font-size: 14px; transition: background .3s ease; }
+        .social-icons a:hover { background: #dbeafe; }
+        .footer-copyright { text-align: center; padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.2); margin-top: 15px; }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hamburger { display: block; }
+            .menu__list { display: none; flex-direction: column; width: 100%; }
+            .menu__list.active { display: flex; }
+            .menu__item .menu__list { position: static; display: none; }
+            .menu__item:hover .menu__list { display: none; }
+            .menu__item.active .menu__list { display: flex; }
+            .article-container { padding: 0 10px; margin: 15px auto; }
+            .article { padding: 20px; }
+            .article h1 { font-size: 24px; }
+            .footer__container { flex-direction: column; text-align: center; }
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <a href="https://teukuanca-creat.github.io/situsku/" class="back-link">&larr; Kembali ke Beranda</a>
+    <header class="header">
+        <div class="container">
+            <div class="header-top">
+                <a href="https://teukuanca-creat.github.io/situsku/">
+                    <h1 class="logo__title">teukuanca.com</h1>
+                </a>
+                <button class="hamburger" onclick="toggleMenu()">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+        <nav class="menu" id="mainMenu">
+            <div class="container">
+                <ul class="menu__list" id="menuList">
+                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/" class="menu__link">Home</a></li>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Direktori Publik ▼</a>
+                        <ul class="menu__list">
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/regulasi/" class="menu__link">Regulasi</a></li>
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/edukasi/" class="menu__link">Edukasi</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Gaya Hidup ▼</a>
+                        <ul class="menu__list">
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/trending/" class="menu__link">Trending</a></li>
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/seni/" class="menu__link">Seni</a></li>
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/travelling/" class="menu__link">Travelling</a></li>
+                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/kreativitas/" class="menu__link">Kreativitas</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/budaya-sejarah/" class="menu__link">Budaya & Sejarah</a></li>
+                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/pages/tentang-kami/" class="menu__link">Tentang Kami</a></li>
+                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/pages/hubungi-kami/" class="menu__link">Hubungi Kami</a></li>
+                    <li class="menu__item">
+                        <span style="display:inline-flex; align-items:center; justify-content:center; width:40px; height:40px; background:#fff; color:#1a56db; border-radius:50%; cursor:pointer; font-size:18px;" onclick="alert('Fitur pencarian akan segera hadir!')">🔍</span>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main class="article-container">
         <article class="article">
             <h1>{{ .Title }}</h1>
-{{ if .Params.featured_image }}
-<img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:100%; border-radius:8px; margin-bottom:20px;">
-{{ end }}
-{{ .Content }}
+            <div class="article-meta">
+                <time>{{ .Date.Format "02 January 2006" }}</time>
+                {{ if .Params.categories }}
+                <span>
+                    {{ range .Params.categories }}
+                    <span class="category">{{ . }}</span>
+                    {{ end }}
+                </span>
+                {{ end }}
+            </div>
+            {{ if .Params.featured_image }}
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+            {{ end }}
+            {{ .Content }}
             
             <div class="share-section">
                 <h3>Bagikan Artikel Ini:</h3>
@@ -57,11 +166,36 @@
                 </div>
             </div>
         </article>
-    </div>
+    </main>
+
     <footer class="footer">
-        <div class="container">
+        <div class="container footer__container">
+            <div class="footer-links">
+                <a href="https://teukuanca-creat.github.io/situsku/pages/tentang-kami/">Tentang Kami</a> |
+                <a href="https://teukuanca-creat.github.io/situsku/pages/hubungi-kami/">Hubungi Kami</a> |
+                <a href="https://teukuanca-creat.github.io/situsku/pages/kebijakan-privasi/">Kebijakan Privasi</a> |
+                <a href="https://teukuanca-creat.github.io/situsku/pages/disclaimer/">Disclaimer</a>
+            </div>
+            <div class="social-icons">
+                <a href="https://facebook.com/usernameanda" title="Facebook">f</a>
+                <a href="https://x.com/usernameanda" title="Twitter">𝕏</a>
+                <a href="https://instagram.com/usernameanda" title="Instagram">📷</a>
+                <a href="https://youtube.com/@usernameanda" title="YouTube">▶</a>
+            </div>
+        </div>
+        <div class="footer-copyright">
             &copy; 2026 teukuanca.com. All rights reserved.
         </div>
     </footer>
+
+    <script>
+        function toggleMenu() {
+            var menu = document.getElementById('menuList');
+            menu.classList.toggle('active');
+        }
+        function toggleSubmenu(el) {
+            el.parentElement.classList.toggle('active');
+        }
+    </script>
 </body>
 </html>
