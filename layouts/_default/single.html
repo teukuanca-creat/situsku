@@ -4,6 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }} - teukuanca.com</title>
+    <!-- SEO Article -->
+<meta name="description" content="{{ .Params.description }}">
+<meta name="keywords" content="{{ if .Params.tags }}{{ delimit .Params.tags ", " }}{{ end }}">
+<link rel="canonical" href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Params.description }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
+{{ if .Params.featured_image }}
+<meta property="og:image" content="{{ .Params.featured_image }}">
+{{ end }}
+
+<!-- Schema.org Article -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ .Title | jsonify }},
+    "author": {
+        "@type": "Person",
+        "name": "Teuku Anca"
+    },
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    {{ if .Params.featured_image }}
+    "image": "{{ .Params.featured_image }}",
+    {{ end }}
+    "publisher": {
+        "@type": "Organization",
+        "name": "teukuanca.com"
+    }
+}
+</script>
     <style>
         :root {
             --primary: #1a56db;
