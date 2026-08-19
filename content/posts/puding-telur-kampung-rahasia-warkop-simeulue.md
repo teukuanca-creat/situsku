@@ -49,7 +49,8 @@ Untuk menghasilkan tekstur lembut seperti sutra (silky texture) sekaligus menjam
 - Tutup Rapat 2–3 Menit]
 - Sajikan dengan Merica/Garam.
 
-![Puding Telur Ayam Kampung Khas Warkop Simeulue](/situsku/images/puding-telur-konten.webp)*Puding telur ayam kampung khas warkop Simeulue, Aceh. Foto: Dokumentasi Pribadi*
+<img src="/situsku/images/puding-telur-konten.webp" alt="Puding Telur Ayam Kampung" style="display:block; margin:20px auto; width:100%; max-width:600px; border-radius:10px;">
+<p style="text-align:center; font-size:13px; color:#666; font-style:italic; margin-top:-10px;">Puding telur ayam kampung khas warkop Simeulue, Aceh.</p>
 
 ## Reaksi Medis bagi Tubuh dan Efek Penambah Stamina
 Secara klinis, pengolahan telur setengah matang dengan suhu terukur menjaga vitamin larut lemak (Vitamin A, D, E, K) tetap utuh tanpa rusak akibat panas berlebih.
