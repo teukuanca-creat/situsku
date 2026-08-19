@@ -1,0 +1,10 @@
+{
+    "name": "teukuanca.com",
+    "short_name": "teukuanca",
+    "description": "Portal artikel Simeulue, Aceh, budaya, wisata, dan kuliner",
+    "start_url": "https://teukuanca-creat.github.io/situsku/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1a56db",
+    "lang": "id"
+}
