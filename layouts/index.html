@@ -148,7 +148,7 @@
             <div class="primary">
                 <h2 style="font-size:22px; margin-bottom:20px; font-weight:bold;">Artikel Terbaru</h2>
                 {{ $posts := where .Site.RegularPages "Section" "posts" }}
-{{ $paginator := .Paginate $posts 7 }}
+{{ $paginator := .Paginate $posts 5 }}
 
 {{ range $paginator.Pages }}
 <article class="list__item">
