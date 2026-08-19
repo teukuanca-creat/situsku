@@ -86,8 +86,8 @@ Cabai kering yang dihaluskan memberikan warna merah pekat yang membangkitkan sel
 
 <div style="background-color: #f0f7ff; border-left: 5px solid #2196f3; padding: 15px; margin: 20px 0; border-radius: 5px;">
     <strong>Baca Juga: </strong> 
-    <a href="https://teukuanca-creat.github.io/situsku/posts/puding-telur-kampung-rahasia-warkop-simeulue/"style="text-decoration: none; color: #1a73e8; font-weight: bold;">
-        Trend Puding Telur Ayam Kampung di Warkop Sinabang 
+    <a href="https://teukuanca-creat.github.io/situsku/posts/puding-telur-kampung-rahasia-warkop-simeulue/" style="text-decoration: none; color: #1a73e8; font-weight: bold;">
+        Trend Puding Telur Ayam Kampung di Warkop Sinabang
     </a>
 </div>
 
