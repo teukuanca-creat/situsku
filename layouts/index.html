@@ -84,12 +84,14 @@
 
         /* Footer */
         .footer { background: var(--primary); color: var(--white); padding: 30px 0; margin-top: 30px; font-size: 13px; }
-        .footer a { color: var(--white); }
-        .footer a:hover { text-decoration: underline; }
-        .footer__container { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; align-items: center; }
-        .social-icons { display: flex; gap: 12px; }
-        .social-icons a { display: inline-flex; align-items: center; justify-content: center; width: 35px; height: 35px; background: var(--white); color: var(--primary); border-radius: 50%; font-weight: bold; font-size: 14px; transition: background .3s ease; }
-        .social-icons a:hover { background: #dbeafe; }
+.footer a { color: var(--white); }
+.footer a:hover { text-decoration: underline; }
+.footer__container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; padding: 15px 0; }
+.footer-links { display: flex; flex-wrap: wrap; gap: 5px; }
+.social-icons { display: flex; gap: 12px; }
+.social-icons a { display: inline-flex; align-items: center; justify-content: center; width: 35px; height: 35px; background: var(--white); color: var(--primary); border-radius: 50%; font-weight: bold; font-size: 14px; transition: background .3s ease; }
+.social-icons a:hover { background: #dbeafe; }
+.footer-copyright { text-align: center; padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.2); margin-top: 15px; }
 
         /* Search */
         .search-icon { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: var(--white); color: var(--primary); border-radius: 50%; cursor: pointer; font-size: 18px; }
@@ -294,22 +296,24 @@
     </main>
 
     <footer class="footer">
-        <div class="container footer__container">
-            <div>&copy; 2026 teukuanca.com. All rights reserved.</div>
-            <div class="social-icons">
-                <a href="https://facebook.com/usernameanda" title="Facebook">f</a>
-                <a href="https://x.com/usernameanda" title="Twitter">𝕏</a>
-                <a href="https://instagram.com/usernameanda" title="Instagram">📷</a>
-                <a href="https://youtube.com/@usernameanda" title="YouTube">▶</a>
-            </div>
-            <div>
-                <a href="https://teukuanca-creat.github.io/situsku/pages/tentang-kami/">Tentang Kami</a> |
-                <a href="https://teukuanca-creat.github.io/situsku/pages/hubungi-kami/">Hubungi Kami</a> |
-                <a href="https://teukuanca-creat.github.io/situsku/pages/kebijakan-privasi/">Kebijakan Privasi</a> |
-                <a href="https://teukuanca-creat.github.io/situsku/pages/disclaimer/">Disclaimer</a>
-            </div>
+    <div class="container footer__container">
+        <div class="footer-links">
+            <a href="https://teukuanca-creat.github.io/situsku/pages/tentang-kami/">Tentang Kami</a> |
+            <a href="https://teukuanca-creat.github.io/situsku/pages/hubungi-kami/">Hubungi Kami</a> |
+            <a href="https://teukuanca-creat.github.io/situsku/pages/kebijakan-privasi/">Kebijakan Privasi</a> |
+            <a href="https://teukuanca-creat.github.io/situsku/pages/disclaimer/">Disclaimer</a>
         </div>
-    </footer>
+        <div class="social-icons">
+            <a href="https://facebook.com/usernameanda" title="Facebook">f</a>
+            <a href="https://x.com/usernameanda" title="Twitter">𝕏</a>
+            <a href="https://instagram.com/usernameanda" title="Instagram">📷</a>
+            <a href="https://youtube.com/@usernameanda" title="YouTube">▶</a>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        &copy; 2026 teukuanca.com. All rights reserved.
+    </div>
+</footer>
 
     <script>
         function toggleMenu() {
