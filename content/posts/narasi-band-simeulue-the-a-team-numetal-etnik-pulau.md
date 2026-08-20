@@ -2,7 +2,7 @@
 title: 'Narasi Band Simeulue: The[A]Team, NuMetal Etnik Pulau'
 date: 2026-08-04
 draft: false
-featured_image: "/situsku/images/the-a-team.webp"
+featured_image: "/situsku/images/the-a-team.jpg"
 categories: ["Kreativitas"]
 description: "Perjalanan musik di Simeulue: Narasi The[A]Team Band-NuMetal Etnik Pulau. Kisah perjalanan band kabupaten simeulue."
 tags: ["musik", "band simeulue"]
