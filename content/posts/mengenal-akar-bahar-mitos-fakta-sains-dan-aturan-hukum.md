@@ -1,13 +1,15 @@
 ---
-judul: 'Mengenal Akar Bahar. Mitos, Fakta Sains dan Aturan Hukum'
+---
+title: 'Mengenal Akar Bahar: Mitos, Fakta Sains dan Aturan Hukum'
 permalink: /2026/08/mengenal-akar-bahar-mitos-fakta-sains.html
 date: 2026-08-02
 draft: false
 featured_image: "/situsku/images/ilustrasi-akar-bahar.png"
 categories: ["Cerita Menarik"]
-description: "Mengungkap identitas asli Akar Bahar dari ingatan mistis Simeulue, tinjauan biologi dan medis, hingga alasan hukum konservasi di balik kelangkaannya.."
+description: "Mengungkap identitas asli Akar Bahar dari ingatan mistis Simeulue, tinjauan biologi dan medis, hingga alasan hukum konservasi di balik kelangkaannya."
 tags: ["akar bahar", "simeulue"]
 ---
+
 ## Pengantar 
 Siapa yang tidak kenal dengan Akar Bahar? Dikalangan masyarakat pesisir, pecinta perhiasan etnik, hingga praktisi spiritual Nusantara, nama Akar Bahar telah melegenda sejak puluhan tahun silam.
 Perhiasan dengan bahan dasar Akar Bahar dianggap memiliki daya tarik ganda, terutama gelang bertanduknya yang khas dan bertekstur serat alami, seakan menyimpan aura mistis yang kuat sekaligus membawa khasiat alami bagi kesehatan tubuh.
