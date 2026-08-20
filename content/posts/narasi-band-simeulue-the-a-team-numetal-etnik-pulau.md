@@ -85,7 +85,7 @@ Dihadapan band-band Aceh pecinta musik ekstrem, The[A]Team tampil di panggung in
 
 Puncak penjelajahan festival luar daerah mereka terjadi pada tahun 2012. Lewat ajang festival bergengsi Aceh, Soundversity live On Stage XII 2012, The[A]Team kembali menghentak panggung dalam rangkaian acara yang turut mendatangkan band rock legendaris tanah air, **Pas Band**.
 
-[![Tonton Video Ini](https://img.youtube.com/vi/E8wXusUv8qw/maxresdefault.jpg)](https://www.youtube.com/watch?v=E8wXusUv8qw)
+[![Tonton Video Ini](/situsku/images/thumbnail.jpg)](https://youtu.be/E8wXusUv8qw?si=QQy3Il9D73TSkvf9)
 
 Berbagi atmosfer dalam rangkaian event nasional seperti itu tentu menjadi catatan emas tersendiri bagi sejarah musik Pulau Simeulue.
 
