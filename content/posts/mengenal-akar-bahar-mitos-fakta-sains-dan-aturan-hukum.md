@@ -1,5 +1,4 @@
 ---
----
 title: 'Mengenal Akar Bahar: Mitos, Fakta Sains dan Aturan Hukum'
 permalink: /2026/08/mengenal-akar-bahar-mitos-fakta-sains.html
 date: 2026-08-02
