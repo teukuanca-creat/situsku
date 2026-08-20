@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: teukuanca-creat/situsku
+  branch: main
+
+media_folder: "static/images"
+public_folder: "/situsku/images"
+
+collections:
+  - name: "posts"
+    label: "Artikel"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Judul", name: "title", widget: "string" }
+      - { label: "Tanggal", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Gambar Unggulan", name: "featured_image", widget: "image", required: false }
+      - { label: "Kategori", name: "categories", widget: "list" }
+      - { label: "Deskripsi", name: "description", widget: "text" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Konten", name: "body", widget: "markdown" }
