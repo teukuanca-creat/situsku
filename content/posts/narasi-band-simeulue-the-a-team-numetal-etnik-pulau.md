@@ -45,9 +45,7 @@ Sebagai pembuktian kreativitas diawal terbentuknya, The[A]Team langsung melahirk
 
 Lagu “Radat Dabui” menyajikan lirik dalam bahasa lokal Simeulue. Mereka membawakannya dengan cengkok dan gaya nyanyian asli menyerupai bait-bait **Radat Debus tradisional**, Namun, saat musik masuk, aransemen cadas berbalut irama NuMetal yang akan langsung menyapa telinga kamu.
 
-<div style="text-align:center; margin:30px 0;">
-    <iframe width="100%" height="400" src="https://www.youtube.com/embed/E8wXusUv8qw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width:800px; border-radius:10px;"></iframe>
-</div>
+[![Tonton Video Ini](https://img.youtube.com/vi/E8wXusUv8qw/maxresdefault.jpg)](https://www.youtube.com/watch?v=E8wXusUv8qw)
 
 Eksperimen ini sukses menciptakan harmoni magis yang belum pernah ada sebelumnya di Simeulue. Disatu sisi, lirik radat tradisional memancarkan nuansa sakral, mistis, dan kultural. Disisi lain, distorsi NuMetal meledakkan energi modern yang membakar semangat.
 
@@ -87,9 +85,7 @@ Dihadapan band-band Aceh pecinta musik ekstrem, The[A]Team tampil di panggung in
 
 Puncak penjelajahan festival luar daerah mereka terjadi pada tahun 2012. Lewat ajang festival bergengsi Aceh, Soundversity live On Stage XII 2012, The[A]Team kembali menghentak panggung dalam rangkaian acara yang turut mendatangkan band rock legendaris tanah air, **Pas Band**.
 
-<div style="text-align:center; margin:30px 0;">
-    <iframe width="100%" height="400" src="https://youtu.be/E8wXusUv8qw?si=fgRVjIaP-Wn1lZph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width:800px; border-radius:10px;"></iframe>
-</div>
+[![Tonton Video Ini](https://img.youtube.com/vi/E8wXusUv8qw/maxresdefault.jpg)](https://www.youtube.com/watch?v=E8wXusUv8qw)
 
 Berbagi atmosfer dalam rangkaian event nasional seperti itu tentu menjadi catatan emas tersendiri bagi sejarah musik Pulau Simeulue.
 
