@@ -45,7 +45,7 @@ Sebagai pembuktian kreativitas diawal terbentuknya, The[A]Team langsung melahirk
 
 Lagu “Radat Dabui” menyajikan lirik dalam bahasa lokal Simeulue. Mereka membawakannya dengan cengkok dan gaya nyanyian asli menyerupai bait-bait **Radat Debus tradisional**, Namun, saat musik masuk, aransemen cadas berbalut irama NuMetal yang akan langsung menyapa telinga kamu.
 
-[![Tonton Video Ini](https://img.youtube.com/vi/E8wXusUv8qw/maxresdefault.jpg)](https://www.youtube.com/watch?v=E8wXusUv8qw)
+[![Tonton Video Ini](/situsku/images/thumbnail-video.jpg)](https://www.youtube.com/watch?v=E8wXusUv8qw)
 
 Eksperimen ini sukses menciptakan harmoni magis yang belum pernah ada sebelumnya di Simeulue. Disatu sisi, lirik radat tradisional memancarkan nuansa sakral, mistis, dan kultural. Disisi lain, distorsi NuMetal meledakkan energi modern yang membakar semangat.
 
