@@ -2,6 +2,7 @@ backend:
   name: github
   repo: teukuanca-creat/situsku
   branch: main
+  base_url: https://decap-cms-backend.vercel.app
 
 media_folder: "static/images"
 public_folder: "/situsku/images"
