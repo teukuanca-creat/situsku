@@ -63,8 +63,8 @@ Penampilan panggung The[A]Team juga tergolong sangat eksentrik. Gempuran musik c
 
 Saat itu, panggung demi panggung mereka babat habis tanpa sisa. Eksistensi panggung ini mulai dari parade musik milik komunitas Akbar Studio hingga berbagai event besar besutan Pemda setempat.
 
-![Penampilan Penyambutan Tamu di Pelabuhan Cargo Sinabang](/situsku/images/theateam-parade.webp)
-*The A Team pada Penampilan Penyambutan Tamu, Pelabuhan Cargo. Foto: Dokumentasi Pribadi*
+![penyambutan Tamu](/situsku/images/theateam-parade.webp)
+*Penampilan salam Penyambutan Tamu, Pelabuhan Cargo, Simeuelue. Foto: Dokumentasi Pribadi*
 
 Geliat musik mereka bahkan gaungnya terdengar sampai luar pulau. Sebagai contoh yang terlihat dari salah satu festival lokal, ini terbilang sangat prestisius di Simeulue. Panggung festival saat itu kedatangan salah satu band undangan dari Tapanuli Selatan, Sumatera Utara.
 
