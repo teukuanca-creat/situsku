@@ -8,14 +8,14 @@ categories: ["Kuliner"]
 description: "Bongkar rahasia rempah bumbu Mie Aceh otentik dan teknik masak api besar khas warkop Sinabang. Dijamin gurih, lezat, dan tidak langu!."
 tags: ["Mie Aceh", "Simeulue, Aceh"]
 ---
-## 1. Latar Belakang 
+## A. Latar Belakang 
 Pulau Simeulue memang terpisah oleh lautan dengan daratan utama Aceh. Namun, dalam urusan budaya minum kopi dan kuliner, napas yang berdenyut di pulau ini tidak ada bedanya dengan daratan Aceh.
 
 Jika kamu melangkah ke Kota Sinabang, yakni kota kecil yang menjadi pusat denyut ekonomi Simeulue tempat saya berdomisili, hampir di setiap sudut jalan dan simpang, kamu menemukan warung kopi (warkop).
 
 Bahkan, kehadiran warkop di Sinabang meluas hingga ke kecamatan-kecamatan lain. Ini sudah menjadi bagian tak terpisahkan dari gaya hidup masyarakat sehari-hari.
 
-### A. Identitas yang Turun-temurun 
+### 1. Identitas yang Turun-temurun 
 ​Menariknya, meskipun budaya warkop begitu menjamur, tidak semua warung kopi di Sinabang menyediakan menu Mie Aceh. Kehadiran panggul pedagang Mie Aceh terbilang cukup selektif, hanya ada di warkop-warkop tertentu.
 
 Dari pengamatan langsung saya sehari-hari, sebagian besar penggiat atau juru masak Mie Aceh di warkop-warkop Sinabang ini dikelola oleh perantau asal daratan Aceh, baik mereka yang sudah menetap bertahun-tahun di Simeulue maupun wajah-wajah baru yang datang ke pulau.
@@ -26,7 +26,7 @@ Bahkan, jika kamu mencicipi Mie Aceh di warkop langganan saya, rasanya sangat id
 
 ​Konsistensi rasa ini tentu bukan kebetulan. Pemahaman mendalam tentang teknik meracik bumbu racikan merupakan rahasia dagang yang dibawakan langsung oleh para juru masak dari daerah asalnya di daratan Aceh, lalu dihidupkan kembali di tanah Simeulue.
 
-## 2. ​Komposisi dan Anatomi Bumbu Utama Mie Aceh
+## B. ​Komposisi dan Anatomi Bumbu Utama Mie Aceh
 ​Berbeda dengan mie goreng atau mie kuah biasa yang cenderung mengandalkan bumbu sederhana seperti bawang putih, bawang merah dan kecap, Mie Aceh berdiri di atas fondasi rempah-rempah kompleks.
 
 Berdasarkan literatur kuliner Nusantara dan kajian mengenai warisan rempah Aceh, rasa khas Mie Aceh dibentuk oleh perpaduan dua kelompok bumbu utama, yaitu rempah basah yang segar dan rempah kering yang terlebih dahulu disangrai.
@@ -51,7 +51,7 @@ Berdasarkan literatur kuliner Nusantara dan kajian mengenai warisan rempah Aceh,
 
 Harmonisasi perpaduan antara dua kelompok bumbu ini, dipengaruhi oleh sejarah panjang Aceh yang sebagai pusat perdagangan rempah dunia pada masa lampau, menyerap pengaruh kuliner India, Timur Tengah, dan Melayu.
 
-### A. ​Manfaat dan fungsi rinci masing-masing bumbu
+### 1. ​Manfaat dan fungsi rinci masing-masing bumbu
 ​Mengapa kombinasi rempah itu bisa menghasilkan rasa yang sangat pekat dan berkarakter?
 
 Jika dibedah dari prinsip sains kuliner (culinary science), ternyata setiap bahan memiliki peranan penting yang saling melengkapi, yakni:
@@ -90,7 +90,7 @@ Cabai kering yang dihaluskan memberikan warna merah pekat yang membangkitkan sel
 
 > **Baca Juga:** [Trend Puding Telur Ayam Kampung di Warkop Sinabang](https://teukuanca-creat.github.io/situsku/posts/puding-telur-kampung-rahasia-warkop-simeulue/)
 
-### B. Teknik Pengolahan: Api, Air, dan Minyak yang Menentukan Hasil Akhir
+### 2. Teknik Pengolahan: Api, Air, dan Minyak yang Menentukan Hasil Akhir
 
 ​Sering kali orang mencoba meracik bumbu Mie Aceh di rumah, tetapi hasilnya terasa berbeda dengan buatan koki di warung kopi.
 
@@ -125,7 +125,7 @@ Rahasia penting dari warkop otentik di Sinabang adalah air yang digunakan bukanl
 
 - Minyak berfungsi sebagai pelapis yang mencegah helai-helai mie kuning basah saling menempel satu sama lain saat dimasak di kuali.
 
-### C. ​Penyajikan Akhir: Pelengkap Segar di Luar Kuali
+### 3. ​Penyajikan Akhir: Pelengkap Segar di Luar Kuali
 ​Setelah proses memasak dengan api besar di kuali selesai dan mie dipindahkan ke piring, mahakarya kuliner ini menyajikan kontras yang menarik.
 
 Di dalam kuali terjadi perpaduan cita rasa panas, pekat, dan gurih dari mie kuning, bumbu halus, serta bahan utama seperti daging atau udang.
@@ -138,7 +138,7 @@ Namun saat disajikan, piring tersebut dilengkapi dengan bahan-bahan mentah segar
 
 Tak lupa, perasan jeruk nipis disajikan terpisah agar penikmatnya bisa menyesuaikan tingkat kesegaran sesuai selera.
 
-## 3. ​Kesimpulan: Mengapa Cita Rasa Ini Tetap Terjaga di Simeulue
+## C. ​Kesimpulan: Mengapa Cita Rasa Ini Tetap Terjaga di Simeulue
 ​Cita rasa Mie Aceh di Kota Sinabang dan wilayah Simeulue secara keseluruhan adalah bukti bagaimana budaya kuliner dapat meretas jarak geografis.
 
 Pengetahuan meracik rempah yang diwariskan secara turun-temurun dari daratan Aceh, dipadukan dengan teknik memasak kuali berapi tinggi, menghasilkan sajian yang konsisten dimanapun kamu menikmatinya.
