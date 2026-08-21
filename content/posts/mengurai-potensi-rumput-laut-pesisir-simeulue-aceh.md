@@ -64,6 +64,8 @@ Karakteristik air laut yang jernih dengan tingkat salinitas yang stabil merupaka
 
 Tentunya jalan menuju keberhasilan industri rumput laut yang berkelanjutan tidak pernah lepas dari hambatan teknis dan ekologis di lapangan, dan ini sudah menjadi resiko yang harus di antisipasi, misalnya:
 
+> **Baca Juga:** [Fenomena Malasin (Pasang Laut) di Pinggiran Teluk Sinabang-Simeulue,Aceh](https://teukuanca-creat.github.io/situsku/posts/fenomena-alasin-pasang-laut-di-pinggiran-teluk-sinabang/)
+
 ### 1. Serangan Hama dan Penyakit (Ice-Ice)
 Ice-ice umumnya terpicu oleh fluktuasi suhu air laut yang ekstrem, perubahan salinitas akibat curah hujan tinggi, serta stres lingkungan pada tanaman.
 
