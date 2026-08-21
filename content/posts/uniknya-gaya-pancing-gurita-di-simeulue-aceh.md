@@ -1,5 +1,6 @@
 ---
 title: 'Menilik Uniknya Pancing Gurita Umpan Sendok di Simeulue'
+permalink: '/2026/08/menilik-uniknya-pancing-gurita-umpan.html'
 date: 2026-08-01
 draft: false
 featured_image: "/situsku/images/ilustrasi-umpan-sendok.webp"
@@ -25,7 +26,9 @@ Uniknya, di tengah gempuran teknologi dan peralatan modern yang tersedia saat in
 Berbeda dengan perburuan ikan di kedalaman yang membutuhkan boat besar dengan bahan bakar yang banyak, pencarian gurita justru berfokus pada area dangkal, warga lokal menyebutnya **"Gosong"**.
 
 ### 1. Apa itu "Gosong"?
-Gosong adalah bukit pasir atau terumbu karang yang melandai di tengah laut dengan kedalaman relatif dangkal. Area ini kaya akan celah karang alami, batu-batuan, serta ekosistem makroalga yang menjadi tempat bersembunyi favorit bagi kepiting kecil dan kerang, makanan utama gurita.
+Gosong adalah bukit pasir atau terumbu karang yang melandai di tengah laut dengan kedalaman relatif dangkal.
+
+Area ini kaya akan celah karang alami, batu-batuan, serta ekosistem makroalga yang menjadi tempat bersembunyi favorit bagi kepiting kecil dan kerang, makanan utama gurita.
 
 Karena letak gosong ini tidak terlalu jauh dari garis pantai, nelayan hanya perlu menggunakan sampan kayu yang berukuran kecil (perahu ketinting), dilengkapi dengan mesin penggerak sederhana.
 
@@ -34,6 +37,8 @@ Penggunaan mesin penggerak ini sangat membantu menghemat tenaga nelayan agar tid
 Adapun pola kerja para pencari gurita umumnya terbagi dalam dua waktu utama, yaitu:
 - **Sesi Pagi (06.00 – 10.00 WIB):** Saat air laut belum terlalu panas, biasanya gurita mulai aktif keluar dari celah karang untuk mencari makan pagi.
 - **Sesi Sore (15.30 – 18.00 WIB):** Menjelang matahari terbenam, disaat suhu permukaan air mulai mendingin.
+
+> **Baca Juga:** [(Kearifan: Mancing Ikan Budu di Teluk Sinabang)]([https://teukuanca-creat.github.io/situsku/posts/puding-telur-kampung-rahasia-warkop-simeulue/](https://teukuanca-creat.github.io/situsku/posts/kearifan-memancing-ikan-budu-di-teluk-sinabang/)
 
 ## B. Kreativitas Nelayan Simeulue: Umpan patung Kepiting dari Sendok Makan
 Salah satu daya tarik utama dari teknik memancing gurita di Simeulue adalah keterbatasan geografis yang justru melahirkan kearifan lokal.
@@ -117,6 +122,7 @@ Jika seorang nelayan berhasil mengumpulkan 15 hingga 20 ekor gurita dengan rata-
 Pengalaman menyaksikan aktivitas para pencari gurita di Labuhan Bakti Teupah Selatan membuktikan betapa kaya dan bahagianya masyarakat pesisir yang hidup berdampingan secara harmonis dengan alam. 
 
 Simeulue bukan hanya tanah yang diberkahi dengan keindahan panorama, melainkan laboratorium kearifan lokal yang mengajarkan kita tentang kemandirian, inovasi, dan kerja keras
+
 Melalui metode pancing tradisional yang ramah lingkungan, potensi gurita akan terus menjadi pilar ekonomi yang kokoh bagi pemuda dan warga desa.
 
 Menjaga ekosistem "gosong" dan terumbu karang Simeulue adalah tugas bersama, sehingga tetap lestari sampai anak cucu.
