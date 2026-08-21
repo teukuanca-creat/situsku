@@ -38,7 +38,7 @@ Adapun pola kerja para pencari gurita umumnya terbagi dalam dua waktu utama, yai
 - **Sesi Pagi (06.00 – 10.00 WIB):** Saat air laut belum terlalu panas, biasanya gurita mulai aktif keluar dari celah karang untuk mencari makan pagi.
 - **Sesi Sore (15.30 – 18.00 WIB):** Menjelang matahari terbenam, disaat suhu permukaan air mulai mendingin.
 
-> **Baca Juga:** [(Kearifan: Mancing Ikan Budu di Teluk Sinabang)](https://teukuanca-creat.github.io/situsku/posts/kearifan-memancing-ikan-budu-di-teluk-sinabang/)
+> **Baca Juga:** [Kearifan: Mancing Ikan Budu di Teluk Sinabang](https://teukuanca-creat.github.io/situsku/posts/kearifan-memancing-ikan-budu-di-teluk-sinabang/)
 
 ## B. Kreativitas Nelayan Simeulue: Umpan patung Kepiting dari Sendok Makan
 Salah satu daya tarik utama dari teknik memancing gurita di Simeulue adalah keterbatasan geografis yang justru melahirkan kearifan lokal.
