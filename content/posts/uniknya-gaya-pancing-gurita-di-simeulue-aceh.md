@@ -9,7 +9,7 @@ description: "Menelusuri keunikan warga Teupah Selatan Simeulue memancing gurita
 tags: ["memancing", "gurita"]
 ---
 
-## Pendahuluan
+## A. Pendahuluan
 Ketika saya menyusuri jalur pesisir menuju ke Desa Labuhan Bakti Kecamatan Teupah Selatan, Kabupaten Simeulue, mata ini kerap disuguhkan oleh pemandangan yang memikat.
 
 Di atas hamparan permukaan laut, terlihat sampan kecil melaju secara bersamaan menyongsong terbitnya matahari dan senja yang mulai membayangi garis horison.
@@ -22,7 +22,7 @@ Saat musimnya tiba, aktivitas perburuan gurita kian populer, ini menjadi rutinit
 
 Uniknya, di tengah gempuran teknologi dan peralatan modern yang tersedia saat ini, beberapa nelayan tradisional khususnya Teupah Selatan, mereka tetap menggunakan racikan umpan buatan tangan sendiri. Ini sebuah bentuk adaptasi lokal dan kearifan ekologi yang luar biasa.
 
-## A. Membedah Spot "Gosong": Habitat Ideal Gurita di Perairan Dangkal
+## B. Membedah Spot "Gosong": Habitat Ideal Gurita di Perairan Dangkal
 Berbeda dengan perburuan ikan di kedalaman yang membutuhkan boat besar dengan bahan bakar yang banyak, pencarian gurita justru berfokus pada area dangkal, warga lokal menyebutnya **"Gosong"**.
 
 ### 1. Apa itu "Gosong"?
@@ -40,7 +40,7 @@ Adapun pola kerja para pencari gurita umumnya terbagi dalam dua waktu utama, yai
 
 > **Baca Juga:** [Kearifan: Mancing Ikan Budu di Teluk Sinabang](https://teukuanca-creat.github.io/situsku/posts/kearifan-memancing-ikan-budu-di-teluk-sinabang/)
 
-## B. Kreativitas Nelayan Simeulue: Umpan patung Kepiting dari Sendok Makan
+## C. Kreativitas Nelayan Simeulue: Umpan patung Kepiting dari Sendok Makan
 Salah satu daya tarik utama dari teknik memancing gurita di Simeulue adalah keterbatasan geografis yang justru melahirkan kearifan lokal.
 
 Mengingat lokasi pulau yang jauh dari pusat daratan Aceh dan keterbatasan akses belanja online dengan pengiriman cepat, maka nelayan tidak mengandalkan umpan pabrikan (squid jig modern), mereka meracik sendiri umpan pancing yang unik dan sangat efektif.
@@ -88,7 +88,7 @@ Banyak ahli kelautan menilai bahwa metode memancing dari atas sampan ini jauh le
 - **Menjaga perilaku gurita:** Gerakan tubuh penyelam di dalam air sering membuat gurita stres dan melarikan diri ke celah yang lebih dalam. Dengan memancing dari permukaan, gerakan umpan terlihat alami seperti mangsa yang sedang merayap.
 - **Selektivitas hasil tangkapan:** Jika gurita yang menempel berukuran terlalu kecil, nelayan dapat dengan mudah melepaskannya kembali ke laut tanpa luka dalam yang fatal.
 
-## C. Dampak Ekonomi: Menjadi Penopang Utama Kemandirian Pemuda Pesisir
+## D. Dampak Ekonomi: Menjadi Penopang Utama Kemandirian Pemuda Pesisir
 Sektor perikanan gurita memberikan dampak ekonomi yang nyata bagi warga, khususnya generasi muda di Simeulue.
 
 Dengan modal awal yang terjangkau, mempersiapkan sampan/perahu kecil, senar, dan merakit umpan dari barang bekas. Para pemuda desa sudah memiliki mata pencaharian mandiri. 
@@ -118,7 +118,7 @@ Estimasi Harga: Rp40.000 per kg
 **Catatan:** Harga komoditas bersifat fluktuatif mengikuti pergerakan permintaan pasar ekspor global dan musim tangkap.
 Jika seorang nelayan berhasil mengumpulkan 15 hingga 20 ekor gurita dengan rata-rata berat per ekor 1 kg, pendapatan kotor yang dapat dikantongi dalam sehari mencapai Rp1.500.000 hingga Rp2.000.000. Tentu saja angka ini menjadi suntikan ekonomi yang sangat berarti.
 
-## Kesimpulan: Menjaga Kekayaan Laut Simeulue untuk Masa Depan
+## E. Kesimpulan: Menjaga Kekayaan Laut Simeulue untuk Masa Depan
 Pengalaman menyaksikan aktivitas para pencari gurita di Labuhan Bakti Teupah Selatan membuktikan betapa kaya dan bahagianya masyarakat pesisir yang hidup berdampingan secara harmonis dengan alam. 
 
 Simeulue bukan hanya tanah yang diberkahi dengan keindahan panorama, melainkan laboratorium kearifan lokal yang mengajarkan kita tentang kemandirian, inovasi, dan kerja keras
