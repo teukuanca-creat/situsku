@@ -1,5 +1,6 @@
 ---
 title: 'Pesona Batu Siambong-ambong Simeulue,Aceh: Rute dan Tips'
+permalink: '/2026/07/pesona-batu-siambong-ambong.html'
 date: 2026-08-05
 draft: false
 featured_image: "/situsku/images/batu-siambung-ambung.webp"
