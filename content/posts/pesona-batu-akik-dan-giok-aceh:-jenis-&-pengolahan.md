@@ -16,6 +16,7 @@ Kala itu, percakapan di pos ronda, warung kopi pinggir jalan, hingga ruang rapat
 
 Di Serambi Mekkah, Provinsi Aceh, gelombang ini hadir dengan gairah yang begitu luar biasa. Batu akik bukan sekadar perhiasan selingan, melainkan penggerak utama ekonomi kreatif lokal. Gelombang kepopulerannya melintasi samudra hingga bermuara di pulau seberang, Kabupaten Simeulue.
 
+### 1. Tren Batu Akik di Simeulue 
 Teringat jelas dalam ingatan bagaimana bahan mentah (raw material) Giok Aceh yang legendaris dikirim dan diperdagangkan sampai ke Simeulue.
 
 Kios-kios pengasahan batu mendadak tumbuh di mana-mana. Orang-orang rela berdiri mengantre berjam-jam, menunggu giliran melihat bongkahan cadas yang tadinya kusam bertransformasi menjadi permata nan indah di tangan para pengrajin lokal.
