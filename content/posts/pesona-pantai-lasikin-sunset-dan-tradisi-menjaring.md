@@ -3,7 +3,7 @@ title: 'Pesona Pantai Lasikin: Sunset dan Tradisi Menjaring'
 permalink: '/2026/07/pesona-pantai-lasikin-sunset-dan.html'
 date: 2026-07-08
 draft: false
-featured_image: "/situsku/images/ilustrasi-media-sosial.webp"
+featured_image: "/situsku/images/lasikin.webp"
 categories: ["Travelling"]
 description: "Keindahan salah satu pantai Simeulue yang dapat kamu tuju ketika berkunjung ke simeulue, nikmati sensasi berbeda di pantai ini."
 tags: ["Pantai Lasikin", "Sunset"]
@@ -87,6 +87,8 @@ Nelayan menggunakan perahu dayung untuk membawa dan membentang jaring raksasa me
 Begitu jaring terpasang sempurna, belasan hingga puluhan warga, baik nelayan, pemuda, hingga anak-anak berjejer disepanjang bibir pantai.
 
 Mereka memegang tali serat utama dan berjalan mundur secara perlahan dengan ritme gerakan yang teratur untuk menarik jaring kembali ke daratan.
+![Menjaring](/situsku/images/menjaring.webp)
+*Menjaring di Pantai Lasikin, Teupah Tengah, Simeulue, Aceh. Foto: Dokumentasi Pribadi*
 
 **c). Pasar Segar Mendadak di Pinggir Pantai**
 Momen ketika kantong jaring mulai menyentuh pasir pantai adalah puncak keseruan. Ratusan ekor ikan yang melompat-lompat berkilat tersapu cahaya sore langsung diserbu warga dan pengunjung.
