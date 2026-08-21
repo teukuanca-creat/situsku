@@ -9,14 +9,14 @@ description: "Sejarah dan Perubahan Lanskap Maritim Teluk Sinabang: Dari Pusat E
 tags: ["Memancing Ikan Budu", "Teluk Sinabang"]
 ---
 
-## Latar Belakang 
+## A. Latar Belakang 
 Pernahkah kamu mendengar nama ikan budu? Mereka biasanya hidup berkelompok di dekat pantai, teluk, dan kadang-kadang di tengah perairan tengah.
 
 Mereka juga cenderung membentuk lingkaran sedikit di permukaan air, membuat air tampak gelap berkilauan dan terkadang melompat keluar dari permukaan.
 
 Ikan ini sering menjadi mangsa predator, umumnya ikan kuwe (gabu) menjadi ancaman utama. Tidak jarang terlihat ikan-ikan kuwe lalu-lalang secara bergerombolan tepat dibawah mereka.
 
-## A. Filosofi Ikan Nudu (Sardinella fimbriata)
+## B. Filosofi Ikan Nudu (Sardinella fimbriata)
 Spesies ini termasuk dalam famili Clupeidae, yang berkerabat dekat dengan sarden dan herring. Ini juga merupakan salah satu spesies ikan komersial utama yang ditemukan di wilayah Indo-Pasifik, termasuk Indonesia.
 
 Di Aceh, dikenal sebagai "Budueng," sedangkan di Simeulue, umumnya disebut "**budu**" atau "**bu'do**."
@@ -36,7 +36,7 @@ Adapun ciri-ciri fisik ikan budu:
 - **Makanan:** Terutama memakan plankton, termasuk fitoplankton dan zooplankton.
 - **Distribusinya:** Mereka melimpah di perairan tropis yang hangat, mulai dari pesisir Samudra Hindia hingga Laut Cina Selatan dan kepulauan Indonesia.
 
-## B. Fenomena Ikan Budu di Teluk Sinabang  
+## C. Fenomena Ikan Budu di Teluk Sinabang  
 Ini bukanlah suatu kebetulan, tradisi memancing ikan budu dengan tali pancing manual tangan sudah ada sejak saya masih kanak-kanak lagi.
 
 Saat itu, pelabuhan kargo Simpang Lima dipadati para pemancing yang berdatangan dari desa lain.
@@ -53,6 +53,8 @@ Dahulunya, kawanan ikan budu ini memasuki muara dan jauh ke bagian tengah sungai
 Menurut saya, fenomena unik ini hanya ditemukan di sekitar Teluk Sinabang.
 Semaraknya kebiasaan ini memberikan kesan yang sulit dilupakan. 
 
+> **Baca Juga:** [Menilik Uniknya Pancing Gurita Umpan Sendok di Simeulue](2026/08/menilik-uniknya-pancing-gurita-umpan.html)
+
 ### 2. Tradisi Kebersamaan di Teluk Sinabang
 Saat musimnya tiba, sebuah kebiasaan unik yang berlangsung secara turun-temurun begitu menarik untuk diperhatikan. Yaitu, tidak diperbolehkan menggunakan alat tangkap seperti jaring, jala atau apapun didalam teluk sinabang sewaktu menangkapnya, terkecuali menggunakan alat pancing manual (tangan).
 
@@ -62,7 +64,7 @@ Memang, penggunaan jaring atau jala dapat membuat ikan terancam lari dan berpind
 
 Bagi warga, moment seperti ini bukan semata-mata untuk pemenuhan konsumsi laukpauk saja, melainkan lebih ke arah hiburan dimasa senggang.
 
-## C. Peranti dan Teknik Pemancingan 
+## D. Peranti dan Teknik Pemancingan 
 Ikan budu ini hampir berbeda dari yang biasa ditemukan di tepi pantai, ukuran mereka sedikit lebih kecil.
 
 Cara memancingnya juga tidak banyak yang paham. Karena, mempunyai gaya dan trik tersendiri, juga dengan perlengkapan seadanya.
@@ -86,7 +88,7 @@ Biasanya, warga membawa pulang ikan budu dalam jumlah yang bervariasi, ada yang 
 
 Wadah-wadah ini berisi air, untuk menjaga ikan tetap hidup dan segar saat tiba di rumah.
 
-## ​Pemanfaatan Ikan Budu (Sardinella fimbriata)
+## E. ​Pemanfaatan Ikan Budu (Sardinella fimbriata)
 Sebagaimana kita ketahui di Wilayah perairan daerah lain, ikan budu sudah menjadi sasaran tangkapan rutin. Karena, pemanfaatan ikan ini sangat diminati sebagai bahan olahan makanan.
 
 Karena kelimpahan dan kandungan minyaknya yang tinggi, ikan budu (Sardinella fimbriata) diolah menjadi berbagai produk:
@@ -100,7 +102,7 @@ Cara penangkapan ikan budu ini juga terlihat menggunakan peralatan skala besar s
 - Penangkapan ikan dengan berbagai cara seperti, menggunakan jaring angkat (bagan pancang/bagan apung), yang populer di perairan pesisir Indonesia.
 - Menggunakan jaring insang, yang umum digunakan oleh nelayan skala kecil atau tradisional.
 
-## Intisari
+## F. Intisari
 Pada akhirnya, tradisi memancing ikan budu bukan sekadar tentang hasil tangkapan laut, melainkan cerminan nyata dari kehidupan masyarakat Simeulue itu sendiri.
 
 Kabupaten ini tidak hanya diberkahi potensi laut yang melimpah, tetapi juga kaya akan tradisi tak tertulis yang terpatri erat dalam benak.
