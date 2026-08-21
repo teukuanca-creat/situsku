@@ -2,5 +2,4 @@
   description = "Situs Web Resmi teukuanca.com"
   author = "Admin"
   subtitle = "Portal Artikel dan Berita"
-  customCSS = ["https://cdn.jsdelivr.net/npm/water.css@2/out/water.css"]
 
