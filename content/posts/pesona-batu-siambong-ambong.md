@@ -59,6 +59,8 @@ Saat berdiri di sana, kita merasakan seperti berdiri di haluan atau bagian depan
 
 Di sisi lain, saat berbalik menghadap pegunungan, kita akan melihat pemandangan indah dari lanskap pantai pasir putih yang indah.    
 
+> **Baca Juga:** [Jejak Teluk Sinabang: Dari Ekonomi 90-an ke Modernisasi](https://teukuanca-creat.github.io/situsku/posts/jejak-teluk-sinabang-dari-ekonomi-90-an-ke-modernisasi/)
+
 ### ​2. Bersantai di Kantin Pinggir Pantai
 Sepanjang pantai, terdapat kantin (cafe) yang dapat kita manfaatkan untuk bersantai. 
 
