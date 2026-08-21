@@ -9,13 +9,14 @@ description: "Gempa Sumatera Utara menggetarkan Simeulue sore ini.  Ulasan priba
 tags: ["Gempa Aceh", "Gempa Sumut"]
 ---
 
-## Bumi Berguncang Lagi 
+## A. Kondisi Sore Hari ini
 Menghirup udara sore menjelang akhir pekan selalu memberikan kedamaian tersendiri. Cuaca cerah yang memayungi pulau, diiringi riuh gelak tawa anak-anak yang asyik mengayuh sepeda di halaman rumah.
 
 Suasana santai itu mendadak berubah ketika terdengar bunyi berderit pada bingkai jendela. Atap rumah mulai bergetar halus, dan lampu gantung perlahan bergerak bergoyang.
 
 Awalnya, getaran itu luput dari perhatian. Sebab, perhatian sedang tertuju penuh pada layar ponsel yang menampilkan cuplikan informasi **Aceh hari ini** via grup media sosial, sehingga fokus terpecah dan goyangan awal hampir tak terasa.
 
+### 1. Gempa Lagi
 Pikiran bahkan sempat menduga suara tersebut hanya benturan dinding kaca yang tersenggol kucing.
 
 Namun, ketika goyangan bertahan lebih lama meski intensitasnya tidak kencang, refleks kewaspadaan karena trauma gempa dan langsung bangkit. Tanpa menunda waktu, langkah kaki berpacu berlari keluar rumah menuju area terbuka.
@@ -26,17 +27,19 @@ Beberapa menit setelah getaran mereda, data resmi BMKG (Badan Meteorologi, Klima
 
 Meskipun episentrum berada di luar provinsi, gelombang seismik tersebut merambat cukup jauh hingga menghentak daratan Simeulue, Aceh.
 
-### 1. Pengalaman Lapangan: Mengapa Karakteristik Gempa Ini Perlu Diwaspadai?
+### 2. Pengalaman Lapangan: Mengapa Karakteristik Gempa Ini Perlu Diwaspadai?
 Sebagaimana dikutip dari beberapa informasi tentang karakteristi dan dirasakan langsung (Experience), gempa kali ini memiliki dua karakteristik utama yang patut dicermati:
 
 - **Frekuensi Rendah namun Durasi Panjang:** Guncangan tidak bersifat merusak (destructive impact mendadak), melainkan berupa getaran perlahan dengan durasi yang relatif lama.
 - **Efek Resonansi Bangunan:** Struktur fleksibel seperti lampu gantung dan atap ringan menjadi indikator awal yang paling responsif sebelum getaran terasa penuh oleh tubuh.
 
+> **Baca Juga:** [Jejak Teluk Sinabang: Dari Ekonomi 90-an ke Modernisasi](https://teukuanca-creat.github.io/situsku/posts/jejak-teluk-sinabang-dari-ekonomi-90-an-ke-modernisasi/)
+
 Secara teknis seismologi (Expertise), Sumatera Utara dan Aceh berada pada pertemuannya dua lempeng tektonik besar yakni Lempeng Indo-Australia dan Lempeng Eurasia, serta jalur Sesar Sumatera (Sumatran Fault).
 
 Gempa berskala sedang dengan kedalaman tertentu di Sumatera Utara kerap memicu gelombang permukaan yang merambat jauh hingga ke gugusan pulau terluar seperti Simeulue.
 
-### 2. Edukasi Keselamatan dan Evaluasi Informasi
+## B. Edukasi Keselamatan dan Evaluasi Informasi
 Peristiwa sore ini memberikan momentum penting untuk memperkuat kesiapsiagaan bencana (Authoritativeness & Trustworthiness):
 
 - **Dahulukan Evakuasi daripada Gawai:** Jangan biarkan fokus pada layar ponsel menunda respons fisik. Saat getaran berdurasi lebih dari 5 detik terasa, prioritaskan untuk segera beralih ke area aman (Drop, Cover, Hold On atau keluar rumah).
@@ -45,5 +48,5 @@ Peristiwa sore ini memberikan momentum penting untuk memperkuat kesiapsiagaan be
 
 - **Periksa Struktur Rumah Pasca-Getaran:** Meskipun gempa terasa lemah, periksa secara berkala celah retakan pada dinding utama dan kondisi instalasi listrik rumah.
 
-## Ikhtisar 
+## C. Ikhtisar 
 Setelah situasi dipastikan aman dan kondusif, aktivitas warga kembali berjalan normal. Doa dan harapan tulus terpanjat dari dalam hati, semoga bumi Serambi Mekah dan seluruh masyarakatnya senantiasa berada dalam lindungan Allah SWT, dijauhkan dari marabahaya, serta selalu diberikan ketabahan dan kesiapsiagaan menghadapi dinamika alam.
