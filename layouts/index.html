@@ -265,11 +265,11 @@
         </div>
 
         <!-- Grid Articles -->
-<div class="grid-articles" id="gridArticles">
+<div class="grid-articles">
     {{ range first 6 (after 1 (where .Site.RegularPages "Section" "posts")) }}
     <div class="grid-card">
         {{ if .Params.featured_image }}
-        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width:100%; height:200px; object-fit:cover; display:block;">
+        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
         {{ end }}
         <div class="grid-body">
             <h3><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h3>
