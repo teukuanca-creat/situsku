@@ -281,7 +281,6 @@
 <!-- Pagination for Grid -->
 <div class="pagination-nav">
     <a href="#" onclick="prevGrid(); return false;" style="display:none;" id="prevGridBtn">&laquo; Sebelumnya</a>
-    <span></span>
     <a href="#" onclick="nextGrid(); return false;" id="nextGridBtn">Artikel Lainnya &raquo;</a>
 </div>
 
@@ -435,7 +434,7 @@ function renderGrid() {
     
     for (var i = start; i < end; i++) {
         var article = allGridArticles[i];
-        var imageHtml = article.image ? '<img src="' + article.image + '" alt="' + article.title + '">' : '';
+        
         html += '<div class="grid-card">';
         html += imageHtml;
         html += '<div class="grid-body">';
@@ -445,7 +444,7 @@ function renderGrid() {
     }
     
     grid.innerHTML = html;
-    
+    var imageHtml = article.image ? '<img src="' + article.image + '" alt="' + article.title + '" style="width:100%; height:150px; object-fit:cover; display:block;">' : '';
     var prevBtn = document.getElementById('prevGridBtn');
     var nextBtn = document.getElementById('nextGridBtn');
     
