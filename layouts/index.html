@@ -434,7 +434,7 @@ function renderGrid() {
         var article = allGridArticles[i];
         var imageHtml = '';
         if (article.image) {
-            imageHtml = '<img src="' + article.image + '" alt="' + article.title + '" loading="lazy">';
+            imageHtml = '<img src="' + article.image + '" alt="' + article.title + '" style="width:100%; height:150px; object-fit:cover; display:block;">';
         }
         html += '<div class="grid-card">';
         html += imageHtml;
