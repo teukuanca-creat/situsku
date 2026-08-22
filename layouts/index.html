@@ -338,8 +338,7 @@
         </div>
     </footer>
 
-    <script>
-
+                <script>
 var allPostsData = [];
 {{ range after 1 (where .Site.RegularPages "Section" "posts") }}
 allPostsData.push({
@@ -364,6 +363,7 @@ function renderGridPage() {
         var imgHtml = '';
         if (post.image) {
             imgHtml = '<img src="' + post.image + '" alt="' + post.title + '">';
+        }
         html += '<div class="grid-card">' + imgHtml;
         html += '<div class="grid-body"><h3><a href="' + post.url + '">' + post.title + '</a></h3>';
         html += '<div class="grid-meta">' + post.date + '</div></div></div>';
@@ -399,79 +399,77 @@ function prevGridPage() {
 
 renderGridPage();
 
-        
-        function toggleMenu() {
-            var menu = document.getElementById('menuList');
-            menu.classList.toggle('active');
+function toggleMenu() {
+    var menu = document.getElementById('menuList');
+    menu.classList.toggle('active');
+}
+function toggleSubmenu(el) {
+    el.parentElement.classList.toggle('active');
+}
+function toggleSearch() {
+    var searchBox = document.getElementById('searchBox');
+    if (searchBox.style.display === 'none') {
+        searchBox.style.display = 'block';
+    } else {
+        searchBox.style.display = 'none';
+    }
+}
+function searchArticles() {
+    var input = document.getElementById('searchInput');
+    var filter = input.value.toLowerCase();
+    var resultsContainer = document.getElementById('searchResults');
+    if (filter.length < 2) { resultsContainer.innerHTML = ''; return; }
+    var articles = [
+        {{ range where .Site.RegularPages "Section" "posts" }}
+        { title: {{ .Title | jsonify }}, url: "https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}", content: {{ .Summary | plainify | jsonify }} },
+        {{ end }}
+    ];
+    var results = [];
+    for (var i = 0; i < articles.length; i++) {
+        var title = articles[i].title || '';
+        var content = articles[i].content || '';
+        if (title.toLowerCase().indexOf(filter) > -1 || content.toLowerCase().indexOf(filter) > -1) { results.push(articles[i]); }
+    }
+    if (results.length > 0) {
+        var html = '<div style="background:#f5f5f5; border-radius:10px; padding:15px;">';
+        html += '<p style="font-weight:bold; margin-bottom:10px;">Ditemukan ' + results.length + ' hasil:</p>';
+        for (var j = 0; j < results.length; j++) {
+            html += '<a href="' + results[j].url + '" style="display:block; padding:10px 15px; background:#fff; border-radius:8px; margin-bottom:8px; color:#000; font-weight:bold;">' + results[j].title + '</a>';
         }
-        function toggleSubmenu(el) {
-            el.parentElement.classList.toggle('active');
-        }
-        function toggleSearch() {
-            var searchBox = document.getElementById('searchBox');
-            if (searchBox.style.display === 'none') {
-                searchBox.style.display = 'block';
-            } else {
-                searchBox.style.display = 'none';
-            }
-        }
-        function searchArticles() {
-            var input = document.getElementById('searchInput');
-            var filter = input.value.toLowerCase();
-            var resultsContainer = document.getElementById('searchResults');
-            if (filter.length < 2) { resultsContainer.innerHTML = ''; return; }
-            var articles = [
-                {{ range where .Site.RegularPages "Section" "posts" }}
-                { title: {{ .Title | jsonify }}, url: "https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}", content: {{ .Summary | plainify | jsonify }} },
-                {{ end }}
-            ];
-            var results = [];
-            for (var i = 0; i < articles.length; i++) {
-                var title = articles[i].title || '';
-                var content = articles[i].content || '';
-                if (title.toLowerCase().indexOf(filter) > -1 || content.toLowerCase().indexOf(filter) > -1) { results.push(articles[i]); }
-            }
-            if (results.length > 0) {
-                var html = '<div style="background:#f5f5f5; border-radius:10px; padding:15px;">';
-                html += '<p style="font-weight:bold; margin-bottom:10px;">Ditemukan ' + results.length + ' hasil:</p>';
-                for (var j = 0; j < results.length; j++) {
-                    html += '<a href="' + results[j].url + '" style="display:block; padding:10px 15px; background:#fff; border-radius:8px; margin-bottom:8px; color:#000; font-weight:bold;">' + results[j].title + '</a>';
-                }
-                html += '</div>';
-                resultsContainer.innerHTML = html;
-            } else {
-                resultsContainer.innerHTML = '<p style="color:#666; font-style:italic;">Tidak ditemukan hasil untuk "' + input.value + '"</p>';
-            }
-        }
-        function scrollPopular(direction) {
-            var list = document.getElementById('popularList');
-            if (direction === 'down') {
-                list.scrollTop += 200;
-            } else {
-                list.scrollTop -= 200;
-            }
-        }
+        html += '</div>';
+        resultsContainer.innerHTML = html;
+    } else {
+        resultsContainer.innerHTML = '<p style="color:#666; font-style:italic;">Tidak ditemukan hasil untuk "' + input.value + '"</p>';
+    }
+}
+function scrollPopular(direction) {
+    var list = document.getElementById('popularList');
+    if (direction === 'down') {
+        list.scrollTop = list.scrollTop + 200;
+    } else {
+        list.scrollTop = list.scrollTop - 200;
+    }
+}
 
-        // Slider
-        var currentSlide = 0;
-        var slides = document.querySelectorAll('.slide');
-        var dotsContainer = document.getElementById('sliderDots');
-        for (var i = 0; i < slides.length; i++) {
-            var dot = document.createElement('span');
-            dot.onclick = (function(index) { return function() { goToSlide(index); }; })(i);
-            dotsContainer.appendChild(dot);
-        }
-        function goToSlide(index) { currentSlide = index; updateSlider(); }
-        function moveSlide(direction) { currentSlide = (currentSlide + direction + slides.length) % slides.length; updateSlider(); }
-        function updateSlider() {
-            var slider = document.getElementById('slider');
-            slider.style.transform = 'translateX(-' + (currentSlide * 100) + '%)';
-            var dots = dotsContainer.querySelectorAll('span');
-            dots.forEach(function(dot, index) { dot.classList.toggle('active', index === currentSlide); });
-        }
-        updateSlider();
-        setInterval(function() { moveSlide(1); }, 5000);
-        
-    </script>
+// Slider
+var currentSlide = 0;
+var slides = document.querySelectorAll('.slide');
+var dotsContainer = document.getElementById('sliderDots');
+for (var i = 0; i < slides.length; i++) {
+    var dot = document.createElement('span');
+    dot.onclick = (function(index) { return function() { goToSlide(index); }; })(i);
+    dotsContainer.appendChild(dot);
+}
+function goToSlide(index) { currentSlide = index; updateSlider(); }
+function moveSlide(direction) { currentSlide = (currentSlide + direction + slides.length) % slides.length; updateSlider(); }
+function updateSlider() {
+    var slider = document.getElementById('slider');
+    slider.style.transform = 'translateX(-' + (currentSlide * 100) + '%)';
+    var dots = dotsContainer.querySelectorAll('span');
+    dots.forEach(function(dot, index) { dot.classList.toggle('active', index === currentSlide); });
+}
+updateSlider();
+setInterval(function() { moveSlide(1); }, 5000);
+                </script>
 </body>
 </html>
