@@ -281,8 +281,8 @@
 
 <!-- Grid Pagination -->
 <div class="pagination-nav" style="display:flex; justify-content:center; gap:15px; margin:20px 0;">
-    <a href="https://teukuanca-creat.github.io/situsku/posts/" style="background:#1a56db; color:#fff; padding:10px 20px; border-radius:8px; font-weight:bold; font-size:14px;">&laquo; Sebelumnya</a>
-    <a href="https://teukuanca-creat.github.io/situsku/posts/" style="background:#1a56db; color:#fff; padding:10px 20px; border-radius:8px; font-weight:bold; font-size:14px;">Artikel Selanjutnya &raquo;</a>
+    <a href="#" onclick="prevGridPage(); return false;" style="background:#1a56db; color:#fff; padding:10px 20px; border-radius:8px; font-weight:bold; font-size:14px; display:none;" id="prevBtn">&laquo; Sebelumnya</a>
+    <a href="#" onclick="nextGridPage(); return false;" style="background:#1a56db; color:#fff; padding:10px 20px; border-radius:8px; font-weight:bold; font-size:14px;" id="nextBtn">Artikel Selanjutnya &raquo;</a>
 </div>
 
     
@@ -339,6 +339,68 @@
     </footer>
 
     <script>
+
+var allPostsData = [];
+{{ range after 1 (where .Site.RegularPages "Section" "posts") }}
+allPostsData.push({
+    title: {{ .Title | jsonify }},
+    url: "https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}",
+    image: {{ if .Params.featured_image }}{{ .Params.featured_image | jsonify }}{{ else }}""{{ end }},
+    date: "{{ .Date.Format "02 January 2006" }}"
+});
+{{ end }}
+
+var currentPage = 0;
+var perPage = 6;
+
+function renderGridPage() {
+    var grid = document.getElementById('gridArticles');
+    var html = '';
+    var start = currentPage * perPage;
+    var end = Math.min(start + perPage, allPostsData.length);
+    
+    for (var i = start; i < end; i++) {
+        var post = allPostsData[i];
+        var imgHtml = '';
+        if (post.image) {
+            imgHtml = '<img src="' + post.image + '" alt="' + post.title + '" style="width:100%; height:200px; object-fit:cover; display:block;">';
+        }
+        html += '<div class="grid-card">' + imgHtml;
+        html += '<div class="grid-body"><h3><a href="' + post.url + '">' + post.title + '</a></h3>';
+        html += '<div class="grid-meta">' + post.date + '</div></div></div>';
+    }
+    
+    grid.innerHTML = html;
+    
+    var prevBtn = document.getElementById('prevBtn');
+    var nextBtn = document.getElementById('nextBtn');
+    
+    if (currentPage === 0) {
+        prevBtn.style.display = 'none';
+    } else {
+        prevBtn.style.display = 'inline-block';
+    }
+    
+    if (end >= allPostsData.length) {
+        nextBtn.style.display = 'none';
+    } else {
+        nextBtn.style.display = 'inline-block';
+    }
+}
+
+function nextGridPage() {
+    currentPage++;
+    renderGridPage();
+}
+
+function prevGridPage() {
+    currentPage--;
+    renderGridPage();
+}
+
+renderGridPage();
+
+        
         function toggleMenu() {
             var menu = document.getElementById('menuList');
             menu.classList.toggle('active');
