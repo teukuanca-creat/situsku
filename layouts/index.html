@@ -293,7 +293,16 @@
         </aside>
         <div class="primary">
             <h3 style="font-size:18px; font-weight:bold; margin-bottom:15px;">Artikel Lainnya</h3>
-            <div id="fiveArticles"></div>
+            <div>
+    {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+    <article style="background:#fff; padding:10px 0; margin:0;">
+        <h4 style="font-size:16px; margin-bottom:8px;"><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" style="color:#000; font-weight:bold;">{{ .Title }}</a></h4>
+        {{ if .Params.featured_image }}
+        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+        {{ end }}
+    </article>
+    {{ end }}
+            </div>
             <div style="text-align:center; margin:15px 0;">
                 <a href="#" onclick="prevFivePage(); return false;" id="prevFiveBtn" style="background:#1a56db; color:#fff; padding:8px 18px; border-radius:5px; font-weight:bold; font-size:13px; display:none;">&laquo; Sebelumnya</a>
                 <a href="#" onclick="nextFivePage(); return false;" id="nextFiveBtn" style="background:#1a56db; color:#fff; padding:8px 18px; border-radius:5px; font-weight:bold; font-size:13px;">Artikel Selanjutnya &raquo;</a>
