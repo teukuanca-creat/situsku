@@ -382,7 +382,7 @@ function showPage() {
         var p = allPosts[i];
         var img = '';
         if (p.image) {
-            img = '<img src="' + p.image + '" alt="' + p.title + '" style="width:100%; height:180px; object-fit:cover; display:block; margin-bottom:10px;">';
+            img = '<img src="' + p.image + '" alt="' + p.title + '">';
         }
         html += '<div class="grid-card">' + img;
         html += '<div class="grid-body"><h3><a href="' + p.url + '">' + p.title + '</a></h3>';
