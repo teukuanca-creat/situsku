@@ -250,7 +250,7 @@
 
             <aside class="sidebar">
                 <div class="widget">
-                    <h3 class="widget__title">Berita Populer</h3>
+                    <h3 class="widget__title">Postingan Terpopuler</h3>
                     <ul class="widget-list" id="popularList">
                         {{ range first 10 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
                         <li><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></li>
@@ -275,7 +275,7 @@
     <a href="#" onclick="nextPage(); return false;" style="background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px;" id="nextPageBtn">Artikel Selanjutnya &raquo;</a>
 </div>
 
-        <!-- New Section: Sidebar Left + 5 Articles -->
+        <!-- New Section: Sidebar Left + 2 Articles -->
 <div class="main-wrapper" style="margin:20px 0; padding:0;">
     <aside class="sidebar" style="flex:1; min-width:0;">
         <div class="widget">
