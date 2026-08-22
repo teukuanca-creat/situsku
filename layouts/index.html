@@ -254,18 +254,8 @@
 
     <!-- Grid Articles -->
 
-<div class="grid-articles">
-    {{ range first 8 (after 1 (where .Site.RegularPages "Section" "posts")) }}
-    <div class="grid-card">
-        {{ if .Params.featured_image }}
-        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
-        {{ end }}
-        <div class="grid-body">
-            <h3><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            <div class="grid-meta">{{ .Date.Format "02 January 2006" }}</div>
-        </div>
-    </div>
-    {{ end }}
+<div class="grid-articles" id="gridArticles">
+    <!-- JavaScript render -->
 </div>
     
     <div class="pagination-nav">
