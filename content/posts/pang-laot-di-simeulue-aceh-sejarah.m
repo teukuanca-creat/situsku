@@ -3,44 +3,45 @@ title: 'Pang Laot di Simeulue,Aceh: Sejarah, Kelembagaan, dan Aturan Adat'
 permalink: '/2026/08/pang-laot-di-simeulueaceh-sejarah.html'
 date: 2026-08-10
 draft: false
-featured_image: "/situsku/images/ilustrasi-media-sosial.webp"
+featured_image: "/situsku/images/pang-laot.png"
 categories: ["Edukasi"]
 description: "Ulasan mendalam Pang Laot Simeulue dari sejarah abad ke-16, dasar hukum daerah, hingga tugas menjaga kelestarian laut."
 tags: ["Regulasi", "Panglima Laot"]
 ---
 
 ## A. Pendahuluan 
-Sektor kelautan Indonesia menyimpan salah satu sistem tata kelola kearifan lokal (indigenous knowledge) paling terstruktur di dunia.
+Sebagaimana diketahui,Indonesia diakui secara luas oleh para ahli lingkungan dan antropologi maritim dunia sebagai salah satu wilayah dengan sistem tata kelola kearifan lokal (indigenous knowledge) yang paling kaya, terstruktur, dan terbukti menjaga keberlanjutan ekosistem.
 
-Di Provinsi Aceh, kehidupan sosial-kemasyarakatan tidak hanya diatur oleh birokrasi pemerintahan formal, melainkan dibingkai oleh tatanan adat yang terikat erat dalam norma Adat Bak Po Teumeureuhom, Hukum Bak Syiah Kuala.
+Dengan demikian, kehidupan sosial-kemasyarakatan di Aceh tidak hanya diatur oleh birokrasi pemerintahan formal, melainkan dibingkai oleh tatanan adat yang terikat erat dalam norma Adat Bak Po Teumeureuhom, Hukum Bak Syiah Kuala.
 
-Dalam tatanan masyarakat Aceh, struktur adat hadir secara hierarkis dan fungsional. Masyarakat mengenal Mukim sebagai entitas adat yang membawahi beberapa Gampong (desa), 
-
-Keujreun Blang di sektor pengairan pertanian, hingga Panglima Laot (Pang Laot) yang memegang mandat tertinggi dalam tata kelola wilayah pesisir dan perikanan tangkap.
+Dalam tatanan masyarakat Aceh, struktur adat hadir secara hierarkis dan fungsional, seperti: 
+- Masyarakat mengenal **Mukim** sebagai entitas adat yang membawahi beberapa Gampong (desa),
+- **Keujreun Blang** di sektor pengairan pertanian, dan
+- **Panglima Laot** (Pang Laot) yang memegang mandat tertinggi dalam tata kelola wilayah pesisir dan perikanan tangkap.
 
 Integrasi antara struktur adat dan hukum formal inilah yang membuat tata kehidupan sosial-kemaritiman Aceh, khususnya di wilayah kepulauan seperti Simeulue, tetap kokoh melintasi zaman.
 
 ## B. Sejarah Awal Panglima Laot: Dari Era Kesultanan hingga Zaman Modern
-​Keberadaan Panglima Laot bukan merupakan produk hukum baru, melainkan pranata adat yang telah mengakar selama lebih dari empat abad.
+​Keberadaan Panglima Laot bukan merupakan produk hukum baru, melainkan pranata adat yang telah mengakar selama lebih dari empat abad. Berikut ulasannya yang dirangkum dari beberapa sumber sejarah:
 
 ### ​1. Masa Kesultanan Aceh Darussalam (Abad ke-16 – 17)
-Menurut catatan sejarah, lembaga Panglima Laot sudah mengakar sejak masa pemerintahan Sultan Iskandar Muda (1607–1636).
+Lembaga Panglima Laot sudah mengakar sejak masa pemerintahan Sultan Iskandar Muda (1607–1636).
 
-Kala itu, Panglima Laot memegang peranan krusial dalam menjaga stabilitas wilayah maritim Aceh, yang mencakup tiga fungsi utama:
+Kala itu, Panglima Laot memegang peranan krusial dalam menjaga stabilitas wilayah maritim Aceh, yang mencakup tiga fungsi utama, yaitu:
 
 - **​Sektor Perdagangan:** Menarik cukai pelabuhan dari kapal-kapal dagang asing yang berlabuh.
 - **​Sektor Pertahanan:** Menjadi perpanjangan tangan kesultanan dalam memobilisasi nelayan untuk mengamankan laut dari gangguan luar.
 - **Sektor Adat:** Menetapkan tata cara melaut dan menangkap ikan demi mencegah timbulnya gesekan antar nelayan.
 
 ### 2. Masa Kolonial Belanda dan Pendudukan Jepang
-​Ketika Belanda menginvasi Aceh pada akhir abad ke-19, struktur Panglima Laot mengalami penyempitan peran. Pemerintah kolonial menghapus fungsi militer dan fiskal Panglima Laot untuk melemahkan kekuatan maritim Aceh.
+​Ketika Belanda menginvasi Aceh pada akhir abad ke-19, struktur Panglima Laot mengalami penyempitan peran.
+
+Pemerintah kolonial menghapus fungsi militer dan fiskal Panglima Laot untuk melemahkan kekuatan maritim Aceh.
 
 Kendati demikian, fungsi Panglima Laot sebagai hakim adat (mediator) dan penegak Hukum Adat Laot di tingkat kuala/muara tetap dipertahankan secara swadaya oleh masyarakat nelayan setempat karena efektivitasnya dalam menjaga ketertiban.
 
 ### ​3. Masa Pasca-Kemerdekaan hingga Era Reformasi
-​Pasca-kemerdekaan Indonesia, kelembagaan ini sempat berjalan secara informal tanpa payung hukum negara yang spesifik.
-
-Baru pada tahun 1970-an, para pemangku adat laut di Aceh mulai melakukan konsolidasi kembali.
+​Pasca-kemerdekaan Indonesia, kelembagaan ini sempat berjalan secara informal tanpa payung hukum negara yang spesifik. Baru pada tahun 1970-an, para pemangku adat laut di Aceh mulai melakukan konsolidasi kembali.
 
 Musyawarah Besar (Mubes) Panglima Laot Se-Aceh pertama yang digelar pada tahun 1972 menjadi tonggak awal modernisasi organisasi adat ini tanpa menghilangkan nilai-nilai tradisionalnya.
 
@@ -48,6 +49,7 @@ Musyawarah Besar (Mubes) Panglima Laot Se-Aceh pertama yang digelar pada tahun 1
 ​Secara yuridis, eksistensi Panglima Laot memiliki landasan hukum yang sangat kuat, bertransformasi dari norma lisan menjadi bagian dari hukum positif Indonesia.
 
 ### ​1. Landasan Hukum Tingkat Nasional & Provinsi
+Berikut uraian singkat dari Landasan Hukum Nasional dan Provinsi Aceh:
 1). Undang-Undang Nomor 44 Tahun 1999, tentang Penyelenggaraan Keistimewaan Provinsi Daerah Istimewa Aceh (mengakui penyelenggaraan kehidupan adat).
 2). Undang-Undang Nomor 11 Tahun 2006, tentang Pemerintahan Aceh (UUPA):
 - ​Pasal 98 (ayat1 dan 2): Lembaga adat berfungsi dan berperan sebagai wahana partisipasi masyarakat dalam penyelenggaraan Pemerintahan Aceh dan pemerintahan kabupaten/kota. Penyelesaian masalah sosial kemasyarakatan secara adat ditempuh melalui lembaga adat.
@@ -63,7 +65,7 @@ Di tingkat wilayah Kabupaten Simeulue, aturan teknis dan pengakuan hukum bagi Pa
 3). Qanun Kabupaten Simeulue Nomor 30 Tahun 2003 tentang Perlindungan dan Pelestarian Kawasan Perairan Pantai dan Pulau-Pulau. Regulasi ini menjadi landasan bagi Panglima Laot dalam menjalankan fungsi ekologis atau menjaga kelestarian ekosistem laut setempat.
 
 ## D. Eksistensi dan Kedudukan Sekretariat Panglima Laot di Simeulue
-​Sebagai wilayah yang dikelilingi Samudera Hindia dengan garis pantai sepanjang ratusan kilometer, Kabupaten Simeulue menempatkan Panglima Laot sebagai garda terdepan tata kelola pesisir.
+Sebagai wilayah yang dikelilingi Samudera Hindia dengan garis pantai sepanjang ratusan kilometer, Simeulue memposisikan Panglima Laot sebagai salah satu garda terdepan dalam tata kelola pesisir.
 
 ### 1. Hierarki dan Struktur Organisasi Panglima Laot
 #### 1). Panglima Laot Kabupaten: 
