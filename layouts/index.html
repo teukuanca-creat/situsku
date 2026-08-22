@@ -200,7 +200,7 @@
             <div class="slide">
                 <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
                     {{ if .Params.featured_image }}
-                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                    <img src="{{ .Params.featured_image | safeURL }}" alt="{{ .Title }}">
                     {{ end }}
                     <div class="slide-overlay">
                         <h3 class="slide-title">{{ .Title }}</h3>
@@ -231,7 +231,7 @@
                 {{ range first 1 (where .Site.RegularPages "Section" "posts") }}
                 <div class="featured-article">
                     {{ if .Params.featured_image }}
-                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                    <img src="{{ .Params.featured_image | safeURL }}" alt="{{ .Title }}">
                     {{ end }}
                     <div class="featured-body">
                         <h2><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h2>
@@ -321,7 +321,7 @@
                     {{ range last 5 (where .Site.RegularPages "Section" "posts") }}
                     <li>
                         {{ if .Params.featured_image }}
-                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                        <img src="{{ .Params.featured_image | safeURL }}" alt="{{ .Title }}">
                         {{ end }}
                         <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
                     </li>
@@ -334,7 +334,7 @@
                     {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
                     <li>
                         {{ if .Params.featured_image }}
-                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                        <img src="{{ .Params.featured_image | safeURL }}" alt="{{ .Title }}">
                         {{ end }}
                         <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
                     </li>
