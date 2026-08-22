@@ -422,7 +422,7 @@ allGridArticles.push({
 {{ end }}
 
 var gridIndex = 0;
-var gridPerPage = 100;
+var gridPerPage = 8;
         
 function renderGrid() {
     var grid = document.getElementById('articleGrid');
@@ -455,7 +455,7 @@ function renderGrid() {
         prevBtn.style.display = 'inline-block';
     }
     
-    if (end >= allGridArticles.length) {
+    if (gridIndex + gridPerPage >= allGridArticles.length) {
         nextBtn.style.display = 'none';
     } else {
         nextBtn.style.display = 'inline-block';
