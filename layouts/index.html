@@ -73,7 +73,7 @@
         .grid-articles { display: grid !important; grid-template-columns: repeat(2, 1fr) !important; gap: 15px; margin: 20px 0; }
         .grid-card { background: var(--white); border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform .3s ease; display: block !important; }
         .grid-card:hover { transform: translateY(-3px); }
-        .grid-card img { width: 100%; height: 150px; object-fit: cover; display: block; }
+        .grid-card img { width: 100%; height: auto; max-height: 200px; object-fit: contain; display: block; background: #f5f5f5; }
         .grid-card .grid-body { padding: 15px; }
         .grid-card h3 { font-size: 14px; margin-bottom: 8px; line-height: 1.4; }
         .grid-card h3 a { color: #000; }
@@ -138,7 +138,7 @@
         }
         @media (max-width: 480px) {
     .grid-articles { grid-template-columns: 1fr; gap: 10px; }
-    .grid-card img { width: 100%; height: 200px; object-fit: cover; display: block; }
+    .grid-card img { width: 100%; height: auto; max-height: 200px; object-fit: contain; display: block; background: #f5f5f5; }
     .grid-card h3 { font-size: 14px; }
         }
     </style>
@@ -495,8 +495,7 @@ function renderGrid() {
         var article = allGridArticles[i];
         var imageHtml = '';
         if (article.image) {
-            imageHtml = '<img src="' + article.image + '" alt="' + article.title + '" style="width:100%; height:150px; object-fit:cover; display:block;">';
-        }
+            imgHtml = '<img src="' + post.image + '" alt="' + post.title + '">';
         html += '<div class="grid-card">';
         html += imageHtml;
         html += '<div class="grid-body">';
