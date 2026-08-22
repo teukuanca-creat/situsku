@@ -328,7 +328,9 @@
                     {{ end }}
                 </ul>
             </div>
-            
+
+            <div class="column-box">
+                <h3>Artikel Terbaru</h3>
                 <ul>
                     {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
                     <li>
