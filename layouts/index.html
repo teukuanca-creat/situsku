@@ -445,6 +445,59 @@ function scrollPopular(direction) {
     list.scrollTop = (direction === 'down') ? list.scrollTop + 200 : list.scrollTop - 200;
 }
 
+var fivePage = 0;
+var fivePerPage = 5;
+
+function renderFive() {
+    var container = document.getElementById('fiveArticles');
+    var start = fivePage * fivePerPage;
+    var end = start + fivePerPage;
+    var html = '';
+    
+    for (var i = start; i < end && i < allPosts.length; i++) {
+        var p = allPosts[i];
+        var img = '';
+        if (p.image) {
+            img = '<img src="' + p.image + '" alt="' + p.title + '" style="width:100%; height:180px; object-fit:cover; display:block; margin-bottom:10px;">';
+        }
+        html += '<article style="background:#fff; padding:10px 0; margin:0;">';
+        html += '<h4 style="font-size:16px; margin-bottom:8px;"><a href="' + p.url + '" style="color:#000; font-weight:bold;">' + p.title + '</a></h4>';
+        html += img;
+        html += '</article>';
+    }
+    
+    container.innerHTML = html;
+    
+    document.getElementById('prevFiveBtn').style.display = fivePage === 0 ? 'none' : 'inline-block';
+    document.getElementById('nextFiveBtn').style.display = (end >= allPosts.length) ? 'none' : 'inline-block';
+    
+    var totalPages = Math.ceil(allPosts.length / fivePerPage);
+    var pageHtml = '';
+    for (var j = 0; j < totalPages; j++) {
+        pageHtml += '<a href="#" onclick="goFivePage(' + j + '); return false;" style="padding:3px 8px; margin:0 2px; background:' + (j === fivePage ? '#1a56db' : '#e0e0e0') + '; color:' + (j === fivePage ? '#fff' : '#333') + '; border-radius:3px; font-size:12px;">' + (j + 1) + '</a>';
+    }
+    document.getElementById('pageNumbers').innerHTML = pageHtml;
+}
+
+function nextFivePage() {
+    fivePage++;
+    renderFive();
+}
+
+function prevFivePage() {
+    fivePage--;
+    renderFive();
+}
+
+function goFivePage(idx) {
+    fivePage = idx;
+    renderFive();
+}
+
+renderFive();
+
+
+    
 // Slider
 var slideNow = 0;
 var slides = document.querySelectorAll('.slide');
