@@ -70,7 +70,7 @@
         .featured-article .meta { font-size: 13px; color: #666; }
 
         /* Grid 8 Articles */
-        .grid-articles { display: grid !important; grid-template-columns: repeat(4, 1fr) !important; gap: 10px; margin: 20px 0; }
+        .grid-articles { display: grid !important; grid-template-columns: repeat(2, 1fr) !important; gap: 15px; margin: 20px 0; }
         .grid-card { background: var(--white); border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform .3s ease; display: block !important; }
         .grid-card:hover { transform: translateY(-3px); }
         .grid-card img { width: 100%; height: 150px; object-fit: cover; display: block; }
@@ -264,13 +264,12 @@
             </aside>
         </div>
 
-        <!-- Grid 8 Articles -->
-<div class="grid-articles" id="articleGrid">
-    {{ $allPosts := where .Site.RegularPages "Section" "posts" }}
-    {{ range first 8 (after 1 $allPosts) }}
+        <!-- Grid Articles -->
+<div class="grid-articles" id="gridArticles">
+    {{ range first 6 (after 1 (where .Site.RegularPages "Section" "posts")) }}
     <div class="grid-card">
         {{ if .Params.featured_image }}
-        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width:100%; height:200px; object-fit:cover; display:block;">
         {{ end }}
         <div class="grid-body">
             <h3><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h3>
@@ -280,10 +279,10 @@
     {{ end }}
 </div>
 
-<!-- Pagination for Grid -->
-<div class="pagination-nav">
-    <a href="#" onclick="prevGrid(); return false;" style="display:none;" id="prevGridBtn">&laquo; Sebelumnya</a>
-    <a href="#" onclick="nextGrid(); return false;" id="nextGridBtn">Artikel Lainnya &raquo;</a>
+<!-- Grid Pagination -->
+<div class="pagination-nav" style="display:flex; justify-content:center; gap:15px; margin:20px 0;">
+    <a href="https://teukuanca-creat.github.io/situsku/posts/" style="background:#1a56db; color:#fff; padding:10px 20px; border-radius:8px; font-weight:bold; font-size:14px;">&laquo; Sebelumnya</a>
+    <a href="https://teukuanca-creat.github.io/situsku/posts/" style="background:#1a56db; color:#fff; padding:10px 20px; border-radius:8px; font-weight:bold; font-size:14px;">Artikel Selanjutnya &raquo;</a>
 </div>
 
     
