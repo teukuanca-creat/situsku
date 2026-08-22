@@ -418,7 +418,7 @@
     {
         title: {{ .Title | jsonify }},
         url: "https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}",
-        image: {{ if .Params.featured_image }}{{ .Params.featured_image | jsonify }}{{ else }}""{{ end }},
+        image: "{{ .Params.featured_image }}",
         date: "{{ .Date.Format "02 January 2006" }}"
     },
     {{ end }}
