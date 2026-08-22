@@ -301,7 +301,7 @@
                     <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" style="color:#000; font-weight:bold;">{{ .Title }}</a>
                 </h4>
                 {{ if .Params.featured_image }}
-                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width:100%; height:180px; object-fit:cover; display:block;">
+                <img src="{{ .Params.featured_image | safeURL }}" alt="{{ .Title }}" style="width:100%; height:180px; object-fit:cover; display:block;">
                 {{ end }}
             </article>
             {{ end }}
@@ -363,6 +363,8 @@
             &copy; 2026 teukuanca.com. All rights reserved.
         </div>
     </footer>
+
+        
     <script>
 var allPosts = [];
 {{ range after 1 (where .Site.RegularPages "Section" "posts") }}
