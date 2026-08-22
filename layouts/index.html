@@ -409,16 +409,16 @@
         }
         updateSlider();
         setInterval(function() { moveSlide(1); }, 5000);
-        var allGridArticles = [
-    {{ range after 1 (where .Site.RegularPages "Section" "posts") }}
-    {
-        title: {{ .Title | jsonify }},
-        url: "https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}",
-        image: {{ if .Params.featured_image }}{{ .Params.featured_image | jsonify }}{{ else }}""{{ end }},
-        date: "{{ .Date.Format "02 January 2006" }}"
-    },
-    {{ end }}
-];
+        var allGridArticles = [];
+{{ range after 1 (where .Site.RegularPages "Section" "posts") }}
+allGridArticles.push({
+    title: {{ .Title | jsonify }},
+    url: "https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}",
+    image: {{ if .Params.featured_image }}{{ .Params.featured_image | jsonify }}{{ else }}""{{ end }},
+    date: "{{ .Date.Format "02 January 2006" }}"
+});
+{{ end }}
+
 var gridIndex = 0;
 var gridPerPage = 8;
 
@@ -430,7 +430,10 @@ function renderGrid() {
     
     for (var i = start; i < end; i++) {
         var article = allGridArticles[i];
-        
+        var imageHtml = '';
+        if (article.image) {
+            imageHtml = '<img src="' + article.image + '" alt="' + article.title + '" style="width:100%; height:150px; object-fit:cover; display:block;">';
+        }
         html += '<div class="grid-card">';
         html += imageHtml;
         html += '<div class="grid-body">';
@@ -440,7 +443,7 @@ function renderGrid() {
     }
     
     grid.innerHTML = html;
-    var imageHtml = article.image ? '<img src="' + article.image + '" alt="' + article.title + '" style="width:100%; height:150px; object-fit:cover; display:block;">' : '';
+    
     var prevBtn = document.getElementById('prevGridBtn');
     var nextBtn = document.getElementById('nextGridBtn');
     
