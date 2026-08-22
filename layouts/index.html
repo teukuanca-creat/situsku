@@ -231,7 +231,8 @@
                 {{ range first 1 (where .Site.RegularPages "Section" "posts") }}
                 <div class="featured-article">
                     {{ if .Params.featured_image }}
-                    <img src="{{ .Params.featured_image | absURL }}" alt="{{ .Title }}">
+                    {{ $img := .Params.featured_image }}
+<img src="{{ $img }}" alt="{{ .Title }}">
                     {{ end }}
                     <div class="featured-body">
                         <h2><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h2>
