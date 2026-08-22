@@ -250,7 +250,7 @@
 
             <aside class="sidebar">
                 <div class="widget">
-                    <h3 class="widget__title">Postingan Terpopuler</h3>
+                    <h3 class="widget__title">Berita Populer</h3>
                     <ul class="widget-list" id="popularList">
                         {{ range first 10 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
                         <li><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></li>
@@ -275,7 +275,7 @@
     <a href="#" onclick="nextPage(); return false;" style="background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px;" id="nextPageBtn">Artikel Selanjutnya &raquo;</a>
 </div>
 
-        <!-- New Section: Sidebar Left + 2 Articles -->
+        <!-- New Section: Sidebar Left + 5 Articles -->
 <div class="main-wrapper" style="margin:20px 0; padding:0;">
     <aside class="sidebar" style="flex:1; min-width:0;">
         <div class="widget">
@@ -295,16 +295,17 @@
     </aside>
 
     <div class="primary" style="flex:2; min-width:0;">
-    <h3 style="font-size:18px; font-weight:bold; margin-bottom:15px;">Artikel Lainnya</h3>
-    <div id="threeArticles">
-        <!-- JavaScript render -->
+        <h3 style="font-size:18px; font-weight:bold; margin-bottom:15px;">Artikel Lainnya</h3>
+        <div id="fiveArticles">
+            <!-- JavaScript render -->
+        </div>
+        <div style="text-align:center; margin:15px 0;">
+            <a href="#" onclick="prevFivePage(); return false;" style="background:#1a56db; color:#fff; padding:8px 18px; border-radius:5px; font-weight:bold; font-size:13px; display:none;" id="prevFiveBtn">&laquo; Sebelumnya</a>
+            <a href="#" onclick="nextFivePage(); return false;" style="background:#1a56db; color:#fff; padding:8px 18px; border-radius:5px; font-weight:bold; font-size:13px;" id="nextFiveBtn">Artikel Selanjutnya &raquo;</a>
+        </div>
+        <div id="pageNumbers" style="text-align:center; margin-top:10px;"></div>
     </div>
-    <div style="text-align:center; margin:15px 0;">
-        <a href="#" onclick="prevThreePage(); return false;" style="background:#1a56db; color:#fff; padding:8px 18px; border-radius:5px; font-weight:bold; font-size:13px; display:none;" id="prevThreeBtn">&laquo; Sebelumnya</a>
-        <a href="#" onclick="nextThreePage(); return false;" style="background:#1a56db; color:#fff; padding:8px 18px; border-radius:5px; font-weight:bold; font-size:13px;" id="nextThreeBtn">Baca Selengkapnya &raquo;</a>
-    </div>
-    <div id="pageNumbersThree" style="text-align:center; margin-top:10px;"></div>
-    </div>
+</div>
     
 
         <!-- 2 Columns -->
@@ -357,9 +358,6 @@
             &copy; 2026 teukuanca.com. All rights reserved.
         </div>
     </footer>
-
-
-
 <script>
 var allPosts = [];
 {{ range after 1 (where .Site.RegularPages "Section" "posts") }}
@@ -447,57 +445,56 @@ function scrollPopular(direction) {
     list.scrollTop = (direction === 'down') ? list.scrollTop + 200 : list.scrollTop - 200;
 }
 
-var threePage = 0;
-var threePerPage = 3;
+var fivePage = 0;
+var fivePerPage = 5;
 
-function renderThree() {
-    var container = document.getElementById('threeArticles');
-    var start = threePage * threePerPage;
-    var end = start + threePerPage;
+function renderFive() {
+    var container = document.getElementById('fiveArticles');
+    var start = fivePage * fivePerPage;
+    var end = start + fivePerPage;
     var html = '';
     
     for (var i = start; i < end && i < allPosts.length; i++) {
         var p = allPosts[i];
         var img = '';
         if (p.image) {
-            img = '<img src="' + p.image + '" alt="' + p.title + '" style="width:100%; height:200px; object-fit:cover; display:block; border-radius:10px; margin-bottom:10px;">';
+            img = '<img src="' + p.image + '" alt="' + p.title + '" style="width:100%; height:180px; object-fit:cover; display:block; margin-bottom:10px;">';
         }
         html += '<article style="background:#fff; padding:10px 0; margin:0;">';
         html += '<h4 style="font-size:16px; margin-bottom:8px;"><a href="' + p.url + '" style="color:#000; font-weight:bold;">' + p.title + '</a></h4>';
         html += img;
-        html += '<a href="' + p.url + '" style="color:#1a56db; font-weight:bold; font-size:13px;">Baca Selengkapnya &raquo;</a>';
         html += '</article>';
     }
     
     container.innerHTML = html;
     
-    document.getElementById('prevThreeBtn').style.display = threePage === 0 ? 'none' : 'inline-block';
-    document.getElementById('nextThreeBtn').style.display = (end >= allPosts.length) ? 'none' : 'inline-block';
+    document.getElementById('prevFiveBtn').style.display = fivePage === 0 ? 'none' : 'inline-block';
+    document.getElementById('nextFiveBtn').style.display = (end >= allPosts.length) ? 'none' : 'inline-block';
     
-    var totalPages = Math.ceil(allPosts.length / threePerPage);
+    var totalPages = Math.ceil(allPosts.length / fivePerPage);
     var pageHtml = '';
     for (var j = 0; j < totalPages; j++) {
-        pageHtml += '<a href="#" onclick="goThreePage(' + j + '); return false;" style="padding:3px 8px; margin:0 2px; background:' + (j === threePage ? '#1a56db' : '#e0e0e0') + '; color:' + (j === threePage ? '#fff' : '#333') + '; border-radius:3px; font-size:12px;">' + (j + 1) + '</a>';
+        pageHtml += '<a href="#" onclick="goFivePage(' + j + '); return false;" style="padding:3px 8px; margin:0 2px; background:' + (j === fivePage ? '#1a56db' : '#e0e0e0') + '; color:' + (j === fivePage ? '#fff' : '#333') + '; border-radius:3px; font-size:12px;">' + (j + 1) + '</a>';
     }
-    document.getElementById('pageNumbersThree').innerHTML = pageHtml;
+    document.getElementById('pageNumbers').innerHTML = pageHtml;
 }
 
-function nextThreePage() {
-    threePage++;
-    renderThree();
+function nextFivePage() {
+    fivePage++;
+    renderFive();
 }
 
-function prevThreePage() {
-    threePage--;
-    renderThree();
+function prevFivePage() {
+    fivePage--;
+    renderFive();
 }
 
-function goThreePage(idx) {
-    threePage = idx;
-    renderThree();
+function goFivePage(idx) {
+    fivePage = idx;
+    renderFive();
 }
 
-renderThree();
+renderFive();
 
 
     
