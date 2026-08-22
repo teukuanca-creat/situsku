@@ -275,6 +275,42 @@
     <a href="#" onclick="nextPage(); return false;" style="background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px;" id="nextPageBtn">Artikel Selanjutnya &raquo;</a>
 </div>
 
+        <!-- Single Articles List + Sidebar -->
+<div class="main-wrapper" style="margin-top:30px;">
+    <div class="primary">
+        <h2 style="font-size:22px; font-weight:bold; margin-bottom:20px;">Artikel Terbaru</h2>
+        {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+        <article class="list__item" style="background:#fff; border-radius:15px; padding:20px; margin-bottom:25px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+            <h3 style="font-size:18px; margin-bottom:10px;">
+                <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" style="color:#000; font-weight:bold;">{{ .Title }}</a>
+            </h3>
+            {{ if .Params.featured_image }}
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width:100%; height:200px; object-fit:cover; border-radius:10px; display:block; margin-bottom:10px;">
+            {{ end }}
+            <p style="font-size:14px; color:#555; margin-bottom:10px;">{{ .Summary | truncate 30 }}</p>
+            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" style="color:#1a56db; font-weight:bold; font-size:14px;">Baca Selengkapnya &raquo;</a>
+        </article>
+        {{ end }}
+    </div>
+
+    <aside class="sidebar">
+        <div class="widget" style="background:#fff; border-radius:12px; padding:20px; margin-bottom:20px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+            <h3 style="font-size:15px; text-transform:uppercase; border-bottom:3px solid #1a56db; padding-bottom:10px; margin-bottom:15px; font-weight:bold;">Kategori</h3>
+            <ul style="list-style:none;">
+                {{ range .Site.Taxonomies.categories }}
+                <li style="padding:8px 0; border-bottom:1px solid #eee;">
+                    <a href="https://teukuanca-creat.github.io/situsku/categories/{{ .Page.Title | urlize }}/" style="color:#333; font-size:14px;">{{ .Page.Title }} ({{ .Count }})</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+
+        <div class="widget" style="background:#fff; border-radius:12px; padding:20px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+            <h3 style="font-size:15px; text-transform:uppercase; border-bottom:3px solid #1a56db; padding-bottom:10px; margin-bottom:15px; font-weight:bold;">Video</h3>
+            <iframe width="100%" height="200" src="https://www.youtube.com/embed/rd787jP8r3I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius:10px;"></iframe>
+        </div>
+    </aside>
+</div>
     
 
         <!-- 2 Columns -->
