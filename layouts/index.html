@@ -265,23 +265,14 @@
         </div>
 
         <!-- Grid Articles -->
-<div class="grid-articles">
-    {{ range first 6 (after 1 (where .Site.RegularPages "Section" "posts")) }}
-    <div class="grid-card">
-        {{ if .Params.featured_image }}
-        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
-        {{ end }}
-        <div class="grid-body">
-            <h3><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            <div class="grid-meta">{{ .Date.Format "02 January 2006" }}</div>
-        </div>
-    </div>
-    {{ end }}
+<div class="grid-articles" id="gridArticles">
+    <!-- Artikel akan dimuat oleh JavaScript -->
 </div>
 
 <!-- Grid Pagination -->
 <div class="pagination-nav" style="display:flex; justify-content:center; gap:15px; margin:20px 0;">
-    <a href="https://teukuanca-creat.github.io/situsku/posts/" style="background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px;">Lihat Semua Artikel &raquo;</a>
+    <a href="#" onclick="prevPage(); return false;" style="background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px; display:none;" id="prevPageBtn">&laquo; Sebelumnya</a>
+    <a href="#" onclick="nextPage(); return false;" style="background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px;" id="nextPageBtn">Artikel Selanjutnya &raquo;</a>
 </div>
 
     
@@ -336,11 +327,10 @@
             &copy; 2026 teukuanca.com. All rights reserved.
         </div>
     </footer>
-
-                <script>
-var allPostsData = [];
+<script>
+var allPosts = [];
 {{ range after 1 (where .Site.RegularPages "Section" "posts") }}
-allPostsData.push({
+allPosts.push({
     title: {{ .Title | jsonify }},
     url: "https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}",
     image: {{ if .Params.featured_image }}{{ .Params.featured_image | jsonify }}{{ else }}""{{ end }},
@@ -348,127 +338,101 @@ allPostsData.push({
 });
 {{ end }}
 
-var currentPage = 0;
-var perPage = 6;
+var pageNow = 0;
+var pageSize = 6;
 
-function renderGridPage() {
+function showPage() {
     var grid = document.getElementById('gridArticles');
+    var start = pageNow * pageSize;
+    var end = start + pageSize;
     var html = '';
-    var start = currentPage * perPage;
-    var end = Math.min(start + perPage, allPostsData.length);
     
-    for (var i = start; i < end; i++) {
-        var post = allPostsData[i];
-        var imgHtml = '';
-        if (post.image) {
-            imgHtml = '<img src="' + post.image + '" alt="' + post.title + '">';
+    for (var i = start; i < end && i < allPosts.length; i++) {
+        var p = allPosts[i];
+        var img = '';
+        if (p.image) {
+            img = '<img src="' + p.image + '" alt="' + p.title + '" style="width:100%; height:200px; object-fit:cover; display:block;">';
         }
-        html += '<div class="grid-card">' + imgHtml;
-        html += '<div class="grid-body"><h3><a href="' + post.url + '">' + post.title + '</a></h3>';
-        html += '<div class="grid-meta">' + post.date + '</div></div></div>';
+        html += '<div class="grid-card">' + img;
+        html += '<div class="grid-body"><h3><a href="' + p.url + '">' + p.title + '</a></h3>';
+        html += '<div class="grid-meta">' + p.date + '</div></div></div>';
     }
     
     grid.innerHTML = html;
     
-    var prevBtn = document.getElementById('prevBtn');
-    var nextBtn = document.getElementById('nextBtn');
-    
-    if (currentPage === 0) {
-        prevBtn.style.display = 'none';
-    } else {
-        prevBtn.style.display = 'inline-block';
-    }
-    
-    if (end >= allPostsData.length) {
-        nextBtn.style.display = 'none';
-    } else {
-        nextBtn.style.display = 'inline-block';
-    }
+    document.getElementById('prevPageBtn').style.display = pageNow === 0 ? 'none' : 'inline-block';
+    document.getElementById('nextPageBtn').style.display = (end >= allPosts.length) ? 'none' : 'inline-block';
 }
 
-function nextGridPage() {
-    currentPage++;
-    renderGridPage();
+function nextPage() {
+    pageNow = pageNow + 1;
+    showPage();
 }
 
-function prevGridPage() {
-    currentPage--;
-    renderGridPage();
+function prevPage() {
+    pageNow = pageNow - 1;
+    showPage();
 }
 
-renderGridPage();
+showPage();
 
 function toggleMenu() {
-    var menu = document.getElementById('menuList');
-    menu.classList.toggle('active');
+    document.getElementById('menuList').classList.toggle('active');
 }
 function toggleSubmenu(el) {
     el.parentElement.classList.toggle('active');
 }
 function toggleSearch() {
-    var searchBox = document.getElementById('searchBox');
-    if (searchBox.style.display === 'none') {
-        searchBox.style.display = 'block';
-    } else {
-        searchBox.style.display = 'none';
-    }
+    var sb = document.getElementById('searchBox');
+    sb.style.display = (sb.style.display === 'none') ? 'block' : 'none';
 }
 function searchArticles() {
     var input = document.getElementById('searchInput');
     var filter = input.value.toLowerCase();
-    var resultsContainer = document.getElementById('searchResults');
-    if (filter.length < 2) { resultsContainer.innerHTML = ''; return; }
-    var articles = [
-        {{ range where .Site.RegularPages "Section" "posts" }}
-        { title: {{ .Title | jsonify }}, url: "https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}", content: {{ .Summary | plainify | jsonify }} },
-        {{ end }}
-    ];
+    var rc = document.getElementById('searchResults');
+    if (filter.length < 2) { rc.innerHTML = ''; return; }
     var results = [];
-    for (var i = 0; i < articles.length; i++) {
-        var title = articles[i].title || '';
-        var content = articles[i].content || '';
-        if (title.toLowerCase().indexOf(filter) > -1 || content.toLowerCase().indexOf(filter) > -1) { results.push(articles[i]); }
+    for (var i = 0; i < allPosts.length; i++) {
+        if (allPosts[i].title.toLowerCase().indexOf(filter) > -1) {
+            results.push(allPosts[i]);
+        }
     }
     if (results.length > 0) {
-        var html = '<div style="background:#f5f5f5; border-radius:10px; padding:15px;">';
-        html += '<p style="font-weight:bold; margin-bottom:10px;">Ditemukan ' + results.length + ' hasil:</p>';
+        var h = '<div style="background:#f5f5f5; border-radius:10px; padding:15px;">';
+        h += '<p style="font-weight:bold; margin-bottom:10px;">Ditemukan ' + results.length + ' hasil:</p>';
         for (var j = 0; j < results.length; j++) {
-            html += '<a href="' + results[j].url + '" style="display:block; padding:10px 15px; background:#fff; border-radius:8px; margin-bottom:8px; color:#000; font-weight:bold;">' + results[j].title + '</a>';
+            h += '<a href="' + results[j].url + '" style="display:block; padding:10px 15px; background:#fff; border-radius:8px; margin-bottom:8px; color:#000; font-weight:bold;">' + results[j].title + '</a>';
         }
-        html += '</div>';
-        resultsContainer.innerHTML = html;
+        h += '</div>';
+        rc.innerHTML = h;
     } else {
-        resultsContainer.innerHTML = '<p style="color:#666; font-style:italic;">Tidak ditemukan hasil untuk "' + input.value + '"</p>';
+        rc.innerHTML = '<p style="color:#666; font-style:italic;">Tidak ditemukan hasil</p>';
     }
 }
 function scrollPopular(direction) {
     var list = document.getElementById('popularList');
-    if (direction === 'down') {
-        list.scrollTop = list.scrollTop + 200;
-    } else {
-        list.scrollTop = list.scrollTop - 200;
-    }
+    list.scrollTop = (direction === 'down') ? list.scrollTop + 200 : list.scrollTop - 200;
 }
 
 // Slider
-var currentSlide = 0;
+var slideNow = 0;
 var slides = document.querySelectorAll('.slide');
-var dotsContainer = document.getElementById('sliderDots');
+var dotsBox = document.getElementById('sliderDots');
 for (var i = 0; i < slides.length; i++) {
     var dot = document.createElement('span');
-    dot.onclick = (function(index) { return function() { goToSlide(index); }; })(i);
-    dotsContainer.appendChild(dot);
+    dot.onclick = (function(idx) { return function() { goSlide(idx); }; })(i);
+    dotsBox.appendChild(dot);
 }
-function goToSlide(index) { currentSlide = index; updateSlider(); }
-function moveSlide(direction) { currentSlide = (currentSlide + direction + slides.length) % slides.length; updateSlider(); }
-function updateSlider() {
-    var slider = document.getElementById('slider');
-    slider.style.transform = 'translateX(-' + (currentSlide * 100) + '%)';
-    var dots = dotsContainer.querySelectorAll('span');
-    dots.forEach(function(dot, index) { dot.classList.toggle('active', index === currentSlide); });
+function goSlide(idx) { slideNow = idx; updateSlide(); }
+function moveSlide(dir) { slideNow = (slideNow + dir + slides.length) % slides.length; updateSlide(); }
+function updateSlide() {
+    document.getElementById('slider').style.transform = 'translateX(-' + (slideNow * 100) + '%)';
+    var dots = dotsBox.querySelectorAll('span');
+    dots.forEach(function(d, idx) { d.classList.toggle('active', idx === slideNow); });
 }
-updateSlider();
+updateSlide();
 setInterval(function() { moveSlide(1); }, 5000);
-                </script>
+</script>
+ 
 </body>
 </html>
