@@ -270,7 +270,7 @@
 
 <!-- Grid Articles -->
 <div class="grid-articles">
-    {{ range first 8 (after 1 (where .Site.RegularPages "Section" "posts")) }}
+    {{ range first 8 (where .Site.RegularPages "Section" "posts") }}
     <div class="grid-card">
         {{ if .Params.featured_image }}
         <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
