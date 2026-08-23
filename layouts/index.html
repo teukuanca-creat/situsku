@@ -305,22 +305,56 @@
         {{ end }}
     </div>
 
-    <aside class="sidebar" style="flex:1; min-width:0;">
-        <div class="widget">
-            <h3 style="font-size:15px; text-transform:uppercase; border-bottom:3px solid #1a56db; padding-bottom:10px; margin-bottom:15px; font-weight:bold;">Kategori</h3>
-            <ul style="list-style:none;">
-                {{ range .Site.Taxonomies.categories }}
-                <li style="padding:8px 0; border-bottom:1px solid #f0f0f0;">
-                    <a href="https://teukuanca-creat.github.io/situsku/categories/{{ .Page.Title | urlize }}/" style="color:#333; font-size:14px;">{{ .Page.Title }} ({{ .Count }})</a>
-                </li>
-                {{ end }}
-            </ul>
+    <aside class="sidebar">
+    <div class="widget">
+        <h3 class="widget__title">Postingan Bulan Ini</h3>
+        {{ $currentMonth := now.Format "2006-01" }}
+        {{ $currentPosts := where .Site.RegularPages "Section" "posts" }}
+        {{ $monthCount := 0 }}
+        <ul style="list-style:none;">
+            {{ range $currentPosts }}
+            {{ if eq (.Date.Format "2006-01") $currentMonth }}
+            {{ $monthCount = add $monthCount 1 }}
+            <li style="padding:8px 0; border-bottom:1px solid #f0f0f0;">
+                <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" style="color:#333; font-size:13px;">{{ .Title }}</a>
+            </li>
+            {{ end }}
+            {{ end }}
+        </ul>
+        <p style="font-size:12px; color:#666; margin-top:10px;">Total: {{ $monthCount }} postingan</p>
+    </div>
+
+    <div class="widget">
+        <h3 class="widget__title">Postingan Bulan Sebelumnya</h3>
+        {{ $prevMonth := now.AddDate 0 -1 0 | dateFormat "2006-01" }}
+        {{ $prevCount := 0 }}
+        <ul style="list-style:none;">
+            {{ range $currentPosts }}
+            {{ if eq (.Date.Format "2006-01") $prevMonth }}
+            {{ $prevCount = add $prevCount 1 }}
+            <li style="padding:8px 0; border-bottom:1px solid #f0f0f0;">
+                <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" style="color:#333; font-size:13px;">{{ .Title }}</a>
+            </li>
+            {{ end }}
+            {{ end }}
+        </ul>
+        <p style="font-size:12px; color:#666; margin-top:10px;">Total: {{ $prevCount }} postingan</p>
+    </div>
+
+    <div class="widget">
+        <h3 class="widget__title">Artikel Terpopuler</h3>
+        <ul class="widget-list" id="popularList">
+            {{ range first 10 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
+            <li><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        </ul>
+        <div class="widget-scroll-btn">
+            <button onclick="scrollPopular('up')">▲</button>
+            <button onclick="scrollPopular('down')">▼</button>
         </div>
-        <div class="widget">
-            <h3 style="font-size:15px; text-transform:uppercase; border-bottom:3px solid #1a56db; padding-bottom:10px; margin-bottom:15px; font-weight:bold;">Video</h3>
-            <iframe width="100%" height="200" src="https://www.youtube.com/embed/rd787jP8r3I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius:10px;"></iframe>
-        </div>
-    </aside>
+    </div>
+</aside>
+    
 </div>
 
         <!-- 2 Columns -->
