@@ -372,7 +372,7 @@ var allPosts = [];
 {{ range after 1 (where .Site.RegularPages "Section" "posts") }}
 allPosts.push({
     title: {{ .Title | jsonify }},
-    url: "https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}",
+    url: "https://teukuanca-creat.github.io/situsku{{ .RelPermalink | safeURL }}",
     image: {{ if .Params.featured_image }}{{ .Params.featured_image | jsonify }}{{ else }}""{{ end }},
     date: "{{ .Date.Format "02 January 2006" }}"
 });
