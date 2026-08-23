@@ -19,6 +19,11 @@
         .meta { font-size: 13px; color: #666; margin-bottom: 10px; }
         .read-more { display: inline-block; background: #000; color: #fff; padding: 8px 20px; border-radius: 5px; text-decoration: none; font-size: 13px; font-weight: bold; margin-top: 10px; }
         .read-more:hover { background: #333; }
+        .pagination { display: flex; justify-content: center; align-items: center; gap: 10px; margin: 30px 0; flex-wrap: wrap; }
+        .pagination a { background: #1a56db; color: #fff; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-size: 13px; font-weight: bold; }
+        .pagination a:hover { background: #1e40af; }
+        .pagination .page-number { background: #e0e0e0; color: #333; padding: 8px 12px; border-radius: 5px; font-size: 13px; font-weight: bold; }
+        .pagination .page-number.current { background: #1a56db; color: #fff; }
         .footer { background: #1a56db; color: #fff; padding: 20px 0; margin-top: 30px; font-size: 13px; text-align: center; }
         .footer a { color: #fff; text-decoration: none; }
     </style>
@@ -34,7 +39,9 @@
     <main class="container">
         <h2 style="font-size:20px; margin-bottom:20px;">Semua Postingan</h2>
         
-        {{ range .Pages }}
+        {{ $paginator := .Paginate .Pages 30 }}
+        
+        {{ range $paginator.Pages }}
         <article class="article-card">
             <h2><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <div class="meta">
@@ -47,8 +54,23 @@
             <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" class="read-more">Baca Selengkapnya &raquo;</a>
         </article>
         {{ else }}
-        <p>Belum ada artikel dalam kategori ini.</p>
+        <p>Belum ada artikel.</p>
         {{ end }}
+
+        <!-- Pagination -->
+        <div class="pagination">
+            {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}">&laquo; Sebelumnya</a>
+            {{ end }}
+            
+            {{ range $paginator.Pagers }}
+            <a href="{{ .URL }}" class="page-number {{ if eq . $paginator }}current{{ end }}">{{ .PageNumber }}</a>
+            {{ end }}
+            
+            {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}">Selanjutnya &raquo;</a>
+            {{ end }}
+        </div>
     </main>
 
     <footer class="footer">
