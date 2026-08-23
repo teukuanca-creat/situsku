@@ -42,8 +42,8 @@
             {{ if .Params.featured_image }}
             <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="max-width:100%; border-radius:5px; margin-bottom:10px;">
             {{ end }}
-            <p>{{ .Summary }}</p>
-            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" class="read-more">Baca Selengkapnya</a>
+            <p>{{ .Summary | truncate 30 }}</p>
+            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" class="read-more">Baca Selengkapnya &raquo;</a>
         </article>
         {{ else }}
         <p>Belum ada artikel dalam kategori ini.</p>
