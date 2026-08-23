@@ -250,7 +250,7 @@
 
             <aside class="sidebar">
                 <div class="widget">
-                    <h3 class="widget__title">Berita Populer</h3>
+                    <h3 class="widget__title">Artikel Terpopuler</h3>
                     <ul class="widget-list" id="popularList">
                         {{ range first 10 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
                         <li><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></li>
@@ -264,6 +264,31 @@
             </aside>
         </div>
 
+
+<main class="container">
+        <div class="main-wrapper">
+            <div class="primary">
+                <!-- Featured Article -->
+                {{ range first 1 (where .Site.RegularPages "Section" "posts") }}
+                <div class="featured-article">
+                    {{ if .Params.featured_image }}
+                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                    {{ end }}
+                    <div class="featured-body">
+                        <h2><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                        <div class="meta">
+                            <time>{{ .Date.Format "02 January 2006" }}</time>
+                            {{ if .Params.categories }}
+                            <span> | {{ delimit .Params.categories ", " }}</span>
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+
+
+        
         <!-- Grid Articles -->
 <div class="grid-articles" id="gridArticles">
     <!-- Artikel akan dimuat oleh JavaScript -->
