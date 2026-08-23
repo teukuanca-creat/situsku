@@ -9,7 +9,7 @@ description: "Panduan tumbuh kembang balita usia 18-24 bulan: Memahami motorik k
 tags: ["Motorik Anak", "Tumbuh Kembang Anak"]
 ---
 
-[![Tonton Video Ini](/situsku/images/thumbnail-video.jpg)](https://youtu.be/A7ROaSE6WOg?si=6CLOZv-cfbb47KoE)
+[![Tonton Video Ini](/situsku/images/thumbnail-video.jpg)](https://youtu.be/A7ROaSE6WOg?si=uLPocjvuqV2CWDv8)
 
 ## A. Pendahuluan 
 Banyak orang tua menganggap balita yang tidak bisa diam sebagai tanda anak yang "gelisah" atau "tidak bisa fokus". Namun, dari kacamata medis dan psikologi perkembangan anak, keaktifan berlebih ini merupakan indikator utama bahwa proses tumbuh kembang motorik kasar, motorik halus, serta pemrosesan sensoriknya sedang berlangsung pesat.
