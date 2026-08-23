@@ -266,23 +266,14 @@
 
         
         <!-- Grid Articles -->
-<div class="grid-articles">
-    {{ range first 8 (after 1 (where .Site.RegularPages "Section" "posts")) }}
-    <div class="grid-card">
-        {{ if .Params.featured_image }}
-        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
-        {{ end }}
-        <div class="grid-body">
-            <h3><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            <div class="grid-meta">{{ .Date.Format "02 January 2006" }}</div>
-        </div>
-    </div>
-    {{ end }}
+<div class="grid-articles" id="gridArticles">
+    <!-- JavaScript render -->
 </div>
 
 <!-- Grid Pagination -->
 <div class="pagination-nav" style="display:flex; justify-content:center; gap:15px; margin:20px 0;">
-    <a href="https://teukuanca-creat.github.io/situsku/posts/" style="background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px;">Lihat Semua Artikel &raquo;</a>
+    <a href="#" onclick="prevPage(); return false;" id="prevPageBtn" style="background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px; display:none;">&laquo; Sebelumnya</a>
+    <a href="#" onclick="nextPage(); return false;" id="nextPageBtn" style="background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px;">Artikel Selanjutnya &raquo;</a>
 </div>
 
 
