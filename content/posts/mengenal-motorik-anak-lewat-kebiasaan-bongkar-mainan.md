@@ -3,13 +3,13 @@ title: 'Mengenal Motorik Anak Lewat Kebiasaan Bongkar Mainan'
 permalink: '/2026/08/menyelami-tumbuh-kembang-balita-mengapa.html'
 date: 2026-08-13
 draft: false
-featured_image: "/situsku/images/motorik .webp"
+featured_image: "/situsku/images/motor.jpg"
 categories: ["Edukasi"]
 description: "Panduan tumbuh kembang balita usia 18-24 bulan: Memahami motorik kasar & halus, alasan anak suka membongkar mainan, dan stimulasi bermain luar ruangan."
 tags: ["Motorik Anak", "Tumbuh Kembang Anak"]
 ---
 
-[![Tonton Video Ini](motor.jpg)](https://youtu.be/A7ROaSE6WOg?si=76xZ3ARz9x8F15OD)
+[![Tonton Video Ini](https://img.youtube.com/vi/E8wXusUv8qw/maxresdefault.jpg)](https://youtu.be/A7ROaSE6WOg?si=YSEC7pJpicHMHXMz)
 
 ## A. Pendahuluan 
 Banyak orang tua menganggap balita yang tidak bisa diam sebagai tanda anak yang "gelisah" atau "tidak bisa fokus". Namun, dari kacamata medis dan psikologi perkembangan anak, keaktifan berlebih ini merupakan indikator utama bahwa proses tumbuh kembang motorik kasar, motorik halus, serta pemrosesan sensoriknya sedang berlangsung pesat.
