@@ -148,6 +148,12 @@
     .grid-card img { width: 100%; height: 180px; object-fit: cover; display: block; }
     .grid-card h3 { font-size: 14px; }
         }
+
+/* Back to Top */
+.back-to-top { position: fixed; bottom: 30px; right: 30px; background: #1a56db; color: #fff; width: 45px; height: 45px; border-radius: 50%; display: none; align-items: center; justify-content: center; cursor: pointer; font-size: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); z-index: 999; }
+.back-to-top:hover { background: #1e40af; }
+.back-to-top.show { display: flex; }
+        
     </style>
 </head>
 <body>
@@ -419,6 +425,9 @@
             &copy; 2026 teukuanca.com. All rights reserved.
         </div>
     </footer>
+
+<div class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0, behavior:'smooth'});">↑</div>
+    
 <script>
 // Slider
 var slideNow = 0;
@@ -453,7 +462,18 @@ function scrollPopular(direction) {
     var list = document.getElementById('popularList');
     if (list) { list.scrollTop = (direction === 'down') ? list.scrollTop + 200 : list.scrollTop - 200; }
 }
+window.onscroll = function() {
+    var btn = document.getElementById('backToTop');
+    if (document.documentElement.scrollTop > 300) {
+        btn.classList.add('show');
+    } else {
+        btn.classList.remove('show');
+    }
+};
+    
 </script>
- 
+
+
+    
 </body>
 </html>
