@@ -1,5 +1,5 @@
 ---
-title: 'Aceh Gempa Hari Ini: Guncangan Sumut Terasa sampai Simeulue'
+title: 'Gempa Aceh Hari Ini: Guncangan Sumut Terasa sampai Simeulue'
 permalink: '/2026/08/aceh-gempa-hari-ini-guncangan-sumut.html'
 date: 2026-08-15
 draft: false
