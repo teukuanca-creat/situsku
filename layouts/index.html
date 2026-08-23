@@ -265,7 +265,10 @@
         </div>
 
         
-        <!-- Grid Articles -->
+        <!-- Grid Title -->
+<h2 style="font-size:20px; font-weight:bold; border-bottom:3px solid #1a56db; padding-bottom:10px; margin:20px 0;">Semua Postingan</h2>
+
+<!-- Grid Articles -->
 <div class="grid-articles">
     {{ range first 8 (after 1 (where .Site.RegularPages "Section" "posts")) }}
     <div class="grid-card">
@@ -284,7 +287,6 @@
 <div class="pagination-nav" style="display:flex; justify-content:center; gap:15px; margin:20px 0;">
     <a href="https://teukuanca-creat.github.io/situsku/posts/" style="background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px;">Lihat Semua Artikel &raquo;</a>
 </div>
-
 
         <!-- Monthly Articles + Sidebar -->
 <div class="main-wrapper" style="margin:20px 0; padding:0;">
