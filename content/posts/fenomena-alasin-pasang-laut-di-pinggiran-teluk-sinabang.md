@@ -3,7 +3,7 @@ title: 'Fenomena Malasin (Pasang Laut) di Pinggiran Teluk Sinabang-Simeulue,Aceh
 permalink: '/2026/08/fenomena-malasin-pasang-air-laut-di.html'
 date: 2026-08-06
 draft: false
-featured_image: "/situsku/images/ilustrasi-malasin.webp"
+featured_image: "/images/ilustrasi-malasin.webp"
 categories: ["Cerita Menarik"]
 description: "Kenangan saat-saat fenomena Malasin (pasang air laut) di era 90an Pinggir Teluk Sinabang hingga perubahan dampak Malasin pasca Smong 2004 (Tsunami)."
 tags: ["Pasang Air Laut", "Malasin"]
