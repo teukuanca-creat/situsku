@@ -3,7 +3,7 @@ title: 'Mengenal Akar Bahar: Mitos, Fakta Sains dan Aturan Hukum'
 permalink: /2026/08/mengenal-akar-bahar-mitos-fakta-sains.html
 date: 2026-08-02
 draft: false
-featured_image: "/situsku/images/ilustrasi-akar-bahar.png"
+featured_image: "/images/ilustrasi-akar-bahar.png"
 categories: ["Cerita Menarik"]
 description: "Mengungkap identitas asli Akar Bahar dari ingatan mistis Simeulue, tinjauan biologi dan medis, hingga alasan hukum konservasi di balik kelangkaannya."
 tags: ["akar bahar", "simeulue"]
