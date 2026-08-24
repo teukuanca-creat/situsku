@@ -3,7 +3,7 @@ title: 'Kearifan Memancing Ikan Budu di Teluk Sinabang-Simeulue,Aceh'
 permalink: '/2026/08/kearifan-memancing-ikan-budu-di-teluk.html'
 date: 2026-08-07
 draft: false
-featured_image: "/situsku/images/ilustrasi-jembatan-biru.webp"
+featured_image: "/images/ilustrasi-jembatan-biru.webp"
 categories: ["Cerita Menarik"]
 description: "Sejarah dan Perubahan Lanskap Maritim Teluk Sinabang: Dari Pusat Ekonomi Era 90-an hingga Modernisasi."
 tags: ["Memancing Ikan Budu", "Teluk Sinabang"]
