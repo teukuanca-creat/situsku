@@ -44,7 +44,7 @@ Kemudian, pelabuhan ini berfungsi sebagai titik keluar untuk komoditas premium d
 Di perairan tenang Teluk Sinabang, terdapat sebuah pulau kecil bernama Pulau Balok.
 
 Pulau ditengah teluk ini, secara historis pernah menjadi perencanaan lokasi pembangunan tugu monumen pada awal-awal pemerintahan lokal.
-![Pulau Balok, Sinabang](/situsku/images/pulau-balok.webp)
+![Pulau Balok, Sinabang](/images/pulau-balok.webp)
 *Pulau Balok, Teluk Sinabang. Foto: Dokumentasi Pribadi*
 Hingga sekarang Pulau Balok masih mempertahankan kondisi alaminya. Sehingga menjadi peluang untuk pemanfaatan potensi seperti pengembangan kawasan wisata sejarah dan konservasi laut dimasa depan.
           
