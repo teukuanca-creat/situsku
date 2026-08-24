@@ -3,7 +3,7 @@ title: 'Pesona Pantai Lasikin: Sunset dan Tradisi Menjaring'
 permalink: '/2026/07/pesona-pantai-lasikin-sunset-dan.html'
 date: 2026-07-08
 draft: false
-featured_image: "/situsku/images/lasikin.webp"
+featured_image: "/images/lasikin.webp"
 categories: ["Travelling"]
 description: "Keindahan salah satu pantai Simeulue yang dapat kamu tuju ketika berkunjung ke simeulue, nikmati sensasi berbeda di pantai ini."
 tags: ["Pantai Lasikin", "Sunset"]
