@@ -3,7 +3,7 @@ title: 'Pesona Batu Akik dan Giok Aceh: Jenis & Pengolahan'
 permalink: /2026/08/pesona-batu-akik-dan-giok-aceh-jenis.html
 date: 2026-08-03
 draft: false
-featured_image: "/situsku/images/ilustrasi-batu-akik.png"
+featured_image: "/images/ilustrasi-batu-akik.png"
 categories: ["Kreativitas"]
 description: "Ulasan batu akik & Giok Aceh: dari jenis, aspek hukum pertambangan, hingga panduan pengolahan ring perhiasan berkelas."
 tags: ["Batu Akik", "Aceh"]
