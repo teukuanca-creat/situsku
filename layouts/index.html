@@ -347,9 +347,9 @@
         <button onclick="scrollList('currentMonthList','up')">▲</button>
         <button onclick="scrollList('currentMonthList','down')">▼</button>
     </div>
-    </div>
+</div>
 
-        <div class="widget">
+<div class="widget">
     <h3 class="widget__title">Postingan Bulan Sebelumnya</h3>
     {{ $prevMonth := now.AddDate 0 -1 0 | dateFormat "2006-01" }}
     {{ $prevCount := 0 }}
@@ -368,7 +368,7 @@
         <button onclick="scrollList('prevMonthList','up')">▲</button>
         <button onclick="scrollList('prevMonthList','down')">▼</button>
     </div>
-        </div>
+</div>
 
         <div class="widget">
             <h3 class="widget__title">Kategori</h3>
