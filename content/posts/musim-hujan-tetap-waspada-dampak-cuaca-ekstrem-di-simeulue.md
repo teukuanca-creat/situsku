@@ -3,7 +3,7 @@ title: 'Musim Hujan: Tetap Waspada Dampak Cuaca Ekstrem di Simeulue,Aceh'
 permalink: '/2026/08/musim-hujan-tetap-waspada-dampak-cuaca.html'
 date: 2026-08-01
 draft: false
-featured_image: "/situsku/images/musim-hujan-simeulue.webp"
+featured_image: "/images/musim-hujan-simeulue.webp"
 categories: ["Cerita Menarik"]
 description: "2026/08/musim-hujan-tetap-waspada-dampak-cuaca.html."
 tags: ["Musim Hujan", "Cuaca Ekstrem"]
