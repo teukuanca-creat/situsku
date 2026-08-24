@@ -10,9 +10,9 @@ tags: ["Pohon Pinggir Jalan Simeulue", "Kenapa Pohon Sama"]
 ---
 
 ## A. Pendahuluan 
-Saat melintasi jalan raya, pernahkah kamu perhatikan jenis pohon peneduh, mereka terlihat hampir seragam bukan?
-Kenapa tidak ditanami pohon penghasil buah seperti mangga, jambu, dan lainnya.
-Pertanyaan ini sering kali memicu rasa penasaran sebahagian orang.
+Saat melintasi jalan raya, pernahkah kamu perhatikan jenis pohon peneduh terlihat hampir seragam?
+Kenapa tidak terlihat tanaman penghasil buah seperti mangga atau jambu sebagai pohon peneduh jalan?
+Hal ini seringkali memicu pertanyaan sebahagian orang.
 
 Jika kita mencermati regulasi teknis dan panduan tata kota, pemilihan vegetasi di tepi jalan publik tidak dilakukan secara sembarangan.
 
@@ -20,46 +20,48 @@ Pengelola kota memperhitungkan aspek keselamatan, ketahanan struktur, hingga day
 Inilah dasar yang mengharuskan mereka ditanami dengan seragam di setiap daerah.
 
 ## B. Aturan Resmi dan Standar Pemilihan Pohon di Jalan Raya
-Pemerintah melalui kementerian terkait telah menetapkan kriteria ketat terhadap tata cara penanaman pohon di area Ruang Milik Jalan (Rumaja) dan Ruang Terbuka Hijau (RTH) kawasan perkotaan.
+Dilihat dari beberapa sumber informasi, Pemerintah melalui kementerian terkait telah menetapkan kriteria terhadap tata cara penanaman pohon di area Ruang Milik Jalan (Rumaja) dan Ruang Terbuka Hijau (RTH) kawasan perkotaan.
 
-Berdasarkan panduan teknis pengelolaan jalan, berikut adalah syarat utama pohon peneduh tepi jalan:
+Berdasarkan panduan teknis pengelolaan jalan, berikut adalah beberapa syarat utama pohon peneduh tepi jalan:
 
 - **Sistem Perakaran Tunggang:** Akar wajib meresap jauh ke dalam tanah agar tidak merusak struktur aspal, trotoar, maupun pondasi jalan.
 - **Kekuatan Batang & Bebas Lapuk:** Dahan dan cabang tidak mudah patah saat diterjang angin kencang atau cuaca buruk.
 - **Tahan Polusi Tinggi:** Mampu bertahan di tengah emisi gas buang kendaraan dan kondisi tanah perkotaan yang padat.
 - **Fungsi Keamanan Pengendara:** Tidak menghasilkan buah berukuran besar/berat yang berisiko menimpa kendaraan, serta tidak mengeluarkan getah pekat yang licin atau merusak cat mobil.
 
-## C. Alasan Pohon Trembesi, Mahoni, dan Angsana Menjadi Pilihan Utama
-Saat menyusuri jalan dua jalur di berbagai daerah, kita sangat sering melihat **tiga jenis pohon** yang hampir serupa tapi tak sama. 
+## C. Beberapa Jenis Pohon Peneduh Jalan
+Saat menyusuri jalan dua jalur di berbagai daerah, kita sangat sering melihat pohon yang hampir memayungi hingga ke pinggiran jalan, dan mereka terlihat hampir serupa tapi tak sama. 
 
-Pengelola kota memilihnya karena memiliki keunggulan ekologis yang spesifik, berikut jenis dan manfaat dari masing-masing:
+Pengelola kota memilihnya karena memiliki keunggulan ekologis yang spesifik, berikut beberapa jenis dan manfaat dari masing-masing:
 
-### 1. Pohon Trembesi (Samanea saman)
-Pohon ini dijuluki sebagai pahlawan penyerap emisi, satu pohon trembesi dewasa sanggup menyerap hingga 28,5 ton gas Karbon Dioksida (CO_2) per tahun.
-
-Tajuknya yang lebar menyerupai payung raksasa sangat efektif menurunkan suhu udara di atas permukaan aspal.
-
-### 2. Pohon Mahoni (Swietenia mahagoni)
-Batang mahoni juga tidak kalah fungsi, daunnya sanggup menyerap partikel timbal dan debu jalanan dengan tingkat efisiensi 47% hingga 69%.
-
-kemudian kayunya kokoh, daunnya tidak mudah gugur, dan akarnya efektif mengikat tanah tepi jalan dari erosi.
-
-### 3. Pohon Angsana (Pterocarpus indicus)
-Pohon ini memiliki pertumbuhan yang relatif cepat dengan tajuk yang rindang. Manfaat Angsana ini karena bekerja efektif menahan debu jalanan sekaligus memberikan peneduhan instan bagi pejalan kaki.
+### 1 Pohon Angsana (Pterocarpus indicus)
+**Fungsi Utama:** Memberikan keteduhan instan secara cepat karena pertumbuhannya yang sangat pesat.
+### 2. Pohon Trembesi (Samanea saman)
+**Fungsi Utama:** Menyerap gas karbon dioksida (CO₂) dalam jumlah tertinggi dan menciptakan area teduh super luas (untuk jalan lebar/tol).
+### 3. Pohon Mahoni (Swietenia mahagoni)
+**Fungsi Utama:** Menyaring debu/polusi udara, mereduksi kebisingan, serta menjaga trotoar tetap aman karena akarnya menghujam ke bawah.
+### 4. Pohon Tabebuya (Handroanthus chrysanthus)
+**Fungsi Utama:** Meningkatkan estetika visual kota lewat bunganya yang cantik tanpa memproduksi sampah daun yang berlebih.
+### 5. Pohon Tanjung (Mimusops elengi)
+**Fungsi Utama:** Menghijaukan jalanan kota yang cenderung sempit atau digunakan sebagai pengisi median (tengah) jalan.
+### 6. Pohon Ketapang Kencana (Terminalia mantaly)
+**Fungsi Utama:** Menghias area pejalan kaki (pedestrian) modern dan kawasan bisnis karena bentuk tajuknya yang rapi dan estetik.
+### 7. Pohon Pule (Alstonia scholaris)
+**Fungsi Utama:** Menjadi elemen lanskap trotoar modern yang aman bagi aspal serta memberikan kesan arsitektur minimalis.
+### 8. Pohon Bungur (Lagerstroemia speciosa)
+**Fungsi Utama:** Menyerap emisi kendaraan sekaligus mempercantik jalur protokol dengan bunga lebat berwarna keunguan.
+### 9. Pohon Flamboyan (Delonix regia)
+**Fungsi Utama:** Menjadi peneduh dengan kanopi melebar sekaligus penambah warna kontras (merah/oranye) pada lanskap kota.
+### 10. Pohon Asam Jawa (Tamarindus indica)
+**Fungsi Utama:** Menjadi peneduh jangka panjang karena batangnya sangat keras, berumur panjang, dan tahan dari risiko tumbang akibat angin.
+### 11. Pohon Kiara Payung (Filicium decipiens)
+**Fungsi Utama:** Menyaring debu halus, meredam suara bising jalanan, dan dipasang sebagai pembatas antarjalur lalu lintas.
+### 12. Pohon Bintaro (Cerbera manghas)
+**Fungsi Utama:** Menghijaukan kawasan industri atau jalan raya tepi pantai yang kering dan memiliki tingkat polusi udara sangat ekstrem.
 > **Baca Juga:** [Mengurai Potensi Rumput Laut Pesisir Pulau Simeulue](https://teukuanca-creat.github.io/situsku/posts/mengurai-potensi-rumput-laut-pesisir-simeulue-aceh/)
-## D. Fenomena Pesisir Simeulue: Fungsi Cemara Udang di Pantai Wisata
-Kembali ke Kabupaten Simeulue, pemandangan juga menyajikan lanskap yang sama seperti daerah lain pada umumnya.
 
-Selain tiga pohon peneduh jalan, di kawasan pantai wisata juga ditemui deretan Pohon Cemara Udang (Casuarina equisetifolia).
-Penanaman cemara udang di pesisir pantai Simeulue memiliki alasan fungsi ekologis yang vital,
-
-Sebagaimana diketahui, pohon Cemara Udang memiliki manfaat:
-- **Penahan Angin (Windbarrier):** Daun cemara yang berbentuk jarum efektif memecah laju angin laut yang kencang sehingga menciptakan mikroiklim yang sejuk di daratan.
-- **Toleransi Salinitas Tinggi:** Tahan terhadap uap air laut yang mengandung kadar garam tinggi (salt spray).
-- **Penahan Abrasi & Bencana:** Sistem perakarannya mencengkeram pasir secara kuat untuk menahan erosi gelombang laut serta meredam energi pasang surut ekstrem.
-
-### 1. Pentingnya Perawatan dan Pemangkasan Rutin (Pruning)
-Pohon-pohon di tepi jalan tidak dibiarkan tumbuh liar begitu saja. Sering kita menyaksikan aktivitas petugas dinas terkait yang rutin melakukan pemangkasan (pruning) secara berkala.
+## D. Pentingnya Perawatan dan Pemangkasan Rutin (Pruning)
+Pohon-pohon di tepi jalan ini tidak dibiarkan tumbuh liar begitu saja. Sering kita menyaksikan aktivitas petugas dinas terkait yang rutin melakukan pemangkasan (pruning) secara berkala.
 
 Upaya ini dilakukan untuk menjaga keselamatan publik, antara lain:
 - **Mencegah Dahan Patah:** Memotong cabang tua, lapuk, atau terserang hama agar tidak menimpa pengendara.
@@ -67,7 +69,11 @@ Upaya ini dilakukan untuk menjaga keselamatan publik, antara lain:
 - **Keseimbangan Beban Tajuk:** Menjaga postur pohon tetap seimbang agar tidak mudah tumbang saat hujan deras
 
 ## E. Kesimpulan
-Kehadiran pohon peneduh di sepanjang jalan raya maupun garis pantai Simeulue dan daerah lain bukanlah hasil secara kebetulan. Setiap batang pohon yang berdiri merupakan buah dari perencanaan teknis yang matang demi menyeimbangkan estetika lingkungan, fungsi ekologis, dan keselamatan masyarakat.
+Kehadiran pohon peneduh di sepanjang jalan raya bukanlah sekadar hasil kebetulan. Setiap batang yang berdiri tegak merupakan buah dari perencanaan teknis yang matang demi menyeimbangkan estetika lingkungan, fungsi ekologis, dan keselamatan bersama.
+
+Oleh karena itu, sudah sepatutnya baik pemerintah, instansi terkait, maupun seluruh lapisan masyarakat, hadir untuk saling menjaga dan merawat keberadaannya.
+
+Dengan menumbuhkan kesadaran kolektif akan fungsi vital pohon-pohon ini, kita tidak hanya melestarikan lingkungan, tetapi juga menjaga kenyamanan dan keselamatan kita bersama.
 
 #### Referensi:
 - [binamarga.pu.go.id](https://binamarga.pu.go.id/bsjlj/berita/bsjlj-gelar-kamis-optimis-sharing-draft-pedoman-penanaman-tanaman-pada-jalan)
