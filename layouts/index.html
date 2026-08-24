@@ -243,7 +243,7 @@
     <main class="container">
         <div class="main-wrapper">
             <div class="primary">
-    <h2 style="font-size:20px; font-weight:bold; border-bottom:3px solid #1a56db; padding-bottom:10px; margin:20px 0;">Postingan Terbaru</h2>
+    <h2 style="font-size:20px; font-weight:bold; border-bottom:3px solid #1a56db; padding-bottom:10px; margin:20px 0;">Artikel Terbaru</h2>
     <!-- Featured Article -->
     {{ range first 1 (where .Site.RegularPages "Section" "posts") }}
                 <div class="featured-article">
@@ -281,7 +281,7 @@
 
         
         <!-- Grid Title -->
-<h2 style="font-size:20px; font-weight:bold; border-bottom:3px solid #1a56db; padding-bottom:10px; margin:20px 0;">Semua Postingan</h2>
+<h2 style="font-size:20px; font-weight:bold; border-bottom:3px solid #1a56db; padding-bottom:10px; margin:20px 0;">Semua Artikel</h2>
 
 <!-- Grid Articles -->
 <div class="grid-articles">
@@ -329,7 +329,7 @@
 
     <aside class="sidebar" style="flex:1; min-width:0;">
         <div class="widget">
-            <h3 class="widget__title">Postingan Bulan Ini</h3>
+            <h3 class="widget__title">Artikel Bulan Ini</h3>
             {{ $currentMonth := now.Format "2006-01" }}
             {{ $currentPosts := where .Site.RegularPages "Section" "posts" }}
             {{ $monthCount := 0 }}
@@ -351,7 +351,7 @@
         </div>
 
         <div class="widget">
-            <h3 class="widget__title">Postingan Bulan Sebelumnya</h3>
+            <h3 class="widget__title">Artikel Bulan Sebelumnya</h3>
             {{ $prevMonth := now.AddDate 0 -1 0 | dateFormat "2006-01" }}
             {{ $prevCount := 0 }}
             <ul class="widget-list" id="prevMonthList" style="list-style:none; max-height:200px; overflow-y:auto;">
@@ -387,7 +387,7 @@
         <!-- 2 Columns -->
         <div class="two-columns">
             <div class="column-box">
-                <h3>Artikel Terlama</h3>
+                <h3>Artikel Terdahulu</h3>
                 <ul>
                     {{ range last 5 (where .Site.RegularPages "Section" "posts") }}
                     <li>
