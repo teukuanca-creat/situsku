@@ -2,7 +2,7 @@
 title: 'Sejarah & Kerangka Hukum Mukim di Simeulue, Aceh'
 date: 2026-08-24
 draft: false
-featured_image: "/images/nama-gambar.webp"
+featured_image: "/images/ilustrasi-mukim.webp"
 categories: ["Kategori"]
 description: "Memahami institusi pemerintahan Adat Mukim yang ada di Aceh khususnya Kabupaten Simeulue, simak ulasan lengkapnya disini"
 tags: ["Mukim Aceh", "Mukim Simeulue"]
@@ -67,7 +67,7 @@ Momentum sejarah ini melahirkan Undang-Undang Nomor 11 Tahun 2006 tentang Pemeri
 2). **​Pembinaan Pelaksanaan Syariat Islam & Kebudayaan:** Imeum Mukim bertugas membina ketenteraman masyarakat, mengoordinasikan kegiatan keagamaan di Masjid Mukim, serta melestarikan seni dan tradisi lokal seperti Nandong dan upacara Mallaulu.
 
 3). **​Konservasi Lingkungan dan Pengelolaan Sumber Daya Alam (SDA):** Mengingat wilayah Simeulue terdiri dari daratan hutan dan perairan pesisir, Mukim memegang hak ulayat atas wilayah adatnya. Mukim menetapkan aturan konservasi lokal seperti sistem Sasi (pantangan menangkap hasil laut pada periode tertentu) serta larangan perusakan kawasan hutan tutupan.
-
+> **Baca Juga:** [Peran Keujruen Blang dalam Pertanian di Simeulue](https://teukuanca.com/posts/peran-keujruen-blang-dalam-pertanian-di-simeulue/)
 ## D. Peta Distribusi Mukim di Kabupaten Simeulue
 Secara keseluruhan, Kabupaten Simeulue terbagi ke dalam 29 Mukim yang membawahi 138 gampong pada 10 kecamatan.
 
@@ -84,51 +84,45 @@ Sebaran mukim ini dirancang berdasarkan batas geografis, ikatan sejarah, dan ket
 - **Simeulue Barat (2 Mukim):** Benteng barat kepulauan yang membawahi Mukim Sibigo dan Mukim Sigulai.
 - **Alafan (2 Mukim):** Wilayah ujung barat laut pulau yang menaungi Mukim Lekon dan Mukim Langi tempat pelestarian rumpun bahasa minoritas Leukon.
 
-​Tata Kelola Kepemimpinan dan Pemangku Adat Fungsional
-​Pemerintahan mukim dijalankan melalui prinsip kedaulatan musyawarah yang melibatkan tiga kekuatan utama,
+## E. ​Tata Kelola Kepemimpinan dan Pemangku Adat Fungsional
+​Pemerintahan mukim dijalankan melalui prinsip kedaulatan musyawarah yang melibatkan tiga kekuatan utama, yaitu:
+- Imeum Mukim dipucuk pimpinan eksekutif,
+- Tuha Peuet Mukim sebagai dewan pertimbangan ulama dan cerdik pandai, serta
+- Para pemangku adat fungsional seperti Panglima Laot dipesisir, Keujruen Blang dipersawahan, dan Pawang Gle dikawasan hutan.
 
-Imeum Mukim dipucuk pimpinan eksekutif,
-Tuha Peuet Mukim sebagai dewan pertimbangan ulama dan cerdik pandai, serta
-Para pemangku adat fungsional seperti Panglima Laot dipesisir, Keujruen Blang dipersawahan, dan Pawang Gle dikawasan hutan.
-​A. Pemilihan dan Struktur Imeum Mukim
+### ​1. Pemilihan dan Struktur Imeum Mukim
 ​Imeum Mukim dipilih melalui Musyawarah Mukim untuk masa jabatan 5 tahun. Unsur pemilih yang memiliki hak suara meliputi:
+- Imum Chik (pemimpin utama Masjid Mukim),
+- Para Keuchik (kepala desa diwilayah mukim setempat),
+- Tuha Peuet Mukim (dewan pertimbangan adat), serta
+- Imum Meunasah dan tokoh masyarakat terpilih.
 
-Imum Chik (pemimpin utama Masjid Mukim),
-Para Keuchik (kepala desa diwilayah mukim setempat),
-Tuha Peuet Mukim (dewan pertimbangan adat), serta
-Imum Meunasah dan tokoh masyarakat terpilih.
-​B. Dewan Pertimbangan dan Pemangku Adat Otonom
+### ​2. Dewan Pertimbangan dan Pemangku Adat Otonom
 ​Dalam menjalankan fungsinya, Imeum Mukim dibantu oleh dewan pertimbangan bernama Tuha Peuet Mukim, serta didampingi oleh pemangku adat spesifik sesuai sektor ekosistemnya:
+- **​Panglima Laot:** Bertanggung jawab atas penegakan hukum adat maritim, jadwal melaut, serta perlindungan terumbu karang dan wilayah pesisir.
+- **​Keujruen Blang:** Mengatur tata kelola pembagian air irigasi, jadwal menanam padi, serta penanganan konflik lahan pertanian.
+- **Pawang Gle:** Memegang otoritas hukum adat kehutanan, pengawasan pemanfaatan kayu, dan perlindungan sumber air daratan.
 
-​Panglima Laot: Bertanggung jawab atas penegakan hukum adat maritim, jadwal melaut, serta perlindungan terumbu karang dan wilayah pesisir.
-​Keujruen Blang: Mengatur tata kelola pembagian air irigasi, jadwal menanam padi, serta penanganan konflik lahan pertanian.
-​Pawang Gle: Memegang otoritas hukum adat kehutanan, pengawasan pemanfaatan kayu, dan perlindungan sumber air daratan.
-​Sistem Penganggaran dan Akuntabilitas Keuangan
+### 3. ​Sistem Penganggaran dan Akuntabilitas Keuangan
 ​Agar tidak menjadi lembaga simbolis semata, pemerintah memberikan dukungan finansial yang diatur secara transparan dalam Qanun Daerah.
 
 ​Setiap kemukiman menyusun Rencana Kerja Pemerintah Mukim (RKPM) dan Anggaran Pendapatan dan Belanja Mukim (APBM) tahunan. Sumber pendanaannya berasal dari dua pilar utama, yaitu:
+- Alokasi Dana Mukim (ADM) yang bersumber langsung dari Anggaran Pendapatan dan Belanja Kabupaten (APBK) Simeulue, serta
+- Pendapatan Asli Mukim (PAM) yang diperoleh dari hasil pengelolaan pemanfaatan tanah ulayat, retribusi pasar adat, maupun bagi hasil usaha kemukiman.
 
-Alokasi Dana Mukim (ADM) yang bersumber langsung dari Anggaran Pendapatan dan Belanja Kabupaten (APBK) Simeulue, serta
-Pendapatan Asli Mukim (PAM) yang diperoleh dari hasil pengelolaan pemanfaatan tanah ulayat, retribusi pasar adat, maupun bagi hasil usaha kemukiman.
 ​Imeum Mukim bertanggung jawab penuh atas penggunaan dana tersebut dan wajib menyampaikan Laporan Pertanggungjawaban (LPJ) Keuangan setiap akhir tahun anggaran kepada Bupati Simeulue melalui Camat setempat.
 
-​Kesimpulan
-​Sistem Pemerintahan Mukim di Kabupaten Kepulauan Simeulue adalah manifestasi nyata dari integrasi hukum adat, nilai-nilai keagamaan, dan tata kelola pemerintahan modern.
+## F. ​Kesimpulan
+​Sistem Pemerintahan Mukim di Kabupaten Simeulue adalah manifestasi nyata dari integrasi hukum adat, nilai-nilai keagamaan, dan tata kelola pemerintahan modern.
 
-Lewat pembagian kerja yang presisi antara Imeum Mukim, Tuha Peuet, serta para pemangku adat ekologis (Panglima Laot, Pawang Gle, Keujruen Blang), Simeulue berhasil membuktikan bahwa tatanan lokal mampu menjadi benteng efisien dalam menjaga kedamaian sosial, melestarikan ekosistem kepulauan, dan merawat identitas Nusantara.
+Lewat pembagian kerja yang presisi antara Imeum Mukim, Tuha Peuet, serta para pemangku adat ekologis (Panglima Laot, Pawang Gle, Keujruen Blang), Simeulue menunjukkan bahwa tatanan lokal mampu menjadi benteng efisien dalam menjaga kedamaian sosial, melestarikan ekosistem kepulauan, dan merawat identitas Nusantara.
 
-​Pertanyaan Umum Seputar Pemerintahan Mukim (FAQ)
-​Apakah peradilan adat yang diputuskan oleh Imeum Mukim memiliki kekuatan hukum yang sah?
-
+​#### Pertanyaan Umum Seputar Pemerintahan Mukim (FAQ)
+**​Apakah peradilan adat yang diputuskan oleh Imeum Mukim memiliki kekuatan hukum yang sah?**
 Ya. Berdasarkan UU No. 11 Tahun 2006 (UUPA) dan Qanun Aceh Nomor 9 Tahun 2008, sengketa ringan dan perkara adat tertentu wajib diselesaikan terlebih dahulu di tingkat gampong dan mukim. Kepolisian dan lembaga peradilan formal mendukung proses penyelesaian damai melalui mekanisme peradilan adat ini.
 
-​Apa perbedaan peran antara Camat dan Imeum Mukim di Simeulue?
-
+**​Apa perbedaan peran antara Camat dan Imeum Mukim di Simeulue?**
 Camat adalah pejabat aparatur sipil negara (ASN) yang memimpin wilayah administratif perpanjangan tangan pemerintah kabupaten. Sedangkan Imeum Mukim adalah pemimpin lembaga hukum adat otonom yang dipilih oleh tokoh masyarakat lokal untuk mengurus tatanan adat, sosial keagamaan, dan kelestarian ekosistem di wilayah kemukimannya.
 
-​Bagaimana fungsi Mukim dalam mencegah kerusakan lingkungan maritim di Simeulue?
-
+**​Bagaimana fungsi Mukim dalam mencegah kerusakan lingkungan maritim di Simeulue?**
 Melalui koordinasi bersama Panglima Laot Mukim, pemerintah mukim memiliki kewenangan menerapkan sanksi adat bagi pelaku pengrusakan lingkungan, seperti penangkapan ikan menggunakan bahan peledak atau perusakan terumbu karang. Hukum adat ini mencakup denda, penyitaan alat tangkap, hingga larangan melaut di wilayah kemukiman tersebut.
-
-Referensi:
-JDIH Aceh
