@@ -10,18 +10,20 @@ tags: ["Memancing Ikan Budu", "Teluk Sinabang"]
 ---
 
 ## A. Latar Belakang 
-Pernahkah kamu mendengar nama ikan budu? Mereka biasanya hidup berkelompok di dekat pantai, teluk, dan kadang-kadang di tengah perairan tengah.
+Pernahkah kamu mendengar nama ikan budu? Mereka biasanya hidup berkelompok di dekat pantai, teluk, dan kadang-kadang di perairan tengah.
 
-Mereka juga cenderung membentuk lingkaran sedikit di permukaan air, membuat air tampak gelap berkilauan dan terkadang melompat keluar dari permukaan.
+Mereka juga cenderung membentuk sedikit lingkaran, menjadikan air terlihat gelap berkilauan dan terkadang melompat keluar permukaan air.
 
-Ikan ini sering menjadi mangsa predator, umumnya ikan kuwe (gabu) menjadi ancaman utama. Tidak jarang terlihat ikan-ikan kuwe lalu-lalang secara bergerombolan tepat dibawah mereka.
+Ikan ini sering menjadi mangsa predator seperti ikan kuwe (gabu) yang terlihat lalu-lalang dibawah mereka.
 
-## B. Filosofi Ikan Nudu (Sardinella fimbriata)
-Spesies ini termasuk dalam famili Clupeidae, yang berkerabat dekat dengan sarden dan herring. Ini juga merupakan salah satu spesies ikan komersial utama yang ditemukan di wilayah Indo-Pasifik, termasuk Indonesia.
+## B. Filosofi Ikan Budu (Sardinella fimbriata)
+Spesies ini termasuk dalam famili Clupeidae, yang berkerabat dekat dengan sarden dan herring.
 
-Di Aceh, dikenal sebagai "Budueng," sedangkan di Simeulue, umumnya disebut "**budu**" atau "**bu'do**."
+Ini juga merupakan salah satu spesies ikan komersial utama yang ditemukan di wilayah Indo-Pasifik, termasuk Indonesia.
 
-Adapun ciri-ciri fisik ikan budu:
+Di Aceh, ikan ini dikenal dengan nama "Budueng," sedangkan di Simeulue, umumnya disebut "**budu**" atau "**bu'do**."
+
+Adapun ciri-ciri fisik ikan budu ini:
 
 - **Bentuk tubuh:** Agak pipih (terkompresi) dengan sisik bulat dan sikloid. Bagian punggung berwarna biru keperakan, sedangkan bagian perut berwarna putih dan perak.
 - **Ukuran:** Ikan ini dikategorikan sebagai ikan pelagis kecil, biasanya berukuran antara 10–15 cm, dengan ukuran maksimum sekitar 18–20 cm.
@@ -37,16 +39,16 @@ Adapun ciri-ciri fisik ikan budu:
 - **Distribusinya:** Mereka melimpah di perairan tropis yang hangat, mulai dari pesisir Samudra Hindia hingga Laut Cina Selatan dan kepulauan Indonesia.
 
 ## C. Fenomena Ikan Budu di Teluk Sinabang  
-Ini bukanlah suatu kebetulan, tradisi memancing ikan budu dengan tali pancing manual tangan sudah ada sejak saya masih kanak-kanak lagi.
+Ini bukanlah suatu kebetulan, tradisi memancing ikan budu dengan tali pancing manual (pancing ukuran) sudah ada sejak saya masih kanak-kanak lagi.
 
-Saat itu, pelabuhan kargo Simpang Lima dipadati para pemancing yang berdatangan dari desa lain.
+Saat itu pelabuhan kargo Simpang Lima dipadati para pemancing yang berdatangan dari desa-desa lain.
 
-Terlihat ramai pemuda, anak-anak bahkan orang dewasa yang duduk berjejer ditepian dermaga memancing ikan budu. Juga ada yang memburu ikan gabu (kuwe) dengan perahu kecil.
+Terlihat dari berbagai kalangan pemuda, anak-anak bahkan orang dewasa duduk berjejer di tepi dermaga sambil memancing ikan budu. Sesekali terlihat pemancing ikan gabu (kuwe) dengan perahu kecil.
 
 ### 1. Kemunculan Ikan: Kawasan Sungai dan Teluk 
-Di Sinabang, ada waktu-waktu tertentu dalam setahun menangkap ikan ini, biasanya pada awal tahun dan di tengah tahun, meskipun ini tidak terjadi dalam setiap tahunnya. Terkadang hal ini dapat terjadi dalam dua tahun sekali atau bahkan lebih jarang lagi.
+Di Sinabang, ada waktu-waktu tertentu dalam setahun menangkap ikan ini, biasanya pada awal tahun dan di tengah tahun. Meskipun ini tidak terjadi dalam setiap tahunnya. Terkadang dapat terjadi dalam dua tahun sekali atau bahkan lebih jarang lagi.
 
-Dalam beberapa tahun terakhir, ikan budu muncul di perairan Teluk Sinabang, lebih ke area Babang (pintu teluk sinabang). Tidak sedikit pula pemancing berdatangan ke lokasi **Jembatan Biru** Area Babang.
+Dalam beberapa tahun terakhir ini, ikan budu muncul di area perairan Babang (pintu teluk sinabang). Tidak sedikit pula pemancing berdatangan ke lokasi **Jembatan Biru** babang.
 
 Dahulunya, kawanan ikan budu ini memasuki muara dan jauh ke bagian tengah sungai. Pada saat-saat itu pula, para pemancing berkumpul di jembatan yang berada di pusat kota. 
 
@@ -56,9 +58,9 @@ Semaraknya kebiasaan ini memberikan kesan yang sulit dilupakan.
 > **Baca Juga:** [Menilik Uniknya Pancing Gurita Umpan Sendok di Simeulue](2026/08/menilik-uniknya-pancing-gurita-umpan.html)
 
 ### 2. Tradisi Kebersamaan di Teluk Sinabang
-Saat musimnya tiba, sebuah kebiasaan unik yang berlangsung secara turun-temurun begitu menarik untuk diperhatikan. Yaitu, tidak diperbolehkan menggunakan alat tangkap seperti jaring, jala atau apapun didalam teluk sinabang sewaktu menangkapnya, terkecuali menggunakan alat pancing manual (tangan).
+Saat musimnya tiba, kebiasaan unik yang berlangsung secara turun-temurun sangat menarik untuk diperhatikan. Yaitu, tidak diperbolehkan menggunakan alat tangkap seperti jaring, jala atau apapun didalam teluk sinabang sewaktu menangkapnya, terkecuali menggunakan alat pancing manual (tangan).
 
-Kebiasaan ini bukanlah sebuah aturan yang tertulis, melainkan bentuk kebersamaan yang melahirkan kesetaraan sosial dalam jalinan silaturahmi, ini terlihat dari hiruk pikuk dan gelak tawa bersatupadu di lokasi pemancingan.
+Kebiasaan ini bukanlah sebuah aturan tertulis, melainkan bentuk kebersamaan yang melahirkan kesetaraan sosial dalam jalinan silaturahmi. Sering terdengar gelak tawa bersatupadu di lokasi pemancingan.
 
 Memang, penggunaan jaring atau jala dapat membuat ikan terancam lari dan berpindah tempat. Selain itu, penggunaan tangkapan besar secara personal menimbulkan ikan-ikan habis dengan cepat.
 
@@ -67,7 +69,7 @@ Bagi warga, moment seperti ini bukan semata-mata untuk pemenuhan konsumsi laukpa
 ## D. Peranti dan Teknik Pemancingan 
 Ikan budu ini hampir berbeda dari yang biasa ditemukan di tepi pantai, ukuran mereka sedikit lebih kecil.
 
-Cara memancingnya juga tidak banyak yang paham. Karena, mempunyai gaya dan trik tersendiri, juga dengan perlengkapan seadanya.
+Cara memancingnya juga tidak banyak yang paham. Karena, mempunyai gaya dan trik tersendiri juga dengan perlengkapan seadanya.
 
 Kebiasaan warga dalam menentukan perlengkapan dan teknik memancing ikan budu di teluk Sinabang sangat mudah untuk di praktekkan, berikut gambaran pada umumnya.
 
@@ -82,11 +84,9 @@ Peralatan seperti joran tidak terlihat, cukup dengan:
 Ikat tali dan mata pancing secara lurus. Jika tidak, regangkan untuk memastikan kelurusannya.
 Lemparkan mata pancing ke dalam kerumunan ikan, lalu:
 - Tali ditekan menggunakan ujung ibu jari dan ujung telunjuk, sambil mengesek atau memutar tali untuk menghasilkan reaksi perputaran mata pancing didalam air.
-- Jika mata pancing mulai kehilangan kilau cerahnya, maka harus diganti dengan yang baru untuk mempertahankan kilatanya, sebab Ikan menyambar pancingan dikarenakan kilauan mata pancing di dalam air.
+- Jika mata pancing mulai kehilangan kilau cerahnya, maka harus diganti dengan yang baru untuk mempertahankan kilatan. Sebab Ikan menyambar pancingan dikarenakan kilauan mata pancing di dalam air.
 
-Biasanya, warga membawa pulang ikan budu dalam jumlah yang bervariasi, ada yang terisi penuh keranjang kecil, ada juga yang menggunakan wadah besar.
-
-Wadah-wadah ini berisi air, untuk menjaga ikan tetap hidup dan segar saat tiba di rumah.
+Biasanya, warga membawa pulang ikan budu dalam jumlah yang bervariasi, ada yang terisi penuh keranjang kecil, ada juga yang menggunakan wadah besar. Wadah-wadah ini diisi air, untuk menjaga ikan tetap hidup dan segar saat tiba di rumah.
 
 ## E. ​Pemanfaatan Ikan Budu (Sardinella fimbriata)
 Sebagaimana kita ketahui di Wilayah perairan daerah lain, ikan budu sudah menjadi sasaran tangkapan rutin. Karena, pemanfaatan ikan ini sangat diminati sebagai bahan olahan makanan.
@@ -103,13 +103,11 @@ Cara penangkapan ikan budu ini juga terlihat menggunakan peralatan skala besar s
 - Menggunakan jaring insang, yang umum digunakan oleh nelayan skala kecil atau tradisional.
 
 ## F. Intisari
-Pada akhirnya, tradisi memancing ikan budu bukan sekadar tentang hasil tangkapan laut, melainkan cerminan nyata dari kehidupan masyarakat Simeulue itu sendiri.
+Tradisi memancing ikan budu bukan sekadar tentang hasil tangkapan laut, melainkan salah satu dari banyaknya kebiasaan yang mengutamakan nilai-nilai kebersamaan yang tertanam sejak dahulu.
 
-Kabupaten ini tidak hanya diberkahi potensi laut yang melimpah, tetapi juga kaya akan tradisi tak tertulis yang terpatri erat dalam benak.
+Seakan, pulau ini tidak hanya diberkahi potensi laut yang melimpah, tetapi juga kaya akan tradisi tak tertulis yang terpatri erat dalam benak.
 
-Nilai kebersamaan dan toleransi selalu menjadi prioritas utama dalam keseharian warga. Tak heran, siapa pun yang berkunjung ke Simeulue akan langsung disambut hangat oleh senyuman warga saat berpapasan di jalan.
-
-Kerukunan dan kearifan lokal inilah yang tercermin jelas dalam fenomena unik tradisi memancing ikan budu (Sardinella fimbriata) di sepanjang Teluk Sinabang, mulai dari kawasan Babang, Jembatan Biru, hingga Pelabuhan Simpang Lima.
+Tak heran, siapa pun yang berkunjung ke Simeulue akan disambut hangat oleh senyuman warga saat berpapasan di jalan. Sebab, nilai kebersamaan dan toleransi selalu menjadi prioritas utama dalam keseharian warga. 
 
 #### Referensi:
 - [(Journal)](https://www.google.com/url?sa=i&source=web&rct=j&url=https://journal.unram.ac.id/index.php/jppi/article/download/1334/504&ved=2ahUKEwifpcvvlbGWAxWnzTgGHYXHCncQ_r4PegoIAAgACAEIKxAO&opi=89978449&cd&psig=AOvVaw0kdO2EPpPMO_jtig9o_FV4&ust=1787382781850000)
