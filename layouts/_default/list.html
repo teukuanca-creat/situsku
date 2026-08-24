@@ -26,55 +26,46 @@
         .pagination .page-number.current { background: #1a56db; color: #fff; }
         .footer { background: #1a56db; color: #fff; padding: 20px 0; margin-top: 30px; font-size: 13px; text-align: center; }
         .footer a { color: #fff; text-decoration: none; }
-   @media (max-width: 768px) {
-    .container { padding: 15px 10px; }
-    .article-card { padding: 15px; }
-    .article-card h2 { font-size: 16px; }
-    .article-card img { height: 150px; }
-    .header .container { flex-direction: column; text-align: center; }
-   }
-    
+        @media (max-width: 768px) {
+            .container { padding: 15px 10px; }
+            .article-card { padding: 15px; }
+            .article-card h2 { font-size: 16px; }
+            .article-card img { height: 150px; }
+            .header .container { flex-direction: column; text-align: center; }
+        }
     </style>
 </head>
 <body>
     <header class="header">
         <div class="container">
-            <a href="https://teukuanca-creat.github.io/situsku/">&larr; Kembali ke Beranda</a>
+            <a href="https://teukuanca.com/">&larr; Kembali ke Beranda</a>
             <h1 style="font-size:24px; margin:0;">{{ .Title }}</h1>
         </div>
     </header>
 
     <main class="container">
         <h2 style="font-size:20px; margin-bottom:20px;">Semua Postingan</h2>
-        
         {{ $paginator := .Paginate .Pages 30 }}
-        
         {{ range $paginator.Pages }}
         <article class="article-card">
-            <h2><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <div class="meta">
-                <time>{{ .Date.Format "02 January 2006" }}</time>
-            </div>
+            <h2><a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <div class="meta"><time>{{ .Date.Format "02 January 2006" }}</time></div>
             {{ if .Params.featured_image }}
             <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
             {{ end }}
             <p>{{ .Summary | truncate 20 }}</p>
-            <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" class="read-more">Baca Selengkapnya &raquo;</a>
+            <a href="https://teukuanca.com{{ .RelPermalink }}" class="read-more">Baca Selengkapnya &raquo;</a>
         </article>
         {{ else }}
         <p>Belum ada artikel.</p>
         {{ end }}
-
-        <!-- Pagination -->
         <div class="pagination">
             {{ if $paginator.HasPrev }}
             <a href="{{ $paginator.Prev.URL }}">&laquo; Sebelumnya</a>
             {{ end }}
-            
             {{ range $paginator.Pagers }}
             <a href="{{ .URL }}" class="page-number {{ if eq . $paginator }}current{{ end }}">{{ .PageNumber }}</a>
             {{ end }}
-            
             {{ if $paginator.HasNext }}
             <a href="{{ $paginator.Next.URL }}">Selanjutnya &raquo;</a>
             {{ end }}
@@ -82,9 +73,7 @@
     </main>
 
     <footer class="footer">
-        <div class="container">
-            &copy; 2026 teukuanca.com. All rights reserved.
-        </div>
+        <div class="container">&copy; 2026 teukuanca.com. All rights reserved.</div>
     </footer>
 </body>
 </html>
