@@ -1,5 +1,13 @@
+baseURL = 'https://teukuanca.com/'
+languageCode = 'id-id'
+title = 'teukuanca.com'
+theme = 'mainroad'
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
   description = "Situs Web Resmi teukuanca.com"
   author = "Admin"
   subtitle = "Portal Artikel dan Berita"
-
