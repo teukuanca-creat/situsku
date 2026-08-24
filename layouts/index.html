@@ -160,7 +160,7 @@
     <header class="header">
         <div class="container">
             <div class="header-top">
-                <a href="https://teukuanca-creat.github.io/situsku/">
+                <a href="https://teukuanca.com/">
                     <h1 class="logo__title">teukuanca.com</h1>
                 </a>
                 <div style="display:flex; align-items:center; gap:10px;">
@@ -174,27 +174,27 @@
         <nav class="menu" id="mainMenu">
             <div class="container">
                 <ul class="menu__list" id="menuList">
-                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/" class="menu__link">Home</a></li>
+                    <li class="menu__item"><a href="https://teukuanca.com/" class="menu__link">Home</a></li>
                     <li class="menu__item">
                         <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Direktori Publik ▼</a>
                         <ul class="menu__list">
-                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/regulasi/" class="menu__link">Regulasi</a></li>
-                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
-                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/edukasi/" class="menu__link">Edukasi</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/regulasi/" class="menu__link">Regulasi</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/situsku/categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/edukasi/" class="menu__link">Edukasi</a></li>
                         </ul>
                     </li>
                     <li class="menu__item">
                         <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Gaya Hidup ▼</a>
                         <ul class="menu__list">
-                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/trending/" class="menu__link">Trending</a></li>
-                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/seni/" class="menu__link">Seni</a></li>
-                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/travelling/" class="menu__link">Travelling</a></li>
-                            <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/kreativitas/" class="menu__link">Kreativitas</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/trending/" class="menu__link">Trending</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/seni/" class="menu__link">Seni</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/travelling/" class="menu__link">Travelling</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/kreativitas/" class="menu__link">Kreativitas</a></li>
                         </ul>
                     </li>
-                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/categories/budaya-sejarah/" class="menu__link">Budaya & Sejarah</a></li>
-                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/pages/tentang-kami/" class="menu__link">Tentang Kami</a></li>
-                    <li class="menu__item"><a href="https://teukuanca-creat.github.io/situsku/pages/hubungi-kami/" class="menu__link">Hubungi Kami</a></li>
+                    <li class="menu__item"><a href="https://teukuanca.com/categories/budaya-sejarah/" class="menu__link">Budaya & Sejarah</a></li>
+                    <li class="menu__item"><a href="https://teukuanca.com/pages/tentang-kami/" class="menu__link">Tentang Kami</a></li>
+                    <li class="menu__item"><a href="https://teukuanca.com/pages/hubungi-kami/" class="menu__link">Hubungi Kami</a></li>
                 </ul>
             </div>
         </nav>
@@ -213,7 +213,7 @@
         <div class="slider" id="slider">
             {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
             <div class="slide">
-                <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">
+                <a href="https://teukuanca.com{{ .RelPermalink }}">
                     {{ if .Params.featured_image }}
                     <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
                     {{ end }}
@@ -250,7 +250,7 @@
                     <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
                     {{ end }}
                     <div class="featured-body">
-                        <h2><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                        <h2><a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a></h2>
                         <div class="meta">
                             <time>{{ .Date.Format "02 January 2006" }}</time>
                             {{ if .Params.categories }}
@@ -267,7 +267,7 @@
                     <h3 class="widget__title">Artikel Terpopuler</h3>
                     <ul class="widget-list" id="popularList">
                         {{ range first 10 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
-                        <li><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></li>
+                        <li><a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a></li>
                         {{ end }}
                     </ul>
                     <div class="widget-scroll-btn">
@@ -290,7 +290,7 @@
         <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
         {{ end }}
         <div class="grid-body">
-            <h3><a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <h3><a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a></h3>
             <div class="grid-meta">{{ .Date.Format "02 January 2006" }}</div>
         </div>
     </div>
@@ -315,7 +315,7 @@
         {{ $count = add $count 1 }}
         <article style="background:#fff; padding:10px 0; margin:0;">
             <h4 style="font-size:16px; margin-bottom:8px;">
-                <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" style="color:#000; font-weight:bold;">{{ .Title }}</a>
+                <a href="https://teukuanca.com{{ .RelPermalink }}" style="color:#000; font-weight:bold;">{{ .Title }}</a>
             </h4>
             {{ if .Params.featured_image }}
             <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width:100%; height:180px; object-fit:cover; display:block; border-radius:10px;">
@@ -337,7 +337,7 @@
                 {{ if eq (.Date.Format "2006-01") $currentMonth }}
                 {{ $monthCount = add $monthCount 1 }}
                 <li style="padding:8px 0; border-bottom:1px solid #f0f0f0;">
-                    <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" style="color:#333; font-size:13px;">{{ .Title }}</a>
+                    <a href="https://teukuanca.com{{ .RelPermalink }}" style="color:#333; font-size:13px;">{{ .Title }}</a>
                 </li>
                 {{ end }}
                 {{ end }}
@@ -354,7 +354,7 @@
                 {{ if eq (.Date.Format "2006-01") $prevMonth }}
                 {{ $prevCount = add $prevCount 1 }}
                 <li style="padding:8px 0; border-bottom:1px solid #f0f0f0;">
-                    <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}" style="color:#333; font-size:13px;">{{ .Title }}</a>
+                    <a href="https://teukuanca.com{{ .RelPermalink }}" style="color:#333; font-size:13px;">{{ .Title }}</a>
                 </li>
                 {{ end }}
                 {{ end }}
@@ -367,7 +367,7 @@
             <ul style="list-style:none;">
                 {{ range .Site.Taxonomies.categories }}
                 <li style="padding:8px 0; border-bottom:1px solid #f0f0f0;">
-                    <a href="https://teukuanca-creat.github.io/situsku/categories/{{ .Page.Title | urlize }}/" style="color:#333; font-size:14px;">{{ .Page.Title }} ({{ .Count }})</a>
+                    <a href="https://teukuanca.com/categories/{{ .Page.Title | urlize }}/" style="color:#333; font-size:14px;">{{ .Page.Title }} ({{ .Count }})</a>
                 </li>
                 {{ end }}
             </ul>
@@ -385,7 +385,7 @@
                         {{ if .Params.featured_image }}
                         <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
                         {{ end }}
-                        <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
+                        <a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a>
                     </li>
                     {{ end }}
                 </ul>
@@ -398,7 +398,7 @@
                         {{ if .Params.featured_image }}
                         <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
                         {{ end }}
-                        <a href="https://teukuanca-creat.github.io/situsku{{ .RelPermalink }}">{{ .Title }}</a>
+                        <a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a>
                     </li>
                     {{ end }}
                 </ul>
@@ -409,10 +409,10 @@
     <footer class="footer">
         <div class="container footer__container">
             <div class="footer-links">
-                <a href="https://teukuanca-creat.github.io/situsku/pages/tentang-kami/">Tentang Kami</a> |
-                <a href="https://teukuanca-creat.github.io/situsku/pages/hubungi-kami/">Hubungi Kami</a> |
-                <a href="https://teukuanca-creat.github.io/situsku/pages/kebijakan-privasi/">Kebijakan Privasi</a> |
-                <a href="https://teukuanca-creat.github.io/situsku/pages/disclaimer/">Disclaimer</a>
+                <a href="https://teukuanca.com/pages/tentang-kami/">Tentang Kami</a> |
+                <a href="https://teukuanca.com/pages/hubungi-kami/">Hubungi Kami</a> |
+                <a href="https://teukuanca.com/pages/kebijakan-privasi/">Kebijakan Privasi</a> |
+                <a href="https://teukuanca.com/pages/disclaimer/">Disclaimer</a>
             </div>
             <div class="social-icons">
                 <a href="https://www.facebook.com/share/14qwMpLdrqS/" title="Facebook">f</a>
