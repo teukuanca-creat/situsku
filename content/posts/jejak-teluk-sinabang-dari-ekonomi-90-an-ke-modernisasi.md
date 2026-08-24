@@ -3,7 +3,7 @@ title: 'Jejak Teluk Sinabang: Dari Ekonomi 90-an ke Modernisasi'
 permalink: '/2026/07/sejarah-dan-perubahan-lanskap-maritim.html'
 date: 2026-07-01
 draft: false
-featured_image: "/situsku/images/teluk-sinabang.webp"
+featured_image: "/images/teluk-sinabang.webp"
 categories: ["Cerita Menarik"]
 description: "Sejarah dan Perubahan Lanskap Maritim Teluk Sinabang: Dari Pusat Ekonomi Era 90-an hingga Modernisasi."
 tags: ["Teluk Sinabang", "Era 90 an"]
