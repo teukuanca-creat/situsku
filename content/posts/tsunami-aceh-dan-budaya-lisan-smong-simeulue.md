@@ -3,7 +3,7 @@ title: 'Tsunami Aceh 2004 dan Budaya Lisan Smong Simeulue'
 permalink: '/2026/08/tsunami-aceh-2004-dan-budaya-lisan.html'
 date: 2026-08-12
 draft: false
-featured_image: "/situsku/images/pintu-babang.webp"
+featured_image: "/images/pintu-babang.webp"
 categories: ["Cerita Menarik"]
 description: "Kisah pengalaman pribadi warga Simeulue saat Tsunami 2004, mengungkap peran keajaiban kearifan lokal Smong sebagai mitigasi bencana."
 tags: ["Smong Simeulue", "Tsunami Aceh"]
