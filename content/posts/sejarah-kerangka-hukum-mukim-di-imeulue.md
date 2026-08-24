@@ -1,6 +1,6 @@
 ---
 title: 'Sejarah & Kerangka Hukum Mukim di Simeulue, Aceh'
-date: 2026-08-24
+date: 2026-07-20
 draft: false
 featured_image: "/images/ilustrasi-mukim.webp"
 categories: ["Kategori"]
