@@ -10,7 +10,9 @@ tags: ["Pasang Air Laut", "Malasin"]
 ---
 
 ## A. Pendahuluan
-Daerah yang sedang berkembang tentu melakukan penyesuaian melalui pembangunan sarana dan prasarana publik, begitu pula dengan Simeulue. Selama bertahun-tahun, wajah Simeulue terus mengalami perubahan, lahan-lahan kosong yang dulunya tenang kini berubah menjadi kawasan permukiman.
+Daerah yang sedang berkembang tentu melakukan penyesuaian melalui pembangunan sarana dan prasarana publik, begitu pula dengan Simeulue.
+
+Selama bertahun-tahun, wajah Simeulue terus mengalami perubahan, lahan-lahan kosong yang dulunya tenang kini berubah menjadi kawasan permukiman.
 
 Dari perspektif tata kota, kepadatan tentu menghidupkan aktivitas perekonomian setempat. Namun di sisi lain, jika penumpukan hunian terfokus pada sepanjang garis pantai saja, memunculkan tantangan tersendiri.
 
@@ -21,7 +23,7 @@ Dalam ingatan saya pada kurun 90-an, ada masa ketika kami harus bergegas meminda
 
 Pada musim-musim tertentu, kawasan permukiman di sepanjang Teluk Sinabang rentan terendam pasang air laut, yang dikenal masyarakat lokal dengan sebutan **"Malasin"**. Tetua kampung dahulu sering berpesan, **"Apabila sudah bulan purnama, di situlah pasang naik"**.
 
-Sebagian warga memilih menimbun lantai rumah mereka, dan ada juga yang hanya bisa berserah pada keadaan. Namun, sekuat apapun upaya yang dilakukan, akses jalan menuju permukiman tetap saja terendam air pasang.
+Sebagian warga memilih menimbun lantai rumah mereka, dan ada juga yang hanya berserah pada keadaan. Namun, sekuat apapun upaya yang dilakukan, akses jalan menuju permukiman tetap saja terendam air pasang.
 
 Situasi-situasi saat itu berupa;
 
@@ -30,7 +32,7 @@ Situasi-situasi saat itu berupa;
 - **Ketinggian Pasang:** Ketinggian air mencapai betis bahkan selutut orang dewasa, hingga menggenangi jalan pelabuhan kargo simpang lima (pelabuhan lama).   
 
 ### 1. Mengapa Air Laut Naik Saat Bulan Purnama?
-Sebagaimana kita ketahui, saat bulan berada pada fase "purnama', maka terjadi fenomena yang dikenal dengan Spring Tide atau pasangan purnama. Dalam kondisi ini biasnya menghasilkan:
+Sebagaimana kita ketahui, saat bulan berada pada fase "purnama", maka terjadi fenomena yang dikenal dengan Spring Tide atau pasangan purnama. Dalam kondisi ini biasnya menghasilkan:
 
 - **Gaya Gravitasi:** Air laut naik karena tarikan gaya gravitasi bulan dan matahari berada pada satu garis lurus yang searah.
 - **Tarikan Ganda:** Gabungan kekuatan gravitasi bulan dan matahari membuat tarikan pada air laut menjadi lebih kuat dari hari-hari biasa.
@@ -61,7 +63,7 @@ Berdasarkan berbagai sumber informasi tersebut, terlihat jelas bahwa telah terja
 > **Baca Juga:** [Mengenal Akar Bahar: Mitos, Fakta Sains dan Aturan Hukum](https://teukuanca-creat.github.io/situsku/posts/mengenal-akar-bahar-mitos-fakta-sains-dan-aturan-hukum/)
 
 ### 2. Menyikapi Malasin: Dampak Nelayan 
-Fenomena Malasin (pasang air laut), juga memberi dampak bagi nelayan. Sebab, saat air pasang tinggi disertai gelombang besar mengakibatkan rusaknya armada nelayan, kemudian mereka kesulitan saat keluar untuk menembus gelombang di pinggiran.
+Fenomena Malasin (pasang air laut), juga memberi dampak bagi nelayan. Sebab, bahasa keluhan malasin ini sering terdengar di pajak ikan saat harga sedikit naik.
 
 Biasanya Malasin juga berakibat pada menurunnya hasil tangkapan, karena ikan cenderung berpindah ke area dangkal. Pada situasi ini, warga lebih sering terlihat memancing di area pinggiran.
 
