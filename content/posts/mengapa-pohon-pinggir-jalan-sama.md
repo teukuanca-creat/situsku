@@ -3,7 +3,7 @@ title: 'Mengapa Pohon Pinggir Jalan Sama? Ini Alasannya'
 permalink: '/2026/07/mengapa-pohon-pinggir-jalan-sama-ini.html'
 date: 2026-07-11
 draft: false
-featured_image: "/situsku/images/pohon-pinggir-jalan.webp"
+featured_image: "/images/pohon-pinggir-jalan.webp"
 categories: ["Cerita Menarik"]
 description: "Mengulas pengetahuan seputar ekosistem, tata ruang hijau, serta sains populer di balik keharmonian antara pembangunan infrastruktur dan alam sekitar."
 tags: ["Pohon Pinggir Jalan Simeulue", "Kenapa Pohon Sama"]
