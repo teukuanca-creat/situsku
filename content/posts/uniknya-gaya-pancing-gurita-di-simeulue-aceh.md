@@ -3,7 +3,7 @@ title: 'Menilik Uniknya Pancing Gurita Umpan Sendok di Simeulue'
 permalink: '/2026/08/menilik-uniknya-pancing-gurita-umpan.html'
 date: 2026-08-01
 draft: false
-featured_image: "/situsku/images/ilustrasi-umpan-sendok.webp"
+featured_image: "/images/ilustrasi-umpan-sendok.webp"
 categories: ["Cerita Menarik"]
 description: "Menelusuri keunikan warga Teupah Selatan Simeulue memancing gurita menggunakan racikan umpan sendok tradisional demi menopang kehidupan ekonomi."
 tags: ["memancing", "gurita"]
