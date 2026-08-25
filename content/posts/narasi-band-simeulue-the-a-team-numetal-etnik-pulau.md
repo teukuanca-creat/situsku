@@ -22,6 +22,9 @@ Ini tentang kisah perjalanan The[A]Team Band. Mereka merupakan salah satu grup b
 
 Band ini terbentuk sekitar 19 tahun yang lalu. Eksistensi band ini tidak cuma sekadar eksis di panggung. mereka juga sukses menjadi pemantik semangat dan inspirasi bagi band-band lokal lainnya pada masa itu.
 
+![Band Simeulue](/images/theateam.jpg)
+*Foto: The [A]Team Band Simeulue*
+
 ## B. Kisah Terbentuk The[A]Team dan Eksistensi
 Ceritanya dimulai dari tongkrongan tiga orang personel. Mereka kebetulan punya visi, misi, dan frekuensi berpikir yang sama.
 
