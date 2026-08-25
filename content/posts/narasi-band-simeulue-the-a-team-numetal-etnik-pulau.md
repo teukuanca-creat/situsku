@@ -102,6 +102,8 @@ Kali ini suasananya jauh lebih cadas! mereka ikut tampil dalam festival karya ko
 
 Dihadapan band-band Aceh pecinta musik ekstrem, The[A]Team tampil di panggung ini dengan cara distorsi mereka tersendiri.
 
+> **Baca Juga:** [Peluang dan Memahami Media Sosial](https://teukuanca.com/posts/memahami-media-sosial/)
+
 Puncak penjelajahan festival luar daerah mereka terjadi pada tahun 2012. Lewat ajang festival bergengsi Aceh, **Soundversity live On Stage XII 2012**.
 
 The[A]Team kembali menghentak panggung dalam rangkaian acara yang turut mendatangkan band rock legendaris tanah air, **Pas Band**.
