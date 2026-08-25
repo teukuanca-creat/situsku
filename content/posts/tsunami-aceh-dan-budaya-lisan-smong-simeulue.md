@@ -56,7 +56,7 @@ Beberapa saat kemudian, ketika situasi tampak menyurut, saya bersama beberapa wa
 
 Saya menerobos masuk ke dalam rumah. Di dinding, terpampang garis batas air setinggi pinggang orang dewasa. Televisi, lemari es, tempat tidur, dan sofa basah kuyup. Saya berusaha menyelamatkan barang-barang berharga dengan mengangkutnya satu per satu ke lantai dua.
 
-Di tengah evakuasi mandiri itulah, terdengar dentuman gemuruh dari arah laut. Air menghempas dan mendorong konstruksi rumah dari bawah, disusul teriakan warga: *"Smong... Smong!**
+Di tengah evakuasi mandiri itulah, terdengar dentuman gemuruh dari arah laut. Air menghempas dan mendorong konstruksi rumah dari bawah, disusul teriakan warga: **Smong... Smong!**
 
 Saya terjebak di lantai dua. Dengan jantung berdegup kencang, mata saya terus mengawasi loteng, mengalkulasi jalur meloloskan diri jika air kembali naik.
 
