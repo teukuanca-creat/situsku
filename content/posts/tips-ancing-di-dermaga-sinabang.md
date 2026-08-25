@@ -41,6 +41,8 @@ Disamping perairan Pelabuhan Feri Kolok, terdapat berbagai lokasi dermaga strate
 ### 1. Perburuan Cumi-Cumi
 Memasuki musimnya, cumi-cumi biasa muncul secara berkoloni disekitar perairan, memudahkan para pemancing untuk mendapatkan tangkapan dalam jumlah banyak.
 
+> **Baca Juga:** [Keseruan Mancing Ikan Budi, Teluk Sinabang](https://teukuanca.com/posts/kearifan-memancing-ikan-budu-di-teluk-sinabang/)
+
 Selain itu, peranti umpan buatan yang digunakanpun sangat mudah dijumpai di toko-toko pancing wilayah perkotaan, seperti:
 - **Squid Jig (Umpan Capung/Capang)**. Peranti umpan ini dirancang menyerupai bentuk udang atau ikan kecil, dilengkapi deretan kail ganda tanpa rumbai yang melingkar tajam. Menariknya, mayoritas squid jig dibekali fitur glow in the dark (berpendar dalam gelap) untuk memikat perhatian cumi-cumi saat memancing dimalam hari atau diperairan yang keruh.
 - **Soft Lure (Umpan Silikon/Karet)**. Umpan berbahan elastis ini meniru bentuk serta tekstur alami cumi-cumi atau udang kecil secara presisi. Kelenturan bahannya mampu menciptakan lekukan gerak (action) yang sangat alami saat tersapu arus air laut, sehingga sanggup mengelabui cumi-cumi yang skeptis.
