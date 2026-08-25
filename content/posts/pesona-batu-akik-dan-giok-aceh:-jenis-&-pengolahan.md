@@ -45,6 +45,7 @@ Tangan-tangan kreatif para pengrajin telah berhasil mengubah batu akik dari seka
 
 ## C. Sentra Penghasil Batu Akik Populer di Indonesia
 Kekayaan batu akik tentu tidak hanya milik Aceh. Indonesia adalah tempat bermain bagi para pencinta mineral alam, seperti:
+
 - Garut (Jawa Barat): Tersohor akan Batu Garut Hijau Chrysoprase serta varian Pancawarna yang menampilkan ledakan berbagai macam warna dalam satu bidang batu.
 - Bacan, Halmahera Selatan (Maluku Utara): Menghasilkan Batu Bacan (Doko dan Palamea) yang magis. Batu ini dicintai karena kemampuannya "berproses" serat di dalamnya bisa perlahan menjadi semakin bening dan mengkristal seiring seringnya batu dipakai.
 - ​Baturaja (Sumatra Selatan): Rajanya batuan Chalcedony, seperti Spiritus Baturaja yang menawarkan rona biru langit transparan yang menyejukkan mata.
@@ -55,29 +56,37 @@ Kekayaan batu akik tentu tidak hanya milik Aceh. Indonesia adalah tempat bermain
 ​Sesekali muncul pertanyaan di dalam benak ini: Apakah mengolah batu akik itu melanggar hukum?
 
 ​Perlu dipahami secara jernih, batu akik bukanlah satwa atau biota laut dilindungi. Namun, karena ia merupakan sumber daya alam mineral, aktivitas eksplorasinya tetap memiliki payung hukum yang jelas, seperti:
-- ​Regulasi Pertambangan (UU No. 3 Tahun 2020 tentang Minerba): Batu akik dikategorikan sebagai mineral non-logam. Untuk aktivitas penambangan dalam skala industri atau komersial besar, pengelola wajib mengantongi Izin Pertambangan Rakyat (IPR) atau Izin Usaha Pertambangan (IUP).
-- Perlindungan Kawasan Konservasi: Pengambilan bahan batu dilarang keras dilakukan di area Taman Nasional, Hutan Lindung, atau cagar alam demi mencegah kerusakan ekosistem dan bencana alam.
-- ​Status Hukum UMKM: Bagi para pengrajin, pedagang, dan kolektor, aktivitas mengolah hingga menjual batu akik secara perorangan adalah legal dan sah menurut hukum, selama bahan baku yang didapat tidak bersumber dari aktivitas perusakan kawasan konservasi.
+- ​**Regulasi Pertambangan (UU No. 3 Tahun 2020 tentang Minerba):** Batu akik dikategorikan sebagai mineral non-logam. Untuk aktivitas penambangan dalam skala industri atau komersial besar, pengelola wajib mengantongi Izin Pertambangan Rakyat (IPR) atau Izin Usaha Pertambangan (IUP).
+- **Perlindungan Kawasan Konservasi:** Pengambilan bahan batu dilarang keras dilakukan di area Taman Nasional, Hutan Lindung, atau cagar alam demi mencegah kerusakan ekosistem dan bencana alam.
+- **​Status Hukum UMKM:** Bagi para pengrajin, pedagang, dan kolektor, aktivitas mengolah hingga menjual batu akik secara perorangan adalah legal dan sah menurut hukum, selama bahan baku yang didapat tidak bersumber dari aktivitas perusakan kawasan konservasi.
 
 ## E. Memahami Perbedaan: Batu Mulia vs Batu Akik
 ​Agar kita tidak keliru dalam menilai sebuah batu, berikut adalah gambaran mendasar yang membedakan antara batu mulia dan batu akik:
 ### ​1. Dari Sisi Definisi
-1). **Batu Mulia (Precious Stones):** Mineral alam yang sangat langka di bumi dengan tingkat kekerasan tinggi, kejernihan kristal yang sempurna, serta memiliki standar nilai ekonomis yang diakui secara global.
-2). **​Batu Akik (Semi-Precious / Agate / Chalcedony):** Batuan mineral jenis Mikrokristalin (umumnya keluarga kuarsa atau kalsedon) yang terbentuk alami dari endapan larutan silika di dalam bumi dalam kurun waktu ribuan tahun.
+**1). Batu Mulia (Precious Stones):**
+Mineral alam yang sangat langka di bumi dengan tingkat kekerasan tinggi, kejernihan kristal yang sempurna, serta memiliki standar nilai ekonomis yang diakui secara global.
+**2). Batu Akik (Semi-Precious / Agate / Chalcedony):**
+Batuan mineral jenis Mikrokristalin (umumnya keluarga kuarsa atau kalsedon) yang terbentuk alami dari endapan larutan silika di dalam bumi dalam kurun waktu ribuan tahun.
 ​
 Contoh Jenisnya:
-1). **​Batu Mulia:** Terdiri dari empat raja permata dunia, yaitu Berlian (Diamond), Ruby (Merah Delima), Safir (Sapphire), dan Zamrud (Emerald).
-2). **Batu Akik:** Meliputi berbagai batuan indah seperti Kalsedon, Agate, Jasper, Idocrase (Giok Lumut), Bacan, Pancawarna, hingga Kalimaya/Opal.
+**1). ​Batu Mulia:**
+Terdiri dari empat raja permata dunia, yaitu Berlian (Diamond), Ruby (Merah Delima), Safir (Sapphire), dan Zamrud (Emerald).
+**2). Batu Akik:**
+Meliputi berbagai batuan indah seperti Kalsedon, Agate, Jasper, Idocrase (Giok Lumut), Bacan, Pancawarna, hingga Kalimaya/Opal.
 
 ### ​2. Skala Kekerasan (Mohs)
-1). **​Batu Mulia:** Sangat keras, berkisar antara 8 hingga 10 Skala Mohs (Berlian memegang posisi terkeras di alam dengan nilai 10 Mohs).
-2). **​Batu Akik:** Memiliki tingkat kekerasan menengah, yaitu berada di kisaran 5,5 hingga 7 Skala Mohs.
+**2). ​Batu Mulia:**
+Sangat keras, berkisar antara 8 hingga 10 Skala Mohs (Berlian memegang posisi terkeras di alam dengan nilai 10 Mohs).
+**3). Batu Akik:**
+Memiliki tingkat kekerasan menengah, yaitu berada di kisaran 5,5 hingga 7 Skala Mohs.
 
 ### ​3. Penentuan Nilai dan Harga
-1). **​Batu Mulia:** Harganya terikat pada standar internasional yang ketat menggunakan rumus 4C: Cut (potongan), Color (warna), Clarity (kejernihan), dan Carat (berat karat).
-2). **​Batu Akik:** Harganya lebih fleksibel dan artistik, ditentukan oleh keunikan corak alami, tingkat kelincahan serat, rasa suka kolektor, serta tren pasar.
+**1). ​Batu Mulia:**
+Harganya terikat pada standar internasional yang ketat menggunakan rumus 4C: Cut (potongan), Color (warna), Clarity (kejernihan), dan Carat (berat karat).
+**2). Batu Akik:**
+Harganya lebih fleksibel dan artistik, ditentukan oleh keunikan corak alami, tingkat kelincahan serat, rasa suka kolektor, serta tren pasar.
 
-> **Baca Juga:** [Mengenal Akar Bahar: Mitos, Fakta Sains dan Aturan Hukum](https://teukuanca-creat.github.io/situsku/posts/mengenal-akar-bahar-mitos-fakta-sains-dan-aturan-hukum/)
+> **Baca Juga:** [Mengenal Akar Bahar: Mitos, Fakta Sains dan Aturan Hukum](https://teukuanca.com/posts/mengenal-akar-bahar-mitos-fakta-sains-dan-aturan-hukum/
 
 ## F. Dari Bahan Mentah Hingga Jadi Perhiasan Indah
 ​Proses mengubah batu kasar menjadi karya seni adalah perjalanan yang membutuhkan rasa, kesabaran, dan intuisi tinggi. Berikut tahapan panjangnya: 
