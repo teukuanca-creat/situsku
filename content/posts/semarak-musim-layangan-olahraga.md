@@ -2,8 +2,8 @@
 title: 'Ketika Olahraga Tradisional Berdenyut di Simeulue'
 date: 2026-08-10
 draft: false
-featured_image: "/images/layangan-simeulue.webp"
-categories: ["Olahraga"]
+featured_image: "/images/layangan.webp"
+categories: ["Kreativitas"]
 description: "Potret dinamis kehidupan olahraga dan tradisi di Simeulue, dari musim layangan, denyut kompetisi desa, hingga prestasi dayung yang mengharumkan Aceh."
 tags: ["layangan", "geulayang tunang", "olahraga Simeulue", "dayung Simeulue", "voli desa"]
 ---
