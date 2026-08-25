@@ -7,8 +7,7 @@ categories: ["Cerita Menarik"]
 description: "Menyimak perilaku kucing lokal yang bernilai unik dan sarat makna. Dari kebiasaan berburu hingga cara mereka berkomunikasi dengan manusia. yuk simak!"
 tags: ["Kucing Simeulue", "Kucing Pengasuh"]
 ---
-
-# A. Latar Belakang 
+## A. Latar Belakang 
 
 Dipelataran rumah-rumah, tepian dermaga tempat perahu nelayan bersandar, hingga sudut-sudut warung kopi yang riuh oleh obrolan warga di Kota Sinabang, Pulau Simeulue, Aceh, ada satu pemandangan yang teramat karib.
 
