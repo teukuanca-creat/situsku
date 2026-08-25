@@ -55,7 +55,7 @@ Dahulunya, kawanan ikan budu ini memasuki muara dan jauh ke bagian tengah sungai
 Menurut saya, fenomena unik ini hanya ditemukan di sekitar Teluk Sinabang.
 Semaraknya kebiasaan ini memberikan kesan yang sulit dilupakan. 
 
-> **Baca Juga:** [Menilik Uniknya Pancing Gurita Umpan Sendok di Simeulue](2026/08/menilik-uniknya-pancing-gurita-umpan.html)
+> **Baca Juga:** [Menilik Uniknya Pancing Gurita Umpan Sendok di Simeulue](https://teukuanca.com/posts/uniknya-gaya-pancing-gurita-di-simeulue-aceh/)
 
 ### 2. Tradisi Kebersamaan di Teluk Sinabang
 Saat musimnya tiba, kebiasaan unik yang berlangsung secara turun-temurun sangat menarik untuk diperhatikan. Yaitu, tidak diperbolehkan menggunakan alat tangkap seperti jaring, jala atau apapun didalam teluk sinabang sewaktu menangkapnya, terkecuali menggunakan alat pancing manual (tangan).
