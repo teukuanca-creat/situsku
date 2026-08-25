@@ -37,7 +37,7 @@ Media sosial memangkas hambatan distribusi informasi secara drastis. Berbeda dar
 
 **Tantangan utama:** Arus informasi yang terlalu cepat sering kali lolos dari proses validasi. Akibatnya, berita bohong mudah menyebar dan opini publik bisa digiring secara tidak objektif.
 
-Karena itu, pengguna perlu membiasakan diri melakukan cek silang atau *fact-checking* ke sumber tepercaya sebelum membagikan sebuah kabar.
+Karena itu, pengguna perlu membiasakan diri melakukan cek silang atau fact-checking ke sumber tepercaya sebelum membagikan sebuah kabar.
 
 ### 2. Media Sosial sebagai Inkubator Komunitas Spesifik
 
@@ -45,15 +45,15 @@ Media sosial menghapus batasan geografis dalam pembentukan jejaring berdasarkan 
 
 Contohnya, seorang pembudidaya lobster di Simeulue bisa bergabung dengan komunitas pembudidaya tingkat nasional. Di ruang diskusi ini, para praktisi berbagi pengalaman teknis seperti pengelolaan kualitas air, manajemen pakan, hingga mitigasi penyakit secara langsung.
 
-Komunikasi semacam ini menciptakan pembelajaran sebaya (*peer-to-peer learning*) yang mendorong peningkatan produktivitas dan transfer pengetahuan dari praktisi berpengalaman kepada pemula.
+Komunikasi semacam ini menciptakan pembelajaran sebaya (peer-to-peer learning) yang mendorong peningkatan produktivitas dan transfer pengetahuan dari praktisi berpengalaman kepada pemula.
 
 ### 3. Media Sosial dan Perilaku Pasif (Lurker)
 
 Sebagian pengguna mengakses media sosial hanya untuk mengikuti tren terkini tanpa dorongan menjadi pembuat konten.
 
-Fenomena ini melahirkan istilah *lurking*, yaitu kondisi ketika seseorang aktif membaca atau menonton, tetapi jarang mengunggah maupun berinteraksi di kolom komentar.
+Fenomena ini melahirkan istilah lurking, yaitu kondisi ketika seseorang aktif membaca atau menonton, tetapi jarang mengunggah maupun berinteraksi di kolom komentar.
 
-Dari luar, akun semacam ini tampak pasif. Namun sebenarnya mereka tetap menyerap informasi secara konstan sebagai konsumen senyap (*silent consumer*).
+Dari luar, akun semacam ini tampak pasif. Namun sebenarnya mereka tetap menyerap informasi secara konstan sebagai konsumen senyap (silent consumer).
 
 ### 4. Media Sosial sebagai Etalase Bisnis Digital
 
@@ -65,7 +65,7 @@ Keunggulan pemasaran media sosial dibandingkan jalur konvensional:
 - **Interaksi langsung:** Fitur pesan langsung dan siaran langsung mempermudah transaksi.
 - **Efisiensi biaya:** Biaya pemasaran lebih rendah dengan jangkauan lebih luas.
 
-> **Baca Juga:** [Cara Membangun Monetisasi Konten Digital Berkelanjutan](https://teukuanca.com/posts/monetisasi-konten-digital/)
+> **Baca Juga:** [Perjalanan Musik: Narasi Band Simeuleu](https://teukuanca.com/categories/seni/)
 
 ### 5. Media Sosial dan Monetisasi Konten
 
