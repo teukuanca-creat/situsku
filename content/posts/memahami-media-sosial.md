@@ -57,7 +57,7 @@ Dari luar, akun semacam ini tampak pasif. Namun sebenarnya mereka tetap menyerap
 
 ### 4. Media Sosial sebagai Etalase Bisnis Digital
 
-Lanskap media sosial telah bergeser menjadi etalase bisnis interaktif. Pelaku usaha dari skala UMKM hingga korporasi memanfaatkannya untuk memamerkan produk makanan, jasa, dan barang kebutuhan harian melalui strategi *content marketing*.
+Lanskap media sosial telah bergeser menjadi etalase bisnis interaktif. Pelaku usaha dari skala UMKM hingga korporasi memanfaatkannya untuk memamerkan produk makanan, jasa, dan barang kebutuhan harian melalui strategi content marketing.
 
 Keunggulan pemasaran media sosial dibandingkan jalur konvensional:
 
@@ -85,7 +85,7 @@ Monetisasi yang sukses membutuhkan konsistensi, pemahaman algoritma, keahlian te
 
 Banyak orang memanfaatkan media sosial sebagai album foto dan video digital. Momen penting seperti pernikahan, liburan, dan pencapaian karier diabadikan sebagai bentuk ekspresi diri.
 
-Namun, pemanfaatan sebagai arsip pribadi membutuhkan kesadaran akan privasi digital. Mengunggah dokumen sensitif, lokasi real-time, atau identitas diri dapat membuka celah kejahatan seperti *cyberstalking* dan rekayasa sosial.
+Namun, pemanfaatan sebagai arsip pribadi membutuhkan kesadaran akan privasi digital. Mengunggah dokumen sensitif, lokasi real-time, atau identitas diri dapat membuka celah kejahatan seperti cyberstalking dan rekayasa sosial.
 
 ## C. Aspek Hukum: Etika Bermedia Sosial di Indonesia
 
