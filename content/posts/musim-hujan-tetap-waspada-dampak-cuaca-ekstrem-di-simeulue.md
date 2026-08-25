@@ -15,7 +15,7 @@ Setelah beberapa minggu terakhir Sinabang diselimuti terik matahari yang menyeng
 Tentunya bagi kami warga yang bermukim didaerah pesisir dan kepulauan, perubahan dinamika cuaca seperti ini selalu membawa atmosfer yang berbeda, ada rasa sejuk yang dinanti, tetapi ada pula kewaspadaan yang harus dilipatgandakan.
 
 Peringatan dini yang beredar diberbagai grup percakapan WhatsApp mengenai potensi cuaca ekstrem di wilayah Sumatra untuk periode 02–08 Agustus 2026 semakin menegaskan kondisi itu.
-![Musim Hujan di Simeulue](/situsku/images/informasi-bmkg.webp)
+![Musim Hujan di Simeulue](/images/informasi-bmkg.webp)
 *Musim Hujan di Simeulue, Aceh. Foto: Dokumentasi Pribadi*
 
 Dilihat berdasarkan rilis analisis meteorologi, keberadaan sirkulasi siklonik pada Samudra Hindia, yang berbatasan langsung dengan posisi geografis Simeulue, menjadi pemicu utama meningkatnya pembentukan awan hujan, gelombang atmosfer Kelvin, serta angin kencang.
