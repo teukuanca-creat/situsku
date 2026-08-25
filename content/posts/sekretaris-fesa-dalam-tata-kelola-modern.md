@@ -23,13 +23,12 @@ Pelaksanaan program pembangunan desa yang berorientasi pada kesejahteraan masyar
 Dalam kerangka ini, Sekretaris Desa bertugas mendukung Kepala Desa dengan mengawal tertib administrasi agar visi pembangunan dapat terealisasi secara sah, aman, dan menjaga kepercayaan publik.
 
 Struktur ideal tata kelola desa:
-
 - **Kepala Desa:** Menetapkan kebijakan dan arah visi pembangunan desa.
 - **Sekretaris Desa:** Menguji verifikasi legal, kepatuhan prosedur, dan kendali sistem administrasi.
 
 Sinergi keduanya menghasilkan tata kelola desa yang akuntabel.
 
-Sekretaris Desa berposisi sebagai *administrative gatekeeper*. Setiap instrumen kebijakan—mulai dari rekomendasi perizinan, draf Peraturan Desa, hingga Laporan Pertanggungjawaban Keuangan—wajib melalui tahapan pengujian material, verifikasi teknis, dan paraf hierarkis sebelum disahkan oleh Kepala Desa.
+Sekretaris Desa berposisi sebagai administrative gatekeeper. Setiap instrumen kebijakan—mulai dari rekomendasi perizinan, draf Peraturan Desa, hingga Laporan Pertanggungjawaban Keuangan,.wajib melalui tahapan pengujian material, verifikasi teknis, dan paraf hierarkis sebelum disahkan oleh Kepala Desa.
 
 > **Baca Juga:** Pemerintahan Adat Mukim Simeulue,Aceh(https://teukuanca.com/posts/sejarah-kerangka-hukum-mukim-di-imeulue/
 
@@ -97,7 +96,7 @@ Di sisi lain, aturan yang mewajibkan Sekdes mundur permanen jika maju dalam Pilk
 
 PP Nomor 16 Tahun 2026 menegaskan kedudukan Sekretaris Desa sebagai manajer teknis non-ASN yang profesional dengan jaminan kesejahteraan terukur.
 
-Sinergi antara Kepala Desa sebagai *policy maker* dan Sekdes sebagai *administrative controller* menjadi kunci utama terciptanya tata kelola pemerintahan desa yang akuntabel, responsif, dan berdaya saing.
+Sinergi antara Kepala Desa sebagai policy maker dan Sekdes sebagai administrative controller menjadi kunci utama terciptanya tata kelola pemerintahan desa yang akuntabel, responsif, dan berdaya saing.
 
 ## H. Pertanyaan Umum (FAQ)
 
