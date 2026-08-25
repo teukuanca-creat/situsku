@@ -169,7 +169,7 @@ img { max-width: 100%; height: auto; }
         .toc-box ul { list-style: none; margin: 0; padding: 0; }
         .toc-box ul ul { margin-left: 20px; margin-top: 5px; }
         .toc-box li { margin-bottom: 5px; }
-        .toc-box a { color: #ffffff; text-decoration: none; font-size: 13px; }
+        .toc-box a { color: #1a56db; text-decoration: none; font-size: 13px; }
 .toc-box a:hover { text-decoration: underline; color: #ff6600; }
         .toc-box a:hover { text-decoration: underline; }
         .toc-box nav > ul > li > a { font-weight: bold; }
@@ -239,8 +239,8 @@ img { max-width: 100%; height: auto; }
             </div>
             {{ end }}
             {{ if and .TableOfContents (eq .Section "posts") }}
-            <div class="toc-box" style="background:#222222; border:1px solid #333; border-radius:10px; padding:20px; margin:20px 0;">
-                <h3 style="font-size:14px; font-weight:bold; margin:0 0 15px; color:#ffffff;">📑 Daftar Isi</h3>
+            <div class="toc-box" style="background:rgba(0,0,0,0.05); border:1px solid #e0e0e0; border-radius:10px; padding:20px; margin:20px 0;">
+                <h3 style="font-size:14px; font-weight:bold; margin:0 0 15px; color:#333333;">📑 Daftar Isi</h3>
                 <div style="font-size:13px; line-height:1.6;">
                 {{ .TableOfContents }}
                 </div>
