@@ -71,7 +71,7 @@ Puncak visual dari rute ini adalah Gunung Geurutee:
 #### Masuk wilayah Aceh Besar;
 kewaspadaan dan riding skill qnda benar-benar diuji melalui dua pegunungan legendaris: Gunung Kuluh dan Gunung Paroh.
 
-*"Tantangan Jalur Kuluh-Paroh:"*
+**Tantangan Jalur Kuluh-Paroh:**
 Dipenuhi tanjakan curam, turunan tajam, dan tikungan patah (hairpin turns) ditengah kerapatan hutan hujan.
 
 **Tips:** Tetap berada dilajur kiri, jangan bernafsu menyalip ditikungan buta (blind spot), dan sesekali bunyikan klakson untuk memberi sinyal pada kendaraan dari arah berlawanan.
