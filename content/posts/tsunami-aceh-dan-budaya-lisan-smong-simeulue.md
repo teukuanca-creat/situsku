@@ -34,7 +34,7 @@ Pengalaman itu membekas sangat dalam. Hingga hari ini, setiap merasakan guncanga
 
 Saat gempa akhirnya mereda, fenomena tidak biasa terjadi di Sinabang. Jika di daratan utama Aceh sebagian warga mulai membenahi puing rumah, warga Simeulue justru merespons dengan cara yang sangat kontras.
 
-Tanpa komando resmi atau sistem peringatan dini elektronik, warga langsung memburu kendaraan masing-masing, menancap gas, dan meneriakkan satu kata yang diwariskan lintas generasi: *"Smong... Smong!"*
+Tanpa komando resmi atau sistem peringatan dini elektronik, warga langsung memburu kendaraan masing-masing, menancap gas, dan meneriakkan satu kata yang diwariskan lintas generasi: **Smong... Smong!**
 
 Masyarakat Simeulue seperti dibisiki naluri kolektif yang ditanamkan melalui tradisi lisan Nafi-Nafi. Kami paham betul pesannya: **jika gempa kuat mengguncang bumi, air laut akan naik membanjiri daratan**.
 
@@ -48,7 +48,7 @@ Hanya dalam hitungan menit, puncak Gunung Batu dipadati ribuan pengungsi. Warga 
 
 Rasa penasaran dan kewajiban memantau kediaman keluarga yang berada di pinggir Teluk Sinabang mendorong saya turun kembali ke area pasar. Namun, baru saja tiba di pusat kota, teriakan histeris warga kembali pecah:
 
-*"Air surut! Smong... Smong!"*
+**Air surut! Smong... Smong!**
 
 Seketika, orang-orang berhamburan menuju perbukitan. Berbeda dari warga di beberapa daerah yang berbondong-bondong ke pantai mengumpulkan ikan terdampar, warga Simeulue justru terus berlari ke tempat yang lebih tinggi.
 
@@ -56,7 +56,7 @@ Beberapa saat kemudian, ketika situasi tampak menyurut, saya bersama beberapa wa
 
 Saya menerobos masuk ke dalam rumah. Di dinding, terpampang garis batas air setinggi pinggang orang dewasa. Televisi, lemari es, tempat tidur, dan sofa basah kuyup. Saya berusaha menyelamatkan barang-barang berharga dengan mengangkutnya satu per satu ke lantai dua.
 
-Di tengah evakuasi mandiri itulah, terdengar dentuman gemuruh dari arah laut. Air menghempas dan mendorong konstruksi rumah dari bawah, disusul teriakan warga: *"Smong... Smong!"*
+Di tengah evakuasi mandiri itulah, terdengar dentuman gemuruh dari arah laut. Air menghempas dan mendorong konstruksi rumah dari bawah, disusul teriakan warga: *"Smong... Smong!**
 
 Saya terjebak di lantai dua. Dengan jantung berdegup kencang, mata saya terus mengawasi loteng, mengalkulasi jalur meloloskan diri jika air kembali naik.
 
