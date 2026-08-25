@@ -29,7 +29,7 @@ Adapun ciri-ciri fisik ikan budu ini:
 - **Ukuran:** Ikan ini dikategorikan sebagai ikan pelagis kecil, biasanya berukuran antara 10–15 cm, dengan ukuran maksimum sekitar 18–20 cm.
 - **Ciri Khas:** Memiliki garis tipis berwarna keemasan di sepanjang sisinya dan bintik-bintik gelap kecil di pangkal sirip punggung.
 
-![Sumber Foto: Fishiden ](/situsku/images/sardinella-fimbriata.webp)
+![Sumber Foto: Fishiden ](/images/sardinella-fimbriata.webp)
 *Ikan Budu (Sardinella Fimbriata). Sumber Foto: fishiden.com*
 
 ​Selain sifat fisiknya, ikan ini memiliki perilaku dan preferensi habitat tertentu, secara umumnya:
