@@ -29,7 +29,7 @@ Selain itu, mereka juga memiliki modal pengalaman musik yang cukup baik. Pengala
 
 Bermodal itulah mereka mulai meramu ide-ide kreatif. Dari kebersamaan ini, lahir sebuah komunitas musik yang solid. Wadah ini menjadi tempat paling pas buat menyalurkan bakat dan gairah bermusik dari masing-masing personel.
 
-![Foto Pamplet The A Team Band Simeulue](/situsku/images/band-konten.webp)
+![Foto Pamplet The A Team Band Simeulue](/images/band-konten.webp)
 *Foto Studio The A Team Band Simeulue. Foto: Dokumentasi Pribadi*
 
 ### 1. Memanfaatkan Inisial Yang Sama
@@ -57,7 +57,7 @@ Mereka mengangkat cerita tradisi ekstrem lokal yang sangat dihormati, yaitu **De
 
 Lagu “Radat Dabui” menyajikan lirik dalam bahasa lokal Simeulue. Mereka membawakannya dengan cengkok dan gaya nyanyian asli menyerupai bait-bait **Radat Debus tradisional**, dan saat musik masuk, aransemen cadas berbalut irama NuMetal yang akan langsung menyapa telinga kamu.
 
-[![Tonton Video Ini](/situsku/images/thumbnail-video.jpg)](https://www.youtube.com/watch?v=E8wXusUv8qw)
+[![Tonton Video Ini](/images/thumbnail-video.jpg)](https://www.youtube.com/watch?v=E8wXusUv8qw)
 
 Eksperimen ini sukses menciptakan harmoni magis yang belum pernah ada sebelumnya di Simeulue. Disatu sisi, lirik radat tradisional memancarkan nuansa sakral, mistis, dan kultural. Disisi lain, distorsi NuMetal meledakkan energi modern yang membakar semangat.
 
@@ -68,19 +68,19 @@ Setelah “Radat Dabui” lahir, karya itu langsung menjelma menjadi amunisi uta
 
 Penampilan panggung The[A]Team juga tergolong sangat eksentrik. Gempuran musik cadas berbalut mistisme debus selalu sukses menyedot perhatian penonton.
 
-![Festival Band, Simeulue](/situsku/images/festival.webp)
+![Festival Band, Simeulue](/images/festival.webp)
 *Festival Band di Simeulue. Foto: Dokumentasi Pribadi*
 
 Saat itu, panggung demi panggung mereka babat habis tanpa sisa. Eksistensi panggung ini mulai dari parade musik milik komunitas Akbar Studio hingga berbagai event besar besutan Pemda setempat.
 
-![penyambutan Tamu](/situsku/images/theateam-parade.webp)
+![penyambutan Tamu](/images/theateam-parade.webp)
 *Penampilan salam Penyambutan Tamu, Pelabuhan Cargo, Simeuelue. Foto: Dokumentasi Pribadi*
 
 Geliat musik mereka bahkan gaungnya terdengar sampai luar pulau. Sebagai contoh yang terlihat dari salah satu festival lokal, ini terbilang sangat prestisius di Simeulue. 
 
 Panggung festival saat itu kedatangan salah satu band undangan dari Kota Sibolga, Tapanuli Selatan, Sumatera Utara.
 
-![Festival Akbar Studio 1, Simeulue](/situsku/images/akbar-festival.webp)
+![Festival Akbar Studio 1, Simeulue](/images/akbar-festival.webp)
 *Festival Akbar Studio 1, Simeulue. Foto: Dokumentasi Pribadi*
 
 Rivalitas sehat dan kolaborasi antar-daerah itu justru semakin mengukuhkan posisi The[A]Team dalam eksistensi panggung yang patut diperhitungankan.
@@ -90,7 +90,7 @@ The[A]Team membawa “Radat Dabui” menyeberangi lautan untuk unjuk gigi diluar
 
 Dihadapan para penikmat seni se-Aceh, mereka membuktikan bahwa musik modern bisa berjalan beriringan tanpa menanggalkan identitas lokal.
 
-![Menuju Festival,Banda Aceh](/situsku/images/menuju-festival.webp)
+![Menuju Festival,Banda Aceh](/images/menuju-festival.webp)
 *Menuju Festival di Banda Aceh. Foto: Dokumentasi Pribadi*
 
 Seiring waktu, lebih kurang sekitar tahun 2011, mereka kembali membakar Taman Budaya Banda Aceh.
@@ -103,7 +103,7 @@ Puncak penjelajahan festival luar daerah mereka terjadi pada tahun 2012. Lewat a
 
 The[A]Team kembali menghentak panggung dalam rangkaian acara yang turut mendatangkan band rock legendaris tanah air, **Pas Band**.
 
-[![Tonton Video Ini](/situsku/images/thumbnail.jpg)](https://youtu.be/E8wXusUv8qw?si=QQy3Il9D73TSkvf9)
+[![Tonton Video Ini](/images/thumbnail.jpg)](https://youtu.be/E8wXusUv8qw?si=QQy3Il9D73TSkvf9)
 
 Berbagi atmosfer dalam rangkaian event nasional seperti itu tentu menjadi catatan emas tersendiri bagi sejarah musik Pulau Simeulue.
 
