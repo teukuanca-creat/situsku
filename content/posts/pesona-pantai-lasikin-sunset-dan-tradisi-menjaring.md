@@ -40,7 +40,7 @@ Titik balik perubahan paling dramatis dalam sejarah Pantai Lasikin terjadi ketik
 
 Proyek pembukaan lahan ini merestrukturisasi batas-batas wilayah, meratakan semak belukar, dan menata ulang tata ruang kawasan.
 
-> **Baca Juga:** [Pesona Batu Siambong-ambong Simeulue,Aceh: Rute dan Tips](https://teukuanca-creat.github.io/situsku/posts/pesona-batu-siambong-ambong/)
+> **Baca Juga:** [Pesona Kawasan Batubelayar Simeulue,Aceh: Rute dan Tips](https://teukuanca.com/posts/pesona-batubelayar-sport-fishing-labuhan-bajau/)
 
 ### 1. Dua Fenomena Spasial Utama Pantai Lasikin Modern:
 #### 1). Penyambut Utama dari Angkasa (Aerial Welcome Gate)
@@ -89,7 +89,7 @@ Nelayan menggunakan perahu dayung untuk membawa dan membentang jaring raksasa me
 Begitu jaring terpasang sempurna, belasan hingga puluhan warga, baik nelayan, pemuda, hingga anak-anak berjejer disepanjang bibir pantai.
 
 Mereka memegang tali serat utama dan berjalan mundur secara perlahan dengan ritme gerakan yang teratur untuk menarik jaring kembali ke daratan.
-![Menjaring](/situsku/images/menjaring.webp)
+![Menjaring](/images/menjaring.webp)
 *Menjaring di Pantai Lasikin, Teupah Tengah, Simeulue, Aceh. Foto: Dokumentasi Pribadi*
 
 **3). Pasar Segar Mendadak di Pinggir Pantai**
