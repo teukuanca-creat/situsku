@@ -2,7 +2,7 @@
 title: 'Smong: Kearifan Lisan Simeulue pada Tsunami Aceh 2004'
 date: 2026-08-15
 draft: false
-featured_image: "/images/smong-simeulue.webp"
+featured_image: "/images/pintu-babang.webp"
 categories: ["Budaya & Sejarah"]
 description: "Catatan pribadi tentang pengalaman selamat dari tsunami 2004 di Simeulue, serta bagaimana tradisi lisan Smong terbukti lebih cepat dari sistem peringatan modern."
 tags: ["smong", "tsunami", "Simeulue", "kearifan lokal", "bencana"]
