@@ -34,7 +34,7 @@ Sebelum memutar kunci kontak, luapkan waktu 5 menit untuk mengecek persiapan saf
 
 **Perlengkapan & Cek Fisik Motor:**
 
-- **Proteksi Pengendara:#* Wajib pakai helm full-face berstandar SNI/DOT, jaket tahan angin (windproof), sarung tangan, dan sepatu yang menutup mata kaki.
+- **Proteksi Pengendara:** Wajib pakai helm full-face berstandar SNI/DOT, jaket tahan angin (windproof), sarung tangan, dan sepatu yang menutup mata kaki.
   
 - **Kondisi Kendaraan:** Periksa tekanan angin ban, ketebalan kampas rem, dan setelan rantai.
   
