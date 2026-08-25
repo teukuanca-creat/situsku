@@ -18,7 +18,7 @@ Artikel ini adalah catatan reflektif tentang momen-momen olahraga dan tradisi ya
 
 ## B. Musim Layangan: Tradisi Rakyat yang Menghidupkan Kota
 
-Dalam dua tahun terakhir, tradisi bermain layang-layang atau *geulayang* kembali menjadi tren di pusat Kota Sinabang. Setiap menjelang sore, area terbuka dan lapangan kota dipadati anak-anak, pemuda, hingga orang tua yang sibuk merentangkan benang.
+Dalam dua tahun terakhir, tradisi bermain layang-layang atau geulayang kembali menjadi tren di pusat Kota Sinabang. Setiap menjelang sore, area terbuka dan lapangan kota dipadati anak-anak, pemuda, hingga orang tua yang sibuk merentangkan benang.
 
 Fenomena ini bukan sekadar permainan anak-anak. Ia melibatkan lintas generasi:
 
