@@ -58,7 +58,7 @@ Perairan Teluk Sinabang menjadi panggung utama bagi para atlet lokal mengasah ke
 
 Prestasi ini menegaskan bahwa Simeulue bukan hanya pulau kecil. Dari teluknya, lahir atlet-atlet yang mengharumkan nama Aceh.
 
-> **Baca Juga:** [Warkop Simeulue: Pusat Interaksi Sosial](https://teukuanca.com/posts/rahasia-bumbu-mie-aceh-otentik-teknik-warkop-sinabang/)
+> **Baca Juga:** [Warkop Simeulue: Pusat Interaksi Sosial](https://teukuanca.com/posts/panduan-pelayaran-feri-rute-simeulue-aceh/)
 
 ## E. Kesimpulan
 
