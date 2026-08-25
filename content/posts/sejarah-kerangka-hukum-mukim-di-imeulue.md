@@ -3,7 +3,7 @@ title: 'Sejarah & Kerangka Hukum Mukim di Simeulue, Aceh'
 date: 2026-07-20
 draft: false
 featured_image: "/images/ilustrasi-mukim.webp"
-categories: ["Kategori"]
+categories: ["Regulasi"]
 description: "Memahami institusi pemerintahan Adat Mukim yang ada di Aceh khususnya Kabupaten Simeulue, simak ulasan lengkapnya disini"
 tags: ["Mukim Aceh", "Mukim Simeulue"]
 ---
