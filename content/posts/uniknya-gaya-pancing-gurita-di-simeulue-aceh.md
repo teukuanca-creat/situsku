@@ -1,6 +1,6 @@
 ---
 title: 'Umpan Sendok: Kearifan Nelayan Simeulue dalam Menangkap Gurita'
-date: 2026-08-25
+date: 2026-08-10
 draft: false
 featured_image: "/images/umpan-sendok-gurita.webp"
 categories: ["Cerita Menarik"]
