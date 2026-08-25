@@ -4,7 +4,7 @@ permalink: '/2026/07/menjelajah-batubelayar-pesona-pesisir.html'
 date: 2026-07-20
 draft: false
 featured_image: "/images/ulul-falu.webp"
-categories: ["Cerita Menarik"]
+categories: ["Travelling"]
 description: "Jelajahi pesona Batubelayar di Labuhan Bajau, Simeulue. Temukan keunikan dermaga batu alami, jejak transformasi wilayah, hingga surga sport fishing."
 tags: ["Pantai Simeulue", "Sport Fishing Simeulue"]
 ---
