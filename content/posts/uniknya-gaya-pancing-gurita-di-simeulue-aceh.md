@@ -2,7 +2,7 @@
 title: 'Umpan Sendok: Kearifan Nelayan Simeulue dalam Menangkap Gurita'
 date: 2026-08-10
 draft: false
-featured_image: "/images/umpan-sendok-gurita.webp"
+featured_image: "/images/ilustrasi-umpan-sendok.webp"
 categories: ["Cerita Menarik"]
 description: "Membedah kreativitas nelayan Simeulue meracik umpan gurita dari sendok makan, lengkap dengan spot gosong, sensasi strike, hingga dampak ekonominya."
 tags: ["gurita", "umpan sendok", "nelayan", "Simeulue", "kearifan lokal"]
