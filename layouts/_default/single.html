@@ -287,7 +287,10 @@ img { max-width: 100%; height: auto; }
         </div>
         <div class="footer-copyright">&copy; 2026 teukuanca.com. All rights reserved.</div>
     </footer>
-    function toggleTOC() {
+    
+    <script>
+
+function toggleTOC() {
     var content = document.getElementById('tocContent');
     var arrow = document.getElementById('tocArrow');
     if (content.style.display === 'none') {
@@ -298,7 +301,7 @@ img { max-width: 100%; height: auto; }
         arrow.innerHTML = '▼';
     }
 }
-    <script>
+        
         function toggleSearch() {
             var searchBox = document.getElementById('searchBox');
             if (searchBox.style.display === 'none') { searchBox.style.display = 'block'; } else { searchBox.style.display = 'none'; }
