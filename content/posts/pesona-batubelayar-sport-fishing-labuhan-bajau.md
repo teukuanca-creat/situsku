@@ -30,7 +30,7 @@ Kehadiran barisan batu-batu ini bukan tanpa fungsi. Ditengah gempuran ombak yang
 
 Dampak dari pertahanan alami itu, terciptanya sebuah kolam tambatan perahu yang sangat tenang di balik barisan batu. Dikolam terisolasi inilah perahu-perahu cadik (perahu kayu tradisional) milik nelayan Devayan terparkir dengan aman tanpa khawatir terombang-ambing oleh arus laut liar.
 
-![Terminal Perahu, Labuhan Bajau](/situsku/images/terminal-perahu.webp)
+![Terminal Perahu, Labuhan Bajau](/images/terminal-perahu.webp)
 *Dermaga Perahu Labuhan Bajau, Simeulue, Aceh. Foto: Dokumentasi Pribadi*
 
 Dari sudut pandang ekologi dan estetika, dermaga batu ini memberikan nilai tambah yang luar biasa.
