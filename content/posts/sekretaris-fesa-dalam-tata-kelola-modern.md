@@ -30,7 +30,7 @@ Sinergi keduanya menghasilkan tata kelola desa yang akuntabel.
 
 Sekretaris Desa berposisi sebagai administrative gatekeeper. Setiap instrumen kebijakan—mulai dari rekomendasi perizinan, draf Peraturan Desa, hingga Laporan Pertanggungjawaban Keuangan,.wajib melalui tahapan pengujian material, verifikasi teknis, dan paraf hierarkis sebelum disahkan oleh Kepala Desa.
 
-> **Baca Juga:** Pemerintahan Adat Mukim Simeulue,Aceh(https://teukuanca.com/posts/sejarah-kerangka-hukum-mukim-di-imeulue/
+> **Baca Juga:** [Pemerintahan Adat Mukim Simeulue,Aceh](https://teukuanca.com/posts/sejarah-kerangka-hukum-mukim-di-imeulue/)
 
 ## C. Anatomi Regulasi: Dari PP 43/2014 ke PP 16/2026
 
