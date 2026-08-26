@@ -3,7 +3,7 @@ title: 'Otus umbra: Burung Hantu Mungil Endemik Simeulue, Aceh'
 date: 2026-07-19
 draft: false
 featured_image: "/images/cilepuk-simalur.jpeg"
-categories: ["Kategori"]
+categories: ["Cerita Menarik"]
 description: "Mengenal Celepuk Simalur (Otus umbra), satwa endemik Pulau Simeulue.Temukan fakta sejarah ekspedisi, morfologi unik, suara vokal, dan status IUCN"
 tags: ["Cilepuk Simalur", "Otsus Umbra Asal Simeulue Aceh"]
 ---
