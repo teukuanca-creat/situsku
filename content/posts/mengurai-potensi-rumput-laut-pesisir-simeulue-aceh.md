@@ -4,7 +4,7 @@ permalink: /2026/08/mengurai-potensi-rumput-laut-pesisir.html
 date: 2026-08-02
 draft: false
 featured_image: "/images/ilustrasi-rumput-laut-simeulue.webp"
-categories: ["Sejarah"]
+categories: ["Cerita Menarik"]
 description: "Potensi rumput laut Simeulue dari kenangan Labuhan Bajau hingga peluang ekonomi daerah. Simak analisis keunggulan dan tantangannya."
 tags: ["Rumput Laut", "Simeulue"]
 ---
