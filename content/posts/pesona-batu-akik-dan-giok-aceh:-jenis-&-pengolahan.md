@@ -86,7 +86,7 @@ Harganya terikat pada standar internasional yang ketat menggunakan rumus 4C: Cut
 **2). Batu Akik:**
 Harganya lebih fleksibel dan artistik, ditentukan oleh keunikan corak alami, tingkat kelincahan serat, rasa suka kolektor, serta tren pasar.
 
-> **Baca Juga:** [Mengenal Akar Bahar: Mitos, Fakta Sains dan Aturan Hukum](https://teukuanca.com/posts/mengenal-akar-bahar-mitos-fakta-sains-dan-aturan-hukum/
+> **Baca Juga:** [Mengenal Akar Bahar: Mitos, Fakta Sains dan Aturan Hukum](https://teukuanca.com/posts/mengenal-akar-bahar-mitos-fakta-sains-dan-aturan-hukum/)
 
 ## F. Dari Bahan Mentah Hingga Jadi Perhiasan Indah
 ​Proses mengubah batu kasar menjadi karya seni adalah perjalanan yang membutuhkan rasa, kesabaran, dan intuisi tinggi. Berikut tahapan panjangnya: 
