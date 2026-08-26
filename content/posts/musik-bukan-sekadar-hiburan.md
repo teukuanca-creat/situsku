@@ -63,7 +63,7 @@ Ternyata efek musik tidak berhenti sampai di kepala saja. Lewat fenomena yang di
 Efek ini juga sering terlihat dalam kehidupan sehari-hari. Musik pelan yang diputar di kafe membuat pengunjung betah berlama-lama, 
 
 sementara musik cepat di pusat kebugaran justru mendorong orang bergerak lebih bertenaga tanpa perlu dipaksa.
-> **Baca Juga:** Perjalan Band Simeulue, The[A]Team. (https://teukuanca.com/posts/narasi-band-simeulue-the-a-team-numetal-etnik-pulau/)
+> **Baca Juga:** [Perjalan Band Simeulue, The[A]Team](https://teukuanca.com/posts/narasi-band-simeulue-the-a-team-numetal-etnik-pulau/)
 ## Memilih Playlist Sesuai Beban Kerja
 
 Supaya musik benar-benar bisa meningkatkan kinerja, jangan asal comot lagu saja. Berikut panduan sederhana yang bisa Anda coba sesuaikan dengan jenis pekerjaan:
