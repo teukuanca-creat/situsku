@@ -35,7 +35,8 @@ Yang menarik, kebebasan bergaya di Simeulue tetap berjalan selaras dengan nilai 
 Sementara bagi kaum pria, berpakaian rapi dan sopan di ruang publik sudah jadi bentuk penghormatan antarwarga.
 
 Bahkan dalam keseharian, saya jarang sekali menemukan warga yang lalu-lalang mengenakan celana pendek, sebuah cerminan etika yang terjaga secara alami, tanpa ada kesan tertekan sedikit pun.
-> **Baca Juga:**[Pelayaran Menuju Simeulue yang Mengasyikkan](https://teukuanca.com/posts/panduan-pelayaran-feri-rute-simeulue-aceh/)
+
+> **Baca Juga:** [Pelayaran Menuju Simeulue yang Mengasyikkan](https://teukuanca.com/posts/panduan-pelayaran-feri-rute-simeulue-aceh/)
 
 ## Kehangatan di Jalan Raya
 
