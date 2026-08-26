@@ -49,7 +49,9 @@ Ini bagian yang mungkin sudah sering Anda dengar dari nenek atau orang tua di ka
 Eugenol dalam minyak cengkeh punya efek antiseptik sekaligus anestesi lokal, sehingga sering jadi pertolongan pertama saat gigi berdenyut. 
 
 Caranya gampang: teteskan sedikit minyak cengkeh ke kapas, tempelkan ke gigi yang bermasalah, dan nyerinya biasanya mereda untuk sementara.
-> **Baca Juga:**[Peran Keujruen Blang di Simeulue](https://teukuanca.com/posts/peran-keujruen-blang-dalam-pertanian-di-simeulue/)
+
+> **Baca Juga:** [Peran Keujruen Blang di Simeulue](https://teukuanca.com/posts/peran-keujruen-blang-dalam-pertanian-di-simeulue/)
+
 ### Melawan peradangan dan radikal bebas. 
 Senyawa aktifnya membantu mengurangi peradangan dan melindungi sel tubuh dari kerusakan, hal yang jadi pemicu penyakit degeneratif seperti jantung, diabetes, sampai penuaan dini.
 
