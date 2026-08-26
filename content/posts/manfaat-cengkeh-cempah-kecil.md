@@ -3,7 +3,7 @@ title: 'Manfaat Cengkeh: Rempah Kecil dengan Nilai Besar yang Perlu Anda Tahu'
 date: 2026-07-26
 draft: false
 featured_image: "/images/cengkeh-simeulu.webp"
-categories: ["Budaya & Sejarah"]
+categories: ["Sejarah"]
 description: "Mengupas manfaat cengkeh dari sisi kesehatan, farmasi, kuliner, hingga peluang ekonomi. Termasuk tutorial penyulingan sederhana dan perbandingan keuntungan jual mentah vs olahan."
 tags: ["cengkeh", "rempah", "eugenol", "minyak atsiri", "kesehatan"]
 ---
