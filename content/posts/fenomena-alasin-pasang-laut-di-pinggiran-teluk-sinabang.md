@@ -47,7 +47,7 @@ Tarikan ganda ini membuat efeknya jauh lebih kuat dibanding hari-hari biasa. Has
 Fenomena ini sebenarnya terjadi dua kali sebulan—saat purnama dan saat bulan baru (bulan mati). Yang perlu diwaspadai adalah ketika purnama bertepatan dengan posisi bulan paling dekat ke bumi, atau yang kita kenal sebagai supermoon.
 
 Pada momen seperti ini, kenaikan air laut bisa jauh lebih ekstrem dan berpotensi memicu banjir rob di kawasan pesisir (sumber).
-> **Baca Juga:** Smong: Kearifan Lisan Simeulue pada Tsunami Aceh 2004(https://teukuanca.com/posts/tsunami-aceh-dan-budaya-lisan-smong-simeulue/)
+> **Baca Juga:** [Smong: Kearifan Lisan Simeulue pada Tsunami Aceh 2004](https://teukuanca.com/posts/tsunami-aceh-dan-budaya-lisan-smong-simeulue/)
 ## Sesuatu Berubah Setelah Smong 2004
 
 Setelah Smong 2004 (istilah lokal Simeulue untuk tsunami) menerjang, saya tidak pernah lagi melihat air menggenangi pesisir Teluk Sinabang seperti dulu. Ada yang berubah, dan perubahan itu terlihat jelas di lapangan.
