@@ -1,11 +1,11 @@
 ---
-title: 'Pang Laot di Simeulue,Aceh: Sejarah, Kelembagaan, dan Aturan Adat'
-date: 2026-08-10
+title: 'Pang Laot di Simeulue Aceh Sejarah'
+date: 2026-08-01
 draft: false
 featured_image: "/images/panglaot.webp"
 categories: ["Regulasi"]
-description: "Ulasan mendalam Pang Laot Simeulue dari sejarah abad ke-16, dasar hukum daerah, hingga tugas menjaga kelestarian laut."
-tags: ["Regulasi", "Panglima Laot"]
+description: "Deskripsi artikel"
+tags: ["Panglima Laot", "Simeulue"]
 ---
 
 ## Latar Belakang 
