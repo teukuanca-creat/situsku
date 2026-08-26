@@ -2,7 +2,7 @@
 title: 'Intip Gaya Hidup Simeulue,Aceh: Fashion hingga Wisata'
 date: 2026-07-24
 draft: false
-featured_image: "/images/nama-gambar.webp"
+featured_image: "/images/lobster.webp"
 categories: ["Edukasi"]
 description: "Intip gaya hidup masyarakat Simeulue dalam dinamika Modernisasi, Keseharian kami di Simeulue adalah sebuah harmoni yang unik"
 tags: ["Gaya Hidup", "Tren di Simeulue Aceh"]
