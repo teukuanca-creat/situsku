@@ -95,7 +95,7 @@ Pengalaman kesembuhan ini membuka mata saya betapa luar biasanya kekayaan budaya
 Pengetahuan etnobotani, ilmu tentang pemanfaatan tumbuhan oleh masyarakat lokal ternyata tersebar luas di tengah warga pulau ini, meski jarang sekali tertulis di buku-buku pelajaran sekolah formal.
 
 Di Simeulue, budaya mengandalkan pertolongan pertama dari obat-obatan tradisional sebelum melangkah ke penanganan medis rumah sakit sudah jadi kearifan yang diwariskan turun-temurun.
-> **Baca Juga:** Ketika Olahraga Tradisional Berdenyut di Simeulue(https://teukuanca.com/posts/semarak-musim-layangan-olahraga/)
+> **Baca Juga:** [Ketika Olahraga Tradisional Berdenyut di Simeulue](https://teukuanca.com/posts/semarak-musim-layangan-olahraga/)
 
 Sebelum mengenal obat-obatan sintetis, alam Simeulue sudah lebih dulu menyediakan semacam "apotek terbuka" di pekarangan rumah.
 
