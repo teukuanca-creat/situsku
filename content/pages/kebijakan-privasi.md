@@ -4,7 +4,6 @@ date: 2026-08-01
 draft: false
 ---
 
-# Kebijakan Privasi
 **Terakhir diperbarui: 17 Juli 2026**
 
 ​Kebijakan Privasi ini menjelaskan kebijakan dan prosedur Kami mengenai pengumpulan, penggunaan, dan pengungkapan informasi Anda saat Anda menggunakan Layanan, serta memberi tahu Anda tentang hak-hak privasi Anda dan bagaimana hukum melindungi Anda.
