@@ -4,7 +4,7 @@ date: 2026-07-24
 draft: false
 featured_image: "/images/warkop.webp"
 categories: ["Cerita Menarik"]
-description: "Mengulas budaya warung kopi (warkop) di Kabupaten Kepulauan Simeulue bukan sekadar tempat minum kopi saring, melainkan "jantung" sosial dan ekonomi"
+description: "Mengulas budaya warung kopi (warkop) di Kabupaten Kepulauan Simeulue bukan sekadar tempat minum kopi saring, melainkan jantung sosial dan ekonomi"
 tags: ["Warkop Sinabang", "Warung Kopi Simeulue"]
 ---
 
