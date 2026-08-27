@@ -5,7 +5,6 @@ draft: false
 ---
 
 
-# Hubungi Kami
 Jika Anda memiliki pertanyaan, saran, atau penawaran kerja sama, silakan hubungi kami melalui formulir di bawah ini atau melalui kontak resmi kami.
 
 ## Informasi Kontak:
