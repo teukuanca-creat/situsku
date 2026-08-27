@@ -1,15 +1,14 @@
 ---
-title: 'Warkop Simeulue, Aceh: Pusat Interaksi & Sosial Warga'
+title: 'Warkop Simeulue: Ruang Ketiga di Tepi Samudera Hindia'
 date: 2026-07-24
 draft: false
 featured_image: "/images/warkop.webp"
 categories: ["Cerita Menarik"]
 description: "Mengulas budaya warung kopi (warkop) di Kabupaten Kepulauan Simeulue bukan sekadar tempat minum kopi saring, melainkan "jantung" sosial dan ekonomi"
-tags: ["Warkop Sinabang", "Warung Kopi"]
+tags: ["Warkop Sinabang", "Warung Kopi Simeulue"]
 ---
 
-## Warkop Simeulue: Ruang Ketiga di Tepi Samudera Hindia
-
+## Warkop Simeulue
 Ketika kapal feri merapat di Pelabuhan Sinabang, ada satu pemandangan yang tak pernah absen menyambut siapa pun yang menginjakkan kaki di Kabupaten Kepulauan Simeulue: deretan warung kopi (warkop) kayu dan bangunan permanen yang riuh oleh denting gelas sejak subuh hingga larut malam.
 
 Di daratan utama Sumatera, warkop mungkin hanya tempat persinggahan atau sekadar nongkrong. Namun di Simeulue, pulau yang terisolasi secara geografis di tengah Samudera Hindia, warkop bertransformasi menjadi pusat saraf kehidupan pulau.
@@ -60,6 +59,8 @@ Soal makanan, Mie Aceh di sini punya sentuhan berbeda dari daratan Sumatera yang
 Warkop-warkop di Sinabang justru memanfaatkan kekayaan laut lokal.
 
 Anda bisa menikmati Mie Aceh dengan topping lobster segar hasil tangkapan nelayan setempat, kemewahan kuliner laut kelas dunia yang disajikan dalam suasana warung rakyat yang bersahaja.
+
+> **Baca Juga:** [Mengapa Pohon Pinggir Jalan Sama](https://teukuanca.com/posts/mengapa-pohon-pinggir-jalan-sama/)
 
 Dari sisi harga, kisarannya cukup ramah kantong meski tetap fluktuatif tergantung musim tangkap:
 - Kopi saring panas biasanya dibanderol Rp.4.000,–Rp.5.000
