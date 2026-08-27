@@ -92,13 +92,13 @@ img { max-width: 100%; height: auto; }
 .header { background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 100; }
 .header-top { display: flex; align-items: center; justify-content: space-between; padding: 5px 0; }
 .logo__title { font-size: 20px; font-weight: bold; color: var(--black); font-family: 'Special Elite', 'Courier New', monospace; letter-spacing: 1px; }
-.menu { background: #222222 }
+.menu { background: #ffffff; border-top: 2px solid #D4AF37; border-bottom: 2px solid #D4AF37; }
 .menu__list { list-style: none; display: flex; flex-wrap: wrap; }
 .menu__item { position: relative; }
 .menu__item:hover { background: #22222; }
-.menu__link { display: block; padding: 12px 18px; color: var(--white); font-weight: bold; text-transform: uppercase; font-size: 13px; }
+.menu__link { display: block; padding: 12px 18px; color: #222222; font-weight: bold; text-transform: uppercase; font-size: 13px; }
 .menu__link:hover { color: var(--white); }
-.menu__item .menu__list { display: none; position: absolute; top: 100%; left: 0; background: var(--primary); min-width: 200px; z-index: 100; }
+.menu__item .menu__list { display: none; position: absolute; top: 100%; left: 0; background: #e0e0e0; min-width: 200px; z-index: 100; }
 .menu__item:hover .menu__list { display: block; }
 .hamburger { display: none; background: none; border: none; cursor: pointer; padding: 5px; }
 .hamburger span { display: block; width: 25px; height: 3px; background: #222222; margin: 5px 0; border-radius: 3px; }
@@ -113,29 +113,8 @@ img { max-width: 100%; height: auto; }
 .article ul, .article ol { margin: 0 0 25px 30px; font-size: 18px; line-height: 1.8; list-style-position: outside; }
 .article ul li, .article ol li { font-size: 18px; margin-bottom: 8px; }
 .article a { color: var(--primary); font-weight: bold; text-decoration: underline; }
-.article a:hover { color: var(--primary-dark); }
-.article img { border-radius: 10px; margin: 20px auto; width: 100%; max-width: 600px; display: block; }
-.article em { display: block; text-align: center; font-size: 13px; color: #666; margin-top: -15px; }
-.article blockquote { border-left: 5px solid var(--primary); padding: 20px 25px; margin: 30px 0; background: #f8f9fa; font-style: italic; font-size: 18px; line-height: 1.8; border-radius: 0 10px 10px 0; }
-.article-meta { display: flex; gap: 15px; align-items: center; flex-wrap: wrap; margin-bottom: 30px; font-size: 14px; color: #666; }
-.article-meta .category { background: var(--primary); color: #fff; padding: 4px 14px; border-radius: 20px; font-size: 12px; font-weight: bold; }
-.share-section { margin-top: 30px; padding-top: 20px; border-top: 1px solid #eee; }
-.share-section h3 { font-size: 16px; margin-bottom: 15px; }
-.share-icons { display: flex; gap: 10px; flex-wrap: wrap; }
-.share-icons a { display: inline-flex; align-items: center; gap: 5px; padding: 8px 15px; border-radius: 5px; color: #fff; font-size: 13px; font-weight: bold; }
-.share-fb { background: #1877f2; }
-.share-tw { background: #000; }
-.share-ig { background: #e4405f; }
-.share-email { background: #ea4335; }
-.share-tiktok { background: #000; }
-.footer { background: #222222; color: var(--white); padding: 30px 0; margin-top: 30px; font-size: 13px; }
-.footer a { color: var(--white); }
-.footer a:hover { text-decoration: underline; }
-.footer__container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; padding: 15px 0; }
-.footer-links { display: flex; flex-wrap: wrap; gap: 5px; }
-.social-icons { display: flex; gap: 12px; }
-.social-icons a { display: inline-flex; align-items: center; justify-content: center; width: 35px; height: 35px; background: var(--white); color: var(--primary); border-radius: 50%; font-weight: bold; font-size: 14px; }
-.footer-copyright { text-align: center; padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.2); margin-top: 15px; }
+        .social-icons a { display: inline-flex; align-items: center; justify-content: center; width: 35px; height: 35px; background: #222222; color: #ffffff; border-radius: 50%; font-weight: bold; font-size: 14px; }     
+.footer-copyright { text-align: center; padding-top: 15px; border-top: 2px solid #D4AF37; margin-top: 15px; }
 @media (max-width: 768px) {
     .hamburger { display: block; }
     .menu__list { display: none; flex-direction: column; width: 100%; }
