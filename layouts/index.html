@@ -384,6 +384,16 @@
     </aside>
 </div>
 
+<div class="widget">
+    <h3 class="widget__title">Video Terbaru</h3>
+    {{ range first 1 (where .Site.RegularPages "Params.youtube" "!=" nil) }}
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/{{ .Params.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius:10px;"></iframe>
+    <p style="font-size:13px; margin-top:10px;">
+        <a href="https://teukuanca.com{{ .RelPermalink }}" style="color:#000; font-weight:bold;">{{ .Title }}</a>
+    </p>
+    {{ end }}
+</div>
+        
         <!-- 2 Columns -->
         <div class="two-columns">
             <div class="column-box">
