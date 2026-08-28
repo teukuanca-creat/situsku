@@ -306,7 +306,7 @@
         <!-- Monthly Articles + Sidebar -->
 <div class="main-wrapper" style="margin:20px 0; padding:0;">
     <div class="primary" style="flex:2; min-width:0;">
-        <h3 style="font-size:18px; font-weight:bold; margin-bottom:15px;">Artikel Bulan {{ now.Format "January" }}</h3>
+        <h3 style="font-size:18px; font-weight:bold; margin-bottom:15px; border-bottom:3px solid #800000; padding-bottom:10px;">Artikel Bulan {{ now.Format "January" }}</h3>
         {{ $currentMonth := now.Format "2006-01" }}
         {{ $monthPosts := where .Site.RegularPages "Section" "posts" }}
         {{ $count := 0 }}
