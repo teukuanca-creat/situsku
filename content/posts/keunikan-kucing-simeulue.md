@@ -1,5 +1,5 @@
 ---
-title: 'Keunikan Kucing Simeulue, Aceh: Pengasuh & Pengendali Hama'
+title: 'Anak Kucing: Keunikan Kucing Simeulue, Aceh'
 date: 2026-08-04
 draft: false
 featured_image: "/images/kucing-simeulue.webp"
