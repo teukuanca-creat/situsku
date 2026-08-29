@@ -1,5 +1,5 @@
 ---
-title: 'Memahami Media Sosial: Fungsi, Peluang, dan Batasan Hukum'
+title: 'Fungsi Media Sosial: Peluang, dan Batasan Hukum'
 date: 2026-08-03
 draft: false
 featured_image: "/images/ilustrasi-media-sosial.webp"
