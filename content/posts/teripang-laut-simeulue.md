@@ -1,8 +1,8 @@
 ---
-title: 'Teripang Laut Simeulue: Kenangan Tangkahan Era 90-an dan Nilai Ekonomisnya'
+title: 'Teripang Laut Simeulue: Kenangan Tangkahan Era 90-an'
 date: 2026-08-20
 draft: false
-featured_image: "/images/teripang-simeulue.webp"
+featured_image: "/images/by-pexels.webp"
 categories: ["Cerita Menarik"]
 description: "Kenangan masa kecil melihat pengolahan teripang laut di tangkahan Teluk Sinabang era 90-an, lengkap dengan manfaat, cara pengolahan, dan harga pasarnya."
 tags: ["Teripang", "Hasil Laut", "Simeulue", "Tangkahan", "Ekonomi Pesisir"]
