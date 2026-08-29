@@ -1,5 +1,5 @@
 ---
-title: 'Fenomena Malasin (Pasang Laut) di Pinggiran Teluk Sinabang-Simeulue,Aceh'
+title: 'Pasang Surut Air Laut: Fenomena Malasin di Pinggiran Teluk Sinabang'
 permalink: '/2026/08/fenomena-malasin-pasang-air-laut-di.html'
 date: 2026-08-06
 draft: false
