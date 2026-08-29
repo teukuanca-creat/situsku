@@ -1,5 +1,5 @@
 ---
-title: 'ASN di Simeulue: Panduan Lapor SPT 2026 via Coretax dari Pulau Terluar'
+title: 'Panduan Lapor SPT ASN 2026 via Coretax dari Pulau Terluar'
 date: 2026-08-28
 draft: false
 featured_image: "/images/ilustrasi-spt.webp"
