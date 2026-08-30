@@ -90,10 +90,8 @@ Sebaliknya, pihak yang kurang bersiap tentu akan menghadapi kerepotan. Kemarau i
 
 ## I. Penutup
 
-Kemarau di Simeulue memang terasa panjang tahun ini. Tapi di balik teriknya matahari, ada banyak cerita yang berjalan.
+Kemarau di Simeulue memang terasa panjang tahun ini. Namun, di balik teriknya matahari, ada banyak cerita yang berjalan secara berdampingan.
 
-Ada warga yang mengantre air tangki. Ada nelayan yang pulang dengan hasil melimpah. Ada petani yang bersiasat dengan air. Ada penjual air yang kebanjiran rezeki.
+Ada warga yang mengantre air bersih, ada nelayan yang pulang membawa hasil laut melimpah, ada petani yang bersiasat dengan pengairan, dan ada pula para penyedia air tangki yang bekerja ekstra mengantarkan pesanan.
 
-Semua berjalan berdampingan.
-
-Simeulue memang pulau kecil, tapi punya banyak wajah musim. Dan kemarau 2026 ini akan dikenang sebagai salah satu musim yang menguji, sekaligus membuka peluang.
+Simeulue memang pulau kecil, tetapi selalu memiliki banyak wajah di setiap musimnya. Kemarau tahun 2026 ini akan dikenang sebagai salah satu musim yang menguji ketangguhan, sekaligus membuka ruang bagi kita untuk saling membantu dan berbagi.
