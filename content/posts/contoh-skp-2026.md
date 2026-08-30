@@ -8,6 +8,7 @@ description: "Contoh SKP yang perlu kamu pahami cara penyusunanya"
 tags: ["SKP ASN 2026", "Contoh SKP"]
 ---
 
+
 ## Menyusun SKP PNS 2026 yang Tidak Bikin Pusing
 Menjelang awal tahun, rutinitas yang sama selalu berulang bagi para PNS: menatap layar laptop, mengakses e-Kinerja BKN, dan kebingungan menentukan sasaran kinerja yang harus ditulis.
 
