@@ -30,13 +30,14 @@ Namun, warga Simeulue adalah orang-orang yang terbiasa hidup dekat dengan alam. 
 
 ## C. Sisi Negatif Kemarau: Krisis Air MCK
 
-Dampak yang mulai dirasakan dari kemarau di Sinabang adalah penurunan volume air untuk mandi, mencuci, dan kakus. Banyak rumah yang tangki airnya mulai kering. Bahkan bisa saja sumur yang airnya mulai keruh karena volume terus menyusut.
+Dampak yang mulai dirasakan dari kemarau di Sinabang adalah penurunan volume air untuk mandi, Dampak yang mulai dirasakan di Sinabang adalah penurunan volume air untuk mandi, mencuci, dan kakus (MCK).
+Banyak rumah yang tangki airnya mulai kering, bahkan sumur warga pun mulai keruh karena volumenya terus menyusut.
 
-Untuk air minum, sebagian besar warga tidak lagi menggantungkan diri pada sumur. Sudah lama warga beralih ke air depot isi ulang RO, yang harganya relatif terjangkau. Tetapi untuk MCK, air sumur dan tangki masih menjadi pilihan utama.
+Untuk air minum, sebagian besar warga tidak lagi menggantungkan diri pada sumur. Sudah lama warga beralih ke air depot isi ulang RO yang harganya relatif terjangkau. Namun untuk MCK, air sumur dan tangki masih menjadi pilihan utama.
 
-Dalam kondosi kering ini, barulah mulai melakukan pemesanan air bersih. Warga yang tidak punya sumur sendiri benar-benar bergantung pada armada air tangki.
+Dalam kondisi kering ini, sebagian warga mulai melakukan pemesanan air bersih. Mereka yang tidak memiliki sumur pribadi benar-benar bergantung pada kehadiran armada air tangki keliling.
 
-Sedikit berbeda dengan warga yang berlangganan air dari PDAM. Kekeringan mungkin tidak begitu berdampak, sebab pasokan air masih relatif normal.
+Kondisi ini sedikit berbeda bagi warga yang berlangganan air bersih dari jaringan pipa daerah. Meskipun debit air terkadang mengalami penyesuaian selama kemarau, pasokan tersebut setidaknya masih membantu meringankan kebutuhan harian mereka.
 
 ## D. Sisi Positif Kemarau: Rezeki Armada Air Tangki
 
@@ -50,24 +51,23 @@ Bagi pemilik armada, musim kemarau ini mendatangkan peningkatan permintaan yang 
 > **Baca Juga:** [Musim Hujan: Tetap Waspada Dampak Cuaca Ekstrem di Simeulue,Aceh](https://teukuanca.com/posts/musim-hujan-tetap-waspada-dampak-cuaca-ekstrem-di-simeulue/)
 ## E. Dampak bagi Nelayan: Laut Bersahabat
 
-Bagi nelayan, kemarau justru membawa kabar baik. Cuaca cerah membuat mereka lebih leluasa melaut. Gelombang rendah, angin bersahabat, dan jarak pandang lebih baik.
+Cuaca cerah membuat mereka lebih leluasa melaut. Gelombang rendah, angin bersahabat, dan jarak pandang juga menjadi lebih baik.
 
-Namun, cuaca cerah tidak serta-merta memberikan kemudahan bagi nelayan. Sebab, mereka punya keluhan tersendiri dibalik arus bawah laut yang bisa saja kencang sekalipun cuaca cerah.
+Meski demikian, cuaca cerah tidak serta-merta memberikan kemudahan tanpa batas bagi nelayan. Mereka tetap menghadapi tantangan tersendiri, seperti arus bawah laut yang bisa saja kencang sekalipun cuaca di permukaan terlihat bersahabat.
 
-Tetapi, sekarang ini ikan-ikan lebih mudah ditemukan di pasar, dan harga juga masih terlihat normal.
+Beruntung, saat ini ikan-ikan lebih mudah ditemukan di pasar tradisional dengan harga yang terpantau normal.
 
-Ini tentu berbeda jauh dengan musim hujan atau angin kencang. Saat cuaca buruk, banyak nelayan memilih tidak melaut. Perahu ditambatkan, jaring dilipat, dan pendapatan ikut tertahan.
+Kondisi ini tentu berbeda jauh jika dibandingkan dengan musim hujan atau angin kencang. Saat cuaca buruk melanda, banyak nelayan terpaksa memilih untuk tidak melaut. Perahu ditambatkan, jaring dilipat, dan pendapatan mereka ikut tertahan.
 
 Jadi, bagi nelayan, kemarau adalah musim kerja. Bagi pembeli, kemarau adalah masa lauk murah.
 
 ## F. Dampak bagi Petani: Ujian Pengairan
 
-Tidak semua sektor beruntung. Bagi Petani tentunya merasakan kendala pengairan saat kemarau tiba. Umumnya, sawah tadah hujan mulai kekurangan air dan tentunya tanaman muda butuh perhatian ekstra.
+Tidak semua sektor beruntung. Bagi petani, kemarau tentu membawa kendala tersendiri dalam hal pengairan. Umumnya, sawah tadah hujan mulai kekurangan air dan tanaman muda membutuhkan perhatian ekstra.
 
-Namun, kelompok tani desa biasanya sudah punya persiapan. Sebagian mengatur jadwal tanam agar tidak menabrak puncak kemarau. Sebagian memakai pompa air. Ada pula yang memilih menanam komoditas yang lebih tahan kering.
+Namun, kelompok tani di desa biasanya sudah memiliki persiapan. Sebagian mengatur jadwal tanam agar tidak berbenturan dengan puncak kemarau, sebagian memanfaatkan pompa air, dan ada pula yang memilih menanam komoditas yang lebih tahan kering.
 
-Kemarau memang menjadi ujian, tapi bukan berarti tanpa jalan keluar. Petani y
-ang terbiasa membaca musim biasanya tahu kapan harus menanam dan kapan harus menahan diri.
+Kemarau memang menjadi ujian, tetapi bukan berarti tanpa jalan keluar. Petani yang terbiasa membaca musim biasanya tahu kapan harus menanam dan kapan harus menahan diri.
 
 ## G. Konteks Nasional: Apakah Indonesia Sedang Kemarau?
 
@@ -80,18 +80,13 @@ Curah hujan dengan kategori tinggi diperkirakan baru akan masuk secara bertahap 
 
 ## H. Pelajaran dari Kemarau 2026
 
-Setiap musim, jika berlangsung dalam durasi yang lama tentu saja memberikan efek-efek tertentu. 
+Setiap musim, jika berlangsung dalam durasi yang lama, tentu saja memberikan efek-efek tertentu. 
 
-Dengan demikian, kemarau tahun ini mengajarkan banyak hal. Yang paling penting adalah kesiapan.
+Dengan demikian, kemarau tahun ini mengajarkan banyak hal kepada kita. Yang paling penting adalah kesiapan.
 
-* Warga yang punya stok air (PDAM) akan lebih tenang.
-* Petani yang punya pompa atau sumber air cadangan bisa tetap bertahan.
-* Nelayan yang memanfaatkan cuaca cerah bisa meningkatkan pendapatan.
+Warga yang memiliki penampungan atau stok air cadangan akan merasa lebih tenang. Petani yang memiliki pompa atau sumber air alternatif bisa tetap bertahan. Nelayan yang memanfaatkan cuaca cerah dapat memaksimalkan pendapatan mereka.
 
-Sebaliknya, yang tidak siap akan kerepotan.
-
-* Kemarau juga mengingatkan kita untuk tidak boros air.
-* Air yang selama ini dianggap biasa saja, ternyata punya nilai besar ketika mulai susah didapatkan.
+Sebaliknya, pihak yang kurang bersiap tentu akan menghadapi kerepotan. Kemarau ini menjadi pengingat berharga bagi kita semua untuk tidak boros dalam menggunakan air. Air yang selama ini dianggap melimpah dan biasa saja, ternyata memiliki nilai yang sangat besar ketika mulai susah didapatkan.
 
 ## I. Penutup
 
