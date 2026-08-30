@@ -91,7 +91,7 @@ Sebaliknya, yang tidak siap akan kerepotan.
 * Kemarau juga mengingatkan kita untuk tidak boros air.
 * Air yang selama ini dianggap biasa saja, ternyata punya nilai besar ketika mulai susah didapatkan.
 
-## J. Penutup
+## I. Penutup
 
 Kemarau di Simeulue memang terasa panjang tahun ini. Tapi di balik teriknya matahari, ada banyak cerita yang berjalan.
 
