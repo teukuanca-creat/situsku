@@ -1,5 +1,5 @@
 ---
-title: 'Kemarau 2026 di Simeulue: Saat Air Jadi Berkah dan Tantangan'
+title: 'Kemarau 2026 Mulai Terasa di Sinabang, Simeulue, Aceh'
 date: 2026-08-30
 draft: false
 featured_image: "/images/ilustrasi-kemarau.webp"
