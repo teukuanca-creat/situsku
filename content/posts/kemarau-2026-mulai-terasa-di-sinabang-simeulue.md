@@ -9,17 +9,17 @@ tags: ["Kemarau", "Simeulue", "Krisis Air", "Nelayan", "Petani"]
 ---
 
 ## A. Pendahuluan
+Simeulue akhir-akhir ini sedang dilanda kemarau yang terasa sedikit panjang. Seingat saya, sejak awal tahun 2026 ini, baru sekarang kemarau terjadi agak lama.
 
-Simeulue akhir-akhir ini sedang dilanda kemarau yang terasa sedikit panjang. Seingat saya, sejak 2026 baru ini kemarau sedikit lama. Sebab, hujan justru lebih banyak turun di awal tahun. Sekalipun pagi hari terik, siang atau sorenya sering kali hujan turun.
+Sebab, sebelumnya hujan justru lebih banyak turun di awal tahun. Sekalipun pagi hari terik, siang atau sorenya sering kali hujan turun.
 
 Masyarakat Simeulue sebenarnya sudah punya cara sendiri untuk membaca cuaca. Orang-orang tua dulu sering berkata, **kalau malam hari terasa dingin, besoknya kemungkinan besar terik**. Sebaliknya, **kalau malam terasa hangat, biasanya besok akan hujan**.
 
-Melihat kondisi malam sekarang ini, udara terasa dingin, langit indah bertabur bintang, dan keindahan bulan yang menerangi pepohonan hingga permukaan laut. seakan memberikan sinyal bahwa memang sedang memasuki kemarau.
+Melihat kondisi malam sekarang ini, udara terasa dingin, langit indah bertabur bintang, dan keindahan bulan menerangi pepohonan hingga permukaan laut. Seakan memberikan sinyal bahwa kita memang sedang memasuki musim kemarau.
 
-Pemahaman sederhana ini terdengar dari generasi ke generasi, dan sampai sekarang masih dipercaya sebahagian warga.
+Pemahaman sederhana ini diceritakan dari generasi ke generasi, dan sampai sekarang masih dipercaya oleh sebagian warga.
 
 ## B. Kemarau yang Terasa Berbeda
-
 Kemarau kali ini terasa tidak biasa. Bukan karena panasnya yang luar biasa, tetapi karena durasinya yang sedikit lebih lama dibandingkan tahun sebelumnya.
 
 Biasanya, warga Simeulue hanya merasakan kemarau singkat. Setelah beberapa hari panas, hujan kembali turun.
