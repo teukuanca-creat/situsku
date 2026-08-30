@@ -4,8 +4,8 @@ date: 2026-08-30
 draft: false
 featured_image: "/images/foto-musim-panas.webp"
 categories: ["Cerita Menarik"]
-description: "Catatan tentang kemarau 2026 di Simeulue, dari dampak bagi warga, nelayan, petani, hingga peluang ekonomi penjual air tangki. Lengkap dengan konteks kemarau di Indonesia."
-tags: ["Kemarau", "Simeulue", "Krisis Air", "Nelayan", "Petani"]
+description: "Esai humanis dinamika warga Sinabang, Simeulue menghadapi kemarau 2026. Potret kearifan lokal, adaptasi ekonomi petani, nelayan, dan krisis air ."
+tags: ["Kemarau", "Simeulue", "Kekurangan Air", "Nelayan", "Petani"]
 ---
 
 ## A. Pendahuluan
