@@ -2,7 +2,7 @@
 title: 'Kemarau 2026 Mulai Terasa di Sinabang, Simeulue, Aceh'
 date: 2026-08-30
 draft: false
-featured_image: "/images/ilustrasi-kemarau.webp"
+featured_image: "/images/foto-musim-panas.webp
 categories: ["Cerita Menarik"]
 description: "Catatan tentang kemarau 2026 di Simeulue, dari dampak bagi warga, nelayan, petani, hingga peluang ekonomi penjual air tangki. Lengkap dengan konteks kemarau di Indonesia."
 tags: ["Kemarau", "Simeulue", "Krisis Air", "Nelayan", "Petani"]
