@@ -40,11 +40,12 @@ Sedikit berbeda dengan warga yang berlangganan air dari PDAM. Kekeringan mungkin
 
 ## D. Sisi Positif Kemarau: Rezeki Armada Air Tangki
 
-Di tengah kesulitan air, ada satu sektor yang justru kebanjiran rezeki, yaitu usaha air tangki. Mobil-mobil L300 pengangkut air terlihat bolak-balik mengantarkan pesanan ke berbagai rumah.
+Di tengah kesulitan air, peran usaha air tangki keliling menjadi sangat vital bagi masyarakat. Mobil-mobil L300 pengangkut air terlihat bolak-balik mengantarkan pesanan ke berbagai rumah warga yang membutuhkan.
 
-Air satu tangki kecil biasanya dihargai sekitar Rp60.000. Banyak rumah yang langsung memesan dua tangki sekaligus, sehingga harus merogoh kocek sekitar Rp120.000. Harga ini bisa naik atau turun tergantung jarak dan ketersediaan armada.
+Untuk layanan ini, air satu tangki kecil biasanya dihargai sekitar Rp60.000. Banyak rumah yang langsung memesan dua tangki sekaligus dengan biaya sekitar Rp120.000. 
+Harga ini dapat bervariasi tergantung pada jarak tempuh dan ketersediaan armada.
 
-Bagi pemilik armada, musim kemarau adalah masa panen. Permintaan meningkat, jadwal pengiriman penuh, dan pendapatan ikut naik. Pemandangan ini menjadi bukti bahwa setiap musim selalu punya cerita ekonominya sendiri.
+Bagi pemilik armada, musim kemarau ini mendatangkan peningkatan permintaan yang cukup signifikan. Jadwal pengiriman mereka menjadi padat demi memenuhi kebutuhan air warga yang mendesak. Pemandangan ini menjadi bukti bahwa setiap musim selalu punya cerita ekonominya sendiri.
 
 > **Baca Juga:** [Musim Hujan: Tetap Waspada Dampak Cuaca Ekstrem di Simeulue,Aceh](https://teukuanca.com/posts/musim-hujan-tetap-waspada-dampak-cuaca-ekstrem-di-simeulue/)
 ## E. Dampak bagi Nelayan: Laut Bersahabat
@@ -65,7 +66,8 @@ Tidak semua sektor beruntung. Bagi Petani tentunya merasakan kendala pengairan s
 
 Namun, kelompok tani desa biasanya sudah punya persiapan. Sebagian mengatur jadwal tanam agar tidak menabrak puncak kemarau. Sebagian memakai pompa air. Ada pula yang memilih menanam komoditas yang lebih tahan kering.
 
-Kemarau memang menjadi ujian, tapi bukan berarti tanpa jalan keluar. Petani yang terbiasa membaca musim biasanya tahu kapan harus menanam dan kapan harus menahan diri.
+Kemarau memang menjadi ujian, tapi bukan berarti tanpa jalan keluar. Petani y
+ang terbiasa membaca musim biasanya tahu kapan harus menanam dan kapan harus menahan diri.
 
 ## G. Konteks Nasional: Apakah Indonesia Sedang Kemarau?
 
