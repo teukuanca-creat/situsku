@@ -30,7 +30,7 @@ Namun, warga Simeulue adalah orang-orang yang terbiasa hidup dekat dengan alam. 
 
 ## C. Sisi Negatif Kemarau: Krisis Air MCK
 
-Dampak paling kentara dari kemarau di Sinabang adalah kesulitan air untuk mandi, mencuci, dan kakus. Banyak rumah yang tangki airnya mulai kering. Ada pula sumur yang airnya mulai keruh karena volume terus menyusut.
+Dampak yang mulai dirasakan dari kemarau di Sinabang adalah penurunan volume air untuk mandi, mencuci, dan kakus. Banyak rumah yang tangki airnya mulai kering. Bahkan bisa saja sumur yang airnya mulai keruh karena volume terus menyusut.
 
 Untuk air minum, sebagian besar warga tidak lagi menggantungkan diri pada sumur. Sudah lama warga beralih ke air depot isi ulang RO, yang harganya relatif terjangkau. Tetapi untuk MCK, air sumur dan tangki masih menjadi pilihan utama.
 
