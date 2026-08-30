@@ -16,7 +16,7 @@ Masyarakat Simeulue sebenarnya sudah punya cara sendiri untuk membaca cuaca. Ora
 
 Melihat kondisi malam sekarang ini, udara terasa dingin, langit indah bertabur bintang, dan keindahan bulan yang menerangi pepohonan hingga permukaan laut. seakan memberikan sinyal bahwa memang sedang memasuki kemarau.
 
-Pemahaman sederhana ini diwariskan dari generasi ke generasi, dan sampai sekarang masih dipercaya banyak orang.
+Pemahaman sederhana ini terdengar dari generasi ke generasi, dan sampai sekarang masih dipercaya sebahagian warga.
 
 ## B. Kemarau yang Terasa Berbeda
 
