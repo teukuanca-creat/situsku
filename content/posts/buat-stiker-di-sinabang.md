@@ -8,7 +8,7 @@ description: "Kisah usaha stiker kendaraan pertama di Simeulue, bertahan dari Sm
 tags: ["Buat Stiker", "Stiker Kenderaan Sinabang"]
 ---
 
-## Jejak Usaha Stiker Pertama di Sinabang: Bertahan dari Smong hingga Gempa Malam
+## Jejak Usaha Stiker Pertama di Sinabang
 Coba perhatikan sekali saja jalanan Sinabang hari ini. Motor-motor dengan stiker nama pemiliknya di bodi, kaca rumah toko yang dihiasi tulisan promosi warna-warni, sampai plang nama warung yang huruf-hurufnya rapi memakai stiker cutting. 
 
 Semua itu terasa begitu biasa sekarang, seolah memang sudah ada sejak dulu. Tapi ada satu cerita di balik kebiasaan ini yang jarang diketahui orang: siapa sebenarnya yang pertama kali membawa budaya stiker kendaraan ke Simeulue, dan bagaimana usaha itu bertahan melewati dua bencana besar yang nyaris menghentikannya untuk selamanya.
