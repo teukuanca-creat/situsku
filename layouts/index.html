@@ -138,7 +138,9 @@
             .menu__item .menu__list { position: static; display: none; }
             .menu__item:hover .menu__list { display: none; }
             .menu__item.active .menu__list { display: flex; }
-            .main-wrapper { flex-direction: column; }
+            .main-wrapper { display: flex; gap: 20px; padding: 30px 0; }
+.primary { flex: 2.5; min-width: 0; }
+.sidebar { flex: 0.9; min-width: 0; }
             .grid-articles { grid-template-columns: repeat(2, 1fr); }
             .two-columns { grid-template-columns: 1fr; }
             .slide img { height: 250px; }
