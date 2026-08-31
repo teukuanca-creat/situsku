@@ -1,5 +1,5 @@
 ---
-title: 'Panduan Lengkap & Pengalaman Lapangan: Cara Mengurus Akta Kelahiran Anak di Simeulue'
+title: 'Panduan Lengkap & Pengalaman Lapangan: Cara Mengurus Akta Kelahiran Anak'
 date: 2026-08-31
 draft: false
 featured_image: "/images/akta-kelahiran.webp"
