@@ -46,6 +46,8 @@ Setelah melewati rentetan pasang surut itu, usaha stiker ini akhirnya menetap di
 Perjalanan panjang dari pinggir jalan seadanya menuju bangunan tetap ini menurut saya jadi bukti nyata bagaimana konsistensi bisa berbuah, meski jalannya jauh dari mulus.
 
 Belakangan, usaha ini kembali berpindah, kali ini ke Desa Suka Jaya, tempatnya masih beroperasi hingga sekarang.
+![Usaha Stiker Sinabang](/images/lokasi-stiker-pertama-sinabang.webp))
+*Foto: Lokasi Usaha Stiker Pelopor Pertama*
 
 ### Kenapa Usaha Ini Begitu Diminati?
 Kalau dipikir-pikir, alasan usaha ini begitu dicari warga sebenarnya sederhana: ia menjawab kebutuhan praktis yang sebelumnya cukup merepotkan. 
