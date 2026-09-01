@@ -109,7 +109,7 @@ Berikut adalah fakta detail perbandingannya:
 
 ## Ikhtisar 
 
-Bagi saya, cengkeh dengan kejayaan masa lalu Simeulue ini bukan sekadar nostalgia kosong. Ia pengingat bahwa yang membuat cengkeh dulu begitu berharga bukan cuma karena wanginya, tapi karena rantai nilai yang dulu memberi ruang bagi petani kecil untuk sejahtera.
+Bagi saya, cengkeh dengan kejayaan masa lalu Simeulue ini bukan sekadar nostalgia kosong. Ia pengingat bahwa yang membuat cengkeh dulu begitu berharga bukan cuma karena wanginya, tapi karena rantai nilai yang dulu memberi ruang bagi petani kecil untuk sejahterah.
 
 Sama seperti nilam yang pernah kita ceritakan sebelumnya, cengkeh Simeulue punya potensi yang sama: bukan sekadar dijual mentah, tapi diolah jadi minyak atsiri bernilai tambah tinggi. 
 
