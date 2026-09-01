@@ -1,30 +1,29 @@
 ---
 title: "Tentang Saya"
-date: 2026-08-01
+date: 2026-07-17
 draft: false
 ---
 
 ## Selamat Datang di teukuanca.com
 
-Sebuah blog pribadi profesional yang menyajikan beragam catatan digital, artikel informatif, serta ulasan mendalam mengenai administrasi publik, dinamika daerah, budaya lokal, hingga dokumentasi perjalanan dan ragam topik menarik lainnya.
+Situs ini lahir dari semangat untuk mendokumentasikan, membagikan, dan mengenalkan lebih dekat potensi luar biasa dari Pulau Simeulue dan Aceh kepada khalayak luas.
 
-Situs ini didirikan sebagai ruang berbagi informasi yang berkualitas tinggi, berbobot, serta mudah dipahami oleh seluruh kalangan masyarakat di era digital.
+Melalui ruang digital ini, kami menyajikan beragam narasi, panduan, hingga ulasan mendalam seputar:
+* **Wisata & Jalur Petualangan:** Mengulas keindahan bahari, destinasi tersembunyi, hingga panduan rute transportasi bagi para pelancong.
+* **Kearifan Lokal & Budaya:** Mengangkat tradisi, sejarah, seni, serta nilai-nilai kearifan lokal yang menjadi identitas masyarakat Aceh dan Simeulue.
+* **Ragam Kuliner:** Membagikan resep otentik, kisah di balik kuliner khas, hingga rekomendasi tempat nongkrong dan warung kopi lokal.
+* **Gaya Hidup & Edukasi:** Menyajikan gagasan, cerita komunitas, serta artikel edukasi seputar dinamika sosial dan media digital.
 
-## Visi dan Misi Kami
-### Visi:
-Menjadi ruang baca digital yang edukatif, tepercaya, dan menginspirasi melalui tulisan yang informatif, objektif, dan bernilai tambah dari sudut pandang personal.
+## Misi Kami
+Kami percaya bahwa setiap daerah memiliki cerita yang layak untuk diceritakan. Lewat tulisan yang informatif, jujur, dan mudah dipahami, teukuanca.com berkomitmen untuk menjadi referensi digital yang tepercaya—baik bagi warga lokal, wisatawan, maupun siapa saja yang ingin mengenal Aceh dan Simeulue lebih dekat.
 
-### Misi:
-* Edukasi & Informasi: Menyediakan ulasan dan wawasan yang akurat mengenai dunia pemerintahan, layanan publik, dan isu-isu strategis daerah.
-* Pelestarian Budaya: Mengangkat dan mendokumentasikan khazanah kearifan lokal, tradisi, serta potensi wisata daerah.
-* Pengalaman Pengguna Terbaik: Menyajikan konten yang ditulis dengan riset mendalam, objektif, dan tipografi yang nyaman dibaca di berbagai perangkat.
+## Di Balik teukuanca.com
+Situs ini dikelola independen oleh Teuku Anca, seorang penggiat narasi lokal yang berdomisili di Aceh. Lewat kecintaan pada dunia kepulauan, sejarah, dan dinamika budaya lokal, situs ini dikembangkan sebagai bentuk kontribusi nyata dalam literasi digital daerah.
 
-## Fokus Pembahasan (Topik Utama)
-Untuk memberikan pengalaman membaca yang berkesan, teukuanca.com berfokus pada beberapa pilar konten utama:
-* Administrasi & Informasi Publik: Ulasan, opini, dan panduan seputar tata kelola pemerintahan, prosedur birokrasi, serta layanan ASN/masyarakat.
-* Budaya & Serba-Serbi Daerah: Catatan dan dokumentasi mengenai kehidupan masyarakat, adat istiadat, serta ragam tradisi Nusantara (khususnya wilayah Aceh dan sekitarnya).
-* Jelajah & Dokumentasi Perjalanan: Ulasan perjalanan, rekomendasi destinasi wisata lokal, dan kisah menarik dari berbagai tempat unik.
-* Ragam Artikel Bermanfaat: Tips, gagasan, dan wawasan umum yang relevan dengan perkembangan zaman.
+## Mari Terhubung!
+Kami sangat terbuka untuk diskusi, kritik, saran, maupun peluang kolaborasi. Anda dapat menyapa dan menghubungi kami melalui:
+* Email: **teuku.juni.irwansyah@hmail.com
+* Halaman Kontak: [Contact Us](https://teukuanca.com/pages/hubungi-kami/)
+* Media Sosial: [Facebook](https://www.facebook.com/share/197z6vHCQ2/)
 
-## Pengelola Situs
-Situs teukuanca.com dikelola secara mandiri oleh Teuku Anca sebagai pemilik sekaligus penulis utama. Berbekal minat yang besar dalam dunia penulisan, dokumentasi daerah, serta teknologi informasi, seluruh konten di situs ini diproduksi sebagai bentuk kontribusi pemikiran personal untuk masyarakat luas.
+Terima kasih telah berkunjung dan menjadi bagian dari perjalanan teukuanca.com!
