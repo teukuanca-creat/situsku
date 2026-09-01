@@ -1,5 +1,5 @@
 ---
-title: 'Puding Telur Kampung: Rahasia Warkop Simeulue'
+title: 'Puding Telur Kampung: Rahasia dibaliknya'
 permalink: '/2026/07/puding-telur-warkop-simeulueaceh.html'
 date: 2026-07-08
 draft: false
