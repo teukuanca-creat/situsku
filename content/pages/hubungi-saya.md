@@ -1,19 +1,32 @@
 ---
 title: "Hubungi Saya"
-date: 2026-08-01
+date: 2026-07-17
 draft: false
 ---
 
+**Selamat datang di halaman kontak teukuanca.com.**
 
-**Halo! Terima kasih sudah mampir ke teukuanca.com.**
+Saya sangat terbuka untuk menerima masukan, saran, pertanyaan, maupun peluang kerja sama dan kolaborasi seputar topik administrasi publik, kearifan lokal, potensi daerah, hingga penulisan artikel.
 
-Saya sangat senang bisa berbagi cerita tentang pesona masa lalu dan keindahan Pulau Simeulue, serta membantu Anda lewat panduan administratif ASN dan KTP di blog ini.
+Jika Anda memiliki hal yang ingin didiskusikan atau sekadar ingin menyapa, Anda dapat menghubungi saya melalui beberapa saluran di bawah ini:
 
-Jika Anda punya pertanyaan, ingin berdiskusi tentang Simeulue, butuh bantuan terkait tutorial yang saya tulis, atau tertarik untuk menjalin kerja sama (kolaborasi), jangan ragu untuk menyapa saya.
+### 1. Kirim Pesan Langsung (Email)
+Untuk pertanyaan umum, tanggapan artikel, atau penawaran kerja sama, silakan kirimkan email ke:
 
-Silakan isi formulir di bawah ini, atau hubungi saya langsung melalui:
+* Email: **teuku.juni.irwansyah@gmail.com**
 
-* **Email: teuku.juni.irwansyah@gmail.com**
-* **Telepon/WhatsApp: 085133950982**
+Saya berupaya merespons setiap pesan yang masuk dalam waktu 1x24 jam pada hari kerja.
 
-Saya akan berusaha membalas pesan Anda sesegera mungkin di sela-sela kesibukan saya. Sampai jumpa di kotak masuk!
+### 2. Media Sosial
+Mari terhubung dan berdiskusi lebih dekat melalui jejaring sosial:
+
+* Instagram: [@ancateuku](https://www.instagram.com/ancateuku?igsi=MXQ2Mm40dXhtcnlkYw==)
+* Tiktok: [Teuku Anca](tiktok.com/@teuku_anca82)
+* Facebook: [Teuku Anca](https://www.facebook.com/share/1DxkzBHPbF/)
+
+Alamat & Domisili
+teukuanca.com dikelola secara mandiri dari:
+
+* Lokasi: Simeulue, Provinsi Aceh, Indonesia.
+
+Terima kasih atas kunjungan dan dukungan Anda terhadap teukuanca.com!
