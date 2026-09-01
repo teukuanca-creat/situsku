@@ -6,16 +6,16 @@ draft: false
 
 **Selamat datang di halaman kontak teukuanca.com.**
 
-Saya sangat terbuka untuk menerima masukan, saran, pertanyaan, maupun peluang kerja sama dan kolaborasi seputar topik administrasi publik, kearifan lokal, potensi daerah, hingga penulisan artikel.
+teukuanca.com sangat terbuka untuk menerima masukan, saran, pertanyaan, maupun peluang kerja sama dan kolaborasi seputar topik administrasi publik, kearifan lokal, potensi daerah, hingga penulisan artikel.
 
-Jika Anda memiliki hal yang ingin didiskusikan atau sekadar ingin menyapa, Anda dapat menghubungi saya melalui beberapa saluran di bawah ini:
+Jika Anda memiliki hal yang ingin didiskusikan atau sekadar ingin menyapa, Anda dapat menghubungi melalui beberapa saluran di bawah ini:
 
 ### 1. Kirim Pesan Langsung (Email)
 Untuk pertanyaan umum, tanggapan artikel, atau penawaran kerja sama, silakan kirimkan email ke:
 
 * Email: **teuku.juni.irwansyah@gmail.com**
 
-Saya berupaya merespons setiap pesan yang masuk dalam waktu 1x24 jam pada hari kerja.
+teukuanca.com berupaya merespons setiap pesan yang masuk dalam waktu 1x24 jam pada hari kerja.
 
 ### 2. Media Sosial
 Mari terhubung dan berdiskusi lebih dekat melalui jejaring sosial:
