@@ -24,8 +24,8 @@ Situs ini dikelola independen oleh Teuku Anca, seorang penggiat narasi lokal yan
 
 ## Mari Terhubung!
 teukuanca.com sangat terbuka untuk diskusi, kritik, saran, maupun peluang kolaborasi. Anda dapat menyapa dan menghubungi melalui:
-* Email: **teuku.juni.irwansyah@hmail.com**
-* Halaman Kontak: **[Contact Us](https://teukuanca.com/pages/hubungi-kami/)
-* Media Sosial: **[Facebook]**(https://www.facebook.com/share/197z6vHCQ2/)**
+* Email: teuku.juni.irwansyah@gmail.com
+* Halaman Kontak: [Contact Us](https://teukuanca.com/pages/hubungi-kami/)
+* Media Sosial: [Facebook](https://www.facebook.com/share/197z6vHCQ2/)
 
 Terima kasih telah berkunjung dan menjadi bagian dari perjalanan teukuanca.com!
