@@ -6,6 +6,7 @@ draft: false
 
 
 **Halo! Terima kasih sudah mampir ke teukuanca.com.**
+
 Saya sangat senang bisa berbagi cerita tentang pesona masa lalu dan keindahan Pulau Simeulue, serta membantu Anda lewat panduan administratif ASN dan KTP di blog ini.
 
 Jika Anda punya pertanyaan, ingin berdiskusi tentang Simeulue, butuh bantuan terkait tutorial yang saya tulis, atau tertarik untuk menjalin kerja sama (kolaborasi), jangan ragu untuk menyapa saya.
