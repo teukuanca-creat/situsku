@@ -1,5 +1,5 @@
 ---
-title: "Tentang Kami"
+title: "Tentang Saya"
 date: 2026-08-01
 draft: false
 ---
@@ -28,10 +28,3 @@ Untuk memberikan pengalaman membaca yang berkesan, teukuanca.com berfokus pada b
 
 ## Pengelola Situs
 Situs teukuanca.com dikelola secara mandiri oleh Teuku Anca sebagai pemilik sekaligus penulis utama. Berbekal minat yang besar dalam dunia penulisan, dokumentasi daerah, serta teknologi informasi, seluruh konten di situs ini diproduksi sebagai bentuk kontribusi pemikiran personal untuk masyarakat luas.
-
-## Hubungi Kami
-
-Sangat terbuka terhadap masukan, saran, kritik membangun, maupun kerja sama sponsorship/publikasi. Anda dapat menghubung melalui:
-
-- **Email:** teuku.juni.irwansyah@gmail.com
-- **Halaman Kontak:** Silakan kunjungi menu Kontak Kami.
