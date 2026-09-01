@@ -117,7 +117,7 @@ Sebaran mukim ini dirancang berdasarkan batas geografis, ikatan sejarah, dan ket
 
 Lewat pembagian kerja yang presisi antara Imeum Mukim, Tuha Peuet, serta para pemangku adat ekologis (Panglima Laot, Pawang Gle, Keujruen Blang), Simeulue menunjukkan bahwa tatanan lokal mampu menjadi benteng efisien dalam menjaga kedamaian sosial, melestarikan ekosistem kepulauan, dan merawat identitas Nusantara.
 
-​#### Pertanyaan Umum Seputar Pemerintahan Mukim (FAQ)
+#### Pertanyaan Umum Seputar Pemerintahan Mukim (FAQ)
 **​Apakah peradilan adat yang diputuskan oleh Imeum Mukim memiliki kekuatan hukum yang sah?**
 Ya. Berdasarkan UU No. 11 Tahun 2006 (UUPA) dan Qanun Aceh Nomor 9 Tahun 2008, sengketa ringan dan perkara adat tertentu wajib diselesaikan terlebih dahulu di tingkat gampong dan mukim. Kepolisian dan lembaga peradilan formal mendukung proses penyelesaian damai melalui mekanisme peradilan adat ini.
 
