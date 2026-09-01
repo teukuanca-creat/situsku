@@ -97,8 +97,6 @@ Bayangkan berkendara di jalan yang catnya sudah pudar dan tidak ada penerangan j
 
 Kehadiran reflektor kecil ini membantu pengendara tetap berada di jalurnya, mengurangi risiko tabrakan dari arah berlawanan atau keluar jalur tanpa disadari.
 
-## Relevansinya untuk Jalan-Jalan di Simeulue
-
 ## Benda Kecil, Manfaat Besar
 Dari benda sekecil paku jalan ini, kita belajar satu hal: keselamatan di jalan raya sering kali tidak butuh teknologi yang rumit atau mahal, cukup solusi sederhana yang dipasang tepat di tempat yang tepat. 
 
