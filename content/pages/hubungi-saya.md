@@ -21,7 +21,6 @@ teukuanca.com berupaya merespons setiap pesan yang masuk dalam waktu 1x24 jam pa
 Mari terhubung dan berdiskusi lebih dekat melalui jejaring sosial:
 
 * Instagram: [@ancateuku](https://www.instagram.com/ancateuku?igsi=MXQ2Mm40dXhtcnlkYw==)
-* Tiktok: [Teuku Anca](tiktok.com/@teuku_anca82)
 * Facebook: [Teuku Anca](https://www.facebook.com/share/1DxkzBHPbF/)
 
 Alamat & Domisili
