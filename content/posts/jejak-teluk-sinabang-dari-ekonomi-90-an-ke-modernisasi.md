@@ -32,7 +32,7 @@ Seperti penyampaian di atas yang membentuk Ekosistem pesisir dinamis masa lalu, 
 **​2). Pelabuhan Kargo**
 - **Fungsi Utama:** Salah satu jalur perdagangan logistik komersial regional.
 - **Aktivitas Perdagangan:** Kapal dagang dari Padang, Sibolga, dan daratan Aceh berlabuh untuk pemasok semen dan barang-barang pokok.
-Kemudian, pelabuhan ini berfungsi sebagai titik keluar untuk komoditas premium dari Simeulue, seperti cengkeh dan ternak. 
+Kemudian, pelabuhan ini berfungsi sebagai titik keluar untuk komoditas premium dari Simeulue, seperti hasil perkebunan dan ternak. 
 
 **​3). Pelabuhan Boat dan Perahu Lokal​**
 - **Fungsi Utama:** Menghubungkan berbagai kecamatan melalui transportasi laut.
@@ -51,7 +51,7 @@ Hingga sekarang Pulau Balok masih mempertahankan kondisi alaminya. Sehingga menj
 ## B. Modernisasi dan Redistribusi Ruang Kota
 Seiring pertumbuhan penduduk dan perluasan infrastruktur jalan di Kabupaten Simeulue, lanskap Teluk Sinabang mengalami perubahan signifikan. 
 
-Upaya pemindahan prasarana dianggap menjadi solusi dalam mengatasi kemacetan di Simpang Lima. Dengan demikian, pemerintah daerah melakukan reorganisasi (relokasi) fasilitas pelabuhan:
+Upaya pemindahan prasarana dianggap menjadi solusi dalam mengatasi kemacetan di Simpang Lima. Dengan demikian, pemerintah daerah melakukan reorganisasi (relokasi) fasilitas pelabuhan.
 
 - **Pelabuhan Feri:** Dipindahkan ke area Kolok Desa Kota Batu, Kecamatan Simeulue Timur. Untuk mengakomodasi prasarana (armada kapal) yang lebih besar.
 - **Pelabuhan Kargo dan Logistik:** Dipindahkan ke area Desa Suka Jaya dengan fasilitas bongkar muat yang lebih luas.
@@ -59,7 +59,7 @@ Upaya pemindahan prasarana dianggap menjadi solusi dalam mengatasi kemacetan di 
   
 Penataan ulang fungsi pelabuhan telah mengubah Simpang Lima dari zona industri/kargo yang padat menjadi kawasan perkotaan yang lebih terorganisir. 
 
-Meskipun pusat kegiatan utama telah terbagi, Teluk Sinabang terus memegang peran penting sebagai saksi perkembangan peradaban maritim di Pulau Simeulue.  
+Menurut saya, meskipun pusat kegiatan utama telah terbagi, Teluk Sinabang terus memegang peran penting sebagai saksi perkembangan peradaban maritim di Pulau Simeulue.  
 
 ## C. Kesimpulan
 Perjalanan sejarah Teluk Sinabang mencerminkan evolusi sebuah kota pesisir dalam menanggapi modernisasi.
