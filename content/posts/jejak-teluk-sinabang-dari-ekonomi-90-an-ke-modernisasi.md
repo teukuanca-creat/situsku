@@ -10,7 +10,7 @@ tags: ["Teluk Sinabang", "Era 90 an"]
 ---
 
 ## A. Latar Belakang 
-Bagi masyarakat Simeulue, Teluk  Sinabang lebih dari sekadar perairan biasa. Ia berfungsi sebagai jantung peradaban, pusat ekonomi, dan benteng pertahanan alami, memainkan peran sentral dalam dinamika kehidupan pesisir di ibu kota Kabupaten Simeulue, sejak zaman dahulu.      
+Menurut saya sebagai masyarakat Simeulue, Teluk  Sinabang lebih dari sekadar perairan biasa. Ia berfungsi sebagai jantung peradaban, pusat ekonomi, dan benteng pertahanan alami, memainkan peran sentral dalam dinamika kehidupan pesisir di ibu kota Kabupaten Simeulue, sejak zaman dahulu.      
 
 Secara geografis, bentuk teluk yang terlindung dengan alami berfungsi sebagai pemecah gelombang. Efek perlindungan ini telah terbukti secara historis selama peristiwa seperti gempa bumi dan tsunami (Smong).
 
