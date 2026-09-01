@@ -9,9 +9,9 @@ tags: ["manfaat paku jalan", "road stud"]
 ---
 
 ## Benda Kecil di Tengah Jalan yang Ternyata Menyelamatkan Banyak Nyawa
-Pernah berkendara malam hari melewati jalan yang gelap gulita, lalu tiba-tiba melihat titik-titik cahaya kecil berkilau tepat di garis tengah aspal, seolah menuntun arah jalan di depan?
+Pernahkah Anda berkendara malam hari melewati jalan yang gelap gulita, lalu tiba-tiba melihat titik-titik cahaya kecil berkilau tepat di garis tengah aspal, seolah menuntun arah jalan di depan?
 
-Saya sering mengalaminya, terutama saat melintasi jalan-jalan yang minim penerangan. Awalnya saya kira itu memang lampu kecil yang ditanam khusus di aspal. Ternyata, setelah ditelusuri lebih jauh, sebagian besar dari benda itu sebenarnya bukan lampu dalam arti sesungguhnya, melainkan reflektor yang memantulkan cahaya lampu kendaraan kita kembali ke mata kita.
+Saya sering mengalaminya, terutama saat melintasi jalan-jalan yang minim penerangan. Awalnya saya kira itu memang lampu kecil yang ditanam khusus di aspal. Ternyata, setelah ditelusuri lebih jauh, sebagian besar dari benda itu sebenarnya bukan lampu dalam arti sesungguhnya, melainkan reflektor yang memantulkan cahaya lampu kendaraan kembali ke mata kita.
 
 Benda ini punya nama resmi yaitu **paku jalan**, atau dalam istilah teknisnya disebut **road stud**. Sebagian orang juga mengenalnya dengan sebutan "mata kucing".
 
