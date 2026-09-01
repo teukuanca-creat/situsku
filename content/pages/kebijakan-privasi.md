@@ -170,7 +170,7 @@ Kami dapat mengungkapkan Data Pribadi Anda dengan iktikad baik bahwa tindakan te
 
 ## ​Hubungi Kami
 ​Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, Anda dapat menghubungi Kami:
-- **​Melalui email: penata3a@gmail.com**
+- **​Melalui email: teuku.juni.irwansyah@gmail.com**
 - **Dengan mengunjungi halaman ini di Situs Web Kami: teukuanca.com**
 - **Melalui telepon: 085133950982**
 
