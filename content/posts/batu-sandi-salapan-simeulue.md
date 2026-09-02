@@ -19,7 +19,7 @@ Angin laut sesekali berembus dari pesisir Teupah Barat yang jaraknya tak seberap
 Menurut saya, dari beberapa peninggalan sejarah dan budaya Pulau Simeulue, ini termasuk salah satu dari beberapa lainnya yang paling membekas. 
 Warga setempat menyebutnya "**Batu Sandi Salapan**", "salapan" dalam dialek lokal berarti "delapan".
 
-Batu ini juga menjadi bukti fisik tentang bagaimana Islam menyebar ke pulau terluar Aceh ini, sekaligus jejak hubungan diplomatik antara Kesultanan Aceh Darussalam dan masyarakat Simeulue.
+Batu ini juga menjadi bukti fisik tentang bagaimana Islam menyebar ke pulau terluar Aceh, sekaligus jejak hubungan diplomatik antara Kesultanan Aceh Darussalam dan masyarakat Simeulue.
 
 ## Bukan Sekadar Hadiah, Melainkan Surat Izin dari Sultan
 
@@ -30,7 +30,7 @@ Menurut dokumentasi lembaga tersebut, proses Islamisasi Desa Salur berkaitan era
 
 Menurut ceritanya, setelah masyarakat Salur memeluk Islam dan hendak mendirikan tempat ibadah, Banurullah mengutus tujuh orang kepala suku beserta satu juru bicara untuk berlayar ke Aceh, memohon restu langsung kepada sultan yang berkuasa saat itu.
 
-Sekembalinya delegasi ini, mereka membawa delapan batu sandi, yang berfungsi bukan sekadar penyangga bangunan, melainkan semacam "surat izin" resmi untuk mendirikan masjid.
+Sekembalinya delegasi ini, mereka membawa delapan batu sandi, yang berfungsi bukan sekadar penyangga bangunan, melainkan semacam "**surat izin**" resmi untuk mendirikan masjid.
 
 Sumber-sumber yang ada belum sepenuhnya sepakat soal detail waktunya. Sebagian besar dokumentasi menyebut peristiwa ini terjadi pada masa Sultan Mahmudsyah II, yang memerintah Kesultanan Aceh Darussalam tahun 1767–1787.
 
@@ -40,32 +40,31 @@ Selisih dua abad ini kemungkinan besar muncul karena bercampurnya dua narasi bes
 
 Saya memilih menyampaikan keduanya secara terbuka, karena justru di situlah letak kekayaan sejarah lisan, ia hidup, diwariskan mulut ke mulut, dan kadang detailnya bergeser seiring generasi.
 
-## Sosok di Balik Islamnya Salur: Makam di Bukit Batu
-
-Satu hal yang jarang disinggung dalam artikel-artikel tentang Sandi Salapan adalah kisah Banurullah. Menjelang wafat, ia berwasiat kepada murid-muridnya agar dimakamkan di atas bukit batu tak jauh dari lokasi masjid. Wasiat itu dipenuhi, dan hingga kini makam yang dikenal sebagai Makam Banurullah masih bisa ditemukan di kawasan tersebut.
 > **Baca Juga:** [Manfaat Puding Telur Ayam Kampung](https://teukuanca.com/posts/puding-telur-kampung-rahasia-warkop-simeulue/)
-
-Bagi pengunjung yang datang khusus untuk menelusuri jejak sejarah, makam ini sebenarnya layak masuk dalam satu rangkaian kunjungan bersama situs Sandi Salapan, keduanya saling melengkapi cerita tentang bagaimana Islam berakar di pesisir barat Simeulue.
 
 ## Bertahan dari Amukan Smong 1907 hingga Tsunami 2004
 
 Salah satu hal paling menakjubkan dari Sandi Salapan adalah kemampuannya bertahan melintasi dua bencana besar.
 
-Pada 1907, gempa dan tsunami dahsyat yang dikenal sebagai Smong meluluhlantakkan Desa Salur. Bencana ini yang catatannya bahkan sempat didokumentasikan dalam literatur era kolonial Belanda, menghancurkan bangunan masjid tua dan menyapu satu pilar batu hingga terbawa ke dasar laut. Tujuh batu lainnya berhasil diselamatkan penduduk setempat.
+Pada 1907, gempa dan tsunami dahsyat yang dikenal sebagai Smong meluluhlantakkan Desa Salur.
+Bencana ini yang catatannya bahkan sempat didokumentasikan dalam literatur era kolonial Belanda, menghancurkan bangunan masjid tua dan menyapu **satu pilar batu** hingga terbawa ke dasar laut.
+Dan **tujuh batu lainnya** berhasil diselamatkan penduduk setempat.
 
-Hampir seabad kemudian, tsunami Samudera Hindia 2004 kembali menghantam pantai barat Teupah. Permukiman di sekitarnya mengalami kerusakan parah, tapi ketujuh pilar batu bersejarah itu tetap berdiri di tempatnya. 
+Hampir seabad kemudian, tsunami Samudera Hindia 2004 kembali menghantam pantai barat Teupah. Permukiman di sekitarnya mengalami kerusakan parah, tapi **ketujuh pilar batu** bersejarah itu **tetap berdiri** di tempatnya. 
 
-Menariknya, bangunan masjid itu sendiri sebenarnya sudah beberapa kali dibangun ulang secara semi permanen pasca-bencana, yang benar-benar tak tergantikan dan bertahan utuh justru batu-batunya, bukan strukturnya.
+Yang membuat saya sedikit heran, bangunan masjid sudah beberapa kali dibangun ulang secara semi permanen pasca-bencana, tetapi yang benar-benar tak tergantikan dan bertahan utuh justru batu-batunya,bukan strukturnya
 
 ## Rute dan Cara Menuju Desa Salur
 
-Perjalanan menuju Batu Sandi Salapan sebenarnya cukup mudah diakses dari pusat kota. Dari Kota Sinabang, perjalanan ke Kecamatan Teupah Barat memakan waktu sekitar 25 hingga 30 menit menggunakan kendaraan roda dua maupun roda empat.
+Jika Anda berkunjung ke Simeulue dan ingin melakukan perjalanan menuju ke Batu Sandi Salapan, sangat mudah diakses dari pusat kota Sinabang. 
+
+Dari Kota Sinabang, perjalanan ke Kecamatan Teupah Barat memakan waktu sekitar 20 hingga 30 menit menggunakan kendaraan roda dua maupun roda empat.
 
 Jalur utamanya sudah beraspal mulus, dengan pemandangan perbukitan dan garis pantai yang cukup memanjakan mata sepanjang perjalanan.
 
 Begitu memasuki Desa Salur, patokan utamanya adalah kawasan permukiman dekat pesisir dengan masjid di sisi kiri jalan dan pohon besar tepat di depannya.
 
-Warga sekitar sudah sangat familier dengan sejarah ini, jadi jangan sungkan bertanya arah kalau merasa ragu, sekaligus kesempatan baik untuk menanyakan lokasi Makam Banurullah yang letaknya tak jauh dari sana.
+Warga sekitar sudah sangat familiar dengan sejarah ini, jadi jangan sungkan bertanya arah kalau merasa ragu, sekaligus kesempatan baik untuk menanyakan lokasi Makam Banurullah yang letaknya tak jauh dari sana.
 
 ### Panduan Praktis: Biaya, Waktu, dan Etika Berkunjung
 
@@ -73,24 +72,23 @@ Kabar baiknya, mengunjungi tempat ini tidak membutuhkan biaya sama sekali. Tiket
 
 Soal waktu terbaik, pagi hingga sore hari cukup ideal, selain pencahayaannya bagus untuk foto, udara pesisir Desa Salur pada jam-jam tersebut masih terasa sejuk.
 
-Karena situs ini berada persis di lingkungan masjid dan permukiman warga yang islami, ada baiknya berpakaian sopan dan menjaga tata krama selama berada di area tersebut.
-Kalau kebetulan datang mendekati waktu shalat, memberi ruang bagi jemaah yang hendak beribadah adalah bentuk penghormatan yang sederhana tapi berarti bagi warga setempat.
+Karena Sandi Salapan ini berada persis di lingkungan masjid dan permukiman warga yang islami, ada baiknya berpakaian sopan dan menjaga tata krama selama berada di area tersebut.
 
-## Kenapa Delapan Batu Kecil Ini Layak Diperhitungkan?
+Kalau kebetulan datang mendekati waktu shalat, Anda dapat shalat berjamaah, atau bagi non-muslim memberi ruang bagi jemaah yang hendak beribadah adalah bentuk penghormatan yang sederhana tapi berarti bagi warga setempat.
 
-Di luar nilai sentimentalnya bagi warga Salur, batu ini sebenarnya punya arti yang lebih luas. Peninggalan fisik yang menghubungkan langsung pulau terluar seperti Simeulue dengan pusat Kesultanan Aceh Darussalam tergolong langka.
+## Kenapa Delapan Batu Ini Layak Diperhitungkan?
+
+Menurut saya, batu ini sebenarnya punya arti yang lebih luas. Peninggalan fisik yang menghubungkan langsung pulau terluar seperti Simeulue dengan pusat Kesultanan Aceh Darussalam tergolong langka.
 
 Kebanyakan bukti hubungan semacam ini biasanya hanya berupa catatan tertulis atau tradisi lisan tanpa artefak fisik yang bisa disentuh dan dilihat langsung.
 
 Sandi Salapan mengisi kekosongan itu. Ia jadi bukti konkret bahwa kekuasaan dan pengaruh Kesultanan Aceh pada abad ke-18 (atau mungkin lebih awal) bukan sekadar klaim politik di atas kertas, melainkan benar-benar menjangkau kehidupan sehari-hari masyarakat di pulau-pulau terpencil lewat cara yang halus: mendukung pendirian rumah ibadah.
 
-## Penutup: Menjaga Batu, Menjaga Ingatan
+## Kesimpulan 
 
-Batu Sandi Salapan adalah harta karun sejarah yang menghubungkan identitas budaya Simeulue dengan Kesultanan Aceh. Kemampuannya bertahan dari kehancuran Smong 1907 dan tsunami 2004 menunjukkan ketahanan fisiknya.
+Batu Sandi Salapan adalah harta karun sejarah yang menghubungkan identitas budaya Simeulue dengan Kesultanan Aceh. Kemampuannya bertahan dari kehancuran Smong 1907 dan Smong 2004 (Tsunami) menunjukkan ketahanan fisiknya.
 
-Sementara langkah warga Salur memindahkannya ke ruang terbuka pada 2025 menunjukkan sesuatu yang tak kalah penting: kesadaran generasi sekarang untuk terus merawat dan membagikan kisah ini, bukan menyimpannya sendiri di balik pintu tertutup.
-
-Melestarikan dan membagikan kisah situs kecil ini adalah langkah penting memastikan akar sejarahnya tidak sekadar jadi catatan kaki yang terlupakan.
+Sementara langkah warga Salur memindahkannya ke ruang terbuka pada 2025 menunjukkan sesuatu yang tak kalah penting: kesadaran generasi sekarang untuk terus merawat dan membagikan kisah ini.
 
 #### FAQ Seputar Batu Sandi Salapan
 
@@ -104,13 +102,8 @@ Satu batu hilang terbawa arus saat tsunami Smong tahun 1907 menghancurkan bangun
 Ini yang menarik—sumber sejarah belum seragam. Sebagian besar dokumentasi resmi menyebut era Sultan Mahmudsyah II (1767–1787), sementara pernyataan pejabat kecamatan pada 2025 mengaitkannya dengan era Sultan Iskandar Muda (sekitar 1607). Perbedaan ini kemungkinan muncul dari bercampurnya dua narasi Islamisasi Simeulue yang berbeda periode.
 
 **Referensi:**
-- Balai Pelestarian Nilai Budaya (BPNB) Aceh. Cerita Mesjid Babussalihin di Pulau Simeulue. kebudayaan.kemdikbud.go.id.
-- Harian Rakyat Aceh. Situs Sejarah Batu Sandi Salapan Berusia Lebih 400 Tahun di Simeulue, Resmi Diperlihatkan ke Publik, 11 Juli 2025.
-- Sistem Informasi Masjid (SIMAS), Kementerian Agama RI. Profil Masjid Babussalihin, Desa Salur, Teupah Barat.
-- Dinas Kebudayaan dan Pariwisata Provinsi Aceh. Database Inventarisasi Cagar Budaya Kabupaten Simeulue: Situs Masjid Tua dan Batu Sandi Salapan Salur. Disbudpar Aceh, Banda Aceh.
-- Pemerintah Kabupaten Simeulue. Sejarah Masuknya Islam dan Pembangunan Masjid Tertua di Teupah Barat.
-- Portal Resmi Pemkab Simeulue.
-- Sufi, Rusdi, dkk. (2001). Sejarah Kerajaan-Kerajaan di Aceh dan Hubungannya dengan Pulau-Pulau Terluar.
-- Pusat Studi Sejarah dan Nilai-Nilai Tradisional (BKSNT), Banda Aceh.
-- Badan Pelestarian Cagar Budaya (BPCB) Aceh. Dokumentasi dan Kajian Pemugaran Cagar Budaya Pasca Tsunami di Kabupaten Simeulue.
+- [Sejarah Batu Sandi Salapan](https://harianrakyataceh.com/news/situs-sejarah-batu-sandi-salapan-berusia-lebih-400-tahun-di-simeulue-resmi-diperlihatkan-ke-publik/index.html)
+- [Serambinews](https://aceh.tribunnews.com/2024/07/16/babusshalihin-masjid-pertama-di-simeulue-yang-tercerabut-dari-literatur-sejarah)
+- [Wikipedia](https://id.wikipedia.org/wiki/Kesultanan_Aceh)
+- [Balai Pelestarian Kebudayaan](https://id.wikipedia.org/wiki/Balai_Pelestarian_Kebudayaan)
 - [cagar budaya, makam Tgk Banurullah](https://budayaaceh.com/cagar-budaya/162/makam-tgk-bakudo-batu-banurullah)
