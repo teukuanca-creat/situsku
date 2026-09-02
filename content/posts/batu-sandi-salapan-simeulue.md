@@ -10,11 +10,14 @@ tags: ["Batu Sandi Salapan", "Sejarah Simeulue"]
 
 ## Menatap Saksi Bisu Diplomasi Dua Abad Lampau
 
-Ada momen tertentu ketika saya teringat di pelataran Masjid Babussalihin, Desa Salur, Kecamatan Teupah Barat, dan menyadari bagaimana sejarah benda yang usianya jauh lebih tua dari negara ini sendiri.
+Sejak dahulu, cerita awal Islam di bumi simeulue sudah menjadi ingatan kolektif masa kanak-kanak. Hingga saya berada tepat di pelataran Masjid Babussalihin, Desa Salur, Kecamatan Teupah Barat, dan menyadari bagaimana sejarah benda yang usianya jauh lebih tua dari negara ini sendiri.
 
-Satu dari tujuh batu berukir dari delapan yang asli, kini tersimpan rapi di balik kotak kaca tebal di area masjid, diterangi cahaya siang yang menembus rimbunnya pohon besar di depan bangunan. Angin laut sesekali berembus dari pesisir Teupah Barat yang jaraknya tak seberapa jauh, membawa aroma khas garam bercampur tanah basah selepas hujan pagi.
+Satu dari tujuh batu berukir dari delapan yang asli, kini tersimpan rapi di balik kotak kaca tebal di area masjid, diterangi cahaya siang yang menembus rimbunnya pohon besar di depan bangunan Mesjid.
 
-Menurut saya, dari beberapa peninggalan sejarah dan budaya Pulau Simeulue, situs kecil ini termasuk salah satu yang paling membekas. Warga setempat menyebutnya Batu Sandi Salapan, "salapan" dalam dialek lokal berarti "delapan" dan bagi mereka, kedelapan pilar batu ini bukan monumen mati.
+Angin laut sesekali berembus dari pesisir Teupah Barat yang jaraknya tak seberapa jauh dari bibir pantai, membawa aroma khas garam bercampur tanah basah selepas hujan pagi.
+
+Menurut saya, dari beberapa peninggalan sejarah dan budaya Pulau Simeulue, ini termasuk salah satu dari beberapa lainnya yang paling membekas. 
+Warga setempat menyebutnya "**Batu Sandi Salapan**", "salapan" dalam dialek lokal berarti "delapan".
 
 Batu ini juga menjadi bukti fisik tentang bagaimana Islam menyebar ke pulau terluar Aceh ini, sekaligus jejak hubungan diplomatik antara Kesultanan Aceh Darussalam dan masyarakat Simeulue.
 
@@ -39,7 +42,7 @@ Saya memilih menyampaikan keduanya secara terbuka, karena justru di situlah leta
 
 ## Sosok di Balik Islamnya Salur: Makam di Bukit Batu
 
-Satu hal yang jarang disinggung dalam artikel-artikel tentang Sandi Salapan adalah nasib Banurullah sendiri. Menjelang wafat, ia berwasiat kepada murid-muridnya agar dimakamkan di atas bukit batu tak jauh dari lokasi masjid. Wasiat itu dipenuhi, dan hingga kini makam yang dikenal sebagai Makam Banurullah masih bisa ditemukan di kawasan tersebut.
+Satu hal yang jarang disinggung dalam artikel-artikel tentang Sandi Salapan adalah kisah Banurullah. Menjelang wafat, ia berwasiat kepada murid-muridnya agar dimakamkan di atas bukit batu tak jauh dari lokasi masjid. Wasiat itu dipenuhi, dan hingga kini makam yang dikenal sebagai Makam Banurullah masih bisa ditemukan di kawasan tersebut.
 > **Baca Juga:** [Manfaat Puding Telur Ayam Kampung](https://teukuanca.com/posts/puding-telur-kampung-rahasia-warkop-simeulue/)
 
 Bagi pengunjung yang datang khusus untuk menelusuri jejak sejarah, makam ini sebenarnya layak masuk dalam satu rangkaian kunjungan bersama situs Sandi Salapan, keduanya saling melengkapi cerita tentang bagaimana Islam berakar di pesisir barat Simeulue.
@@ -110,3 +113,4 @@ Ini yang menarik—sumber sejarah belum seragam. Sebagian besar dokumentasi resm
 - Sufi, Rusdi, dkk. (2001). Sejarah Kerajaan-Kerajaan di Aceh dan Hubungannya dengan Pulau-Pulau Terluar.
 - Pusat Studi Sejarah dan Nilai-Nilai Tradisional (BKSNT), Banda Aceh.
 - Badan Pelestarian Cagar Budaya (BPCB) Aceh. Dokumentasi dan Kajian Pemugaran Cagar Budaya Pasca Tsunami di Kabupaten Simeulue.
+- [cagar budaya, makam Tgk Banurullah](https://budayaaceh.com/cagar-budaya/162/makam-tgk-bakudo-batu-banurullah)
