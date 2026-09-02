@@ -65,7 +65,7 @@ Sekarang, usaha stiker bukan lagi barang langka di Simeulue. Sudah semakin banya
 
 Bagi saya, ini justru pertanda baik, bukti bahwa apa yang dulu dirintis dengan modal seadanya ternyata mampu menumbuhkan satu ekosistem usaha baru yang terus berkembang sampai hari ini.
 
-Gaya Hidup yang Tak Pernah Ketinggalan Zaman
+## Gaya Hidup yang Tak Pernah Ketinggalan Zaman
 Bagi saya, kisah ini bukan sekadar cerita tentang usaha stiker biasa. Ini cerminan betapa hidupnya semangat warga Simeulue dalam mengikuti tren, bahkan sejak dulu, jauh sebelum era media sosial membuat semua orang bisa melihat apa yang sedang digandrungi dunia luar. 
 
 Antusiasme yang tinggi terhadap sesuatu yang baru ini membuktikan satu hal: warga Simeulue, sejak dulu, tidak pernah benar-benar tertinggal zaman.
@@ -84,4 +84,3 @@ Karena sebelumnya, warga yang ingin kendaraannya dipoles atau dihias stiker haru
 
 **Di mana lokasi usaha stiker ini sekarang?**
 Setelah berpindah beberapa kali dari Simpang Tiga, lalu bangunan permanen di Simpang Lima Desa Sinabang, usaha ini kini menetap di Desa Suka Jaya hingga saat ini.
-Tulis pesan…
