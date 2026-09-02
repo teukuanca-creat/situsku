@@ -9,11 +9,14 @@ tags: ["Buat Stiker", "Stiker Kenderaan Sinabang"]
 ---
 
 ## Jejak Usaha Stiker Pertama di Sinabang
-Coba perhatikan sekali saja jalanan Sinabang hari ini. Motor-motor dengan stiker nama pemiliknya di bodi, kaca rumah toko yang dihiasi tulisan promosi warna-warni, sampai plang nama warung yang huruf-hurufnya rapi memakai stiker cutting. 
+Coba perhatikan sekali saja jalanan Sinabang hari ini.
+Motor dengan stiker nama pemiliknya di bodi, 
+kaca rumah toko yang dihiasi tulisan promosi warna-warni, sampai plang nama warung yang huruf-hurufnya rapi memakai stiker cutting. 
 
-Semua itu terasa begitu biasa sekarang, seolah memang sudah ada sejak dulu. Tapi ada satu cerita di balik kebiasaan ini yang jarang diketahui orang: siapa sebenarnya yang pertama kali membawa budaya stiker kendaraan ke Simeulue, dan bagaimana usaha itu bertahan melewati dua bencana besar yang nyaris menghentikannya untuk selamanya.
+Semua itu terasa begitu biasa sekarang, seolah memang sudah ada sejak dulu.
+Tapi ada satu cerita di balik kebiasaan ini yang jarang diketahui orang: siapa sebenarnya yang pertama kali membawa budaya stiker kendaraan ke Simeulue, dan bagaimana usaha itu bertahan melewati dua bencana besar yang nyaris menghentikannya untuk selamanya.
 
-Usaha stiker ini, yang bisa dibilang pelopor di Kabupaten Simeulue, berdiri sejak tahun 2003, setahun sebelum Smong (tsunami Aceh 2004) mengubah segalanya.
+Usaha stiker ini, yang bisa dibilang pelopor di Kabupaten Simeulue, berdiri sejak tahun 2003, setahun sebelum Smong (tsunami Aceh 2004).
 
 ## Awal Mula di Simpang Tiga Sinabang
 Di masa-masa awalnya, usaha ini menunjukkan sesuatu yang tidak disangka-sangka: minat warga ternyata begitu kuat. Pesanan stiker kendaraan mengalir deras, sampai-sampai pengerjaannya sering berlangsung hingga malam hari. 
