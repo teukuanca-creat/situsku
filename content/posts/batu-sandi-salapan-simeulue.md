@@ -14,23 +14,24 @@ Ada momen tertentu ketika saya teringat di pelataran Masjid Babussalihin, Desa S
 
 Satu dari tujuh batu berukir dari delapan yang asli, kini tersimpan rapi di balik kotak kaca tebal di area masjid, diterangi cahaya siang yang menembus rimbunnya pohon besar di depan bangunan. Angin laut sesekali berembus dari pesisir Teupah Barat yang jaraknya tak seberapa jauh, membawa aroma khas garam bercampur tanah basah selepas hujan pagi.
 
-Dari beberapa peninggalan sejarah dan budaya Pulau Simeulue, situs kecil ini termasuk yang paling membekas. Warga setempat menyebutnya Batu Sandi Salapan, "salapan" dalam dialek lokal berarti "delapan" dan bagi mereka, kedelapan pilar batu ini bukan monumen mati.
+Menurut saya, dari beberapa peninggalan sejarah dan budaya Pulau Simeulue, situs kecil ini termasuk salah satu yang paling membekas. Warga setempat menyebutnya Batu Sandi Salapan, "salapan" dalam dialek lokal berarti "delapan" dan bagi mereka, kedelapan pilar batu ini bukan monumen mati.
 
-Ia bukti fisik tentang bagaimana Islam menyebar ke pulau terluar Aceh ini, sekaligus jejak hubungan diplomatik antara Kesultanan Aceh Darussalam dan masyarakat Simeulue.
+Batu ini juga menjadi bukti fisik tentang bagaimana Islam menyebar ke pulau terluar Aceh ini, sekaligus jejak hubungan diplomatik antara Kesultanan Aceh Darussalam dan masyarakat Simeulue.
 
 ## Bukan Sekadar Hadiah, Melainkan Surat Izin dari Sultan
 
-Cerita yang selama ini beredar sering menyederhanakan peristiwa ini sebagai "hadiah dari Sultan Aceh". Setelah menelusuri catatan Balai Pelestarian Nilai Budaya (BPNB) Aceh, gambarannya ternyata lebih spesifik dan menarik dari itu.
+Cerita yang selama ini beredar sering menyederhanakan peristiwa itu sebagai "hadiah dari Sultan Aceh".
+Setelah menelusuri catatan Balai Pelestarian Nilai Budaya (BPNB) Aceh, gambarannya ternyata lebih spesifik dan lebih menarik dari itu.
 
 Menurut dokumentasi lembaga tersebut, proses Islamisasi Desa Salur berkaitan erat dengan seorang tokoh bernama Banurullah (dikenal juga dengan nama Gafaleta).
 
-Setelah masyarakat Salur memeluk Islam dan hendak mendirikan tempat ibadah, Banurullah mengutus tujuh orang kepala suku beserta satu juru bicara untuk berlayar ke Aceh, memohon restu langsung kepada sultan yang berkuasa saat itu.
+Menurut ceritanya, setelah masyarakat Salur memeluk Islam dan hendak mendirikan tempat ibadah, Banurullah mengutus tujuh orang kepala suku beserta satu juru bicara untuk berlayar ke Aceh, memohon restu langsung kepada sultan yang berkuasa saat itu.
 
-Sekembalinya delegasi ini, mereka membawa delapan batu sandi, yang kemudian berfungsi bukan sekadar sebagai penyangga bangunan, melainkan semacam "surat izin" resmi untuk mendirikan masjid.
+Sekembalinya delegasi ini, mereka membawa delapan batu sandi, yang berfungsi bukan sekadar penyangga bangunan, melainkan semacam "surat izin" resmi untuk mendirikan masjid.
 
-Di sinilah saya menemukan hal yang perlu disampaikan secara jujur: sumber-sumber yang ada belum sepenuhnya sepakat soal detail waktunya. Sebagian besar dokumentasi menyebut peristiwa ini terjadi pada masa Sultan Mahmudsyah II, yang memerintah Kesultanan Aceh Darussalam tahun 1767–1787.
+Sumber-sumber yang ada belum sepenuhnya sepakat soal detail waktunya. Sebagian besar dokumentasi menyebut peristiwa ini terjadi pada masa Sultan Mahmudsyah II, yang memerintah Kesultanan Aceh Darussalam tahun 1767–1787.
 
-Namun, dari informasi lainnya dapat di kutip dengan menyebut situs ini berkaitan dengan era Sultan Iskandar Muda (sekitar 1607) dan mengklaim usia situs sudah lebih dari 400 tahun.
+Namun, dari informasi lainnya dapat di kutip yang menyebut situs ini berkaitan dengan era Sultan Iskandar Muda (sekitar 1607) dan mengklaim usia situs sudah lebih dari 400 tahun.
 
 Selisih dua abad ini kemungkinan besar muncul karena bercampurnya dua narasi besar dalam ingatan kolektif warga Simeulue: era Islamisasi pulau secara umum di bawah pengaruh Iskandar Muda, dengan peristiwa spesifik pendirian Masjid Salur pada masa Mahmudsyah II.
 
