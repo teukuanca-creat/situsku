@@ -11,7 +11,7 @@ tags: ["Pasang Air Laut", "Malasin"]
 
 ## Ketika Air Laut Naik Sampai ke Rumah
 
-Kalau Anda tumbuh besar di pinggiran Teluk Sinabang, sama halnya dengan saya, pernah merasakan malam-malam di mana kami tergopoh-gopoh memindahkan televisi, sofa, sampai lemari ke tempat yang lebih tinggi karena air mulai merambat masuk rumah.
+Jika kamu tumbuh besar di pinggiran Teluk Sinabang, berarti sama halnya dengan saya yang pernah merasakan saat tergopoh-gopoh memindahkan televisi, sofa, sampai lemari ke tempat yang lebih tinggi karena air mulai merambat masuk rumah.
 
 Bukan tsunami, bukan pula banjir kiriman, ini fenomena yang oleh warga setempat akrab disebut **Malasin** (istilah lokal untuk pasang air laut yang meluap ke daratan).
 
