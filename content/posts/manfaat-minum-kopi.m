@@ -39,7 +39,43 @@ Berikut ringkasan penyebarannya menurut informasi sejarah:
 * **Ekspansi ke Amerika:** Biji kopi dibawa ke wilayah Karibia dan Amerika Selatan pada awal abad ke-18.
 * **Dominasi Brasil:** Brasil tumbuh menjadi negara produsen kopi terbesar di dunia hingga saat ini
 
+## Kandungan Biji Kopi dari Batang dan Setelah di Olah
+
+Perbedaan utama antara biji kopi segar (kopi hijau) yang baru dipetik dari batangnya dengan bopi setelah diolah (disangrai/roasting) terletak pada kadar air, senyawa aromatik, serta tingkat keasamannya. 
+
+Proses pemanggangan dengan suhu tinggi mengubah struktur kimia biji kopi secara drastis.
+
+Berikut adalah daftar perbedaan kandungan antara kopi di batang (kopi hijau/mentah) dan kopi setelah diolah (disangrai/roasting):
+
+**Kadar Air**
+* **Kopi di Batang:** Sangat tinggi (sekitar 10% - 12% setelah dikeringkan, atau lebih saat baru dipetik).
+* **Kopi Setelah Diolah:** Sangat rendah (menyusut hingga tersisa 1% - 5%).
+
+**Asam Klorogenat (Antioksidan)**
+* **Kopi di Batang:** Sangat tinggi karena senyawa antioksidan ini masih utuh dan padat.
+* **Kopi Setelah Diolah:** Menurun drastis karena sebagian besar hancur dan berubah menjadi asam kinat dan kafeat akibat panas.
+
+**Kafein**
+* **Kopi di Batang:** Sedikit lebih rendah secara konsentrasi berat akibat kadar airnya yang masih banyak.
+* **Kopi Setelah Diolah:** Lebih pekat karena jumlahnya lebih stabil dan konsentrasinya meningkat seiring menyusutnya air.
+
+**Senyawa Volatil (Aroma)**
+* **Kopi di Batang:** Sangat sedikit dan aromanya cenderung seperti dedaunan, rumput, atau kacang mentah.
+* **Kopi Setelah Diolah:** Sangat kaya karena terbentuk ribuan senyawa aroma baru akibat reaksi Maillard (karamelisasi gula).
+
+**Karbohidrat & Gula**
+* **Kopi di Batang:** Tinggi gula alami (sukrosa) namun belum aktif memberikan rasa manis karamel.
+* **Kopi Setelah Diolah:** Berubah menjadi karamel karena gula alami pecah membentuk warna cokelat dan rasa manis khas kopi.
+
+## Manfaat Minum Kopi dan Tips Konsumsi Aman Bagi Tubuh 
+Menurut sumber informasi, minum kopi hitam **tanpa gula** memberikan banyak manfaat nyata untuk kesehatan tubuh, mulai dari meningkatkan energi hingga melindungi fungsi organ penting.
+
+### Manfaat Utama Kopi  
+* **Meningkatkan energi dan fokus:** Kandungan kafein merangsang sistem saraf pusat untuk mengurangi rasa lelah, mempertajam konsentrasi, serta memperbaiki suasana hati.
+* **Menurunkan risiko diabetes tipe 2:** Konsumsi kopi secara rutin membantu tubuh memelihara kadar gula darah dan meningkatkan sensitivitas insulin.
+* **Melindungi kesehatan hati:** Senyawa di dalam kopi membantu mencegah perlemakan hati, fibrosis, hingga risiko sirosis dan kanker hati.Menjaga fungsi otak: Kebiasaan minum kopi mengurangi risiko penurunan kognitif serta penyakit neurodegeneratif seperti Alzheimer dan Parkinson.Mendukung berat badan ideal: Kafein dapat mempercepat metabolisme tubuh dan membantu pembakaran kalori saat istirahat.Tips Konsumsi AmanBatasi asupan hingga maksimal 4 cangkir atau sekitar 400 mg kafein per hari.Hindari penambahan gula, krimer, atau susu kental manis agar manfaat kesehatan tidak hilang.Anda dapat membaca panduan lengkap seputar batasan nutrisi di Halodoc.
 
 
 **Referensi:**
+* [Sejarah Singkat Masuknya Kopi ke Indonesia](https://ottencoffee.co.id/majalah/sejarah-singkat-masuknya-kopi-ke-indonesia)
 * [Sejarah Kopi](https://id.wikipedia.org/wiki/Sejarah_kopi)
