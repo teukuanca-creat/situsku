@@ -71,11 +71,53 @@ Berikut adalah daftar perbedaan kandungan antara kopi di batang (kopi hijau/ment
 Menurut sumber informasi, minum kopi hitam **tanpa gula** memberikan banyak manfaat nyata untuk kesehatan tubuh, mulai dari meningkatkan energi hingga melindungi fungsi organ penting.
 
 ### Manfaat Utama Kopi  
+
 * **Meningkatkan energi dan fokus:** Kandungan kafein merangsang sistem saraf pusat untuk mengurangi rasa lelah, mempertajam konsentrasi, serta memperbaiki suasana hati.
 * **Menurunkan risiko diabetes tipe 2:** Konsumsi kopi secara rutin membantu tubuh memelihara kadar gula darah dan meningkatkan sensitivitas insulin.
-* **Melindungi kesehatan hati:** Senyawa di dalam kopi membantu mencegah perlemakan hati, fibrosis, hingga risiko sirosis dan kanker hati.Menjaga fungsi otak: Kebiasaan minum kopi mengurangi risiko penurunan kognitif serta penyakit neurodegeneratif seperti Alzheimer dan Parkinson.Mendukung berat badan ideal: Kafein dapat mempercepat metabolisme tubuh dan membantu pembakaran kalori saat istirahat.Tips Konsumsi AmanBatasi asupan hingga maksimal 4 cangkir atau sekitar 400 mg kafein per hari.Hindari penambahan gula, krimer, atau susu kental manis agar manfaat kesehatan tidak hilang.Anda dapat membaca panduan lengkap seputar batasan nutrisi di Halodoc.
+* **Melindungi kesehatan hati:** Senyawa di dalam kopi membantu mencegah perlemakan hati, fibrosis, hingga risiko sirosis dan kanker hati.
+* **Menjaga fungsi otak:** Kebiasaan minum kopi mengurangi risiko penurunan kognitif serta penyakit neurodegeneratif seperti Alzheimer dan Parkinson.
+* **Mendukung berat badan ideal:** Kafein dapat mempercepat metabolisme tubuh dan membantu pembakaran kalori saat istirahat.
+
+### Tips Konsumsi Aman
+
+* Batasi asupan hingga maksimal 4 cangkir atau sekitar 400 mg kafein per hari.
+* Hindari penambahan gula, krimer, atau susu kental manis agar manfaat kesehatan tidak hilang.
+
+## Cara Kerja Kopi di Dalam Tubuh
+Pertanyaannya, apakah kopi memberikan efek tidak mengantuk dan semangat?
+Jawabannya **Ya**, 
+
+Merujuk dari informasi kesehatan, kopi benar-benar dapat memberikan efek tidak mengantuk dan meningkatkan semangat, kerena:
+
+* **Memblokir zat kantuk:** Di otak terdapat zat alami bernama adenosin yang membuat tubuh merasa lelah dan ingin tidur.
+* **Peran kafein:** Kafein dalam Alodokter memiliki bentuk yang mirip dengan adenosin. Zat ini menempel pada tempat penampungan adenosin di otak sehingga sinyal lelah terhalang.
+* **Meningkatkan energi:** Sistem saraf pusat menjadi lebih aktif, detak jantung naik sedikit, dan fokus serta kewaspadaan meningkat.
+
+### Hal yang Perlu Diperhatikan
+* **Bersifat sementara:** Kopi hanya menunda rasa kantuk, bukan menghilangkan kebutuhan tubuh untuk tidur atau beristirahat.
+* **Batas aman:** Konsumsi kafein yang wajar adalah maksimal 400 mg per hari atau sekitar 4 cangkir kopi hitam.
+* **Efek samping:** Terlalu banyak minum kopi bisa menyebabkan jantung berdebar, gelisah, dan susah tidur.
+
+## Waktu Konsumsi Terbaik 
+Menurut salah satu sumber informasi, Waktu terbaik minum kopi adalah antara pukul 09.30 hingga 11.30 pagi saat kadar hormon stres atau kortisol dalam tubuh mulai menurun.
+
+Namun demikian, ada beberapa pendapat laiin Waktu Ideal,seperti:
+
+* **1 sampai 2 jam setelah bangun tidur:** Hindari langsung minum kopi saat bangun karena hormon kortisol sedang berada di puncaknya.
+* **Sebelum pukul 14.00 atau 16.00 sore:** Batasi cangkir terakhir pada waktu ini agar efek kafein tidak merusak kualitas tidur malam Anda.
+* **30 hingga 60 menit sebelum berolahraga:** Membantu meningkatkan fokus, energi, dan performa fisik.
+
+### Tips Minum Kopi Sehat
+Minum air putih atau makan sedikit makanan terlebih dahulu untuk melindungi lambung.
+
+Kemudian, batasi konsumsi maksimal 1–2 cangkir atau tidak lebih dari 400 mg kafein per hari.
+
 
 
 **Referensi:**
+* [Waktu Paling Tepat Minum Kopi, Benarkah di Pagi Hari?](https://hellosehat.com/nutrisi/fakta-gizi/waktu-efektif-minum-kopi/)
+* [Minum Kopi Hilangkan Ngantuk? Efek Kafein Ampuh!](https://www.halodoc.com/artikel/minum-kopi-hilangkan-ngantuk-efek-kafein-ampuh)
+* [Minum Kopi Bisa Mencegah Kantuk, Mitos atau Fakta?](https://www.alodokter.com/minum-kopi-bisa-mencegah-kantuk-mitos-atau-fakta)
+* [11 Manfaat Kopi Hitam untuk Kesehatan Tubuh](https://www.halodoc.com/artikel/11-manfaat-kopi-hitam-untuk-kesehatan-tubuh?srsltid=AfmBOoogTeeo-97zzG5xjq6ITF-iC4TdLUv6leO4WzxkPDywkaZ2l2h-)
 * [Sejarah Singkat Masuknya Kopi ke Indonesia](https://ottencoffee.co.id/majalah/sejarah-singkat-masuknya-kopi-ke-indonesia)
 * [Sejarah Kopi](https://id.wikipedia.org/wiki/Sejarah_kopi)
