@@ -9,17 +9,9 @@ description: "Kenangan saat-saat fenomena Malasin (pasang air laut) di era 90an 
 tags: ["Pasang Air Laut", "Malasin"]
 ---
 
-## Ketika Air Laut Naik Sampai ke Rumah
-
 Jika kamu tumbuh besar di pinggiran Teluk Sinabang, berarti sama halnya dengan saya yang pernah merasakan saat tergopoh-gopoh memindahkan televisi, sofa, sampai lemari ke tempat yang lebih tinggi karena air mulai merambat masuk rumah.
 
 Bukan tsunami, bukan pula banjir kiriman, ini fenomena yang oleh warga setempat akrab disebut **Malasin** (istilah lokal untuk pasang air laut yang meluap ke daratan).
-
-Simeulue, seperti daerah berkembang lainnya, terus berbenah lewat pembangunan sarana dan prasarana. Lahan-lahan kosong yang dulu sepi kini berubah jadi kawasan permukiman padat. 
-
-Dari kacamata tata kota, kepadatan seperti ini sebenarnya bagus, ia menghidupkan roda ekonomi.
-
-Tapi ada konsekuensinya: kalau pemukiman menumpuk di sepanjang garis pantai saja, sementara daratan bagian tengah belum dimanfaatkan maksimal, maka satu titik jadi terlalu padat, dan risiko-risiko seperti Malasin pun jadi lebih terasa dampaknya.
 
 ## Sinabang di Era 90-an: Saat Purnama Berarti Bersiap-siap
 
@@ -81,6 +73,12 @@ Pasalnya, saat Malasin terjadi, ikan-ikan cenderung berpindah ke area yang lebih
 Di masa-masa seperti ini, saya sering melihat warga lebih memilih memancing di pinggiran saja, mengikuti ke mana ikan-ikan itu bergeser.
 
 ## Jejak Alam yang Tak Pernah Benar-benar Hilang
+
+Simeulue, seperti daerah berkembang lainnya, terus berbenah lewat pembangunan sarana dan prasarana. Lahan-lahan kosong yang dulu sepi kini berubah jadi kawasan permukiman padat. 
+
+Dari kacamata tata kota, kepadatan seperti ini sebenarnya bagus, ia menghidupkan roda ekonomi.
+
+Tapi ada konsekuensinya: kalau pemukiman menumpuk di sepanjang garis pantai saja, sementara daratan bagian tengah belum dimanfaatkan maksimal, maka satu titik jadi terlalu padat, dan risiko-risiko seperti Malasin pun jadi lebih terasa dampaknya.
 
 Perubahan wajah Simeulue, bagi saya, bukan cuma cerita tentang pembangunan dan infrastruktur yang terus berjalan. Ia juga cerita tentang dinamika alam dan jejak peristiwa tektonik besar yang diam-diam mengubah kontur daratan tempat kita berpijak.
 
