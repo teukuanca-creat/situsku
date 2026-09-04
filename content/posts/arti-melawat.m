@@ -53,16 +53,6 @@ Setelah agenda siang atau sore hari usai, suasana tetap hangat hingga malam hari
 
 ​Kehadiran malam keakraban ini menegaskan bahwa melawat tidak hanya berfokus pada kompetisi olahraga. Lebih dari itu, ajang ini menjadi ruang edukatif bagi warga, terutama anak-anak untuk belajar, mengasah bakat, dan menampilkan keahlian mereka di hadapan masyarakat luas.
 
-### Menyaksikan Melawat di Pesisir Batubelayar
-
-Pesisir Batubelayar bukan sekadar tempat bagi saya. Ia adalah ruang penyimpanan kenangan tentang bagaimana sebuah kesederhanaan mampu merajut keriuhan yang hangat.
-
-Saat tradisi melawat berlangsung, pertandingan olahraga memang menjadi magnet utama. Namun, kehangatan tidak berhenti di situ. 
-
-Pada malam hari, beramai-ramai kami melihat acara berganti dengan menampilkan tarian tradisional dan perlombaan keagamaan, seperti hafalan surah pendek untuk anak-anak.
-
-Tanpa sentuhan teknologi modern, suasana terasa begitu semarak. Kuncinya ada pada pelibatan aktif warga, mulai dari anak-anak hingga dewasa. 
-
 Hal ini membuktikan bahwa sebuah perayaan masyarakat tak selalu membutuhkan konsep yang rumit. Berbekal lapangan terbuka, warga yang guyub, beberapa perlombaan sederhana, dan semangat untuk bersatu, sebuah momen dapat terpatri dalam ingatan hingga puluhan tahun.
 
 Melawat berhasil mempertemukan berbagai aspek kehidupan sekaligus:
@@ -115,16 +105,6 @@ Penelitian yang diterbitkan pada 2026 mengenai melawat antar desa di Simeulue ju
 
 Ini menunjukkan bahwa melawat bukan sekadar cerita masa lalu.
 Ia masih menjadi bagian dari kehidupan sosial masyarakat Simeulue.
-
-## Tantangan Melawat di Tengah Perubahan Zaman
-
-Meski masih bertahan, bukan berarti tradisi ini tidak mengalami tantangan. Perubahan gaya hidup, perkembangan teknologi, dan pola interaksi generasi muda dapat memengaruhi cara masyarakat menjalankan tradisi.
-
-Sebuah penelitian mengenai melawat di salah satu Desa Simeulue, secara khusus membahas pengaruh modernitas terhadap tradisi tersebut. 
-
-Penelitian itu menemukan adanya perubahan dalam beberapa unsur pelaksanaan, termasuk bentuk kegiatan dan penggunaan kesenian dalam acara. Perubahan seperti ini sebenarnya tidak selalu harus dianggap sebagai sesuatu yang buruk. Tradisi memang dapat berkembang, yang perlu dijaga adalah nilai utamanya.
-
-Jika dahulu orang harus menempuh perjalanan panjang untuk berkunjung, sekarang perjalanan mungkin lebih mudah. Jika dahulu komunikasi membutuhkan waktu, sekarang hanya membutuhkan telepon. Tetapi semangat untuk datang dan bertemu tetap bisa dipertahankan.
 
 ## Penutup
 
