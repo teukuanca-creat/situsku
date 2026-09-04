@@ -2,10 +2,10 @@
 title: 'Arti Melawat: Tradisi Kebersamaan Masyarakat Simeulue'
 date: 2026-09-04
 draft: false
-featured_image: "/images/nama-gambar.webp"
-categories: ["Kategori"]
-description: "Deskripsi artikel"
-tags: ["tag1", "tag2"]
+featured_image: "/images/melawat.webp"
+categories: ["Cerita Menarik"]
+description: "Arti Melawat, sebuah kebiasaan unik di Simeulue hingga kini"
+tags: ["Melawat", "Tradisi Melawat di Simeulue"]
 ---
 
 ## Tradisi Kunjungan dan Kebersamaan yang Tetap Hidup di Simeulue
