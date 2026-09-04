@@ -9,7 +9,8 @@ tags: ["tag1", "tag2"]
 ---
 
 ## A. Pendahuluan 
-Setiap kali melakukan pekerjaan lembur, kalimat "ngopi dulu" sudah menjadi tren. Sepulang kerja atau melaut kalimat itu juga terdengar di telinga. Apalagi sebelum memulai pekerjaan di pagi hari, ngopi dulu menjadi kata kunci.
+Setiap kali melakukan pekerjaan lembur, kalimat "ngopi dulu" sudah menjadi ajakkan yang sudah biasa terdengar.
+Sepulang kerja atau melaut kalimat itu juga keluar-masuk telinga. Apalagi sebelum memulai pekerjaan di pagi hari, ngopi dulu menjadi kata kunci.
 
 Timbul pertanyaan, apakah kopi memang memberikan efek tidak mengantuk?
 apakah kopi memberikan kita suplemen tenaga atau kopi memiliki kandungan yang membuat kita bersemangat?
