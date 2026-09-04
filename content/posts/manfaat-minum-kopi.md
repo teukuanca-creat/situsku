@@ -52,6 +52,9 @@ Ternyata perbedaannya cukup drastis, akibat proses roasting dengan suhu tinggi m
 
 * Sementara itu, biji kopi mentah sebenarnya hanya beraroma seperti dedaunan atau kacang mentah. Aroma khas kopi yang kita kenal baru terbentuk melalui reaksi Maillard dan karamelisasi gula alami, proses yang menghasilkan warna cokelat khas sekaligus ribuan senyawa aroma baru.
 
+![Kopi Hitam Warkop Sinabang](/images/kopi-hitam.jpg)
+*Foto: Kopi Hitam Warkop Sinabang*
+
 ## Manfaat Minum Kopi bagi Tubuh
 
 Berdasarkan berbagai penelitian terbaru, minum kopi hitam tanpa gula ternyata memberi manfaat yang jauh lebih luas dari sekadar mengusir kantuk.
