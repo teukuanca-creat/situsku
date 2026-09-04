@@ -1,11 +1,11 @@
 ---
 title: 'Manfaat Minum Kopi Bagi Tubuh yang Harus di Ketahui'
-date: 2026-09-2l04
+date: 2026-09-04
 draft: false
-featured_image: "/images/nama-gambar.webp"
-categories: ["Kategori"]
-description: "Deskripsi artikel"
-tags: ["tag1", "tag2"]
+featured_image: "/images/cofee.webp"
+categories: ["Edukasi"]
+description: "Manfaat Minum Kopi yang banyak belum diketahui, apakah mitos menahan ngantuk"
+tags: ["Minum Kopi", "Manfaat Kopi bagi Tubuh"]
 ---
 
 ## Kalimat Sakti yang Tak Pernah Ketinggalan Zaman
