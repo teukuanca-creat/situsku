@@ -10,7 +10,7 @@ tags: ["Gaya Hidup", "Tren di Simeulue Aceh"]
 
 ## Simeulue yang Tak Seperti Bayangan Orang
 
-Bagi masyarakat luar, Pulau Simeulue mungkin sering dibayangkan sebagai daratan terisolasi di tengah ganasnya Samudra Hindia, pulau terluar Aceh yang sepi, serba terbatas, dan tertinggal dari riuhnya kemajuan zaman.
+Bagi masyarakat luar, Pulau Simeulue mungkin sering dibayangkan sebagai daratan terisolasi di tengah ganasnya Samudera Hindia, pulau terluar Aceh yang sepi, serba terbatas, dan tertinggal dari riuhnya kemajuan zaman.
 
 Tapi sebagai warga yang menjalani keseharian di sini, saya justru merasakan dinamika yang sangat kontras dari stigma itu. Keseharian kami di Simeulue adalah semacam harmoni yang unik: hidup tenang diiringi deburan ombak, tapi tetap terkoneksi erat dengan tren global.
 
@@ -34,19 +34,23 @@ Bagi yang enggan menunggu lama, pilihan lokal pun tak kalah bergengsi. Di Kota S
 Yang menarik, kebebasan bergaya di Simeulue tetap berjalan selaras dengan nilai kearifan lokal Aceh. Kaum perempuan di sini sangat piawai memadukan tutorial gaya hijab modern yang elegan namun tetap santun.
 Sementara bagi kaum pria, berpakaian rapi dan sopan di ruang publik sudah jadi bentuk penghormatan antarwarga.
 
-Bahkan dalam keseharian, saya jarang sekali menemukan warga yang lalu-lalang mengenakan celana pendek, sebuah cerminan etika yang terjaga secara alami, tanpa ada kesan tertekan sedikit pun.
+Bahkan dalam keseharian, saya jarang sekali menemukan warga yang lalu-lalang mengenakan celana pendek. Ini sebuah cerminan etika yang terjaga secara alami, tanpa ada kesan tertekan sedikitpun.
 
 > **Baca Juga:** [Pelayaran Menuju Simeulue yang Mengasyikkan](https://teukuanca.com/posts/panduan-pelayaran-feri-rute-simeulue-aceh/)
 
 ## Kehangatan di Jalan Raya
 
-Dinamika gaya hidup ini juga terpancar jelas di sepanjang jalan raya. Sepeda motor matik keluaran terbaru sampai mobil SUV keluarga bisa mendarat di aspal Kota Sinabang dalam waktu yang relatif cepat setelah rilis nasional, diangkut melalui kapal feri dari Labuhan Haji atau Singkil.
+Dinamika gaya hidup ini juga terpancar jelas di sepanjang jalan raya. Sepeda motor matik keluaran terbaru sampai mobil SUV keluarga bisa mendarat di aspal Kota Sinabang dalam waktu yang relatif cepat setelah rilis nasional.
+
+Saya pernah melihat informasi media tentang launching terbaru salah satu unit Kenderaan roda empat, tidak lama berselang, Kenderaan itu mendarat di aspal Simeulue.
 
 Meski kepemilikan kendaraan pribadi terus meningkat seiring membaiknya kondisi ekonomi warga, suasana lalu lintas di Simeulue justru menyajikan pemandangan yang sangat kontras dibanding kota-kota besar.
 
 Berkendara di Sinabang terasa sangat menenangkan, bunyi klakson jadi hal yang sangat jarang terdengar. Karena ukuran pulau yang relatif kecil, sebagian besar pengguna jalan sebenarnya saling kenal: tetangga, kerabat, atau kenalan lama.
 
-Rasa kekeluargaan ini membentuk budaya berkendara yang ramah, tidak terburu-buru, dan saling mengutamakan keselamatan. Jalan raya di sini bukan arena persaingan, melainkan ruang sosial tempat warga saling melempar senyum atau lambaian tangan saat berselisih jalan.
+Rasa kekeluargaan ini membentuk budaya berkendara yang ramah, tidak terburu-buru, dan saling mengutamakan keselamatan. 
+
+Jalan raya di sini bukan arena persaingan, melainkan ruang sosial tempat warga saling melempar senyum atau lambaian tangan saat berselisih jalan.
 
 ## Kemewahan Harian di Meja Makan
 
@@ -56,7 +60,9 @@ Jika di kota besar hidangan laut segar sering dianggap makanan istimewa dengan h
 
 Salah satu kebanggaan kuliner yang jadi bagian dari rutinitas saya saat berkumpul dengan teman-teman adalah menikmati Mie Aceh Seafood khas Simeulue.
 
-Kedai-kedai makan dan warung kopi sepanjang pesisir menyajikan Mie Aceh bertabur lobster segar atau cumi-cumi hasil tangkapan nelayan lokal. Daging lobster yang manis gurih berpadu dengan pekatnya kuah rempah Mie Aceh, dan yang paling membuat saya bersyukur, harganya sangat terjangkau untuk ukuran hidangan sekelas itu.
+Kedai-kedai makan dan warung kopi sepanjang pesisir menyajikan Mie Aceh bertabur lobster segar atau cumi-cumi hasil tangkapan nelayan lokal. 
+
+Daging lobster yang manis gurih berpadu dengan pekatnya kuah rempah Mie Aceh, dan yang paling membuat saya bersyukur, harganya sangat terjangkau untuk ukuran hidangan sekelas itu.
 
 Menikmati sepiring Mie Aceh Lobster ditemani segelas kopi di warkop pun sudah jadi semacam ritual sosial tersendiri. Di sinilah warga dari berbagai latar belakang duduk berdampingan, berdiskusi soal ekonomi, politik lokal, atau sekadar bersenda gurau melepas penat setelah bekerja seharian.
 
@@ -64,9 +70,10 @@ Menikmati sepiring Mie Aceh Lobster ditemani segelas kopi di warkop pun sudah ja
 
 Kehidupan rutin di sini juga sering beririsan dengan kedatangan para tamu, mulai dari wisatawan minat khusus, peneliti, sampai pegawai dinas dari daratan Sumatera dan Jawa. 
 
-Sebagai warga lokal, saya cukup bangga melihat bagaimana infrastruktur akomodasi di pulau ini terus berkembang pesat untuk menyambut siapa pun yang datang.
+Sebagai warga lokal, saya cukup bangga melihat bagaimana infrastruktur akomodasi di pulau ini terus berkembang pesat untuk menyambut siapapun yang datang.
 
-Perkembangan tempat menginap di Simeulue kini terbagi secara alami sesuai kebutuhan pengunjungnya. Di pusat Kota Sinabang, ada hotel dan wisma kota yang letaknya strategis, dekat kantor pemerintahan, perbankan, dan pusat jajanan malam, pilihan yang memudahkan mobilisasi tamu dinas, pebisnis, maupun budget traveler.
+Perkembangan tempat menginap di Simeulue kini terbagi secara alami sesuai kebutuhan pengunjungnya.
+Di pusat Kota Sinabang, ada penginapan dan wisma kota yang letaknya strategis, dekat kantor pemerintahan, perbankan, dan pusat jajanan malam, pilihan yang memudahkan mobilisasi tamu dinas, pebisnis, maupun budget traveler.
 
 Sementara bagi yang mencari suasana berbeda, ada beach resort dan surf camp yang berdiri langsung di tepi pantai lepas, seperti kawasan Matanurung atau Teupah.
 
@@ -76,18 +83,16 @@ Arsitekturnya kebanyakan berbahan kayu yang menyatu dengan alam sekitar, menawar
 
 Setelah seharian menjalani aktivitas dan rutinitas kerja, cara paling favorit bagi saya dan kebanyakan warga Simeulue lainnya, untuk menutup hari adalah berkumpul di sepanjang kafe tepi Teluk Sinabang.
 
-Begitu jarum jam menunjukkan pukul lima sore, deretan kafe pinggir teluk mulai dipadati warga. Dari sudut ini, saya bisa menyaksikan detik-detik berubahnya warna langit menjadi jingga keemasan, momen yang meski sering saya lihat, tidak pernah terasa membosankan.
+Begitu jarum jam menunjukkan pukul lima sore, deretan cafe pinggir teluk mulai dipadati warga. Dari sudut ini, saya bisa menyaksikan detik-detik berubahnya warna langit menjadi jingga keemasan, momen yang meski sering saya lihat, tidak pernah terasa membosankan.
 
 Memandangi air teluk yang tenang, menyaksikan perahu-perahu nelayan tradisional mulai bergerak melaut, dan di kejauhan, siluet samar daratan Sumatera tampak membingkai cakrawala.
 
 Momen-momen sederhana seperti inilah yang selalu menyadarkan saya betapa mewahnya kehidupan di pulau ini, sebuah keseimbangan hidup di mana kemajuan zaman tidak pernah merenggut kedamaian jiwa.
 
-#### Referensi Dokumentasi & Informasi Daerah
+**Referensi:**
 
-Untuk memperkuat data dan gambaran umum mengenai Kabupaten Simeulue, tulisan ini merujuk pada publikasi resmi berikut:
-
-- Pemerintah Kabupaten Simeulue. Portal Informasi Perekonomian, Pariwisata, dan Infrastruktur Daerah. Pemkab Simeulue, Sinabang.
-- Dinas Kebudayaan dan Pariwisata Provinsi Aceh. Panduan Destinasi Wisata Bahari dan Kuliner Kepulauan Simeulue. Disbudpar Aceh, Banda Aceh.
-- Badan Pusat Statistik (BPS) Kabupaten Simeulue. Simeulue Dalam Angka: Perkembangan Transportasi, Komunikasi, dan Perdagangan Lokal. BPS Simeulue.
+* [Pemerintah Kabupaten Simeulue. Portal Informasi Perekonomian, Pariwisata, dan Infrastruktur Daerah. Pemkab Simeulue, Sinabang.](https://simeuluekab.go.id/)
+* [Dinas Kebudayaan dan Pariwisata Provinsi Aceh. Panduan Destinasi Wisata Bahari dan Kuliner Kepulauan Simeulue. Disbudpar Aceh, Banda Aceh.](https://disbudpar.acehprov.go.id/)
+* [Badan Pusat Statistik (BPS) Kabupaten Simeulue. Simeulue Dalam Angka: Perkembangan Transportasi, Komunikasi, dan Perdagangan Lokal. BPS Simeulue.](https://simeuluekab.bps.go.id/id)
 
 
