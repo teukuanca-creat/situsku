@@ -90,6 +90,8 @@ Dalam satu tinjauan dari 12 penelitian, konsumsi kopi teratur dikaitkan dengan:
 
 **Perlu diingat**, manfaat ini sifatnya asosiatif dan bukan solusi tunggal untuk menurunkan berat badan, tetap butuh pola makan dan aktivitas fisik yang seimbang.
 
+> **Baca Juga:** [Puding Telur Kampung: Rahasia dibaliknya](https://teukuanca.com/posts/puding-telur-kampung-rahasia-warkop-simeulue/)
+
 ## Efek Samping Kalau Terlalu Berlebihan
 
 Di balik semua manfaat itu, kopi tetap punya sisi lain yang perlu diwaspadai jika dikonsumsi berlebihan. 
@@ -150,15 +152,5 @@ Beberapa sumber menyarankan menunggu 1–2 jam setelah bangun karena kadar korti
 **Referensi:**
 * [Kementerian Kesehatan RI. Mengawali Hari dengan Kopi: Antara Kebiasaan dan Manfaat Sehat.](https://keslan.kemkes.go.id/view_artikel/4190/mengawali-hari-dengan-kopi-antara-kebiasaan-dan-manfaat-sehat)
 * [Kompas.com. Kopi Ternyata Baik untuk Kesehatan Usus, Menurut Studi Terbaru, Mei 2026.](https://www.kompas.com/food/read/2026/05/29/203100575/kopi-ternyata-baik-untuk-kesehatan-usus-menurut-studi-terbaru?page=all)
-Business Lounge. Studi 2026: Minum Kopi Turunkan Risiko Penyakit Hati, Juli 2026.
-ANTARA News. Konsumsi Kopi Dapat Bantu Jaga Kesehatan Jantung, Juli 2026.
-Jurnal AL-AZHAR INDONESIA Seri Sains dan Teknologi. Kopi sebagai Pangan Fungsional: Aktivitas Biologis dan Manfaat Kesehatan, September 2025.
-Tulis pesan…
-**Referensi:**
-* [Waktu Paling Tepat Minum Kopi, Benarkah di Pagi Hari?](https://hellosehat.com/nutrisi/fakta-gizi/waktu-efektif-minum-kopi/)
-* [Minum Kopi Hilangkan Ngantuk? Efek Kafein Ampuh!](https://www.halodoc.com/artikel/minum-kopi-hilangkan-ngantuk-efek-kafein-ampuh)
-* [Minum Kopi Bisa Mencegah Kantuk, Mitos atau Fakta?](https://www.alodokter.com/minum-kopi-bisa-mencegah-kantuk-mitos-atau-fakta)
-* [11 Manfaat Kopi Hitam untuk Kesehatan Tubuh](https://www.halodoc.com/artikel/11-manfaat-kopi-hitam-untuk-kesehatan-tubuh?srsltid=AfmBOoogTeeo-97zzG5xjq6ITF-iC4TdLUv6leO4WzxkPDywkaZ2l2h-)
-* [Sejarah Singkat Masuknya Kopi ke Indonesia](https://ottencoffee.co.id/majalah/sejarah-singkat-masuknya-kopi-ke-indonesia)
-* [Sejarah Kopi](https://id.wikipedia.org/wiki/Sejarah_kopi)
-* [Bahaya Konsumsi Kopi Berlebihan di Era Kekinian: Lebih dari Sekedar Rasa Pahit](https://rspp.co.id/artikel-detail-435-Bahaya-Konsumsi-Kopi-Berlebihan-di-Era-Kekinian-Lebih-dari-Sekedar-Rasa-Pahit.html)
+* [Business Lounge. Studi 2026: Minum Kopi Turunkan Risiko Penyakit Hati, Juli 2026.](https://health.detik.com/berita-detikhealth/d-8577483/studi-350-ribu-orang-buktikan-rutin-minum-kopi-turunkan-risiko-kanker-hati)
+* [Kompas. Studi American Heart Association: Minum Kopi hingga 5 Cangkir Sehari Aman bagi Jantung](https://www.kompas.com/tren/read/2026/07/23/060000065/studi-american-heart-association--minum-kopi-hingga-5-cangkir-sehari-aman?page=all)
