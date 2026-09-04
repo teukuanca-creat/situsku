@@ -92,3 +92,6 @@ Obrolan santai antara pelancong, warga lokal Simeulue, hingga sopir truk logisti
 ​Menyeberangi Samudera Hindia menuju atau dari Pulau Simeulue bukan sekadar urusan menyeberangkan kendaraan.
 
 Dengan datang lebih awal, memanfaatkan fasilitas kapal secara efisien, serta menikmati momen sosial dan lanskap alam dari atas dek, perjalanan beberapa jam ini akan menjadi pengalaman penyeberangan laut yang aman, nyaman, dan berkesan.
+
+**Referensi:
+* Sumber Foto: DISHUB SIMEULUE/Facebook 
