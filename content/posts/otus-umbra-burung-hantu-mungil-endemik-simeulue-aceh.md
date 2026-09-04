@@ -23,8 +23,8 @@ Pada November 1901, ia berlayar mengarungi Samudera Hindia dari Singapura menggu
 
 Selama hampir dua bulan, Abbott menyusuri sudut-sudut paling liar di Simeulue. Ia merambah vegetasi hutan 
 * Teluk Dalam,
-* menjelajahi hutan riparian di sepanjang Sungai Sigulai,
-* bahkan menyeberang sampai ke pulau-pulau satelit seperti Pulo Asu dan Siumat.
+* Menjelajahi hutan riparian di sepanjang Sungai Sigulai,
+* Bahkan menyeberang sampai ke pulau-pulau satelit seperti Pulo Asu dan Siumat.
 
 Dari perjalanan panjang ini, ia berhasil mengumpulkan 
 * 450 spesimen fauna bernilai tinggi,
@@ -123,5 +123,5 @@ William Louis Abbott Papers, 1887-1923](https://siarchives.si.edu/collections/si
 * [Celepuk nikobar
 Spesies burung](https://id.wikipedia.org/wiki/Celepuk_nikobar)
 * [Simeulue Scops Owl ~ Otus umbra](https://www.owlpages.com/owls/species.php?s=690)
-* Sumber Foto: Dismon
+* Sumber Foto: Dismon Simeulue 
 
