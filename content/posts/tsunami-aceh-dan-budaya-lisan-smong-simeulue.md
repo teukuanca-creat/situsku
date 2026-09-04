@@ -91,3 +91,7 @@ Smong adalah manifestasi sains empiris yang dibungkus kearifan lokal. Ia melompa
 Pengalaman pribadi melompati sepeda motor yang jatuh, berlari ke perbukitan Gunung Batu, hingga menyaksikan kedisiplinan warga merespons tanda-tanda alam adalah bukti bahwa edukasi dan kesadaran bencana berbasis masyarakat adalah kunci utama keselamatan.
 
 Pesan leluhur Simeulue harus terus bergema: teknologi bisa rusak, sinyal bisa terputus, tetapi memori kolektif yang dijaga dan dirawat akan menjadi perisai jiwa yang menyelamatkan kehidupan.
+
+**Referensi:**
+* [Wikipeda-Gempa bumi dan tsunami Samudra Hindia 2004](https://id.wikipedia.org/wiki/Gempa_bumi_dan_tsunami_Samudra_Hindia_2004)
+* [Kearifan Lokal Selamatkan Warga Simeulue dari Amukan Tsunami (bagian 1)](https://mongabay.co.id/2014/12/20/kearifan-lokal-selamatkan-warga-simeulue-dari-amukan-tsunami-bagian-1/)
