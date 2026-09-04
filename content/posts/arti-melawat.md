@@ -20,9 +20,11 @@ Bagi masyarakat Simeulue, melawat bukan sekadar bertamu. Tradisi ini sarat akan 
 * Silaturahmi antarwarga.
 
 ​Suasana seperti ini telah mengakar sejak lama.
-Saat suatu desa menggelar lawatan, keriuhan langsung tercipta. Warga hadir bukan hanya untuk menyaksikan pertandingan, melainkan juga untuk menjalin keakraban dengan penduduk dari kampung tetangga.
+Saat suatu desa menggelar lawatan, keriuhan langsung tercipta. 
 
-​Berbagai penelitian mencatat bahwa tradisi melawat masih lestari hingga kini, memegang peran penting dalam menjaga harmoni dan merawat ikatan antarmasyarakat.
+Warga hadir bukan hanya untuk menyaksikan pertandingan, melainkan juga untuk menjalin keakraban dengan penduduk dari kampung tetangga.
+
+Berbagai penelitian mencatat bahwa tradisi melawat masih lestari hingga kini, memegang peran penting dalam menjaga harmoni dan merawat ikatan antarmasyarakat.
 
 ## Apa Arti Melawat?
 
@@ -38,13 +40,18 @@ Oleh karena itu, bagi masyarakat Simeulue, istilah "melawat" memiliki makna buda
 
 ### Pertandingan Persahabatan
 
-Salah satu bentuk melawat yang sering terlihat adalah pertandingan olahraga.
+Menurut saya, salah satu bentuk melawat yang sering terlihat adalah pertandingan olahraga.
 
-Bola kaki dan bola voli menjadi kegiatan yang sangat menarik perhatian masyarakat. Pertandingan tersebut biasanya mempertemukan kelompok dari dua tempat yang sedang melakukan lawatan.
+Bola kaki dan bola voli menjadi kegiatan yang sangat menarik perhatian masyarakat dan saya saksikan.
+Pertandingan tersebut mempertemukan kelompok dari dua tempat yang sedang melakukan lawatan.
 
 Menariknya, pertandingan seperti ini tidak selalu ditempatkan sebagai kompetisi yang harus berakhir dengan perselisihan. Justru pertandingan menjadi sarana pertemuan.
 
-Orang-orang datang ke lapangan. Pemain bertanding. Penonton memberikan dukungan. Setelah pertandingan selesai, hubungan tetap berjalan seperti biasa.
+- Ramai orang berdatangan ke lapangan.
+- Pemain bertanding.
+- Penonton memberikan dukungan.
+
+Setelah pertandingan selesai, hubungan tetap berjalan seperti biasa.
 
 Dari sini terlihat bahwa olahraga dalam melawat mempunyai fungsi yang lebih luas. Ia menjadi media untuk mempertemukan masyarakat dalam suasana yang santai dan menyenangkan.
 
@@ -53,7 +60,8 @@ Setelah agenda siang atau sore hari usai, suasana tetap hangat hingga malam hari
 
 ​Kehadiran malam keakraban ini menegaskan bahwa melawat tidak hanya berfokus pada kompetisi olahraga. Lebih dari itu, ajang ini menjadi ruang edukatif bagi warga, terutama anak-anak untuk belajar, mengasah bakat, dan menampilkan keahlian mereka di hadapan masyarakat luas.
 
-Hal ini membuktikan bahwa sebuah perayaan masyarakat tak selalu membutuhkan konsep yang rumit. Berbekal lapangan terbuka, warga yang guyub, beberapa perlombaan sederhana, dan semangat untuk bersatu, sebuah momen dapat terpatri dalam ingatan hingga puluhan tahun.
+Hal ini membuktikan bahwa sebuah perayaan masyarakat tak selalu membutuhkan konsep yang rumit.
+Berbekal lapangan terbuka, warga yang guyub, beberapa perlombaan sederhana, dan semangat untuk bersatu, sebuah momen dapat terpatri dalam ingatan hingga puluhan tahun.
 
 Melawat berhasil mempertemukan berbagai aspek kehidupan sekaligus:
 * Olahraga sebagai ajang kebersamaan,
