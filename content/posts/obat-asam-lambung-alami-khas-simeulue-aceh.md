@@ -18,13 +18,13 @@ Beberapa tahun lalu, saya ada di titik itu. Serangan asam lambung datang tanpa p
 
 Untungnya, seorang rekan sempat membawa saya ke Rumah Sakit Umum (RSU), dan penanganan medis darurat berhasil menstabilkan kondisi fisik saya. Tapi yang tidak saya duga, masa pasca, kritis justru jadi perjuangan panjang tersendiri yang menguji kesabaran.
 
-Medis menyarankan instruksi yang cukup ketat: pantang kopi, jauhi makanan pedas, dan jangan sekali-kali terlambat makan. Di tengah proses pemulihan itulah, sanak famili menyarankan saya pulang ke kampung halaman orang tua di Desa Ulul Falu, Kecamatan Labuhan Bakti, Teupah Selatan, Kabupaten Simeulue.
+Medis menyarankan instruksi yang cukup ketat: pantang kopi, jauhi makanan pedas, dan jangan sekali-kali terlambat makan. Di tengah proses pemulihan itulah, sanak famili menyarankan saya pulang ke kampung halaman orang tua di Labuhan Bakti, Teupah Selatan, Kabupaten Simeulue.
 
 Di sana, ada seorang praktisi pengobatan tradisional yang namanya cukup tersohor, pasiennya bukan hanya warga lokal, tapi juga pendatang dari daratan Aceh.
 
 ## Ikhtiar Pengobatan Tradisional di Teupah Selatan
 
-Setibanya kami di kediaman sang ahli urut, proses terapi pun dimulai. Selama beberapa hari berturut-turut, tubuh saya dipijat dan diurut dengan cermat, dimulai dari telapak kaki, menyusuri jalur urat saraf, hingga ke bagian kepala, bertujuan merelaksasi otot yang tegang akibat stres sekaligus melancarkan sirkulasi darah yang terhambat karena gangguan pencernaan.
+Setibanya kami di kediaman sang ahli, proses terapi pun dimulai. Selama beberapa hari berturut-turut, tubuh saya dipijat dan diurut dengan cermat, dimulai dari telapak kaki, menyusuri jalur urat saraf, hingga ke bagian kepala, bertujuan merelaksasi otot yang tegang akibat stres sekaligus melancarkan sirkulasi darah yang terhambat karena gangguan pencernaan.
 
 Beliau juga memberi saya resep ramuan herbal, dengan dedaunan yang diminta dicari sendiri di sekitar vegetasi hutan dan pekarangan Simeulue.
 
@@ -105,9 +105,9 @@ Ini adalah pengalaman pribadi, bukan anjuran medis. Riset ilmiah soal ketiga tan
 Konsultasikan ke dokter sebelum mencoba pengobatan herbal apa pun, terutama untuk kondisi kronis seperti GERD.
 
 **Referensi Ilmiah**
-- Shirwaikar, A., dkk. (2003). The gastroprotective activity of the ethanol extract of Ageratum conyzoides.
-- Journal of Ethnopharmacology, 86, 117–121.
-Studi ekstrak Uncaria gambir pada model gastritis tikus Wistar, terindeks PubMed (2019): efek terhadap TNF-alfa, luas lesi, dan prostaglandin E2.
-Tinjauan fitokimia dan aktivitas anti-inflamasi Uncaria gambir, Asian Journal of Pharmaceutical Research and Development (2022).
-Tinjauan toksisitas Ricinus communis pada manusia dan hewan (MDPI, Toxins).
-Anda kehabisan
+* [Shirwaikar, A., dkk. (2003). The gastroprotective activity of the ethanol extract of Ageratum conyzoides.](https://pubmed.ncbi.nlm.nih.gov/12686450/)
+* [Journal of Ethnopharmacology, 86, 117–121.
+Studi ekstrak Uncaria gambir pada model gastritis tikus Wistar, terindeks PubMed (2019): efek terhadap TNF-alfa, luas lesi, dan prostaglandin E2.](https://oamjms.eu/index.php/mjms/article/view/oamjms.2019.758)
+* [Tinjauan fitokimia dan aktivitas anti-inflamasi Uncaria gambir, Asian Journal of Pharmaceutical Research and Development (2022).](https://www.researchgate.net/publication/359353438_Phytochemical_and_Anti-Inflammatory_of_Uncaria_gambir_A_Review)
+* [Tinjauan toksisitas Ricinus communis pada manusia dan hewan (MDPI, Toxins).
+Anda kehabisan](https://www.mdpi.com/2072-6651/3/10/1332)
