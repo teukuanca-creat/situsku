@@ -23,6 +23,10 @@ Sejumlah penelitian tentang masyarakat Simeulue menunjukkan bahwa melawat masih 
 
 ## Apa Arti Melawat?
 
+Merujuk dari sumber informasi sejarah, awal mula tradisi melawat di Simeulue berkaitan erat dengan proses penyebaran agama Islam yang dilakukan oleh ulama pertama, yaitu Tengku Diujung (Teungku Khalilullah) pada abad ke-17.
+
+Kedatangan Teuku di Ujung bertujuan untuk menyebarkan agama Islam di Simeulue dengan cara mengajak masyarakat Simeulue untuk mengunjungi desa-desa di Kabupaten Simeulue. Inilah yang kemudian melahirkan tradisi Melawat di Simeulue.
+
 Secara sederhana, melawat dapat dipahami sebagai **kunjungan yang dilakukan oleh sekelompok orang atau masyarakat dari satu desa ke desa lainnya**.
 
 Dalam praktiknya, kegiatan tersebut tidak berhenti pada kunjungan biasa. Ada persiapan dari pihak yang datang maupun tuan rumah. Rombongan dapat diterima oleh masyarakat setempat, kemudian mengikuti berbagai kegiatan yang telah disiapkan.
