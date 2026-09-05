@@ -20,7 +20,7 @@ Sepulang sekolah dan sore hari, mandi air laut ditepian dermaga juga menghiasi m
 
 ### Dua Antenna Panjang di Balik Batu
 
-Dari atas tanggul tepian dermaga, saya sering melihat dua antenna panjang menjulur di balik batu. Ada ukuran kecil, ada pula ukuran besar. Itulah dia sungut panjang **lobster** yang sering terlihat di setiap malam.
+Dari atas tanggul tepian dermaga, saya sering melihat dua antenna panjang menjulur di balik batu. Ada ukuran kecil, ada pula ukuran besar. Itulah dia sungut panjang "**Lahok**", yaitu bahasa lokal untuk menyebutkan "**lobster**".
 
 Menangkapnya bukan pekerjaan mudah. Lobster sangat responsif terhadap gerakan air. Kalau tangan bergerak terlalu cepat atau permukaan air terganggu, lobster bisa langsung menghilang. 
 
