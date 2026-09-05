@@ -72,29 +72,47 @@ Hal ini penting karena lobster yang terlihat berbeda warna atau bentuk belum ten
 
 Pertanyaan ini menarik karena harga lobster memang tidak memiliki satu angka tetap.
 
-Harga dapat berubah berdasarkan jenis, ukuran, kondisi lobster, musim, kualitas, tujuan pasar, hingga jalur distribusinya.
+Harga dapat berubah berdasarkan;
+- Jenis,
+- Ukuran,
+- Kondisi lobster,
+- Musim,
+- Kualitas,
+- Tujuan pasar,
+- Hingga jalur distribusinya.
 
-Data yang tersedia dari perdagangan di Simeulue pada 2025 menunjukkan adanya perbedaan harga yang cukup besar berdasarkan jenis dan ukuran.
+Berdasarkan data historis perdagangan lokal pada Februari 2023, pasar lobster di wilayah ini menunjukkan karakteristik diferensiasi harga yang sangat dipengaruhi oleh jenis dan ukuran (kategori bobot) komoditas.
 
-Salah satu laporan perdagangan pada Februari 2025 mencatat harga:
-* Lobster batu ukuran 3–4 sekitar **Rp300.000 per kilogram**
-* Sedangkan lobster mutiara ukuran 3–5 sekitar **Rp550.000 per kilogram**.
+Fenomena fluktuasi harga ini dipengaruhi oleh dinamika musiman, di mana pada periode tersebut nelayan setempat cenderung mengalihkan fokus kerja ke sektor perkebunan untuk memanen cengkeh, sehingga berdampak pada berkurangnya pasokan lobster di tingkat pengepul.
 
-Untuk lobster pasir, sumber tersebut mencatat harga berdasarkan ekor, bukan kilogram.
+Catatan transaksi pada periode tersebut menunjukkan bahwa:
+- Lobster batu dengan ukuran 2 hingga 5 ons per ekor diperdagangkan pada kisaran harga Rp300.000 per kilogram.
+- Sementara itu, lobster pasir dengan ukuran komersial yang lebih kecil (1,7 hingga 2 ons) dihargai sebesar Rp250.000 per kilogram.
 
-Penelitian mengenai pemasaran lobster di Simeulue yang menggunakan data primer 2025 juga menemukan perbedaan harga berdasarkan grade.
-* Lobster grade A berukuran sekitar 5 ons hingga 1 kilogram tercatat memiliki harga jual sekitar **Rp450.000/kg**,
-* Grade B sekitar **Rp390.000/kg**, dan
-* Grade C sekitar **Rp260.000/kg** pada jalur pemasaran yang diteliti.
+Sistem transaksi untuk kedua jenis lobster konsumsi ini seluruhnya berbasis berat standar kilogram, berbeda dengan perdagangan Benih Bening Lobster (BBL) yang umumnya dihitung per ekor.
 
-Angka-angka tersebut jangan dianggap sebagai daftar harga resmi lobster Simeulue untuk September 2026. Lebih tepat menjadikannya sebagai gambaran bahwa **harga lobster sangat bergantung pada jenis, ukuran dan rantai pemasaran**.
+Di sisi lain, lobster mutiara, yang oleh masyarakat lokal sering dijuluki "lobster maradona" tetap memegang posisi sebagai varietas dengan nilai ekonomi tertinggi: 
 
-Sebagai pembanding yang lebih luas, data perdagangan Indonesia yang diperbarui pada 2026 menunjukkan nilai satuan ekspor lobster Indonesia sekitar 
-* **US$65,85/kg**, berdasarkan data UN Comtrade.
+- Berada pada kisaran harga Rp550.000 per kilogram untuk ukuran standar, harga jenis mutiara ini bahkan kerap melonjak melampaui Rp1.000.000 per kilogram ketika permintaan ekspor meningkat dan ukuran lobster memenuhi kriteria pasar internasional.
 
-Angka ini adalah nilai satuan perdagangan ekspor, bukan harga yang otomatis diterima nelayan Simeulue.
+Perbedaan harga yang signifikan antarvarietas ini menegaskan bahwa segmentasi pasar lobster di Simeulue sangat sensitif terhadap kualitas biologis dan preferensi pasar global.
 
-Perbedaan angka tersebut juga menjelaskan mengapa harga di tingkat nelayan, pengepul, eksportir dan pasar akhir bisa sangat berbeda.
+#### Fakta Pendukung
+Berdasarkan data riset pemasaran lokal di Simeulue serta statistik perdagangan global dari UN Comtrade.
+- **Riset Lapangan Simeulue (Data Primer 2025):** Studi mengenai Efisiensi Saluran Pemasaran Lobster Simeulue mengonfirmasi bahwa penentuan harga sangat dikendalikan oleh pengepul berdasarkan jenis, ukuran karapas, dan kualitas fisik lobster. Angka kisaran Rp260.000/kg hingga Rp450.000/kg mencerminkan harga riil pada jalur transaksi nelayan lokal untuk jenis lobster non-mutiara (seperti lobster batu dan bambu).
+- **Statistik UN Comtrade (Pembaruan 2026):** Berdasarkan analisis data perdagangan terbaru yang dirangkum oleh Selina Wamucii, nilai satuan ekspor (export unit value) rata-rata untuk komoditas lobster asal Indonesia memang tercatat sebesar US$65,85/kg.
+
+#### Mengapa Angkanya Berbeda Jauh?
+Tingginya harga ekspor dibanding harga di tingkat nelayan disebabkan oleh:
+
+- **Biaya Logistik Tinggi:** Pengiriman dari pulau terluar seperti Simeulue ke Jakarta atau Medan memerlukan transportasi udara khusus.
+- **Risiko Kematian (Live Handling):** Lobster diekspor dalam keadaan hidup, sehingga membutuhkan fasilitas penampungan beroksigen dengan tingkat mortalitas tinggi selama perjalanan.
+- **Margin Rantai Pasok:** Adanya bagi hasil margin keuntungan di tingkat pengepul lokal, pedagang besar antar-pulau, hingga eksportir final.
+
+
+
+
+
 
 ## Apakah Lobster Simeulue Sekarang Masih Ada di Pinggir Teluk?
 
@@ -283,3 +301,5 @@ Dan bagian dari cerita tentang bagaimana sebuah pulau hidup bersama lautnya.
 **Referensi:**
 * [Potensi Lobster Jadi Perhatian Khusus](https://www.acehprov.go.id/berita/kategori/ekonomi/potensi-lobster-jadi-perhatian-khusus-pj-bupati-simeulue)
 * [Populasi Lobster di Kabupaten Simeulue](https://www.researchgate.net/figure/Gambar-1-Kerangka-Pemikiran-Eksploitasi-Populasi-Lobster-di-Kabupaten-Simeulue-Figure-1_fig1_315966357)
+* [Lobster di Simeulue](https://www.waspada.id/artikel/lobster-di-simeulue-berkurang)
+* [Harga Lobster](https://www.selinawamucii.com/id/wawasan/harga/indonesia/lobster/)
