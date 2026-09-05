@@ -1,5 +1,5 @@
 ---
-title: 'Cara Membuat SKTM (Surat Keterangan Tidak Mampu). Syarat, Prosedur, dan Kegunaannya'
+title: 'Kegunaan SKTM: Cara Membuat, Syarat, dan Prosedur'
 date: 2026-08-24
 draft: false
 featured_image: "/images/ilustrasi-sktm.webp"
