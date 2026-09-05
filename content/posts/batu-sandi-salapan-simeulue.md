@@ -1,5 +1,5 @@
 ---
-title: 'Batu Sandi Salapan Simeulue, Aceh: Sejarah dan Panduan Wisata'
+title: 'Cerita Sejarah Batu Sandi Salapan Simeulue, Aceh'
 date: 2026-07-06
 draft: false
 featured_image: "/images/batu-sandi-salapan.webp"
