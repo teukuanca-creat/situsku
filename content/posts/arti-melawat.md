@@ -60,14 +60,14 @@ Setelah agenda siang atau sore hari usai, suasana tetap hangat hingga malam hari
 
 ​Kehadiran malam keakraban ini menegaskan bahwa melawat tidak hanya berfokus pada kompetisi olahraga. Lebih dari itu, ajang ini menjadi ruang edukatif bagi warga, terutama anak-anak untuk belajar, mengasah bakat, dan menampilkan keahlian mereka di hadapan masyarakat luas.
 
-Hal ini membuktikan bahwa sebuah perayaan masyarakat tak selalu membutuhkan konsep yang rumit.
-Berbekal lapangan terbuka, warga yang guyub, beberapa perlombaan sederhana, dan semangat untuk bersatu, sebuah momen dapat terpatri dalam ingatan hingga puluhan tahun.
-
 Melawat berhasil mempertemukan berbagai aspek kehidupan sekaligus:
 * Olahraga sebagai ajang kebersamaan,
 * Sosial dan silaturahmi sebagai perekat warga,
 * Hiburan dan pendidikan untuk generasi muda, serta
 * Nilai keagamaan sebagai pondasi spiritual.
+
+Hal ini membuktikan bahwa sebuah perayaan masyarakat tak selalu membutuhkan konsep yang rumit.
+Berbekal lapangan terbuka, warga yang guyub, beberapa perlombaan sederhana, dan semangat untuk bersatu, sebuah momen dapat terpatri dalam ingatan hingga puluhan tahun.
 
 Inilah yang membuat tradisi melawat begitu memikat saat dipandang dari kacamata kebudayaan masyarakat Simeulue.
 
