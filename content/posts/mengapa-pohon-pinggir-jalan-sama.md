@@ -1,5 +1,5 @@
 ---
-title: 'Mengapa Pohon Pinggir Jalan Sama? Ini Alasannya'
+title: 'Pohon Pinggir Jalan: Fungsi dan Manfaatnya'
 permalink: '/2026/07/mengapa-pohon-pinggir-jalan-sama-ini.html'
 date: 2026-07-11
 draft: false
