@@ -52,6 +52,12 @@ Rasa kekeluargaan ini membentuk budaya berkendara yang ramah, tidak terburu-buru
 
 Jalan raya di sini bukan arena persaingan, melainkan ruang sosial tempat warga saling melempar senyum atau lambaian tangan saat berselisih jalan.
 
+<div style="background:#f0f0f0; padding:15px; border-radius:10px; margin:20px 0;">
+  <strong>Rekomendasi</strong><br>
+  Kalau kamu sedang Mencari Sepeda Listrik Roda Tiga, Voltara Sepeda Listrik Roda 3 Bajaj 1200 watt Murah. bisa cek di sini:<br>
+  <a href="https://s.shopee.co.id/6VNcKoP1LR" target="_blank" style="color:#800000; font-weight:bold;">Lihat di Shopee</a>
+</div>
+
 ## Kemewahan Harian di Meja Makan
 
 Sebagai daerah kepulauan, warga Simeulue punya rezeki tersendiri dalam urusan makanan laut. Ikan dan hasil tangkapan lain bukan barang langka di sini.
