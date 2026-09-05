@@ -1,5 +1,5 @@
 ---
-title: 'Kearifan Memancing Ikan Budu di Teluk Sinabang-Simeulue,Aceh'
+title: 'Teknik Memancing Ikan Budu di Teluk Sinabang Simeulue, Aceh'
 permalink: '/2026/08/kearifan-memancing-ikan-budu-di-teluk.html'
 date: 2026-08-07
 draft: false
@@ -8,8 +8,6 @@ categories: ["Kreativitas"]
 description: "Sejarah dan Perubahan Lanskap Maritim Teluk Sinabang: Dari Pusat Ekonomi Era 90-an hingga Modernisasi."
 tags: ["Memancing Ikan Budu", "Teluk Sinabang"]
 ---
-
-## Ikan Budu, Tradisi Mancing yang Menyatukan Warga Teluk Sinabang
 
 Pernahkah kamu mendengar nama ikan budu? Mereka biasanya hidup berkelompok di dekat pantai, teluk, dan kadang-kadang di perairan tengah, membentuk gerombolan padat yang membuat permukaan air terlihat gelap berkilauan—sesekali beberapa ekor melompat keluar seolah panik.
 
