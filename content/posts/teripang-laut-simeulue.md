@@ -1,5 +1,5 @@
 ---
-title: 'Teripang Laut Simeulue: Kenangan Tangkahan Era 90-an'
+title: 'Manfaat Teripang Laut: Memori Tangkahan Sejak 90-an di Sinabang'
 date: 2026-08-20
 draft: false
 featured_image: "/images/by-pexels.webp"
