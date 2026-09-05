@@ -65,7 +65,7 @@ Ini juga menjelaskan kenapa permintaannya bisa sampai membuat pemiliknya rutin m
 
 {{< affiliate src="/images/listrik.webp" link="https://s.shopee.co.id/1qbmrWvxOk" title="Sepeda Listrik (Harga Terjangkau)" >}}
 
-## Ketika Persaingan Mulai Tumbuh
+## Ketika Stiker Mulai Menjamur
 Sekarang, usaha stiker bukan lagi barang langka di Simeulue. Sudah semakin banyak usaha sejenis bermunculan di berbagai sudut kabupaten, mengikuti jejak yang pertama kali dirintis di Simpang Tiga Sinabang itu. 
 
 Bagi saya, ini justru pertanda baik, bukti bahwa apa yang dulu dirintis dengan modal seadanya ternyata mampu menumbuhkan satu ekosistem usaha baru yang terus berkembang sampai hari ini.
