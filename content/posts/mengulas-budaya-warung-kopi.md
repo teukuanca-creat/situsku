@@ -1,5 +1,5 @@
 ---
-title: 'Warkop Simeulue: Ruang Ketiga di Tepi Samudera Hindia'
+title: 'Nongkrong di Warung Kopi Simeulue: Ruang Ketiga di Tepi Samudera Hindia'
 date: 2026-07-24
 draft: false
 featured_image: "/images/warkop.webp"
@@ -8,7 +8,7 @@ description: "Mengulas budaya warung kopi (warkop) di Kabupaten Kepulauan Simeul
 tags: ["Warkop Sinabang", "Warung Kopi Simeulue"]
 ---
 
-## Warkop Simeulue
+## Suasana Warkop 
 Ketika kapal feri merapat di Pelabuhan Sinabang, ada satu pemandangan yang tak pernah absen menyambut siapa pun yang menginjakkan kaki di Kabupaten Simeulue: deretan warung kopi (warkop) kayu dan bangunan permanen yang riuh oleh denting gelas sejak subuh hingga larut malam.
 
 Di daratan utama Sumatera, warkop mungkin hanya tempat persinggahan atau sekadar nongkrong. Namun di Simeulue, pulau yang berdiri secara geografis di tengah Samudera Hindia ini, warkop bertransformasi menjadi salah satu pusat saraf kehidupan pulau.
