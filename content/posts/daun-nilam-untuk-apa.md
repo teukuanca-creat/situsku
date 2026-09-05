@@ -1,5 +1,5 @@
 ---
-title: 'Daun Nilam untuk Apa, Semarak Nilam Simeulue Sejak 90-an'
+title: 'Semarak Pohon Nilam di Simeulue Sejak 90-an'
 date: 2026-08-24
 draft: false
 featured_image: "/images/nilam.webp"
