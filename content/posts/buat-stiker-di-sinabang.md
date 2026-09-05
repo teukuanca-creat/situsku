@@ -89,3 +89,5 @@ Karena sebelumnya, warga yang ingin kendaraannya dipoles atau dihias stiker haru
 
 **Di mana lokasi usaha stiker ini sekarang?**
 Setelah berpindah beberapa kali dari Simpang Tiga, lalu bangunan permanen di Simpang Lima Desa Sinabang, usaha ini kini menetap di Desa Suka Jaya hingga saat ini.
+
+{{< affiliate src="/images/helm-hijab.webp" link="https://s.shopee.co.id/1A8iaz8XA" title="Helm Hijab (Harga Terjangkau)" >}}
