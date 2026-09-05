@@ -147,26 +147,15 @@ Sebagai gambaran, analisis perdagangan lobster menunjukkan harga rata-rata lobst
 
 Jadi prospeknya memang besar, tetapi bukan berarti harga akan selalu naik.
 
-## Ikhtisar: Lobster yang Mengingatkan Saya pada Masa Kecil
+## Ikhtisar: Lobster Ingatan Masa Kecil
 
-Setiap kali mendengar kata lobster, ingatan saya bukan langsung tertuju pada restoran mahal.
-- Saya justru teringat Teluk Sinabang.
-- Teringat Simpang Lima.
-- Teringat pelabuhan kargo yang dahulu menjadi lapangan bermain kami.
-- Teringat bola, petak umpet dan *kelahar* yang kami tunggangi bergantian.
+Setiap kali mendengar kata lobster, ingatan saya bukan langsung tertuju pada restoran mahal. Saya justru teringat Teluk Sinabang, teringat Simpang Lima, teringat pelabuhan kargo yang dahulu menjadi lapangan bermain.
 
-Kemudian ketika malam tiba, air *Malasin* mulai surut.
-- Kami berdiri di sekitar tanggul.
-- Air teluk yang tenang menjadi tempat kami mencari sesuatu yang sebenarnya pada saat itu belum kami pahami nilainya.
-- Dari balik batu muncul dua kumis panjang.
-- Sedikit saja salah bergerak, lobster itu melesat dan meninggalkan air yang keruh.
+Kemudian ketika malam tiba menyaksikan kelap-kelip lampu kapal di dermaga, berdiri di sekitar tanggul melihat sungut panjang lobster dibalik persembunyian yang berlari ketika terkejut.
 
-Begitulah lobster yang saya kenal ketika kecil.
-Sederhana, liar, dan menjadi bagian dari pemandangan sehari-hari.
+Seiring waktu berjalan, pemandangan itu perlahan menghilang. Entah karena saya yang sudah jarang memperhatikan, atau memang kondisinya sudah berubah.
 
-Tetapi setelah beranjak dewasa, momen itu perlahan menghilang. Entah karena saya yang sudah jarang memperhatikan, atau memang kondisinya sudah berubah.
-
-Cerita dari beberapa teman yang masih dekat dengan lautpun menguatkan perasaan tersebut: lobster yang dahulu relatif mudah terlihat di kawasan sekitar teluk kini tidak lagi seperti dulu.
+Namun, menurut informasi dari teman yang masih memperhatikan, juga menguatkan perasaan tersebut: lobster yang dahulu relatif mudah terlihat di kawasan sekitar teluk kini tidak lagi seperti dulu.
 
 Apalagi setelah peristiwa **Smong 2004**, bentang pesisir dan kehidupan masyarakat Simeulue tentu mengalami perubahan besar. Tetapi untuk menghubungkan berkurangnya lobster secara langsung dengan Smong diperlukan penelitian khusus; saya tidak ingin menjadikan ingatan pribadi sebagai kesimpulan ilmiah.
 
