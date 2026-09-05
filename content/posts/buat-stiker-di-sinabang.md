@@ -13,13 +13,13 @@ Coba perhatikan sekali saja jalanan Sinabang hari ini.
 Motor dengan stiker nama pemiliknya di bodi, 
 kaca rumah toko yang dihiasi tulisan promosi warna-warni, sampai plang nama warung yang huruf-hurufnya rapi memakai stiker cutting. 
 
-Semua itu terasa begitu biasa sekarang, seolah memang sudah ada sejak dulu.
-Tapi ada satu cerita di balik kebiasaan ini yang jarang diketahui orang: siapa sebenarnya yang pertama kali membawa budaya stiker kendaraan ke Simeulue, dan bagaimana usaha itu bertahan melewati dua bencana besar yang nyaris menghentikannya untuk selamanya.
-
-Usaha stiker ini, yang bisa dibilang salah satu pelopor di Kabupaten Simeulue, berdiri sejak tahun 2003, setahun sebelum Smong (tsunami Aceh 2004).
+Semua itu terasa begitu biasa sekarang, seolah-olah riuh rendah stiker kendaraan memang sudah sejak dulu mewarnai jalanan pulau ini.
+Namun, ada satu kisah di balik kebiasaan sehari-hari ini yang jarang terungkap: siapa sebenarnya sosok di balik layar yang pertama kali membawa usaha stiker kendaraan ke Simeulue? Dan bagaimana bisnis ini mampu bertahan, merayap bangkit melewati hantaman badai bencana alam di kurun waktu 2000-an?
 
 ## Awal Mula di Simpang Tiga Sinabang
-Di masa-masa awalnya, usaha ini menunjukkan sesuatu yang tidak disangka-sangka: minat warga ternyata begitu kuat. Pesanan stiker kendaraan mengalir deras, sampai-sampai pengerjaannya sering berlangsung hingga malam hari. 
+Berdiri sejak tahun 2003, usaha stiker kendaraan ini bisa dibilang merupakan salah satu pelopor di Simeulue. Bisnis kecil ini lahir hanya setahun sebelum bencana besar Smong (tsunami 2004) melanda dan mengubah segalanya
+
+Di masa-masa awal kehadirannya, usaha ini memantik antusiasme yang di luar dugaan: minat warga Simeulue ternyata begitu besar. Pesanan stiker kendaraan mengalir tanpa henti, memaksa lampu toko terus menyala hingga larut malam demi menyelesaikan setiap garapan.
 
 Padahal saat itu, usahanya cuma bermodalkan steling seadanya, berdiri di pinggir jalan seputaran Simpang Tiga Desa Sinabang, jauh dari kesan usaha besar yang mapan.
 
