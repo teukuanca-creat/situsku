@@ -52,10 +52,11 @@ Rasa kekeluargaan ini membentuk budaya berkendara yang ramah, tidak terburu-buru
 
 Jalan raya di sini bukan arena persaingan, melainkan ruang sosial tempat warga saling melempar senyum atau lambaian tangan saat berselisih jalan.
 
-<div style="background:#f0f0f0; padding:15px; border-radius:10px; margin:20px 0;">
-  <strong>Rekomendasi</strong><br>
-  Kalau kamu sedang Mencari Sepeda Listrik Roda Tiga, Voltara Sepeda Listrik Roda 3 Bajaj 1200 watt Murah. bisa cek di sini:<br>
-  <a href="https://s.shopee.co.id/6VNcKoP1LR" target="_blank" style="color:#800000; font-weight:bold;">Lihat di Shopee</a>
+<div style="text-align:center; margin:20px 0;">
+  <a href="https://s.shopee.co.id/5VV5A6iY42" target="_blank">
+    <img src="/images/sepeda-listrik.webp" alt="Sepeda Listrik Roda Tiga" style="width:100%; max-width:300px; border-radius:10px;">
+  </a>
+  <p style="font-size:13px; color:#666;">Klik gambar untuk lihat produk di Shopee</p>
 </div>
 
 ## Kemewahan Harian di Meja Makan
