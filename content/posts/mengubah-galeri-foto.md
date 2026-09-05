@@ -1,5 +1,5 @@
 ---
-title: 'Mengubah Galeri Foto HP Jadi Mesin Pendapatan Pasif'
+title: 'Galeri Foto Menjadi Mesin Pendapatan Pasif'
 date: 2026-08-09
 draft: false
 featured_image: "/images/konten-photo.webp"
