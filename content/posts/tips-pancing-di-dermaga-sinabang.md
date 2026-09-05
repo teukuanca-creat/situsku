@@ -1,5 +1,5 @@
 ---
-title: 'Tips Mancing di Dermaga Sinabang: Umpan & Alat'
+title: 'Memancing di Dermaga Sinabang: Umpan & Alat'
 date: 2026-08-03
 draft: false
 featured_image: "/images/spot-karang.jpg"
