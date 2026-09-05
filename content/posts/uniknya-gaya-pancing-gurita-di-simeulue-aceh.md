@@ -1,5 +1,5 @@
 ---
-title: 'Umpan Sendok: Kearifan Nelayan Simeulue dalam Menangkap Gurita'
+title: 'Umpan Jitu Dari Sendok: Cara Menangkap Gurita di Simeulue'
 date: 2026-08-10
 draft: false
 featured_image: "/images/ilustrasi-umpan-sendok.webp"
