@@ -1,5 +1,5 @@
 ---
-title: 'Intip Gaya Hidup Simeulue,Aceh: Fashion hingga Wisata'
+title: 'Intip Gaya Hidup: Fashion hingga Wisata-Simeulue island'
 date: 2026-07-24
 draft: false
 featured_image: "/images/lobster.webp"
@@ -8,7 +8,7 @@ description: "Intip gaya hidup masyarakat Simeulue dalam dinamika Modernisasi, K
 tags: ["Gaya Hidup", "Tren di Simeulue Aceh"]
 ---
 
-## Simeulue yang Tak Seperti Bayangan Orang
+## Simeulue dalam Kacamata 
 
 Bagi masyarakat luar, Pulau Simeulue mungkin sering dibayangkan sebagai daratan terisolasi di tengah ganasnya Samudera Hindia, pulau terluar Aceh yang sepi, serba terbatas, dan tertinggal dari riuhnya kemajuan zaman.
 
