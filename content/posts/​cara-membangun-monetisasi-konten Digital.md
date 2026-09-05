@@ -1,5 +1,5 @@
 ---
-title: 'Cara Membangun Monetisasi Konten Digital Berkelanjutan'
+title: 'Monetisasi Konten Kita: Membangun Konten Digital Berkelanjutan'
 date: 2026-08-07
 draft: false
 featured_image: "/images/monetisasi.webp"
