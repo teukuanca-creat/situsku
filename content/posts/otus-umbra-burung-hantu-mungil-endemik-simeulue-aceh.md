@@ -1,5 +1,5 @@
 ---
-title: 'Otus umbra: Burung Hantu Mungil Endemik Simeulue, Aceh'
+title: 'Mengenal Otus Umbra, Burung Hantu Endemik Simeulue'
 date: 2026-07-19
 draft: false
 featured_image: "/images/cilepuk-simalur.webp"
