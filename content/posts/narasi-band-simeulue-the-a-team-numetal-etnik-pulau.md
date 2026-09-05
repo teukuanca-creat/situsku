@@ -66,7 +66,7 @@ Eksperimen ini sukses menciptakan harmoni magis yang belum pernah ada sebelumnya
 
 Lagu “Radat Dabui” ini menjadi bukti autentik yang sangat berharga. Kehadiran lagu ini menunjukkan bahwa modernitas musik global tidak harus melunturkan nilai tradisi lokal. Justru sebaliknya, musik modern bisa menjadi media baru untuk menjaga warisan budaya agar tetap relevan di mata generasi muda.
 
-{{< affiliate src="/images/gitar.webp" link="https://s.shopee.co.id/1VywVl6q3N" title="Sepeda Listrik (Harga Terjangkau)" >}}
+{{< affiliate src="/images/gitar.webp" link="https://s.shopee.co.id/1VywVl6q3N" title="Gitar Untuk Pemula (Harga Terjangkau)" >}}
 
 ## C. Penampilan Panggung Lokal dan Lintas Provinsi
 Setelah “Radat Dabui” lahir, karya itu langsung menjelma menjadi amunisi utama mereka. Mendominasi berbagai ajang festival musik dilevel lokal.
@@ -175,4 +175,4 @@ Dukungan penuh dari semua stakeholder, mulai dari pemangku di daerah, komunitas,
 
 Kolektivitas dan kepedulian dari semua pihak seakan menjadi bahan bakar utama yang sangat di butuhkan untuk membakar kembali semangat, membangunkan bakat yang tertidur, dan menghidupkan kembali panggung musik di Pulau Simeulue!
 
-{{< affiliate src="/images/keyboard.webp" link="https://s.shopee.co.id/3g3R5yDQAx" title="Sepeda Listrik (Harga Terjangkau)" >}}
+{{< affiliate src="/images/keyboard.webp" link="https://s.shopee.co.id/3g3R5yDQAx" title="Menuju Keyboard Profesional (Harga Terjangkau)" >}}
