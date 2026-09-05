@@ -1,5 +1,5 @@
 ---
-title: 'Panduan Lengkap & Pengalaman Lapangan: Cara Mengurus Akta Kelahiran Anak'
+title: 'Buat akta Kelahiran: Panduan Pengurusan Akta Kelahiran Anak'
 date: 2026-08-31
 draft: false
 featured_image: "/images/akta-kelahiran.webp"
