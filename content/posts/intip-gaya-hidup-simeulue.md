@@ -1,5 +1,5 @@
 ---
-title: 'Intip Gaya Hidup: Fashion hingga Wisata-Simeulue island'
+title: 'Gaya Hidup Modernisasi: Trend dan Fashion Simeulue island'
 date: 2026-07-24
 draft: false
 featured_image: "/images/lobster.webp"
