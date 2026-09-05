@@ -63,7 +63,7 @@ Kehadiran usaha stiker ini di Sinabang otomatis memangkas biaya dan waktu yang s
 
 Ini juga menjelaskan kenapa permintaannya bisa sampai membuat pemiliknya rutin mengirim barang ke Sumatera Utara setiap bulan di masa-masa awal, bukan cuma melayani warga lokal, tapi juga ikut menjadi bagian dari rantai pasok kebutuhan gaya hidup kendaraan di kawasan yang lebih luas.
 
-{{< affiliate src="/images/listrik.webp" link="https://s.shopee.co.id/W6PGujLgl" title="Sepeda Listrik (Harga Terjangkau)" >}}
+{{< affiliate src="/images/sepeda-listrik.webp" link="https://s.shopee.co.id/W6PGujLgl" title="Sepeda Listrik" >}}
 
 ## Ketika Persaingan Mulai Tumbuh
 Sekarang, usaha stiker bukan lagi barang langka di Simeulue. Sudah semakin banyak usaha sejenis bermunculan di berbagai sudut kabupaten, mengikuti jejak yang pertama kali dirintis di Simpang Tiga Sinabang itu. 
