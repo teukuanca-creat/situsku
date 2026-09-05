@@ -1,5 +1,5 @@
 ---
-title: 'Cara Aktivasi Akun Coretax DJP: Panduan Lengkap untuk Wajib Pajak'
+title: 'Aktivasi Coretax: Panduan Lengkap untuk Wajib Pajak'
 date: 2026-08-29
 draft: false
 featured_image: "/images/ilustrasi-aktivasi-pajak.webp"
