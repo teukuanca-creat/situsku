@@ -53,9 +53,7 @@ Rasa kekeluargaan ini membentuk budaya berkendara yang ramah, tidak terburu-buru
 Jalan raya di sini bukan arena persaingan, melainkan ruang sosial tempat warga saling melempar senyum atau lambaian tangan saat berselisih jalan.
 
 ![Sepeda Listrik](/images/sepeda-listrik.webp)
-
 *Sepeda Listrik*
-
 [👉 Klik di sini untuk lihat produk di Shopee 👈](https://s.shopee.co.id/9fKe8pvEEG)
 
 ## Kemewahan Harian di Meja Makan
