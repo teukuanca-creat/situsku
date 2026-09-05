@@ -1,5 +1,5 @@
 ---
-title: 'Rahasia Bumbu Mie Aceh Otentik & Teknik Warkop Sinabang'
+title: 'Menjelajah Bumbu Mie Aceh Otentik & Cita Rasa Warkop Sinabang di Simeulue'
 permalink: /2026/08/rahasia-bumbu-mie-aceh-otentik-teknik.html
 date: 2026-08-02
 draft: false
