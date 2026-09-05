@@ -1,5 +1,5 @@
 ---
-title: 'Contoh Cara Menyusun SKP PNS 2026'
+title: 'Cara Mengisi SKP ASN 2026'
 date: 2026-08-23
 draft: false
 featured_image: "/images/ilustrasi-skp.webp"
