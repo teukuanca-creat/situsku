@@ -1,11 +1,10 @@
 ---
-title: 'Puding Telur Kampung: Rahasia dibaliknya'
-permalink: '/2026/07/puding-telur-warkop-simeulueaceh.html'
+title: 'Manfaat Puding Telur Ayam Kampung'
 date: 2026-07-08
 draft: false
 featured_image: "/images/puding-telur-simeulue.webp"
 categories: ["Kuliner"]
-description: "Mengulas manfaat puding telur ayam kampung khas warkop Simeulue, Aceh - dari kandungan gizi hingga cita rasa."
+description: "Mengulas manfaat puding telur ayam kampung, Menu khas warkop Simeulue, Aceh-dari kandungan gizi hingga cita rasa."
 tags: ["puding", "telur ayam kampung", "warkop", "Simeulue", "kuliner Aceh"]
 ---
 
