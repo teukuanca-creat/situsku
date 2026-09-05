@@ -52,12 +52,11 @@ Rasa kekeluargaan ini membentuk budaya berkendara yang ramah, tidak terburu-buru
 
 Jalan raya di sini bukan arena persaingan, melainkan ruang sosial tempat warga saling melempar senyum atau lambaian tangan saat berselisih jalan.
 
-<div style="text-align:center; margin:20px 0;">
-  <a href="https://s.shopee.co.id/5VV5A6iY42" target="_blank">
-    <img src="/images/sepeda-listrik.webp" alt="Sepeda Listrik Roda Tiga" style="width:100%; max-width:300px; border-radius:10px;">
-  </a>
-  <p style="font-size:13px; color:#666;">Klik gambar untuk lihat produk di Shopee</p>
-</div>
+<blockquote style="text-align:center; background:none; border-left:none; padding:0; margin:15px 0;">
+  <img src="/images/sepeda-listrik.webp" alt="sepeda listrik" style="width:300px; max-width:100%; display:block; margin:0 auto; border-radius:8px;">
+  <p style="font-size:13px; color:#666; font-style:italic; margin-top:6px;">Sepeda Listrik</p>
+  <a href="https://s.shopee.co.id/9fKe8pvEEG" target="_blank" rel="nofollow" style="display:inline-block; margin-top:10px; background:#EE4D2D; color:#fff; padding:8px 16px; border-radius:6px; text-decoration:none; font-weight:bold;">👉 Klik di sini untuk lihat produk di Shopee 👈</a>
+</blockquote>
 
 ## Kemewahan Harian di Meja Makan
 
