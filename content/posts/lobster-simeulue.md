@@ -1,11 +1,11 @@
 ---
 title: 'Lobster: Nostalgia Masa Kecil di Teluk Sinabang '
-date: 2026-08-24
+date: 2026-09-05
 draft: false
-featured_image: "/images/nama-gambar.webp"
-categories: ["Kategori"]
-description: "Deskripsi artikel"
-tags: ["tag1", "tag2"]
+featured_image: "/images/lahok.webp"
+categories: ["Cerita Menarik"]
+description: "Mengenal Lobster yang merupakan Hasil Laut Simeulue-Aceh sejak Dahulu"
+tags: ["Lobster Simeulue", "Lobster di Teluk Sinabang"]
 ---
 
 ##  Latar Belakang 
@@ -42,11 +42,13 @@ Sumber lain yang membahas potensi perikanan Simeulue juga menyebut lobster sebag
 
 Artinya, membicarakan lobster Simeulue hari ini, kita sedang membicarakan komoditas yang memiliki sejarah cukup panjang.
 
+> **Baca Juga:** [Teripang Laut Simeulue: Kenangan Tangkahan Era 90-an](https://teukuanca.com/posts/teripang-laut-simeulue/)
+
 ### Jenis Lobster yang Ditemukan di Perairan Simeulue
 
 Yang menarik, lobster di Simeulue ternyata bukan hanya satu jenis.
 
-Berdasarkan penelitian lapangan tahun 2023 mencatat **6 spesies lobster dari genus Panulirus** di perairan Simeulue.
+Berdasarkan penelitian lapangan tahun 2023 mencatat **enam spesies lobster dari genus Panulirus** di perairan Simeulue.
 
 Penelitian tersebut melakukan pengamatan di beberapa wilayah perairan Simeulue, antara lain Busung, Kampung Air, Teupah Selatan, dan Alafan.
 
@@ -59,7 +61,7 @@ Enam spesies itu adalah:
 5. Panulirus ornatus
 6. Panulirus polyphagus
 
-Dalam sebutan perdagangan dan sebutan masyarakat, nama lobster sering lebih dikenal dengan nama lokal:
+Dalam sebutan perdagangan dan sebutan masyarakat, nama lobster itu sering dikenal dengan sebutan lokal:
 
 1. Lobster Pasir
 2. Lobster Batu
@@ -71,6 +73,8 @@ Dalam sebutan perdagangan dan sebutan masyarakat, nama lobster sering lebih dike
 Karena nama lokal dan nama ilmiah tidak selalu berpadanan satu banding satu dalam percakapan sehari-hari, penyebutan jenis sebaiknya tetap mengacu pada identifikasi biologis ketika membahas spesies.
 
 Hal ini penting karena lobster yang terlihat berbeda warna atau bentuk belum tentu otomatis merupakan spesies yang berbeda.
+
+{{< affiliate src="/images/kipas.webp" link="https://s.shopee.co.id/9zxVDHxrHv" title="Kipas Angin Mini(Harga Terjangkau)" >}}
 
 ## Dari Teluk Sinabang ke Pasar Dunia
 
@@ -85,11 +89,15 @@ Dalam penelitian tersebut:
 - Farmer's share pada jalur lokal mencapai 80%,
 - Sedangkan jalur Jakarta sekitar 51,43% karena adanya tambahan biaya transportasi, penanganan dan logistik.
 
-Ini merupakan tantangan klasik daerah kepulauan. Lobster memang bernilai tinggi, tetapi Simeulue berada jauh dari pusat pasar.
+Ini merupakan tantangan klasik daerah kepulauan.
+* Lobster memang bernilai tinggi, tetapi
+* Simeulue berada jauh dari pusat pasar.
 
 Karena lobster merupakan komoditas hidup yang membutuhkan penanganan khusus, semakin panjang perjalanan semakin besar pula kebutuhan terhadap sistem penyimpanan, transportasi dan pengelolaan kualitas.
 
-Karena itu, nilai lobster tidak hanya ditentukan oleh berapa kilogram yang berhasil ditangkap, nilainya juga ditentukan oleh seberapa baik lobster tersebut dapat dipertahankan kualitasnya sampai ke pembeli.
+Karena itu, nilai lobster tidak hanya ditentukan oleh:
+* Berapa kilogram yang berhasil ditangkap, tetapi
+* Juga ditentukan oleh seberapa baik lobster tersebut dapat dipertahankan kualitasnya hingga sampai ke pembeli.
 
 ## Kisaran Harga Lobster Simeulue Sekarang
 
@@ -110,9 +118,9 @@ Fenomena fluktuasi harga ini dipengaruhi oleh dinamika musiman, di mana pada per
 
 Catatan transaksi pada periode tersebut menunjukkan bahwa:
 
-- Lobster batu dengan ukuran 2 hingga 5 ons per ekor diperdagangkan pada kisaran harga Rp.300.000 per kilogram.
+* Lobster batu dengan ukuran 2 hingga 5 ons per ekor diperdagangkan pada kisaran harga Rp.300.000 per kilogram.
 
-- Sementara itu, lobster pasir dengan ukuran komersial yang lebih kecil (1,7 hingga 2 ons) dihargai sebesar Rp.250.000 per kilogram.
+* Sementara itu, lobster pasir dengan ukuran komersial yang lebih kecil (1,7 hingga 2 ons) dihargai sebesar Rp.250.000 per kilogram.
 
 Sistem transaksi untuk kedua jenis lobster konsumsi ini seluruhnya berbasis berat standar kilogram, berbeda dengan perdagangan Benih Bening Lobster (BBL) yang umumnya dihitung per ekor.
 
@@ -135,7 +143,9 @@ Angka tersebut menunjukkan sesuatu yang penting: meskipun volume perdagangan tid
 
 ### Pasar Asia menjadi salah satu penggerak utama.
 
-Tiongkok, misalnya, mengimpor sekitar **67.600 ton lobster pada 2025**, meningkat 13 persen dibandingkan tahun sebelumnya. Vietnam menjadi salah satu pemasok yang mengalami pertumbuhan sangat cepat, terutama untuk lobster duri tropis hidup.
+Tiongkok, misalnya, mengimpor sekitar **67.600 ton lobster pada 2025**, meningkat 13 persen dibandingkan tahun sebelumnya. 
+
+Vietnam menjadi salah satu pemasok yang mengalami pertumbuhan sangat cepat, terutama untuk lobster duri tropis hidup.
 
 FAO juga mencatat prospek jangka panjang pasar lobster tetap optimistis, dengan pertumbuhan sekitar **7–8 persen per tahun hingga 2033** dalam analisis pasar yang mereka rujuk. Permintaan dari sektor restoran dan pangan premium menjadi salah satu pendorongnya.
 
@@ -143,23 +153,28 @@ FAO juga mencatat prospek jangka panjang pasar lobster tetap optimistis, dengan 
 
 Harga lobster hidup dapat berubah mengikuti pasokan, permintaan, biaya logistik, kebijakan perdagangan dan persaingan antarnegara.
 
-Sebagai gambaran, analisis perdagangan lobster menunjukkan harga rata-rata lobster duri hidup yang diimpor Tiongkok turun dari sekitar **US$60/kg pada 2023 menjadi US$39/kg pada 2025**, antara lain karena perubahan komposisi pasokan dan meningkatnya produk dengan harga lebih rendah.
+Sebagai gambaran, analisis perdagangan lobster menunjukkan harga rata-rata lobster duri hidup yang diimpor Tiongkok turun dari sekitar
+* **US$60/kg pada 2023 menjadi US$39/kg pada 2025**,
 
+Ini karena perubahan komposisi pasokan dan meningkatnya produk dengan harga lebih rendah.
 Jadi prospeknya memang besar, tetapi bukan berarti harga akan selalu naik.
 
 ## Ikhtisar: Lobster Ingatan Masa Kecil
 
 Setiap kali mendengar kata lobster, ingatan saya bukan langsung tertuju pada restoran mahal. Saya justru teringat Teluk Sinabang, teringat Simpang Lima, teringat pelabuhan kargo yang dahulu menjadi lapangan bermain.
 
-Kemudian ketika malam tiba menyaksikan kelap-kelip lampu kapal di dermaga, berdiri di sekitar tanggul melihat sungut panjang lobster dibalik persembunyian yang berlari ketika terkejut.
+Kemudian ketika malam tiba, menyaksikan kelap-kelip lampu kapal di dermaga, berdiri di sekitar tanggul melihat sungut panjang lobster dibalik persembunyian yang berlari ketika terkejut.
 
 Seiring waktu berjalan, pemandangan itu perlahan menghilang. Entah karena saya yang sudah jarang memperhatikan, atau memang kondisinya sudah berubah.
 
 Namun, menurut informasi dari teman yang masih memperhatikan, juga menguatkan perasaan tersebut: lobster yang dahulu relatif mudah terlihat di kawasan sekitar teluk kini tidak lagi seperti dulu.
 
-Apalagi setelah peristiwa **Smong 2004**, bentang pesisir dan kehidupan masyarakat Simeulue tentu mengalami perubahan besar. Tetapi untuk menghubungkan berkurangnya lobster secara langsung dengan Smong diperlukan penelitian khusus; saya tidak ingin menjadikan ingatan pribadi sebagai kesimpulan ilmiah.
+Apalagi setelah peristiwa **Smong 2004**, bentang pesisir dan kehidupan masyarakat Simeulue tentu mengalami perubahan besar. 
+
+Tetapi untuk menghubungkan berkurangnya lobster secara langsung dengan Smong diperlukan penelitian khusus; saya tidak ingin menjadikan ingatan pribadi sebagai kesimpulan ilmiah.
 
 Yang saya tahu, ada masa ketika lobster menjadi bagian dari pemandangan kami di pinggiran Teluk Sinabang.
+
 Dan bagi saya, itu adalah kenangan yang sangat berharga.
 
 
@@ -169,3 +184,5 @@ Dan bagi saya, itu adalah kenangan yang sangat berharga.
 * [Populasi Lobster di Kabupaten Simeulue](https://www.researchgate.net/figure/Gambar-1-Kerangka-Pemikiran-Eksploitasi-Populasi-Lobster-di-Kabupaten-Simeulue-Figure-1_fig1_315966357)
 * [Lobster di Simeulue](https://www.waspada.id/artikel/lobster-di-simeulue-berkurang)
 * [Harga Lobster](https://www.selinawamucii.com/id/wawasan/harga/indonesia/lobster/)
+
+{{< affiliate src="/images/wajan.webp" link="(https://s.shopee.co.id/9KhoQMJO10)" title="Wajan Anti Lengket (Harga Terjangkau)" >}}
