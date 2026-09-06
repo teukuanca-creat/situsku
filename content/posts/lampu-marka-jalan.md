@@ -8,12 +8,16 @@ description: "Mengenal Marka jalan:paku jalan yang banyak belum diketahui manfaa
 tags: ["manfaat paku jalan", "road stud"]
 ---
 
-## Benda Kecil di Tengah Jalan yang Ternyata Menyelamatkan Banyak Nyawa
-Pernahkah Anda berkendara malam hari melewati jalan yang gelap gulita, lalu tiba-tiba melihat titik-titik cahaya kecil berkilau tepat di garis tengah aspal, seolah menuntun arah jalan di depan?
+## Benda Kecil di Tengah Jalan 
+​Pernah enggak Anda lagi nyetir atau naik motor malam-malam di jalanan yang gelap gulita, lalu tiba-tiba melihat deretan titik cahaya kecil berkilau tepat di garis tengah aspal? 
 
-Saya sering mengalaminya, terutama saat melintasi jalan-jalan yang minim penerangan. Awalnya saya kira itu memang lampu kecil yang ditanam khusus di aspal. Ternyata, setelah ditelusuri lebih jauh, sebagian besar dari benda itu sebenarnya bukan lampu dalam arti sesungguhnya, melainkan reflektor yang memantulkan cahaya lampu kendaraan kembali ke mata kita.
+Cahayanya seolah-olah jadi "petunjuk jalan" alami yang menuntun arah kendaraan kita di tengah kegelapan.
 
-Benda ini punya nama resmi yaitu **paku jalan**, atau dalam istilah teknisnya disebut **road stud**. Sebagian orang juga mengenalnya dengan sebutan "mata kucing".
+​Jujur, saya dulu sering sekali melihatnya, apalagi pas melintasi jalanan antarkota yang minim lampu penerangan. Awalnya saya pikir itu lampu listrik kecil yang sengaja ditanam di dalam aspal. Tapi setelah cari tahu lebih lanjut, ternyata dugaan saya salah besar!
+
+​Sebagian besar benda berkilau itu sebenarnya bukan lampu yang menyala sendiri, melainkan reflektor yang memantulkan kembali sorot lampu kendaraan kita ke mata.
+
+​Di dunia perhubungan, benda kecil ini punya nama resmi **paku jalan** atau istilah teknisnya **road stud**. Tapi di kalangan warga lokal, orang-orang lebih akrab memanggilnya dengan sebutan yang cukup unik: "mata kucing".
 
 ## Dari Mata Kucing di Pinggir Jalan Inggris
 Menariknya, penemuan ini punya cerita asal-usul yang cukup unik. Paku jalan pertama kali ditemukan oleh Percy Shaw, seorang penemu asal Yorkshire, Inggris, sekitar tahun 1933. 
