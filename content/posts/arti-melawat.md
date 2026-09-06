@@ -8,7 +8,7 @@ description: "Arti Melawat, sebuah kebiasaan unik di Simeulue hingga kini"
 tags: ["Melawat", "Tradisi Melawat di Simeulue"]
 ---
 
-## Tradisi Kunjungan dan Kebersamaan yang Melawat: Tradisi Kunjungan dan Kebersamaan yang Tak Pernah Pudar di Simeulue
+## Kunjungan dan Kebersamaan di Simeulue
 ​Ada satu kata yang rasanya sudah tidak asing lagi di telinga masyarakat Simeulue: yaitu **"melawat"**.
 
 Menurut saya, melawat itu jelas bukan cuma sekadar datang bertamu lalu pulang. Tradisi ini punya nilai sosial yang sangat dalam, sebuah momen hangat yang mempertemukan warga antar gampong lewat serangkaian kegiatan yang seru.
