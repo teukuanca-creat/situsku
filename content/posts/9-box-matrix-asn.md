@@ -105,12 +105,15 @@ Ini bukan lagi soal pasif menunggu penilaian dari kejauhan, melainkan tentang ba
 #### FAQ Seputar 9 Box Matrix ASN
 
 **Apa dasar hukum utama 9 Box Matrix untuk ASN?**
+
 Peraturan Menteri PANRB Nomor 3 Tahun 2020 tentang Manajemen Talenta Aparatur Sipil Negara, yang merupakan turunan dari UU No. 5 Tahun 2014 tentang ASN dan sistem merit dalam PP No. 11 Tahun 2017.
 
 **Dari mana skor "Kinerja" pada sumbu X 9 Box Matrix berasal?**
+
 Dari integrasi hasil SKP (Sasaran Kinerja Pegawai) dan penilaian Perilaku Kerja, yang kemudian dikonversi menjadi skor kuantitatif agar bisa diplot secara objektif di matriks.
 
 **Apa yang terjadi kalau seorang ASN masuk ke kotak 7, 8, atau 9?**
+
 Ia masuk Kelompok Rencana Suksesi Instansi, disiapkan untuk jabatan target di instansinya. Khusus kotak 9, namanya bisa dihimpun Tim Manajemen Talenta ASN Nasional untuk masuk Kelompok Rencana Suksesi Nasional.
 
 **Referensi:**
