@@ -37,6 +37,8 @@ Nah, ada kabar penting yang mungkin belum banyak orang tahu: sebenarnya, sejak b
 
 Tapi kalau urusannya menyangkut dokumen lain di tingkat desa atau kelurahan, tidak ada salahnya tetap bertanya ke petugas setempat, karena praktiknya di lapangan kadang masih punya kebijakan masing-masing.
 
+{{< affiliate src="/images/sonic.webp" link="https://s.shopee.co.id/3Vk2jmgp6x" title="Treadmill Listrik Sonix Lite (Harga Terjangkau)" >}}
+
 ### Lalu, Apa Sebenarnya Fungsi Surat Pengantar Ini?
 ​Di luar urusan wajib atau enggaknya, surat pengantar RT/RW itu sebenarnya punya fungsi sosial yang cukup krusial. 
 
