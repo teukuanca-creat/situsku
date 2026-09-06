@@ -2,7 +2,7 @@
 title: '9 Box Matrix ASN: Cara Kerja, Isi Sembilan Kotaknya, dan Kaitannya dengan Tukin'
 date: 2026-09-06
 draft: false
-featured_image: "/images/9-box-matrix-asn.webp"
+featured_image: "/images/talent.webp"
 categories: ["Regulasi"]
 description: "Panduan lengkap 9 Box Matrix manajemen talenta ASN berdasarkan Permenpan RB No. 3 Tahun 2020: cara kerja sumbu kinerja dan potensi, isi sembilan kotaknya, hingga dampaknya terhadap Tukin dan Sistem Merit instansi."
 tags: ["ASN", "Manajemen Talenta", "9 Box Matrix", "Tukin"]
@@ -21,6 +21,8 @@ Payung hukum utama sistem ini adalah Peraturan Menteri PANRB Nomor 3 Tahun 2020 
 Manajemen Talenta ASN sendiri terbagi dua tingkatan: 
 * **Manajemen Talenta ASN Nasional**, yang menyiapkan talenta terbaik untuk jabatan target lintas instansi di tingkat nasional, dan
 * **Manajemen Talenta ASN Instansi**, yang fokus menyiapkan talenta untuk jabatan target di instansi pusat maupun daerah masing-masing—termasuk di lingkup pemerintah kabupaten seperti Simeulue.
+
+{{< affiliate src="/images/pdh.webp" link="https://s.shopee.co.id/5q7xOEnfFj" title="Blazer PDH Seragam Wanita" >}}
 
 ## Bagaimana Sumbu X dan Y-nya Ditentukan?
 
@@ -54,6 +56,8 @@ Di ujung spektrum lain, ada kelompok yang biasa disebut informal sebagai "deadwo
 Sementara di tengah-tengah, ada kelompok besar yang jadi tulang punggung instansi: pegawai yang mampu menyelesaikan tugas rutin dengan hasil memuaskan, cukup stabil, tapi cenderung kesulitan kalau diberi tanggung jawab baru yang lebih kompleks. 
 
 Kelompok ini biasanya dipertahankan di posisinya sambil terus diberi pengayaan tugas secara bertahap, bukan langsung didorong naik jabatan.
+
+{{< affiliate src="/images/pdh-pria.webp" link="https://s.shopee.co.id/50YqPAnvDw" title="Seragam PDH Pria" >}}
 
 ### Kenapa Ini Bukan Sekadar Formalitas
 
@@ -96,4 +100,4 @@ Ia masuk Kelompok Rencana Suksesi Instansi, disiapkan untuk jabatan target di in
 * [Kumparan.com. Apa Saja Dua Dimensi Model 9-Box Grid pada Box Talenta ASN? Ini Penjelasannya](https://m.kumparan.com/berita-bisnis/apa-saja-dua-dimensi-model-9-box-grid-pada-box-talenta-asn-ini-penjelasannya-27ZJDa2BC4S)
 * [Pelatihanpemerintahan.id. Mengenal 9 Box Manajemen Talenta ASN (9 Box Matrix): Cara Kerja dan Implementasinya.](https://pelatihanpemerintahan.id/blog/9-box-manajemen-talenta-asn-cara-kerja-dan-implementasinya-dalam-pengembangan-karier-asn)
 
-
+{{< affiliate src="/images/putih .webp" link="https://s.shopee.co.id/5AsGbui1By" title="Seragam Putih Wanita" >}}
