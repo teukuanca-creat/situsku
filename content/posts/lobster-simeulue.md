@@ -159,6 +159,8 @@ Sebagai gambaran, analisis perdagangan lobster menunjukkan harga rata-rata lobst
 Ini karena perubahan komposisi pasokan dan meningkatnya produk dengan harga lebih rendah.
 Jadi prospeknya memang besar, tetapi bukan berarti harga akan selalu naik.
 
+{{< affiliate src="/images/drone.webp" link="https://s.shopee.co.id/9V1FhGeTvf" title="Drone(Bisa COD)" >}}
+
 ## Ikhtisar: Lobster Ingatan Masa Kecil
 
 Setiap kali mendengar kata lobster, ingatan saya bukan langsung tertuju pada restoran mahal. Saya justru teringat Teluk Sinabang, teringat Simpang Lima, teringat pelabuhan kargo yang dahulu menjadi lapangan bermain.
