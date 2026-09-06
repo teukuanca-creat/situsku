@@ -90,12 +90,15 @@ Pahami apakah berkas tersebut masuk dalam kategori administrasi kependudukan Duk
 #### FAQ Seputar Surat Pengantar RT/RW
 
 **Apakah surat pengantar RT/RW masih wajib untuk membuat KTP baru?**
+
 Kalau Anda sudah punya NIK sebelumnya, tidak wajib lagi sejak berlakunya Perpres Nomor 96 Tahun 2018. Namun kalau belum pernah punya NIK/e-KTP sama sekali, Anda tetap memerlukan pengantar dari RT, RW, atau kelurahan sebagai bukti domisili awal.
 
 **Kalau tidak perlu untuk KTP dan KK, kenapa kelurahan masih sering memintanya?**
+
 Karena penghapusan syarat lewat Perpres 96/2018 itu spesifik menyasar layanan administrasi kependudukan di Disdukcapil. Untuk layanan lain di tingkat kelurahan/desa seperti surat keterangan domisili atau izin usaha, kebijakan lokal masing-masing daerah masih bisa mensyaratkannya.
 
 **Apa bedanya surat pengantar RT dengan surat keterangan domisili?**
+
 Surat pengantar RT sifatnya sebagai syarat awal untuk mengurus dokumen lain di kelurahan/kecamatan, sementara surat keterangan domisili adalah dokumen final dengan kekuatan legal lebih tinggi yang bisa langsung dipakai sebagai bukti alamat resmi.
 
 **Referensi:**
