@@ -60,6 +60,7 @@ Olahraga justru jadi "alasan" terbaik buat bikin orang-orang saling kumpul dan k
 
 ​Dari sini saya makin paham, olahraga dalam tradisi melawat itu fungsinya jauh lebih luas dari sekadar kejar skor. Ia adalah media pemersatu yang mengemas silaturahmi dalam suasana yang cair, seru, dan penuh kegembiraan.
 
+> **Baca Juga:** [Manfaat Cengkeh](https://teukuanca.com/posts/minyak-cengkeh-untuk-apa/)
 ### Semarak Malam Keakraban yang Tak Kalah Seru
 Setelah keriuhan laga olahraga di siang dan sore hari mereda, jangan kira acaranya selesai begitu saja. 
 
@@ -96,6 +97,8 @@ Mungkin dulu menyampaikan pesan "kami mau datang melawat" harus dititipkan secar
 
 ​Perubahan zaman cuma mengubah aspek teknisnya saja, dari jalan kaki jadi naik motor, dari surat ucapan jadi pesan instan. 
 Sementara ruh utamanya, yaitu rasa solidaritas, kehangatan sosial, dan niat tulus menyambung silaturahmi, tetap berdiri kukuh tak tergoyahkan.
+
+{{< affiliate src="/images/speaker.webp" link="https://s.shopee.co.id/70Jv8sn0MQ" title="Speaker Bloototh (Harga Terjangkau)" >}}
 
 ## Melawat sebagai Cara Menjaga Hubungan Antardesa
 ​Hubungan baik antar gampong itu sebenarnya enggak bisa cuma diikat lewat rapat-rapat kaku pejabat desa. Justru, keakraban yang jujur itu lahir dari kegiatan bareng di lapangan, salah satunya ya lewat tradisi melawat ini.
