@@ -1,5 +1,5 @@
 ---
-title: 'Ketika Olahraga Tradisional Berdenyut di Simeulue'
+title: 'Main Layangan:Ketika Olahraga Tradisional Berdenyut di Sinabang'
 date: 2026-08-10
 draft: false
 featured_image: "/images/layangan.webp"
