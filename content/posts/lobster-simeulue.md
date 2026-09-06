@@ -159,7 +159,7 @@ Sebagai gambaran, analisis perdagangan lobster menunjukkan harga rata-rata lobst
 Ini karena perubahan komposisi pasokan dan meningkatnya produk dengan harga lebih rendah.
 Jadi prospeknya memang besar, tetapi bukan berarti harga akan selalu naik.
 
-{{< affiliate src="/images/drone.webp" link="https://s.shopee.co.id/9V1FhGeTvf" title="Drone(Bisa COD)" >}}
+{{< affiliate src="/images/drone.webp" link="https://s.shopee.co.id/7AdKvXdcsa" title="Drone Bisa COD (Harga Terjangkau)" >}}
 
 ## Ikhtisar: Lobster Ingatan Masa Kecil
 
