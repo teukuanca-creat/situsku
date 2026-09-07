@@ -11,7 +11,7 @@ tags: ["Melawat", "Tradisi Melawat di Simeulue"]
 ## Kunjungan dan Kebersamaan di Simeulue
 ​Ada satu kata yang rasanya sudah tidak asing lagi di telinga masyarakat Simeulue: yaitu **"melawat"**.
 
-Menurut saya, melawat itu jelas bukan cuma sekadar datang bertamu lalu pulang. Tradisi ini punya nilai sosial yang sangat dalam, sebuah momen hangat yang mempertemukan warga antar gampong lewat serangkaian kegiatan yang seru.
+Menurut saya, melawat itu jelas bukan cuma sekadar datang bertamu lalu pulang. Tradisi ini punya nilai sosial yang sangat dalam, sebuah momen hangat yang mempertemukan warga antar desa melalui serangkaian kegiatan yang seru.
 
 ​Bayangkan saja, dalam satu momen melawat, semuanya ada:
 * ​Penyambutan tamu yang hangat,
@@ -22,7 +22,7 @@ Menurut saya, melawat itu jelas bukan cuma sekadar datang bertamu lalu pulang. T
 
 ​Tradisi seperti ini sudah mengakar kuat sejak jaman nenek moyang. Begitu ada desa yang menggelar acara lawatan, keriuhannya bakal langsung terasa di mana-mana. 
 
-Warga berbondong-bondong datang bukan cuma buat nonton pertandingan, tapi memang niatnya ingin menyapa dan menjalin keakraban dengan saudara-saudara dari kampung tetangga.
+Warga berbondong-bondong datang bukan cuma buat nonton pertandingan, tapi memang niatnya ingin menyapa dan menjalin keakraban dengan saudara-saudara dari desa tetangga.
 
 ​Tak heran kalau berbagai catatan sejarah dan penelitian selalu menemukan hal yang sama: tradisi melawat ini masih sangat lestari sampai sekarang, menjadi "perekat" yang terus merawat kedamaian dan kebersamaan di tanah Simeulue.
 
@@ -35,7 +35,7 @@ Tradisi ini tak lepas dari jejak dakwah Teungku Diujung (Teungku Khalilullah) sa
 
 ​Secara sederhana, melawat bisa kita artikan sebagai kunjungan rombongan warga dari satu desa ke desa lainnya. Tapi jangan salah, ini bukan sekadar datang, salaman, lalu duduk ngobrol biasa!
 
-​Di baliknya, ada persiapan matang dari kedua belah pihak. Baik deda yang jadi tamu maupun des yang jadi tuan rumah, semuanya gotong royong menyiapkan rangkaian acara yang bakal digelar bersama.
+​Di baliknya, ada persiapan matang dari kedua belah pihak. Baik desa yang jadi tamu maupun desa yang jadi tuan rumah, semuanya gotong royong menyiapkan rangkaian acara yang bakal digelar bersama.
 
 ​Diwariskan turun-temurun dari generasi ke generasi lewat pengalaman nyata, tiap prosesi melawat selalu membawa pesan yang sama: menjaga silaturahmi dan mempererat tali persaudaraan. 
 
