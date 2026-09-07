@@ -1,8 +1,8 @@
 ---
 title: 'Bunga Rafflesia di Simeulue: Ketika Pulau ini Menyimpan Bunga Langka'
-date: 2026-09-06
+date: 2026-09-07
 draft: false
-featured_image: "/images/bunga-rafflesia-simeulue.webp"
+featured_image: "/images/reflesia.jpg"
 categories: ["Cerita Menarik"]
 description: "Kisah penemuan 11 titik bunga Rafflesia di hutan Simeulue, sekaligus mengenal perbedaannya dengan bunga bangkai dan kenapa temuan ini menarik perhatian BRIN."
 tags: ["Rafflesia", "Bunga Langka", "Biodiversitas Simeulue"]
@@ -26,7 +26,6 @@ Jadi, jika Rafflesia masih bisa mekar di tanah Simeulue, itu adalah stempel alam
 ​Bagi saya, letak geografis Simeulue yang terisolasi di Samudera Hindia justru menjadikannya seperti sebuah "laboratorium evolusi alami" yang tiada dua.
 
 Kekayaan botani di pulau ini bukan sekadar indah dipandang mata, tapi menyimpan nilai ilmiah serta kebanggaan yang tak ternilai harganya.
-
 
 ## Rafflesia atau Bunga Bangkai? Dua Hal yang Sering Tertukar
 Sebelum bercerita lebih jauh, ada satu kekeliruan umum yang perlu kita luruskan bersama, bahkan jujur saja, dulu saya sendiri sempat ikut bingung: Rafflesia dan bunga bangkai itu sebenarnya dua jenis tumbuhan yang berbeda jauh.
