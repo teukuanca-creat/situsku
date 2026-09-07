@@ -33,8 +33,10 @@ Sebelum bercerita lebih jauh, ada satu kekeliruan umum yang perlu kita luruskan 
 Tapi dari bentuk dan pola hidupnya, mereka adalah dua sosok yang tak sama:
 - **​Rafflesia** adalah tumbuhan parasit sejati. Dia sama sekali tak punya daun, batang, apalagi akar sendiri. Pola hidupnya menumpang sepenuhnya pada tanaman inang (seperti liana atau rotan hutan). Bentuknya melebar ke samping dengan kelopak merah merona yang terhampar di atas tanah.
 - **​Bunga Bangkai** (Amorphophallus titanum atau suweg raksasa) punya fisik yang berbanding terbalik. Bunga ini punya batang dan daun sendiri, dan ketika mekar bentuknya tinggi menjulang ke atas menyerupai terompet raksasa.
-​
-Di tengah masyarakat kita, kedua tumbuhan ini merupakan contoh paling klasik dari dua spesies yang paling sering tertukar atau dianggap sebagai satu tanaman yang sama. Karena informasi lama yang kurang tepat sempat beredar luas di masa lalu, kekeliruan ini pun wajar jika sempat meluas di berbagai kalangan masyarakat.
+
+Di tengah masyarakat kita, kedua tumbuhan ini merupakan contoh paling klasik dari dua spesies yang paling sering tertukar atau dianggap sebagai satu tanaman yang sama. 
+
+Karena informasi lama yang kurang tepat sempat beredar luas di masa lalu, kekeliruan ini pun wajar jika sempat meluas di berbagai kalangan masyarakat.
 
 ​Nah, khusus untuk yang ditemukan di rimba Simeulue kemarin, berdasarkan laporan resmi dan foto-foto di lapangan, jenis yang mekar itu adalah Rafflesia.
 
@@ -63,11 +65,12 @@ Secara alami, flora parasit langka ini hampir selalu tumbuh menyendiri (soliter)
 Namun, di rimba Simeulue, aturan alam itu seolah mendobrak kebiasaan.
 Ada beberapa alasan kuat mengapa fenomena Rafflesia di tanah Simeulue ini dinilai sangat langka oleh para ahli:
 - **Tumbuh Berkelompok dalam Jumlah Banyak:** Bukan cuma satu atau dua kuntum. Laporan resmi mencatat setidaknya ada 11 titik tumbuh Rafflesia yang letaknya saling berdekatan dalam satu area yang sama. Membayangkan belasan puspa langka mekar berdekatan saja sudah bikin merinding takjub!
-- **Fenomena Langka di Pulau Terisolasi:** Letak Simeulue yang terpisah samudera dari daratan utama Sumatera menjadikan penemuan ini makin berharga. Keberadaan populasi Rafflesia yang begitu subur membuktikan bahwa ekosistem pulau terluar kita menyimpan keanekaragaman hayati endemik yang masih sangat murni dan terjaga.
+- **Fenomena Langka di Pulau Terisolasi:** Letak Simeulue yang terpisah samudera dari daratan utama Sumatera menjadikan penemuan ini makin berharga. Keberadaan populasi Rafflesia yang begitu subur membuktikan bahwa ekosistem pulau terluar ini menyimpan keanekaragaman hayati endemik yang masih sangat murni dan terjaga.
 - **Mekar di Tengah Ekosistem Hutan Rotan:** Di kawasan pegunungan Simeulue Tengah, bunga-bunga ini ditemukan hidup berdampingan erat di area hutan yang didominasi rotan liar jenis sibalio. Ini menjadi sinyal kuat bahwa tanaman inangnya (Tetrastigma) tumbuh sangat subur di bawah naungan kanopi hutan rotan tersebut.
 - **Ketidaksengajaan yang Mendebarkan:** Penemuan mahakarya alam ini sama sekali tidak diawali oleh ekspedisi ilmiah yang terencana. "Ladang" bunga ini pertama kali ditemukan dan sempat merasa kaget serta ketakutan saat pertama kali berpapasan dengan wujud bunga raksasa yang tak biasa ini!
 
 > **Baca Juga:** [Mengenal Otus Umbra, Burung Hantu Endemik Simeulue](https://teukuanca.com/posts/otus-umbra-burung-hantu-mungil-endemik-simeulue-aceh/)
+
 ## Mengenal Lebih Jauh Sang Bunga Raksasa
 
 Kalau kita tarik garis sejarah ke belakang, Rafflesia pertama kali ditemukan di belantara hutan hujan Indonesia pada tahun 1818. 
@@ -75,16 +78,18 @@ Kalau kita tarik garis sejarah ke belakang, Rafflesia pertama kali ditemukan di 
 Lucunya, meski nama bunganya disematkan dari Sir Thomas Stamford Raffles (pemimpin ekspedisinya), sosok yang pertama kali melihat langsung di lapangan sebenarnya adalah seorang pemandu lokal yang bekerja untuk Dr. Joseph Arnold. 
 Dari gabungan dua nama tokoh itulah nama spesies kenamaan Rafflesia arnoldii lahir.
 
-Sebagai tumbuhan parasit, Rafflesia punya gaya hidup yang sangat ekstrem: ia sepenuhnya bergantung pada kebaikan tanaman inangnya. Ia tidak punya klorofil, daun, atau akar sendiri untuk memasak makanan. 
+Sebagai tumbuhan parasit, Rafflesia punya gaya hidup yang sangat ekstrem:
+- Ia sepenuhnya bergantung pada kebaikan tanaman inangnya.
+- Ia tidak punya klorofil, daun, atau akar sendiri untuk memasak makanan. 
 
 Bahkan aroma busuk menyerupai daging yang sering bikin kita mengernyitkan dahi sebenarnya adalah strategi bertahan hidup yang sangat cerdas. 
-Karena tidak punya nektar atau warna bunga manis untuk mengundang lebah, bau bangkai itulah satu-satunya cara Rafflesia memanggil lalat dan serangga pengurai untuk membantu proses penyerbukannya.
+- Karena tidak punya nektar atau warna bunga manis untuk mengundang lebah, bau bangkai itulah satu-satunya cara Rafflesia memanggil lalat dan serangga pengurai untuk membantu proses penyerbukannya.
 
 Di Indonesia sendiri, beberapa spesies Rafflesia yang sudah berhasil teridentifikasi antara lain:
-- Rafflesia arnoldii yang menjadi ikon endemik Sumatra Barat, Bengkulu, hingga Aceh.
-- Rafflesia borneensis di pedalaman Kalimantan.
-- Rafflesia horsfieldii di tanah Jawa.
-- Rafflesia patma yang mendiami kawasan cagar alam Nusa Kambangan dan Pangandaran.
+* **Rafflesia arnoldii**, yang menjadi ikon endemik Pulau Sumatra, dengan sebaran habitat mulai dari Aceh, Sumatra Barat, hingga Bengkulu.
+* **Rafflesia borneensis**, spesies endemik unik yang mendiami kawasan pedalaman hutan Kalimantan.
+* **Rafflesia patma**, yang mendiami kawasan pesisir selatan Jawa, khususnya di Cagar Alam Nusa Kambangan dan Pangandaran.
+* **Rafflesia zollingeriana**, spesies langka khas ujung timur Pulau Jawa yang dapat ditemukan di Taman Nasional Meru Betiri.
 
 ## Sebuah Pengingat Kecil dari Alam Simeulue
 Selama ini, banyak orang mengenal Simeulue dari bentang ombaknya yang megah bagi para peselancar, atau kearifan lokal Smong yang diwariskan para leluhur untuk menjaga keselamatan pulau. 
