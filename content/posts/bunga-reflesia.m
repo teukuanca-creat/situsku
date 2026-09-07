@@ -1,6 +1,6 @@
 ---
 title: 'Bunga Raflesia: Ketika Penemuannya  di Pulau Simeulue'
-date: 2026-09-07
+date: 2026-09-08
 draft: false
 featured_image: "/images/bunga-raflesia-shuttersrock.webp"
 categories: ["Cerita Menarik"]
