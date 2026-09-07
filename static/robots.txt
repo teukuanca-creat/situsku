@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /search/
 
-Sitemap: https://teukuanca-creat.github.io/situsku/sitemap.xml
+
+Sitemap: https://teukuanca.com/sitemap.xml
