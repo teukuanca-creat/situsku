@@ -57,30 +57,34 @@ Oleh karena itu, calon penerima hibah diharapkan selalu memeriksa dan memedomani
 
 ## Apakah Permendagri 32 Tahun 2011 Masih Berlaku?
 
-Ini menjadi bagian yang penting, mungkin  ada artikel di internet masih menggunakan regulasi lama.
+Sebagai catatan penting, saat ini masih sering ditemukan artikel atau referensi yang merujuk pada regulasi lama.
 
-Permendagri Nomor 32 Tahun 2011 tentang Pedoman Pemberian Hibah dan Bantuan Sosial yang Bersumber dari APBD sudah **tidak berlaku**.
+Berdasarkan Database Peraturan BPK, Permendagri Nomor 32 Tahun 2011 tentang Pedoman Pemberian Hibah dan Bantuan Sosial yang Bersumber dari APBD telah dicabut dan dinyatakan tidak berlaku oleh Permendagri Nomor 77 Tahun 2020.
 
 Database Peraturan BPK mencatat bahwa Permendagri Nomor 32 Tahun 2011 telah dicabut dengan **Permendagri Nomor 77 Tahun 2020**. 
 
-Demikian pula Permendagri Nomor 99 Tahun 2019 yang merupakan perubahan atas aturan tersebut sudah berstatus **tidak berlaku**.
+Begitu pula dengan Permendagri Nomor 99 Tahun 2019 yang merupakan perubahan atas aturan tersebut, saat ini statusnya juga sudah tidak berlaku.
 
-> Gunakan regulasi yang masih berlaku dan cek peraturan kepala daerah masing-masing.
+Oleh karena itu, mari kita pastikan untuk selalu merujuk pada regulasi terbaru yang berlaku, serta tetap memeriksa peraturan kepala daerah (perkada) di wilayah masing-masing.
 
 ## Apa Fungsi NPHD?
 Sering kali NPHD dianggap sebatas berkas administrasi pelengkap belaka. Padahal kenyataannya, dokumen ini punya peran yang sangat vital dalam setiap penyaluran hibah daerah.
+
+Berikut adalah fungsi utamanya:
 ### 1. Landasan Hukum Perjanjian
 Di sinilah semua kesepakatan dikunci. NPHD merincikan secara jelas berapa nominal dana yang diberikan, untuk apa dana tersebut dialokasikan, sampai aturan-aturan teknis penggunaannya.
-### 2. Memperjelas hak dan kewajiban masing-masing pihak
-Lewat dokumen ini, batasan tanggung jawab jadi sangat transparan. Pemda tahu apa kewajibannya sebagai penyalur, dan pihak penerima pun paham persis apa yang harus mereka kerjakan—terutama soal penggunaan dana dan kewajiban pelaporannya.
-### 3. Benteng administrasi yang sah
-NPHD menjadi bukti bahwa penyaluran dana publik ini punya dasar hukum yang kuat dan jejak administrasi yang jelas, bukan sekadar "titip uang" tanpa pegangan.
-### 4. Mencegah alokasi dana "salah sasaran"
-Karena peruntukan dan tujuannya sudah dikunci sejak awal di dalam NPHD, penerima tidak bisa seenaknya memakai uang tersebut untuk hal-hal di luar kesepakatan awal.
-### 5. Menjaga akuntabilitas uang rakyat
-Ingat, dana hibah itu bersumber dari APBD alias uang daerah. Jadi, penggunaannya wajib bisa dipertanggungjawabkan secara terbuka. 
 
-Adanya NPHD memudahkan proses pemantauan hingga pemeriksaan saat diaudit nanti, karena semua rujukannya sudah jelas dari awal.
+### 2. Kejelasan Hak dan Kewajiban Pihak Terkait
+Lewat dokumen ini, batasan tanggung jawab jadi sangat transparan. Pemda tahu apa kewajibannya sebagai penyalur, dan pihak penerima pun paham persis apa yang harus mereka kerjakan, terutama soal penggunaan dana dan kewajiban pelaporannya.
+
+### 3. Benteng Administrasi yang Sah
+NPHD menjadi bukti bahwa penyaluran dana publik ini punya dasar hukum yang kuat dan jejak administrasi yang jelas, bukan sekadar "titip uang" tanpa pegangan.
+
+### 4. Pencegah Alokasi Dana "Salah Sasaran"
+Karena peruntukan dan tujuannya sudah dikunci sejak awal di dalam NPHD, penerima tidak bisa seenaknya memakai uang tersebut untuk hal-hal di luar kesepakatan awal.
+
+### 5. Penjaga Akuntabilitas Uang Rakyat
+Ingat, dana hibah itu bersumber dari APBD alias uang daerah. Jadi, penggunaannya wajib bisa dipertanggungjawabkan secara terbuka. Adanya NPHD memudahkan proses pemantauan hingga pemeriksaan saat diaudit nanti, karena semua rujukannya sudah jelas dari awal.
 
 ## Siapa yang Menandatangani NPHD?
 Siapa sebenarnya yang berhak membubuhkan tanda tangan di dokumen NPHD? Jawabannya sangat bergantung pada aturan dan pembagian wewenang di masing-masing pemerintah daerah, yang biasanya diatur dalam Peraturan Kepala Daerah (Perkada).
