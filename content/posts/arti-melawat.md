@@ -64,16 +64,16 @@ Olahraga justru jadi "alasan" terbaik buat bikin orang-orang saling kumpul dan k
 ### Semarak Malam Keakraban yang Tak Kalah Seru
 Setelah keriuhan laga olahraga di siang dan sore hari mereda, jangan kira acaranya selesai begitu saja. 
 
-Begitu malam tiba, suasana gampong justru terasa makin hangat dan intim.
+Begitu malam tiba, suasana desa justru terasa makin hangat dan semarak.
 Warga kembali berbondong-bondong berkumpul untuk menikmati malam panggung gembira, mulai dari:
 * Pertunjukaseni tradisional,
 * Hiburan rakyat,
 * Sampai lomba-lomba keagamaan yang bikin suasana makin adem.
 
-Dari sini kelihatan jelas kalau melawat itu bukan cuma soal kejar skor di lapangan bola. Lebih dari itu, malam panggung ini jadi wadah edukasi yang manis banget buat generasi muda. 
-Anak-anak dan remaja gampong dapat ruang terbuka buat belajar, melatih mental, dan pamer bakat di depan warga banyak.
+Dari sini kelihatan jelas kalau melawat itu bukan cuma soal kejar skor di lapangan bola. Lebih dari itu, malam panggung ini jadi wadah edukasi yang manis sekali buat generasi muda. 
+Anak-anak dan remaja desa dapat ruang terbuka buat belajar, melatih mental, dan pamer bakat di depan warga banyak.
 
-Kalau diringkas, tradisi melawat ini keren banget karena bisa merangkum banyak hal sekaligus dalam satu momen:
+Kalau diringkas, tradisi melawat ini keren sekali karena bisa merangkum banyak hal sekaligus dalam satu momen:
 * **Olahraga:** Wadah seru-seruan dan ajang kebersamaan,
 * **Sosial & Silaturahmi:** Lem perekat antarwarga dan antargampong,
 * **Hiburan & Edukasi:** Ajang anak muda buat unjuk gigi, serta
