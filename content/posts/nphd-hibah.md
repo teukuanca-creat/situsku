@@ -4,7 +4,7 @@ date: 2026-09-07
 draft: false
 featured_image: "/images/ilustrasi-nphd.webp"
 categories: ["Regulasi"]
-description: "Memahami Apa Itu NPHD dan Regulasi Terbarunya yang harus Kita Ketahui"
+description: "Memahami Apa Itu NPHD dan Regulasi Terbarunya yang harus Anda Ketahui"
 tags: ["NPHD Hibah", "nphd singkatan dari"]
 ---
 
