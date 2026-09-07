@@ -1,5 +1,5 @@
 ---
-title: 'Bunga Rafflesia di Simeulue: Ketika Pulau ini Menyimpan Bunga Langka'
+title: 'Bunga Raflesia di Simeulue: Ketika Pulau ini Menyimpan Bunga Langka'
 date: 2026-09-07
 draft: false
 featured_image: "/images/reflesia.jpg"
