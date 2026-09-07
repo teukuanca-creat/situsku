@@ -2,7 +2,7 @@
 title: 'Bunga Raflesia: Ketika Penemuannya  di Pulau Simeulue'
 date: 2026-09-07
 draft: false
-featured_image: "/images/reflesia.jpg"
+featured_image: "/images/bunga-raflesia-shuttersrock.webp"
 categories: ["Cerita Menarik"]
 description: "Kisah penemuan 11 titik bunga Rafflesia di hutan Simeulue, sekaligus mengenal perbedaannya dengan bunga bangkai dan kenapa temuan ini menarik perhatian BRIN."
 tags: ["Rafflesia", "Bunga Langka", "Biodiversitas Simeulue"]
