@@ -44,33 +44,16 @@ Aturan inilah yang menjadi koridor utama dalam mengatur lalu lintas keuangan dae
 
 ## Dasar Hukum NPHD Hibah Terbaru
 
-Untuk memahami NPHD hibah, penting untuk membedakan antara regulasi yang masih berlaku dan aturan lama.
+Untuk memahami NPHD hibah secara tepat, penting bagi kita untuk membedakan antara regulasi yang masih berlaku dan aturan terdahulu.
 
-Dasar hukum utama yang perlu diperhatikan saat ini antara lain:
+Dasar hukum utama yang menjadi acuan saat ini meliputi:
+1. PP Nomor 12 Tahun 2019 tentang Pengelolaan Keuangan Daerah, yang mengatur tata kelola secara menyeluruh mulai dari perencanaan APBD, pelaksanaan, pertanggungjawaban, hingga pengawasan.
+2. Permendagri Nomor 77 Tahun 2020 tentang Pedoman Teknis Pengelolaan Keuangan Daerah, yang menjadi panduan operasional bagi pemerintah daerah, termasuk dalam penyaluran belanja hibah dan bantuan sosial.
+3. Peraturan Kepala Daerah (Perkada) yang mengatur tata cara penganggaran, pelaksanaan, hingga evaluasi hibah secara spesifik di masing-masing wilayah.
 
-### 1. PP Nomor 12 Tahun 2019
+Mengingat adanya dinamika aturan lokal tersebut, regulasi teknis hibah di Kabupaten Simeulue memiliki karakteristik tersendiri yang mungkin berbeda dengan kabupaten atau kota lain. 
 
-**Peraturan Pemerintah Nomor 12 Tahun 2019 tentang Pengelolaan Keuangan Daerah** merupakan salah satu dasar penting dalam pengelolaan keuangan daerah.
-
-PP ini mengatur lingkup pengelolaan keuangan daerah, mulai dari APBD, pelaksanaan dan penatausahaan, pelaporan, pertanggungjawaban, sampai pembinaan dan pengawasan.
-
-### 2. Permendagri Nomor 77 Tahun 2020
-
-Regulasi teknis yang sangat penting adalah **Peraturan Menteri Dalam Negeri Nomor 77 Tahun 2020 tentang Pedoman Teknis Pengelolaan Keuangan Daerah**.
-
-Permendagri ini menjadi pedoman teknis bagi pemerintah daerah dalam melaksanakan pengelolaan keuangan daerah.
-
-Termasuk di dalamnya ketentuan mengenai pengelolaan belanja hibah dan bantuan sosial.
-
-### 3. Peraturan Kepala Daerah
-
-Dalam praktiknya, pemerintah daerah juga dapat memiliki aturan daerah yang mengatur tata cara penganggaran, pelaksanaan, penatausahaan, pelaporan, pertanggungjawaban, monitoring, dan evaluasi hibah.
-
-> Karena itu, aturan teknis hibah di Kabupaten Simeulue belum tentu identik dengan aturan teknis di kabupaten atau kota lain.
-
-Hal ini penting diperhatikan oleh calon penerima hibah.
-
-Jangan hanya menggunakan contoh NPHD dari daerah lain tanpa memeriksa peraturan yang berlaku di daerah tempat hibah tersebut diberikan.
+Oleh karena itu, calon penerima hibah diharapkan selalu memeriksa dan memedomani peraturan daerah setempat, serta tidak langsung mengadopsi contoh dokumen NPHD dari wilayah lain tanpa penyesuaian regulasi yang berlaku.
 
 ## Apakah Permendagri 32 Tahun 2011 Masih Berlaku?
 
@@ -86,7 +69,7 @@ Demikian pula Permendagri Nomor 99 Tahun 2019 yang merupakan perubahan atas atur
 
 ## Apa Fungsi NPHD?
 Sering kali NPHD dianggap sebatas berkas administrasi pelengkap belaka. Padahal kenyataannya, dokumen ini punya peran yang sangat vital dalam setiap penyaluran hibah daerah.
-### 1. Landasan utama Perjanjian
+### 1. Landasan Hukum Perjanjian
 Di sinilah semua kesepakatan dikunci. NPHD merincikan secara jelas berapa nominal dana yang diberikan, untuk apa dana tersebut dialokasikan, sampai aturan-aturan teknis penggunaannya.
 ### 2. Memperjelas hak dan kewajiban masing-masing pihak
 Lewat dokumen ini, batasan tanggung jawab jadi sangat transparan. Pemda tahu apa kewajibannya sebagai penyalur, dan pihak penerima pun paham persis apa yang harus mereka kerjakan—terutama soal penggunaan dana dan kewajiban pelaporannya.
@@ -100,18 +83,16 @@ Ingat, dana hibah itu bersumber dari APBD alias uang daerah. Jadi, penggunaannya
 Adanya NPHD memudahkan proses pemantauan hingga pemeriksaan saat diaudit nanti, karena semua rujukannya sudah jelas dari awal.
 
 ## Siapa yang Menandatangani NPHD?
-​Siapa sebenarnya yang berhak membubuhkan tanda tangan di dokumen NPHD? 
-Jawabannya sangat bergantung pada aturan dan pembagian wewenang di masing-masing pemerintah daerah, yang biasanya diatur dalam Perda atau Peraturan Kepala Daerah.
+Siapa sebenarnya yang berhak membubuhkan tanda tangan di dokumen NPHD? Jawabannya sangat bergantung pada aturan dan pembagian wewenang di masing-masing pemerintah daerah, yang biasanya diatur dalam Peraturan Kepala Daerah (Perkada).
 
-​Namun, secara garis besar NPHD akan melibatkan:
-- ​Pemerintah daerah selaku pihak yang memberikan hibah;
-- ​Perangkat daerah (OPD) terkait yang membidangi sektor hibah tersebut;
-- ​Pejabat yang ditunjuk dan diberi kewenangan resmi untuk menandatangani dokumen; serta
-- Pimpinan lembaga atau organisasi yang menjadi pihak penerima hibah.
+Namun, secara garis besar, dokumen NPHD ditandatangani oleh dua pihak utama:
 
-​Satu hal penting yang perlu diingat: karena struktur organisasi dan pelimpahan wewenang di tiap daerah bisa berbeda-beda, jangan langsung menganggap pejabat penandatangan NPHD di satu daerah pasti sama persis dengan daerah lain.
+* **Pihak Pemberi Hibah:** Kepala Daerah (Gubernur/Bupati/Walikota), atau pejabat yang menerima pendelegasian wewenang secara resmi, seperti Kepala OPD/SKPD terkait atau Pejabat Pengelola Keuangan Daerah (PPKD).
+* **Pihak Penerima Hibah:** Pimpinan dari lembaga, organisasi, badan, atau kelompok masyarakat yang menjadi penerima manfaat hibah.
 
-​Agar tidak salah langkah, selalu cek kembali aturan teknis yang berlaku di daerah masing-masing.
+Satu hal penting yang perlu diingat: karena pelimpahan wewenang di tiap daerah bisa berbeda-beda, pejabat penandatangan NPHD di satu wilayah belum tentu sama dengan wilayah lain.
+
+Agar tidak salah langkah, selalu cek kembali aturan teknis atau Perkada yang berlaku di daerah masing-masing.
 
 ## Apa Saja Isi NPHD?
 
