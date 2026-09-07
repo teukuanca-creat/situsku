@@ -23,9 +23,7 @@ Penemuan ini menjadi bukti krusial yang melengkapi peta sebaran flora langka di 
 
 Jadi, jika Rafflesia masih bisa mekar di tanah Simeulue, itu adalah stempel alami yang membuktikan satu hal: ekosistem hutan Simeulue masih sangat sehat, murni, dan terjaga.
 
-​Menurut saya, letak geografis Simeulue yang sedikit jauh dari daratan Sumatera justru menjadikannya seperti sebuah "laboratorium evolusi alami" yang tiada dua.
-
-Kekayaan botani di pulau ini bukan sekadar indah dipandang mata, tapi menyimpan nilai ilmiah serta kebanggaan yang tak ternilai harganya.
+​Menurut saya, letak geografis Simeulue yang sedikit jauh dari daratan Sumatera justru menjadikannya seperti sebuah "laboratorium evolusi alami".
 
 ## Rafflesia atau Bunga Bangkai? Dua Hal yang Sering Tertukar
 Sebelum bercerita lebih jauh, ada satu kekeliruan umum yang perlu kita luruskan bersama, bahkan jujur saja, dulu saya sendiri sempat ikut bingung: Rafflesia dan bunga bangkai itu sebenarnya dua jenis tumbuhan yang berbeda jauh.
@@ -36,9 +34,9 @@ Tapi dari bentuk dan pola hidupnya, mereka adalah dua sosok yang tak sama:
 - **​Rafflesia** adalah tumbuhan parasit sejati. Dia sama sekali tak punya daun, batang, apalagi akar sendiri. Pola hidupnya menumpang sepenuhnya pada tanaman inang (seperti liana atau rotan hutan). Bentuknya melebar ke samping dengan kelopak merah merona yang terhampar di atas tanah.
 - **​Bunga Bangkai** (Amorphophallus titanum atau suweg raksasa) punya fisik yang berbanding terbalik. Bunga ini punya batang dan daun sendiri, dan ketika mekar bentuknya tinggi menjulang ke atas menyerupai terompet raksasa.
 ​
-Dua puspa ini memang sering sekali tertukar di tengah masyarakat kita. Bahkan saya pernah membaca sebuah cerita, ada guru sekolah dasar yang tanpa sadar mengajarkan ke murid-muridnya kalau keduanya adalah tumbuhan yang sama persis.
+Di tengah masyarakat kita, kedua tumbuhan ini merupakan contoh paling klasik dari dua spesies yang paling sering tertukar atau dianggap sebagai satu tanaman yang sama. Karena informasi lama yang kurang tepat sempat beredar luas di masa lalu, kekeliruan ini pun wajar jika sempat meluas di berbagai kalangan masyarakat.
 
-​Nah, khusus untuk kasus yang ditemukan di rimba Simeulue kemarin, berdasarkan laporan resmi dan foto-foto di lapangan, jenis yang mekar itu adalah Rafflesia.
+​Nah, khusus untuk yang ditemukan di rimba Simeulue kemarin, berdasarkan laporan resmi dan foto-foto di lapangan, jenis yang mekar itu adalah Rafflesia.
 
 ## Mengenal Rafflesia meijeri: Si Cilik yang Ditemukan di Simeulue
 ​Kebanyakan orang kalau mendengar kata Rafflesia pasti langsung membayangkan jenis Rafflesia arnoldii yang ukurannya raksasa, yang lebarnya bisa sampai 1 meter. 
