@@ -81,11 +81,10 @@ Kalau diringkas, tradisi melawat ini keren sekali karena bisa merangkum banyak h
 
 Ini jadi bukti nyata kalau bikin acara yang berkesan buat warga itu sebenarnya tak perlu konsep rumit yang mahal. Berbekal lapangan terbuka, warga yang kompak, beberapa perlombaan sederhana, dan niat tulus buat bersatu, sebuah momen indah bisa tercipta dan dikenang manis sampai puluhan tahun.
 
-Inilah alasan kenapa tradisi melawat akan selalu punya tempat istimewa dan begitu memikat di hati masyarakat Simeulue.
+Inilah alasan kenapa tradisi melawat akan selalu punya tempat istimewa dan begitu memikat di hati masyarakat.
 
 ### Dahulu vs Sekarang: Zaman Berubah, Esai Kebersamaan Tetap Sama
-​Kalau membaca catatan sejarah dan penelitian soal tradisi melawat di masa lalu, rasanya bikin kita yang hidup di zaman sekarang makin angkat topi.
-​Bayangkan, dulu orang-orang tua kita mengarungi tradisi melawat ini dengan sarana yang serba terbatas.
+​Kalau membaca catatan sejarah dan penelitian soal tradisi melawat di masa lalu. ​Bayangkan, dulu orang-orang tua mengarungi tradisi melawat ini dengan sarana yang serba terbatas, rasanya bikin kita yang hidup di zaman sekarang makin angkat topi.
 
 Ada cerita sejarah yang mencatat bagaimana warga Simeulue harus rela berjalan kaki menembus hutan, bahkan bertaruh nyawa mengarungi laut lepas menuju Aceh Selatan cuma modal perahu layar kecil!
 
@@ -127,14 +126,14 @@ Kuncinya ada di pembagian peran yang merata buat semua umur:
 
 ​Riset ilmiah terbaru pun mencatat hal yang sama, bahwa tradisi melawat antardesa di Simeulue ini masih sangat efektif menjaga ukhuwah, merawat rasa solidaritas, dan memperkuat identitas bersama warga.
 
-​Ini jadi bukti konkret bahwa melawat bukan cuma dongeng atau cerita nostalgia masa lalu. Ia adalah tradisi bernapas yang masih terus menjadi bagian dari denyut nadi kehidupan warga Simeulue hari ini.
+​Ini jadi bukti konkret bahwa melawat bukan cuma dongeng atau cerita nostalgia masa lalu. Ia adalah tradisi bernapas yang masih terus menjadi bagian dari denyut nadi kehidupan warga hari ini.
 
 ## Warisan Sosial yang Tak Pernah Usang
 ​Pada akhirnya, melawat adalah bukti nyata betapa indahnya cara masyarakat Simeulue merawat rasa persaudaraan, cukup lewat kunjungan hangat dan serangkaian kegiatan bersama.
 
 ​Di dalam satu perhelatan melawat, kita bisa melihat begitu banyaknya warna kehidupan yang menyatu: riuhnya laga olahraga, hangatnya panggung hiburan, ademnya kegiatan keagamaan, hingga momen langka di mana semua generasi, dari anak-anak sampai yang tua, bisa duduk dan tertawa bersama.
 
-​Berbagai penelitian pun sudah membuktikan bahwa melawat bukan sekadar ramah-tamah biasa. Ia punya fungsi sosial yang sangat nyata:
+​Berbagai penelitianpun sudah membuktikan bahwa melawat bukan sekadar ramah-tamah biasa. Ia punya fungsi sosial yang sangat nyata:
 ​* Mempererat tali silaturahmi antargampong
 * Membuka lingkaran pertemanan baru
 * Mengajarkan arti sportivitas di lapangan, serta
