@@ -104,3 +104,5 @@ Menurut saya ini adalah pesan hangat dari alam, sekaligus pengingat betapa berha
 * [InfoPublik. Pencari Rotan di Simeulue Temukan Ladang Bunga Langka.](https://infopublik.id/kategori/nusantara/750827/pencari-rotan-di-simeulue-temukan-ladang-bunga-langka)
 * [Good News From Indonesia. Banyak yang Salah Sangka, Rafflesia Bukanlah Bunga Bangkai.](https://www.goodnewsfromindonesia.id/2019/10/02/selama-ini-salah-sebut-rafflesia-arnoldii-ternyata-bukan-bunga-bangkai)
 * [Biodiversity Warriors Kehati. Rafflesia arnoldii, Si Raksasa dari Hutan Tropis Sumatera.](https://biodiversitywarriors.kehati.or.id/artikel/rafflesia-arnoldii-si-raksasa-dari-hutan-tropis-sumatera/)
+* [Bunga Terbesar di Dunia ditemukan tumbuh dikawasan Hutan Desa Lafakha](https://lafakha.gampong.id/berita/kategori/tumbuhan/bunga-terbesar-di-dunia-ditemukan-tumbuh-dikawasan-hutan-desa-lafakha)
+  
