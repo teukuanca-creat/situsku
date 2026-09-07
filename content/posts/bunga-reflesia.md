@@ -40,7 +40,7 @@ Karena informasi lama yang kurang tepat sempat beredar luas di masa lalu, kekeli
 
 ​Nah, khusus untuk yang ditemukan di rimba Simeulue kemarin, berdasarkan laporan resmi dan foto-foto di lapangan, jenis yang mekar itu adalah Rafflesia.
 
-## Mengenal Raflesia meijeri: Si Cilik yang Ditemukan di Simeulue
+## Mengenal Raflesia meijeri: Si Cilik yang di Temukan di Simeulue
 ​Kebanyakan orang kalau mendengar kata Raflesia pasti langsung membayangkan jenis Raflesia arnoldii yang ukurannya raksasa, yang lebarnya bisa sampai 1 meter. 
 
 Tapi uniknya, spesies yang ditemukan di hutan Simeulue ini punya identitas yang sedikit berbeda, yaitu **Raflesia Meijeri**.
