@@ -23,7 +23,7 @@ Penemuan ini menjadi bukti krusial yang melengkapi peta sebaran flora langka di 
 
 Jadi, jika Rafflesia masih bisa mekar di tanah Simeulue, itu adalah stempel alami yang membuktikan satu hal: ekosistem hutan Simeulue masih sangat sehat, murni, dan terjaga.
 
-​Bagi saya, letak geografis Simeulue yang terisolasi di Samudera Hindia justru menjadikannya seperti sebuah "laboratorium evolusi alami" yang tiada dua.
+​Menurut saya, letak geografis Simeulue yang sedikit jauh dari daratan Sumatera justru menjadikannya seperti sebuah "laboratorium evolusi alami" yang tiada dua.
 
 Kekayaan botani di pulau ini bukan sekadar indah dipandang mata, tapi menyimpan nilai ilmiah serta kebanggaan yang tak ternilai harganya.
 
