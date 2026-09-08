@@ -716,7 +716,7 @@
                 </div>
                 {{ end }}
 
-                <!-- WIDGET 5: ARTIKEL BULAN INI -->
+                                <!-- WIDGET 5: ARTIKEL BULAN INI (5 POSTINGAN + TOMBOL SELANJUTNYA) -->
                 <div class="widget sidebar-widget" id="widget-bulan-ini">
                     <h3 class="widget__title sidebar-widget__title">Artikel Bulan Ini</h3>
                     {{ $currentMonth := now.Format "2006-01" }}
@@ -730,7 +730,7 @@
                     {{ $totalMonth := len $monthPosts }}
                     
                     <ul style="list-style:none; padding:0; margin:0;" id="bulanIniList">
-                        {{ range first 10 $monthPosts }}
+                        {{ range first 5 $monthPosts }}
                         <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
                             <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
                         </li>
@@ -739,7 +739,7 @@
                     
                     <div style="display:flex; justify-content:space-between; align-items:center; margin-top:12px;">
                         <span style="font-size:12px; color:#666;">Total: {{ $totalMonth }} postingan</span>
-                        {{ if gt $totalMonth 10 }}
+                        {{ if gt $totalMonth 5 }}
                         <button onclick="loadMoreBulanIni()" id="btnLoadMoreBulanIni" style="background:var(--gold); color:#fff; border:none; padding:5px 15px; border-radius:5px; cursor:pointer; font-size:12px; font-weight:600;">
                             Selanjutnya &raquo;
                         </button>
@@ -750,7 +750,7 @@
                     </div>
                 </div>
 
-                <!-- WIDGET 6: ARTIKEL BULAN SEBELUMNYA -->
+                <!-- WIDGET 6: ARTIKEL BULAN SEBELUMNYA (5 POSTINGAN + TOMBOL SELANJUTNYA) -->
                 <div class="widget sidebar-widget" id="widget-bulan-lalu">
                     <h3 class="widget__title sidebar-widget__title">Artikel Bulan Sebelumnya</h3>
                     {{ $prevMonthSidebar := now.AddDate 0 -1 0 | dateFormat "2006-01" }}
@@ -763,7 +763,7 @@
                     {{ $totalPrev := len $prevPostsSidebar }}
                     
                     <ul style="list-style:none; padding:0; margin:0;" id="bulanLaluList">
-                        {{ range first 10 $prevPostsSidebar }}
+                        {{ range first 5 $prevPostsSidebar }}
                         <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
                             <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
                         </li>
@@ -772,7 +772,7 @@
                     
                     <div style="display:flex; justify-content:space-between; align-items:center; margin-top:12px;">
                         <span style="font-size:12px; color:#666;">Total: {{ $totalPrev }} postingan</span>
-                        {{ if gt $totalPrev 10 }}
+                        {{ if gt $totalPrev 5 }}
                         <button onclick="loadMoreBulanLalu()" id="btnLoadMoreBulanLalu" style="background:var(--gold); color:#fff; border:none; padding:5px 15px; border-radius:5px; cursor:pointer; font-size:12px; font-weight:600;">
                             Selanjutnya &raquo;
                         </button>
@@ -782,7 +782,6 @@
                         Memuat...
                     </div>
                 </div>
-
             </aside>
             <!-- END SIDEBAR -->
 
@@ -868,8 +867,10 @@
             }
         };
 
-        // LOAD MORE - BULAN INI
-        var bulanIniOffset = 10;
+        // ============================================================
+        // LOAD MORE - BULAN INI (5 per klik)
+        // ============================================================
+        var bulanIniOffset = 5;
         var bulanIniTotal = {{ $totalMonth }};
         var bulanIniData = [
             {{ range $index, $post := $monthPosts }}
@@ -921,8 +922,10 @@
             }, 500);
         }
 
-        // LOAD MORE - BULAN SEBELUMNYA
-        var bulanLaluOffset = 10;
+        // ============================================================
+        // LOAD MORE - BULAN SEBELUMNYA (5 per klik)
+        // ============================================================
+        var bulanLaluOffset = 5;
         var bulanLaluTotal = {{ $totalPrev }};
         var bulanLaluData = [
             {{ range $index, $post := $prevPostsSidebar }}
