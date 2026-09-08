@@ -449,32 +449,40 @@
         </div>
     </header>
 
-    <!-- MENU -->
-    <nav class="menu" id="mainMenu">
+        <!-- MENU - SEKARANG DI DALAM CONTAINER (TIDAK FULL WIDTH) -->
+    <div style="background: #eeeee4; border-top: 2px solid var(--gold); border-bottom: 2px solid var(--gold);">
         <div class="container">
-            <ul class="menu__list" id="menuList">
-                <li class="menu__item"><a href="https://teukuanca.com/" class="menu__link">Home</a></li>
-                <li class="menu__item">
-                    <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Direktori Publik ▼</a>
-                    <ul class="menu__list">
-                        <li class="menu__item"><a href="https://teukuanca.com/categories/regulasi/" class="menu__link">Regulasi</a></li>
-                        <li class="menu__item"><a href="https://teukuanca.com/categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
-                        <li class="menu__item"><a href="https://teukuanca.com/categories/edukasi/" class="menu__link">Edukasi</a></li>
-                    </ul>
-                </li>
-                <li class="menu__item">
-                    <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Gaya Hidup ▼</a>
-                    <ul class="menu__list">
-                        <li class="menu__item"><a href="https://teukuanca.com/categories/seni/" class="menu__link">Seni</a></li>
-                        <li class="menu__item"><a href="https://teukuanca.com/categories/travelling/" class="menu__link">Travelling</a></li>
-                        <li class="menu__item"><a href="https://teukuanca.com/categories/kreativitas/" class="menu__link">Kreativitas</a></li>
-                    </ul>
-                </li>
-                <li class="menu__item"><a href="https://teukuanca.com/pages/tentang-saya/" class="menu__link">Tentang Saya</a></li>
-                <li class="menu__item"><a href="https://teukuanca.com/pages/hubungi-saya/" class="menu__link">Hubungi Saya</a></li>
-            </ul>
+            <nav class="menu" id="mainMenu" style="background: transparent; border: none;">
+                <ul class="menu__list" id="menuList" style="display:flex; flex-wrap:wrap; list-style:none; margin:0; padding:0;">
+                    <li class="menu__item" style="position:relative;">
+                        <a href="https://teukuanca.com/" class="menu__link" style="display:block; padding:12px 18px; color:#222222; font-weight:bold; text-transform:uppercase; font-size:13px; text-decoration:none;">Home</a>
+                    </li>
+                    <li class="menu__item" style="position:relative;">
+                        <a href="#" class="menu__link" onclick="toggleSubmenu(this)" style="display:block; padding:12px 18px; color:#222222; font-weight:bold; text-transform:uppercase; font-size:13px; text-decoration:none; cursor:pointer;">Direktori Publik ▼</a>
+                        <ul class="menu__list" style="display:none; position:absolute; top:100%; left:0; background:#9e8f78; min-width:200px; z-index:100; list-style:none; padding:0; margin:0;">
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/regulasi/" class="menu__link" style="display:block; padding:12px 18px; color:#fff; font-weight:bold; font-size:13px; text-decoration:none;">Regulasi</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/cerita-menarik/" class="menu__link" style="display:block; padding:12px 18px; color:#fff; font-weight:bold; font-size:13px; text-decoration:none;">Cerita Menarik</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/edukasi/" class="menu__link" style="display:block; padding:12px 18px; color:#fff; font-weight:bold; font-size:13px; text-decoration:none;">Edukasi</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu__item" style="position:relative;">
+                        <a href="#" class="menu__link" onclick="toggleSubmenu(this)" style="display:block; padding:12px 18px; color:#222222; font-weight:bold; text-transform:uppercase; font-size:13px; text-decoration:none; cursor:pointer;">Gaya Hidup ▼</a>
+                        <ul class="menu__list" style="display:none; position:absolute; top:100%; left:0; background:#9e8f78; min-width:200px; z-index:100; list-style:none; padding:0; margin:0;">
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/seni/" class="menu__link" style="display:block; padding:12px 18px; color:#fff; font-weight:bold; font-size:13px; text-decoration:none;">Seni</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/travelling/" class="menu__link" style="display:block; padding:12px 18px; color:#fff; font-weight:bold; font-size:13px; text-decoration:none;">Travelling</a></li>
+                            <li class="menu__item"><a href="https://teukuanca.com/categories/kreativitas/" class="menu__link" style="display:block; padding:12px 18px; color:#fff; font-weight:bold; font-size:13px; text-decoration:none;">Kreativitas</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu__item" style="position:relative;">
+                        <a href="https://teukuanca.com/pages/tentang-saya/" class="menu__link" style="display:block; padding:12px 18px; color:#222222; font-weight:bold; text-transform:uppercase; font-size:13px; text-decoration:none;">Tentang Saya</a>
+                    </li>
+                    <li class="menu__item" style="position:relative;">
+                        <a href="https://teukuanca.com/pages/hubungi-saya/" class="menu__link" style="display:block; padding:12px 18px; color:#222222; font-weight:bold; text-transform:uppercase; font-size:13px; text-decoration:none;">Hubungi Saya</a>
+                    </li>
+                </ul>
+            </nav>
         </div>
-    </nav>
+    </div>
 
     <!-- Search Box -->
     <div id="searchBox" style="display:none; background:#fff; padding:15px 0; border-bottom:1px solid #e0e0e0;">
