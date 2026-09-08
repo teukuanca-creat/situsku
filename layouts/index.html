@@ -421,112 +421,154 @@
                  ============================================================ -->
             <aside class="sidebar">
 
-                <!-- WIDGET 1: TERPOPULER (dengan nomor 1-5 ala Liputan6) -->
-                <div class="widget sidebar-widget sidebar-widget--popular">
-                    <h3 class="widget__title sidebar-widget__title">Terpopuler</h3>
-                    <ol class="sidebar-widget__list--numbered">
-                        {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-                        <li class="sidebar-widget__item--numbered">
-                            <span class="sidebar-widget__number"></span>
-                            <div class="sidebar-widget__number-content">
-                                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__title-text">{{ .Title }}</a>
-                                <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
-                            </div>
-                        </li>
-                        {{ end }}
-                    </ol>
+    <!-- ============================================================
+         WIDGET 1: TERPOPULER (dengan nomor 1-5 ala Liputan6)
+         ============================================================ -->
+    <div class="widget sidebar-widget sidebar-widget--popular">
+        <h3 class="widget__title sidebar-widget__title">Terpopuler</h3>
+        <ol class="sidebar-widget__list--numbered">
+            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+            <li class="sidebar-widget__item--numbered">
+                <span class="sidebar-widget__number"></span>
+                <div class="sidebar-widget__number-content">
+                    <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__title-text">{{ .Title }}</a>
+                    <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
                 </div>
+            </li>
+            {{ end }}
+        </ol>
+    </div>
 
-                <!-- WIDGET 2: ARTIKEL TERKINI (dengan Thumbnail) -->
-                <div class="widget sidebar-widget">
-                    <h3 class="widget__title sidebar-widget__title">Berita Terkini</h3>
-                    <ul style="list-style:none; padding:0; margin:0;">
-                        {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-                        <li style="padding:10px 0; border-bottom:1px solid #f3f4f6;">
-                            <a href="https://teukuanca.com{{ .RelPermalink }}" style="display:flex; gap:12px; align-items:flex-start; text-decoration:none; color:#1f2937;">
-                                {{ if .Params.featured_image }}
-                                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width:70px; height:70px; min-width:70px; object-fit:cover; border-radius:6px; background:#f3f4f6; flex-shrink:0;">
-                                {{ else }}
-                                <img src="/images/default-thumbnail.jpg" alt="{{ .Title }}" style="width:70px; height:70px; min-width:70px; object-fit:cover; border-radius:6px; background:#f3f4f6; flex-shrink:0;">
-                                {{ end }}
-                                <div style="flex:1; display:flex; flex-direction:column; gap:2px;">
-                                    <span style="font-size:14px; font-weight:600; line-height:1.5; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</span>
-                                    <time style="font-size:11px; color:#9ca3af;">{{ .Date.Format "15:04" }}</time>
-                                </div>
-                            </a>
-                        </li>
-                        {{ end }}
-                    </ul>
-                </div>
-
-                <!-- WIDGET 3: KATEGORI -->
-                <div class="widget sidebar-widget">
-                    <h3 class="widget__title sidebar-widget__title">Kategori</h3>
-                    <ul style="list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:4px;">
-                        {{ range .Site.Taxonomies.categories }}
-                        <li>
-                            <a href="https://teukuanca.com/categories/{{ .Page.Title | urlize }}/" style="display:flex; justify-content:space-between; align-items:center; padding:8px 14px; background:#f9fafb; border-radius:6px; text-decoration:none; color:#1f2937; font-size:13px; font-weight:500; transition:all 0.2s ease;">
-                                <span>{{ .Page.Title }}</span>
-                                <span style="color:#9ca3af; font-size:11px; font-weight:400; background:#e5e7eb; padding:0px 8px; border-radius:12px;">{{ .Count }}</span>
-                            </a>
-                        </li>
-                        {{ end }}
-                    </ul>
-                </div>
-
-                <!-- WIDGET 4: TAG CLOUD -->
-                {{ if .Site.Taxonomies.tags }}
-                <div class="widget sidebar-widget">
-                    <h3 class="widget__title sidebar-widget__title">Trending Topics</h3>
-                    <div style="display:flex; flex-wrap:wrap; gap:6px;">
-                        {{ range first 15 (sort .Site.Taxonomies.tags "Count" "desc") }}
-                        <a href="https://teukuanca.com/tags/{{ .Page.Title | urlize }}/" style="display:inline-block; padding:4px 12px; background:#f3f4f6; border-radius:20px; font-size:11px; font-weight:500; color:#1f2937; text-decoration:none; transition:all 0.2s ease;">
-                            {{ .Page.Title }}
-                            <span style="font-size:10px; color:#9ca3af;">{{ .Count }}</span>
-                        </a>
-                        {{ end }}
+    <!-- ============================================================
+         WIDGET 2: ARTIKEL TERKINI (dengan Thumbnail)
+         ============================================================ -->
+    <div class="widget sidebar-widget">
+        <h3 class="widget__title sidebar-widget__title">Berita Terkini</h3>
+        <ul style="list-style:none; padding:0; margin:0;">
+            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+            <li style="padding:10px 0; border-bottom:1px solid #f3f4f6;">
+                <a href="https://teukuanca.com{{ .RelPermalink }}" style="display:flex; gap:12px; align-items:flex-start; text-decoration:none; color:#1f2937;">
+                    {{ if .Params.featured_image }}
+                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width:70px; height:70px; min-width:70px; object-fit:cover; border-radius:6px; background:#f3f4f6; flex-shrink:0;">
+                    {{ else }}
+                    <img src="/images/default-thumbnail.jpg" alt="{{ .Title }}" style="width:70px; height:70px; min-width:70px; object-fit:cover; border-radius:6px; background:#f3f4f6; flex-shrink:0;">
+                    {{ end }}
+                    <div style="flex:1; display:flex; flex-direction:column; gap:2px;">
+                        <span style="font-size:14px; font-weight:600; line-height:1.5; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</span>
+                        <time style="font-size:11px; color:#9ca3af;">{{ .Date.Format "15:04" }}</time>
                     </div>
-                </div>
-                {{ end }}
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
 
-                <!-- WIDGET 5: ARTIKEL BULAN INI -->
-                <div class="widget sidebar-widget">
-                    <h3 class="widget__title sidebar-widget__title">Artikel Bulan Ini</h3>
-                    {{ $currentMonth := now.Format "2006-01" }}
-                    {{ $currentPosts := where .Site.RegularPages "Section" "posts" }}
-                    {{ $monthCount := 0 }}
-                    <ul style="list-style:none; padding:0; margin:0;">
-                        {{ range $currentPosts }}
-                        {{ if eq (.Date.Format "2006-01") $currentMonth }}
-                        {{ $monthCount = add $monthCount 1 }}
-                        <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
-                            <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
-                        </li>
-                        {{ end }}
-                        {{ end }}
-                    </ul>
-                    <p style="font-size:12px; color:#666; margin-top:10px;">Total: {{ $monthCount }} postingan</p>
-                </div>
+    <!-- ============================================================
+         WIDGET 3: KATEGORI
+         ============================================================ -->
+    <div class="widget sidebar-widget">
+        <h3 class="widget__title sidebar-widget__title">Kategori</h3>
+        <ul style="list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:4px;">
+            {{ range .Site.Taxonomies.categories }}
+            <li>
+                <a href="https://teukuanca.com/categories/{{ .Page.Title | urlize }}/" style="display:flex; justify-content:space-between; align-items:center; padding:8px 14px; background:#f9fafb; border-radius:6px; text-decoration:none; color:#1f2937; font-size:13px; font-weight:500; transition:all 0.2s ease;">
+                    <span>{{ .Page.Title }}</span>
+                    <span style="color:#9ca3af; font-size:11px; font-weight:400; background:#e5e7eb; padding:0px 8px; border-radius:12px;">{{ .Count }}</span>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
 
-                <!-- WIDGET 6: ARTIKEL BULAN SEBELUMNYA -->
-                <div class="widget sidebar-widget">
-                    <h3 class="widget__title sidebar-widget__title">Artikel Bulan Sebelumnya</h3>
-                    {{ $prevMonth := now.AddDate 0 -1 0 | dateFormat "2006-01" }}
-                    {{ $prevCount := 0 }}
-                    <ul style="list-style:none; padding:0; margin:0;">
-                        {{ range $currentPosts }}
-                        {{ if eq (.Date.Format "2006-01") $prevMonth }}
-                        {{ $prevCount = add $prevCount 1 }}
-                        <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
-                            <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
-                        </li>
-                        {{ end }}
-                        {{ end }}
-                    </ul>
-                    <p style="font-size:12px; color:#666; margin-top:10px;">Total: {{ $prevCount }} postingan</p>
-                </div>
+    <!-- ============================================================
+         WIDGET 4: TAG CLOUD
+         ============================================================ -->
+    {{ if .Site.Taxonomies.tags }}
+    <div class="widget sidebar-widget">
+        <h3 class="widget__title sidebar-widget__title">Trending Topics</h3>
+        <div style="display:flex; flex-wrap:wrap; gap:6px;">
+            {{ range first 15 (sort .Site.Taxonomies.tags "Count" "desc") }}
+            <a href="https://teukuanca.com/tags/{{ .Page.Title | urlize }}/" style="display:inline-block; padding:4px 12px; background:#f3f4f6; border-radius:20px; font-size:11px; font-weight:500; color:#1f2937; text-decoration:none; transition:all 0.2s ease;">
+                {{ .Page.Title }}
+                <span style="font-size:10px; color:#9ca3af;">{{ .Count }}</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
 
-            </aside>
+    <!-- ============================================================
+         WIDGET 5: ARTIKEL BULAN INI (10 Artikel + Tombol Selanjutnya)
+         ============================================================ -->
+    <div class="widget sidebar-widget" id="widget-bulan-ini">
+        <h3 class="widget__title sidebar-widget__title">Artikel Bulan Ini</h3>
+        {{ $currentMonth := now.Format "2006-01" }}
+        {{ $currentPosts := where .Site.RegularPages "Section" "posts" }}
+        {{ $monthPosts := slice }}
+        {{ range $currentPosts }}
+            {{ if eq (.Date.Format "2006-01") $currentMonth }}
+                {{ $monthPosts = $monthPosts | append . }}
+            {{ end }}
+        {{ end }}
+        {{ $totalMonth := len $monthPosts }}
+        
+        <ul style="list-style:none; padding:0; margin:0;" id="bulanIniList">
+            {{ range first 10 $monthPosts }}
+            <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
+                <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+        
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-top:12px;">
+            <span style="font-size:12px; color:#666;">Total: {{ $totalMonth }} postingan</span>
+            {{ if gt $totalMonth 10 }}
+            <button onclick="loadMoreBulanIni()" id="btnLoadMoreBulanIni" style="background:var(--gold); color:#fff; border:none; padding:5px 15px; border-radius:5px; cursor:pointer; font-size:12px; font-weight:600;">
+                Selanjutnya &raquo;
+            </button>
+            {{ end }}
+        </div>
+        <div id="loadingBulanIni" style="display:none; text-align:center; padding:10px 0; font-size:12px; color:#666;">
+            Memuat...
+        </div>
+    </div>
+
+    <!-- ============================================================
+         WIDGET 6: ARTIKEL BULAN SEBELUMNYA (10 Artikel + Tombol Selanjutnya)
+         ============================================================ -->
+    <div class="widget sidebar-widget" id="widget-bulan-lalu">
+        <h3 class="widget__title sidebar-widget__title">Artikel Bulan Sebelumnya</h3>
+        {{ $prevMonth := now.AddDate 0 -1 0 | dateFormat "2006-01" }}
+        {{ $prevPosts := slice }}
+        {{ range $currentPosts }}
+            {{ if eq (.Date.Format "2006-01") $prevMonth }}
+                {{ $prevPosts = $prevPosts | append . }}
+            {{ end }}
+        {{ end }}
+        {{ $totalPrev := len $prevPosts }}
+        
+        <ul style="list-style:none; padding:0; margin:0;" id="bulanLaluList">
+            {{ range first 10 $prevPosts }}
+            <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
+                <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+        
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-top:12px;">
+            <span style="font-size:12px; color:#666;">Total: {{ $totalPrev }} postingan</span>
+            {{ if gt $totalPrev 10 }}
+            <button onclick="loadMoreBulanLalu()" id="btnLoadMoreBulanLalu" style="background:var(--gold); color:#fff; border:none; padding:5px 15px; border-radius:5px; cursor:pointer; font-size:12px; font-weight:600;">
+                Selanjutnya &raquo;
+            </button>
+            {{ end }}
+        </div>
+        <div id="loadingBulanLalu" style="display:none; text-align:center; padding:10px 0; font-size:12px; color:#666;">
+            Memuat...
+        </div>
+    </div>
+
+</aside>
         </div>
 
         <!-- GRID TITLE -->
@@ -659,6 +701,113 @@
                 btn.classList.remove('show');
             }
         };
+
+    // ============================================================
+    // LOAD MORE - ARTIKEL BULAN INI
+    // ============================================================
+    var bulanIniOffset = 10;
+    var bulanIniTotal = {{ $totalMonth }};
+    var bulanIniData = [
+        {{ range $index, $post := $monthPosts }}
+        {
+            title: {{ $post.Title | jsonify }},
+            url: {{ $post.RelPermalink | jsonify }}
+        }{{ if ne (add $index 1) $totalMonth }},{{ end }}
+        {{ end }}
+    ];
+
+    function loadMoreBulanIni() {
+        var btn = document.getElementById('btnLoadMoreBulanIni');
+        var loading = document.getElementById('loadingBulanIni');
+        var list = document.getElementById('bulanIniList');
+        
+        loading.style.display = 'block';
+        btn.style.display = 'none';
+
+        setTimeout(function() {
+            var nextItems = bulanIniData.slice(bulanIniOffset, bulanIniOffset + 5);
+            var hasMore = bulanIniOffset + 5 < bulanIniTotal;
+
+            nextItems.forEach(function(item) {
+                var li = document.createElement('li');
+                li.style.cssText = 'padding:6px 0; border-bottom:1px solid #f3f4f6;';
+                var a = document.createElement('a');
+                a.href = 'https://teukuanca.com' + item.url;
+                a.style.cssText = 'font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;';
+                a.textContent = item.title;
+                li.appendChild(a);
+                list.appendChild(li);
+            });
+
+            bulanIniOffset += 5;
+            loading.style.display = 'none';
+
+            if (hasMore) {
+                btn.style.display = 'inline-block';
+            } else {
+                btn.style.display = 'none';
+                var info = document.querySelector('#widget-bulan-ini .widget__title');
+                var span = document.createElement('span');
+                span.style.cssText = 'font-size:11px; color:#666; font-weight:400; margin-left:8px;';
+                span.textContent = '(Semua dimuat)';
+                info.appendChild(span);
+            }
+        }, 500);
+    }
+
+    // ============================================================
+    // LOAD MORE - ARTIKEL BULAN SEBELUMNYA
+    // ============================================================
+    var bulanLaluOffset = 10;
+    var bulanLaluTotal = {{ $totalPrev }};
+    var bulanLaluData = [
+        {{ range $index, $post := $prevPosts }}
+        {
+            title: {{ $post.Title | jsonify }},
+            url: {{ $post.RelPermalink | jsonify }}
+        }{{ if ne (add $index 1) $totalPrev }},{{ end }}
+        {{ end }}
+    ];
+
+    function loadMoreBulanLalu() {
+        var btn = document.getElementById('btnLoadMoreBulanLalu');
+        var loading = document.getElementById('loadingBulanLalu');
+        var list = document.getElementById('bulanLaluList');
+        
+        loading.style.display = 'block';
+        btn.style.display = 'none';
+
+        setTimeout(function() {
+            var nextItems = bulanLaluData.slice(bulanLaluOffset, bulanLaluOffset + 5);
+            var hasMore = bulanLaluOffset + 5 < bulanLaluTotal;
+
+            nextItems.forEach(function(item) {
+                var li = document.createElement('li');
+                li.style.cssText = 'padding:6px 0; border-bottom:1px solid #f3f4f6;';
+                var a = document.createElement('a');
+                a.href = 'https://teukuanca.com' + item.url;
+                a.style.cssText = 'font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;';
+                a.textContent = item.title;
+                li.appendChild(a);
+                list.appendChild(li);
+            });
+
+            bulanLaluOffset += 5;
+            loading.style.display = 'none';
+
+            if (hasMore) {
+                btn.style.display = 'inline-block';
+            } else {
+                btn.style.display = 'none';
+                var info = document.querySelector('#widget-bulan-lalu .widget__title');
+                var span = document.createElement('span');
+                span.style.cssText = 'font-size:11px; color:#666; font-weight:400; margin-left:8px;';
+                span.textContent = '(Semua dimuat)';
+                info.appendChild(span);
+            }
+        }, 500);
+    }
+        
     </script>
 </body>
 </html>
