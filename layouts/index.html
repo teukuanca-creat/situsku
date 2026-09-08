@@ -358,7 +358,7 @@
         /* ============================================================
            FOOTER
            ============================================================ */
-        .footer { background: #ff3800; color: #ffffff; padding: 30px 0; margin-top: 30px; font-size: 14px; border-top: 3px solid var(--gold); }
+        .footer { background: #ff3800; color: #ffffff; padding: 30px 0; margin-top: 30px; font-size: 14px; border-top: 3px solid #ff3800; }
         .footer a { color: #ffffff; }
         .footer a:hover { text-decoration: underline; }
         .footer__container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; padding: 10px 0; }
@@ -664,7 +664,7 @@
             <div class="primary">
 
                 <!-- SECTION 1: POSTINGAN TERBARU -->
-                <h2 style="font-size:20px; font-weight:bold; border-bottom:3px solid #9e7f3e; padding-bottom:10px; margin:20px 0; color: #22222;">Postingan Terbaru</h2>
+                <h2 style="font-size:20px; font-weight:bold; border-bottom:3px solid #ff3800; padding-bottom:10px; margin:20px 0; color: #22222;">Postingan Terbaru</h2>
                 
                 {{ range first 1 (where .Site.RegularPages "Section" "posts") }}
                 <div class="featured-article">
@@ -692,7 +692,7 @@
                     {{ end }}
                 {{ end }}
 
-                <h2 style="font-size:18px; font-weight:bold; border-bottom:3px solid #9e7f3e; padding-bottom:10px; margin:30px 0 15px 0; color:#222;">
+                <h2 style="font-size:18px; font-weight:bold; border-bottom:3px solid #ff3800; padding-bottom:10px; margin:30px 0 15px 0; color:#222;">
                     Artikel Bulan Lalu ({{ $prevMonth }})
                 </h2>
                 <div class="grid-bulan-lalu">
@@ -710,7 +710,7 @@
                 </div>
 
                 <!-- SECTION 3: 8 GRID ARTIKEL -->
-                <h2 style="font-size:20px; font-weight:bold; border-bottom:3px solid #9e7f3e; padding-bottom:10px; margin:30px 0 20px 0;">Semua Artikel</h2>
+                <h2 style="font-size:20px; font-weight:bold; border-bottom:3px solid #ff3800; padding-bottom:10px; margin:30px 0 20px 0;">Semua Artikel</h2>
                 <div class="grid-articles">
                     {{ range first 8 (where .Site.RegularPages "Section" "posts") }}
                     <div class="grid-card">
@@ -810,7 +810,7 @@
                     <h3 class="widget__title sidebar-widget__title">Berita Terkini</h3>
                     <ul style="list-style:none; padding:0; margin:0;">
                         {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-                        <li style="padding:10px 0; border-bottom:1px solid #f3f4f6;">
+                        <li style="padding:10px 0; border-bottom:1px solid #ff3800;">
                             <a href="https://teukuanca.com{{ .RelPermalink }}" style="display:flex; gap:12px; align-items:flex-start; text-decoration:none; color:#1f2937;">
                                 {{ if .Params.featured_image }}
                                 <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width:70px; height:70px; min-width:70px; object-fit:cover; border-radius:6px; background:#f3f4f6; flex-shrink:0;">
@@ -872,7 +872,7 @@
                     
                     <ul style="list-style:none; padding:0; margin:0;" id="bulanIniList">
                         {{ range first 5 $monthPosts }}
-                        <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
+                        <li style="padding:6px 0; border-bottom:1px solid #ff3800;">
                             <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
                         </li>
                         {{ end }}
@@ -905,7 +905,7 @@
                     
                     <ul style="list-style:none; padding:0; margin:0;" id="bulanLaluList">
                         {{ range first 5 $prevPostsSidebar }}
-                        <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
+                        <li style="padding:6px 0; border-bottom:1px solid #ff3800;">
                             <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
                         </li>
                         {{ end }}
