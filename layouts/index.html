@@ -361,6 +361,116 @@
             .grid-card .grid-meta { font-size: 9px; }
             .sidebar-widget { padding: 14px 16px !important; }
         }
+
+        /* ============================================================
+   SIDEBAR POPULAR - DENGAN NOMOR 1-5 ala LIPUTAN6
+   ============================================================ */
+
+/* Gunakan ordered list untuk nomor otomatis */
+.sidebar-widget__list--numbered {
+    list-style: none !important;
+    counter-reset: popular-counter 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.sidebar-widget__item--numbered {
+    display: flex !important;
+    align-items: flex-start !important;
+    gap: 12px !important;
+    padding: 10px 0 !important;
+    border-bottom: 1px solid #f3f4f6 !important;
+    counter-increment: popular-counter 1 !important;
+}
+
+.sidebar-widget__item--numbered:last-child {
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+}
+
+.sidebar-widget__item--numbered:first-child {
+    padding-top: 0 !important;
+}
+
+/* Nomor urut */
+.sidebar-widget__number {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    flex-shrink: 0 !important;
+    width: 28px !important;
+    height: 28px !important;
+    background: #f3f4f6 !important;
+    color: #6b7280 !important;
+    font-size: 13px !important;
+    font-weight: 700 !important;
+    border-radius: 6px !important;
+    margin-top: 2px !important;
+    font-family: 'Inter', Arial, sans-serif !important;
+}
+
+/* Warna khusus untuk peringkat 1, 2, 3 (seperti Liputan6) */
+.sidebar-widget__item--numbered:nth-child(1) .sidebar-widget__number {
+    background: #e60000 !important;
+    color: #ffffff !important;
+}
+
+.sidebar-widget__item--numbered:nth-child(2) .sidebar-widget__number {
+    background: #ff6600 !important;
+    color: #ffffff !important;
+}
+
+.sidebar-widget__item--numbered:nth-child(3) .sidebar-widget__number {
+    background: #f59e0b !important;
+    color: #ffffff !important;
+}
+
+/* Konten di samping nomor */
+.sidebar-widget__number-content {
+    flex: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 2px !important;
+    min-width: 0 !important;
+}
+
+.sidebar-widget__number-content .sidebar-widget__title-text {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 1.5 !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+}
+
+.sidebar-widget__number-content .sidebar-widget__time {
+    font-size: 11px !important;
+    color: #9ca3af !important;
+}
+
+/* Hover effect */
+.sidebar-widget__item--numbered:hover .sidebar-widget__number {
+    transform: scale(1.05) !important;
+    transition: transform 0.2s ease !important;
+}
+
+.sidebar-widget__item--numbered:hover .sidebar-widget__title-text {
+    color: #e60000 !important;
+}
+
+/* Responsive untuk nomor */
+@media (max-width: 768px) {
+    .sidebar-widget__number {
+        width: 24px !important;
+        height: 24px !important;
+        font-size: 11px !important;
+    }
+    .sidebar-widget__number-content .sidebar-widget__title-text {
+        font-size: 13px !important;
+    }
+}
+        
     </style>
 </head>
 <body>
@@ -470,36 +580,38 @@
                 {{ end }}
             </div>
 
-            <!-- ============================================================
-                 SIDEBAR LIPUTAN6 STYLE
-                 ============================================================ -->
-            <aside class="sidebar">
-                <!-- WIDGET 1: TERPOPULER -->
-                <div class="widget sidebar-widget">
-                    <h3 class="widget__title sidebar-widget__title">Terpopuler</h3>
-                    <ul class="widget-list sidebar-widget__list" id="popularList">
-                        {{ $popular := where .Site.RegularPages "Params.popular" true }}
-                        {{ if $popular }}
-                            {{ range first 5 $popular }}
-                            <li class="sidebar-widget__item">
-                                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
-                                    <span class="sidebar-widget__title-text">{{ .Title }}</span>
-                                    <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
-                                </a>
-                            </li>
-                            {{ end }}
-                        {{ else }}
-                            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-                            <li class="sidebar-widget__item">
-                                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
-                                    <span class="sidebar-widget__title-text">{{ .Title }}</span>
-                                    <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
-                                </a>
-                            </li>
-                            {{ end }}
-                        {{ end }}
-                    </ul>
-                </div>
+          <!-- WIDGET 1: TERPOPULER (dengan nomor 1-5 ala Liputan6) -->
+<div class="widget sidebar-widget sidebar-widget--popular">
+    <h3 class="widget__title sidebar-widget__title">Terpopuler</h3>
+    <ol class="widget-list sidebar-widget__list sidebar-widget__list--numbered" id="popularList">
+        {{ $popular := where .Site.RegularPages "Params.popular" true }}
+        {{ if $popular }}
+            {{ range first 5 $popular }}
+            <li class="sidebar-widget__item sidebar-widget__item--numbered">
+                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
+                    <span class="sidebar-widget__number"></span>
+                    <div class="sidebar-widget__number-content">
+                        <span class="sidebar-widget__title-text">{{ .Title }}</span>
+                        <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
+                    </div>
+                </a>
+            </li>
+            {{ end }}
+        {{ else }}
+            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+            <li class="sidebar-widget__item sidebar-widget__item--numbered">
+                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
+                    <span class="sidebar-widget__number"></span>
+                    <div class="sidebar-widget__number-content">
+                        <span class="sidebar-widget__title-text">{{ .Title }}</span>
+                        <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
+                    </div>
+                </a>
+            </li>
+            {{ end }}
+        {{ end }}
+    </ol>
+</div>
 
                 <!-- WIDGET 2: ARTIKEL TERKINI (dengan Thumbnail) -->
                 <div class="widget sidebar-widget">
