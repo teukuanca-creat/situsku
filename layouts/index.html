@@ -52,7 +52,7 @@
         .header-top { display: flex; align-items: center; justify-content: space-between; padding: 5px 0; }
         .logo__title { font-size: 20px; font-weight: bold; color: #000000; font-family: 'Special Elite', 'Courier New', monospace; letter-spacing: 1px; }
 
-        /* Menu */
+        /* Menu - SEKARANG DI DALAM CONTAINER */
         .menu { background: #eeeee4; border-top: 2px solid var(--gold); border-bottom: 2px solid var(--gold); }
         .menu__list { list-style: none; display: flex; flex-wrap: wrap; }
         .menu__item { position: relative; }
@@ -66,9 +66,9 @@
         .search-icon { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #eeeee4; color: var(--primary); border-radius: 50%; cursor: pointer; font-size: 18px; }
 
         /* ============================================================
-           SLIDER
+           SLIDER - SEKARANG DI DALAM CONTAINER
            ============================================================ */
-        .slider-container { position: relative; max-width: 100%; margin: 0; overflow: hidden; }
+        .slider-container { position: relative; max-width: 100%; margin: 0; overflow: hidden; border-radius: 10px; }
         .slider { display: flex; transition: transform .5s ease; }
         .slide { min-width: 100%; position: relative; }
         .slide img { width: 100%; height: 400px; object-fit: cover; display: block; border-radius: 10px; transition: transform .5s ease; }
@@ -319,6 +319,10 @@
             .grid-bulan-lalu { grid-template-columns: 1fr; gap: 6px; }
             .grid-bulan-lalu__item { padding: 8px 12px; }
             .grid-bulan-lalu__link { font-size: 12px; }
+            .slide img { height: 200px; }
+            .slider-btn { padding: 10px 12px; font-size: 14px; }
+            .slider-btn.prev { left: 8px; }
+            .slider-btn.next { right: 8px; }
         }
     </style>
 </head>
@@ -337,32 +341,34 @@
                 </div>
             </div>
         </div>
-        <nav class="menu" id="mainMenu">
-            <div class="container">
-                <ul class="menu__list" id="menuList">
-                    <li class="menu__item"><a href="https://teukuanca.com/" class="menu__link">Home</a></li>
-                    <li class="menu__item">
-                        <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Direktori Publik ▼</a>
-                        <ul class="menu__list">
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/regulasi/" class="menu__link">Regulasi</a></li>
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/edukasi/" class="menu__link">Edukasi</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu__item">
-                        <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Gaya Hidup ▼</a>
-                        <ul class="menu__list">
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/seni/" class="menu__link">Seni</a></li>
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/travelling/" class="menu__link">Travelling</a></li>
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/kreativitas/" class="menu__link">Kreativitas</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu__item"><a href="https://teukuanca.com/pages/tentang-saya/" class="menu__link">Tentang Saya</a></li>
-                    <li class="menu__item"><a href="https://teukuanca.com/pages/hubungi-saya/" class="menu__link">Hubungi Saya</a></li>
-                </ul>
-            </div>
-        </nav>
     </header>
+
+    <!-- MENU - SEKARANG DI DALAM CONTAINER -->
+    <nav class="menu" id="mainMenu">
+        <div class="container">
+            <ul class="menu__list" id="menuList">
+                <li class="menu__item"><a href="https://teukuanca.com/" class="menu__link">Home</a></li>
+                <li class="menu__item">
+                    <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Direktori Publik ▼</a>
+                    <ul class="menu__list">
+                        <li class="menu__item"><a href="https://teukuanca.com/categories/regulasi/" class="menu__link">Regulasi</a></li>
+                        <li class="menu__item"><a href="https://teukuanca.com/categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
+                        <li class="menu__item"><a href="https://teukuanca.com/categories/edukasi/" class="menu__link">Edukasi</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item">
+                    <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Gaya Hidup ▼</a>
+                    <ul class="menu__list">
+                        <li class="menu__item"><a href="https://teukuanca.com/categories/seni/" class="menu__link">Seni</a></li>
+                        <li class="menu__item"><a href="https://teukuanca.com/categories/travelling/" class="menu__link">Travelling</a></li>
+                        <li class="menu__item"><a href="https://teukuanca.com/categories/kreativitas/" class="menu__link">Kreativitas</a></li>
+                    </ul>
+                </li>
+                <li class="menu__item"><a href="https://teukuanca.com/pages/tentang-saya/" class="menu__link">Tentang Saya</a></li>
+                <li class="menu__item"><a href="https://teukuanca.com/pages/hubungi-saya/" class="menu__link">Hubungi Saya</a></li>
+            </ul>
+        </div>
+    </nav>
 
     <!-- Search Box -->
     <div id="searchBox" style="display:none; background:#fff; padding:15px 0; border-bottom:1px solid #e0e0e0;">
@@ -373,36 +379,38 @@
     </div>
 
     <!-- ============================================================
-         SLIDER (5 ARTIKEL)
+         SLIDER - SEKARANG DI DALAM CONTAINER
          ============================================================ -->
-    <div class="slider-container">
-        <div class="slider" id="slider">
-            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-            <div class="slide">
-                <a href="https://teukuanca.com{{ .RelPermalink }}">
-                    {{ if .Params.featured_image }}
-                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
-                    {{ end }}
-                    <div class="slide-overlay">
-                        <h3 class="slide-title">{{ .Title }}</h3>
-                        <div class="slide-meta">
-                            <span>{{ .Date.Format "02 January 2006" }}</span>
-                            {{ if .Params.categories }}
-                            <span>
-                                {{ range .Params.categories }}
-                                <span class="slide-category">{{ . }}</span>
+    <div class="container" style="margin-top: 20px;">
+        <div class="slider-container">
+            <div class="slider" id="slider">
+                {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+                <div class="slide">
+                    <a href="https://teukuanca.com{{ .RelPermalink }}">
+                        {{ if .Params.featured_image }}
+                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                        {{ end }}
+                        <div class="slide-overlay">
+                            <h3 class="slide-title">{{ .Title }}</h3>
+                            <div class="slide-meta">
+                                <span>{{ .Date.Format "02 January 2006" }}</span>
+                                {{ if .Params.categories }}
+                                <span>
+                                    {{ range .Params.categories }}
+                                    <span class="slide-category">{{ . }}</span>
+                                    {{ end }}
+                                </span>
                                 {{ end }}
-                            </span>
-                            {{ end }}
+                            </div>
                         </div>
-                    </div>
-                </a>
+                    </a>
+                </div>
+                {{ end }}
             </div>
-            {{ end }}
+            <button class="slider-btn prev" onclick="moveSlide(-1)">&#10094;</button>
+            <button class="slider-btn next" onclick="moveSlide(1)">&#10095;</button>
+            <div class="slider-dots" id="sliderDots"></div>
         </div>
-        <button class="slider-btn prev" onclick="moveSlide(-1)">&#10094;</button>
-        <button class="slider-btn next" onclick="moveSlide(1)">&#10095;</button>
-        <div class="slider-dots" id="sliderDots"></div>
     </div>
 
     <!-- ============================================================
