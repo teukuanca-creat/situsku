@@ -37,6 +37,7 @@
             --sidebar-border: #f0f0f0;
             --accent-red: #e60000;
             --accent-orange: #ff6600;
+            --gold: #9e7f3e;
         }
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { font-family: 'Inter', Arial, Helvetica, sans-serif; background: #ffffff; color: var(--text); line-height: 1.7; }
@@ -52,7 +53,7 @@
         .logo__title { font-size: 20px; font-weight: bold; color: #000000; font-family: 'Special Elite', 'Courier New', monospace; letter-spacing: 1px; }
 
         /* Menu */
-        .menu { background: #eeeee4; border-top: 2px solid #9e7f3e; border-bottom: 2px solid #9e7f3e; }
+        .menu { background: #eeeee4; border-top: 2px solid var(--gold); border-bottom: 2px solid var(--gold); }
         .menu__list { list-style: none; display: flex; flex-wrap: wrap; }
         .menu__item { position: relative; }
         .menu__item:hover { background: #9e8f78; }
@@ -61,7 +62,7 @@
         .menu__item .menu__list { display: none; position: absolute; top: 100%; left: 0; background: #9e8f78; min-width: 200px; z-index: 100; }
         .menu__item:hover .menu__list { display: block; }
         .hamburger { display: none; background: none; border: none; cursor: pointer; padding: 5px; }
-        .hamburger span { display: block; width: 25px; height: 3px; background: #9e7f3e; margin: 5px 0; border-radius: 3px; }
+        .hamburger span { display: block; width: 25px; height: 3px; background: var(--gold); margin: 5px 0; border-radius: 3px; }
         .search-icon { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #eeeee4; color: var(--primary); border-radius: 50%; cursor: pointer; font-size: 18px; }
 
         /* ============================================================
@@ -72,10 +73,10 @@
         .slide { min-width: 100%; position: relative; }
         .slide img { width: 100%; height: 400px; object-fit: cover; display: block; border-radius: 10px; transition: transform .5s ease; }
         .slide:hover img { transform: scale(1.02); }
-        .slide-overlay { position: absolute; bottom: 0; left: 0; right: 0; padding: 40px 30px; background: linear-gradient(transparent, rgba(0,0,0,0.8)); }
+        .slide-overlay { position: absolute; bottom: 0; left: 0; right: 0; padding: 40px 30px; background: linear-gradient(transparent, rgba(0,0,0,0.8)); border-radius: 0 0 10px 10px; }
         .slide-title { color: #fff; font-size: 22px; font-weight: bold; margin-bottom: 10px; }
         .slide-meta { color: #ddd; font-size: 13px; display: flex; gap: 15px; align-items: center; flex-wrap: wrap; }
-        .slide-category { background: #1a56db; color: #fff; padding: 3px 12px; border-radius: 20px; font-size: 12px; }
+        .slide-category { background: var(--accent-red); color: #fff; padding: 3px 12px; border-radius: 20px; font-size: 12px; }
         .slider-btn { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: #fff; border: none; cursor: pointer; padding: 15px 18px; font-size: 20px; border-radius: 50%; z-index: 10; }
         .slider-btn:hover { background: rgba(0,0,0,0.8); }
         .slider-btn.prev { left: 15px; }
@@ -106,160 +107,6 @@
         .widget-list { list-style: none; max-height: none; overflow-y: visible; margin: 0; padding: 0; }
 
         /* ============================================================
-           SIDEBAR WIDGET - LIPUTAN6 STYLE
-           ============================================================ */
-        .sidebar-widget .widget__title {
-            font-size: 15px !important;
-            border-bottom: 2px solid #e5e7eb !important;
-            padding-bottom: 12px !important;
-            margin-bottom: 16px !important;
-        }
-
-        /* List Item */
-        .sidebar-widget__item {
-            padding: 12px 0 !important;
-            border-bottom: 1px solid #f3f4f6 !important;
-        }
-        .sidebar-widget__item:last-child {
-            border-bottom: none !important;
-            padding-bottom: 0 !important;
-        }
-        .sidebar-widget__item:first-child {
-            padding-top: 0 !important;
-        }
-        .sidebar-widget__link {
-            display: flex !important;
-            flex-direction: column !important;
-            gap: 2px !important;
-            text-decoration: none !important;
-            color: #1f2937 !important;
-            transition: color 0.2s ease !important;
-        }
-        .sidebar-widget__link:hover {
-            color: var(--accent-red) !important;
-        }
-        .sidebar-widget__title-text {
-            font-size: 14px !important;
-            font-weight: 600 !important;
-            line-height: 1.5 !important;
-            display: -webkit-box !important;
-            -webkit-line-clamp: 2 !important;
-            -webkit-box-orient: vertical !important;
-            overflow: hidden !important;
-        }
-        .sidebar-widget__time {
-            font-size: 11px !important;
-            color: #9ca3af !important;
-            margin-top: 2px !important;
-        }
-
-        /* With Image */
-        .sidebar-widget__item--with-image .sidebar-widget__link {
-            flex-direction: row !important;
-            gap: 12px !important;
-            align-items: flex-start !important;
-        }
-        .sidebar-widget__image {
-            width: 70px !important;
-            height: 70px !important;
-            min-width: 70px !important;
-            object-fit: cover !important;
-            border-radius: 6px !important;
-            flex-shrink: 0 !important;
-            background: #f3f4f6 !important;
-        }
-        .sidebar-widget__content {
-            flex: 1 !important;
-            display: flex !important;
-            flex-direction: column !important;
-            gap: 2px !important;
-        }
-
-        /* Compact List (Bulan Ini & Sebelumnya) */
-        .sidebar-widget__list--compact .sidebar-widget__item {
-            padding: 6px 0 !important;
-        }
-        .sidebar-widget__list--compact .sidebar-widget__title-text {
-            font-size: 13px !important;
-            font-weight: 500 !important;
-        }
-
-        /* Categories */
-        .sidebar-widget__categories-list {
-            list-style: none !important;
-            padding: 0 !important;
-            margin: 0 !important;
-            display: flex !important;
-            flex-direction: column !important;
-            gap: 4px !important;
-        }
-        .sidebar-widget__categories-item {
-            padding: 0 !important;
-            border-bottom: none !important;
-        }
-        .sidebar-widget__categories-link {
-            display: flex !important;
-            justify-content: space-between !important;
-            align-items: center !important;
-            padding: 8px 14px !important;
-            background: #f9fafb !important;
-            border-radius: 6px !important;
-            text-decoration: none !important;
-            color: #1f2937 !important;
-            font-size: 13px !important;
-            font-weight: 500 !important;
-            transition: all 0.2s ease !important;
-        }
-        .sidebar-widget__categories-link:hover {
-            background: var(--accent-red) !important;
-            color: #ffffff !important;
-        }
-        .sidebar-widget__categories-count {
-            color: #9ca3af !important;
-            font-size: 11px !important;
-            font-weight: 400 !important;
-            background: #e5e7eb !important;
-            padding: 0px 8px !important;
-            border-radius: 12px !important;
-            font-size: 11px !important;
-        }
-        .sidebar-widget__categories-link:hover .sidebar-widget__categories-count {
-            background: rgba(255,255,255,0.2) !important;
-            color: #ffffff !important;
-        }
-
-        /* Tag Cloud */
-        .sidebar-widget__tags-cloud {
-            display: flex !important;
-            flex-wrap: wrap !important;
-            gap: 6px !important;
-        }
-        .sidebar-widget__tag {
-            display: inline-block !important;
-            padding: 4px 12px !important;
-            background: #f3f4f6 !important;
-            border-radius: 20px !important;
-            font-size: 11px !important;
-            font-weight: 500 !important;
-            color: #1f2937 !important;
-            text-decoration: none !important;
-            transition: all 0.2s ease !important;
-        }
-        .sidebar-widget__tag:hover {
-            background: var(--accent-red) !important;
-            color: #ffffff !important;
-            transform: translateY(-1px) !important;
-        }
-        .sidebar-widget__tag-count {
-            font-size: 10px !important;
-            color: #9ca3af !important;
-            margin-left: 2px !important;
-        }
-        .sidebar-widget__tag:hover .sidebar-widget__tag-count {
-            color: #ffffff !important;
-        }
-
-        /* ============================================================
            GRID ARTICLES
            ============================================================ */
         .grid-articles { display: grid !important; grid-template-columns: repeat(4, 1fr) !important; gap: 10px; margin: 0; padding: 0; }
@@ -288,8 +135,8 @@
         /* ============================================================
            PAGINATION
            ============================================================ */
-        .pagination-nav { display: flex; justify-content: space-between; align-items: center; margin: 25px 0; }
-        .pagination-nav a { background: #9e7f3e; color: #fff; padding: 10px 20px; border-radius: 8px; font-weight: bold; font-size: 14px; }
+        .pagination-nav { display: flex; justify-content: center; gap: 15px; margin: 20px 0; }
+        .pagination-nav a { background: var(--gold); color: #fff; padding: 10px 25px; border-radius: 8px; font-weight: bold; font-size: 14px; }
         .pagination-nav a:hover { background: var(--primary-dark); }
 
         /* ============================================================
@@ -297,7 +144,7 @@
            ============================================================ */
         .two-columns { display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin: 30px 0; }
         .column-box { background: #222222; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
-        .column-box h3 { font-size: 16px; text-transform: uppercase; border-bottom: 3px solid #9e7f3e; padding-bottom: 10px; margin-bottom: 15px; color: #ffffff; }
+        .column-box h3 { font-size: 16px; text-transform: uppercase; border-bottom: 3px solid var(--gold); padding-bottom: 10px; margin-bottom: 15px; color: #ffffff; }
         .column-box ul { list-style: none; }
         .column-box li { display: flex; gap: 12px; padding: 10px 0; border-bottom: 1px solid #333333; }
         .column-box li:last-child { border-bottom: none; }
@@ -308,7 +155,7 @@
         /* ============================================================
            FOOTER
            ============================================================ */
-        .footer { background: #eeeee4; color: #222222; padding: 30px 0; margin-top: 30px; font-size: 14px; border-top: 3px solid #9e7f3e; }
+        .footer { background: #eeeee4; color: #222222; padding: 30px 0; margin-top: 30px; font-size: 14px; border-top: 3px solid var(--gold); }
         .footer a { color: #222222; }
         .footer a:hover { text-decoration: underline; }
         .footer__container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; padding: 10px 0; }
@@ -316,7 +163,7 @@
         .social-icons { display: flex; gap: 12px; }
         .social-icons a { display: inline-flex; align-items: center; justify-content: center; width: 35px; height: 35px; background: #222222; color: #ffffff; border-radius: 50%; font-weight: bold; font-size: 14px; }
         .social-icons a:hover { background: #dbeafe; }
-        .footer-copyright { text-align: center; padding-top: 15px; border-top: 2px solid #9e7f3e; margin-top: 15px; }
+        .footer-copyright { text-align: center; padding-top: 15px; border-top: 2px solid var(--gold); margin-top: 15px; }
 
         /* ============================================================
            BACK TO TOP
@@ -350,127 +197,122 @@
             .slide img { height: 250px; }
             .featured-article img { height: 250px; }
             .footer__container { flex-direction: column; text-align: center; }
-            .sidebar-widget__image { width: 60px !important; height: 60px !important; min-width: 60px !important; }
-            .sidebar-widget__title-text { font-size: 13px !important; }
-            .sidebar-widget__categories-link { padding: 6px 12px !important; font-size: 12px !important; }
         }
         @media (max-width: 480px) {
             .grid-articles { grid-template-columns: 1fr 1fr; gap: 8px; }
             .grid-card img { width: 100%; height: 100px; object-fit: cover; display: block; border-radius: 8px; }
             .grid-card h3 { font-size: 11px; line-height: 1.3; }
             .grid-card .grid-meta { font-size: 9px; }
-            .sidebar-widget { padding: 14px 16px !important; }
         }
 
         /* ============================================================
-   SIDEBAR POPULAR - DENGAN NOMOR 1-5 ala LIPUTAN6
-   ============================================================ */
+           SIDEBAR POPULAR - DENGAN NOMOR 1-5 ala LIPUTAN6
+           ============================================================ */
 
-/* Gunakan ordered list untuk nomor otomatis */
-.sidebar-widget__list--numbered {
-    list-style: none !important;
-    counter-reset: popular-counter 0 !important;
-    padding: 0 !important;
-    margin: 0 !important;
-}
+        /* Gunakan ordered list untuk nomor otomatis */
+        .sidebar-widget__list--numbered {
+            list-style: none !important;
+            counter-reset: popular-counter 0 !important;
+            padding: 0 !important;
+            margin: 0 !important;
+        }
 
-.sidebar-widget__item--numbered {
-    display: flex !important;
-    align-items: flex-start !important;
-    gap: 12px !important;
-    padding: 10px 0 !important;
-    border-bottom: 1px solid #f3f4f6 !important;
-    counter-increment: popular-counter 1 !important;
-}
+        .sidebar-widget__item--numbered {
+            display: flex !important;
+            align-items: flex-start !important;
+            gap: 12px !important;
+            padding: 10px 0 !important;
+            border-bottom: 1px solid #f3f4f6 !important;
+            counter-increment: popular-counter 1 !important;
+        }
 
-.sidebar-widget__item--numbered:last-child {
-    border-bottom: none !important;
-    padding-bottom: 0 !important;
-}
+        .sidebar-widget__item--numbered:last-child {
+            border-bottom: none !important;
+            padding-bottom: 0 !important;
+        }
 
-.sidebar-widget__item--numbered:first-child {
-    padding-top: 0 !important;
-}
+        .sidebar-widget__item--numbered:first-child {
+            padding-top: 0 !important;
+        }
 
-/* Nomor urut */
-.sidebar-widget__number {
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-    flex-shrink: 0 !important;
-    width: 28px !important;
-    height: 28px !important;
-    background: #f3f4f6 !important;
-    color: #6b7280 !important;
-    font-size: 13px !important;
-    font-weight: 700 !important;
-    border-radius: 6px !important;
-    margin-top: 2px !important;
-    font-family: 'Inter', Arial, sans-serif !important;
-}
+        /* Nomor urut */
+        .sidebar-widget__number {
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+            flex-shrink: 0 !important;
+            width: 28px !important;
+            height: 28px !important;
+            background: #f3f4f6 !important;
+            color: #6b7280 !important;
+            font-size: 13px !important;
+            font-weight: 700 !important;
+            border-radius: 6px !important;
+            margin-top: 2px !important;
+            font-family: 'Inter', Arial, sans-serif !important;
+        }
 
-/* Warna khusus untuk peringkat 1, 2, 3 (seperti Liputan6) */
-.sidebar-widget__item--numbered:nth-child(1) .sidebar-widget__number {
-    background: #e60000 !important;
-    color: #ffffff !important;
-}
+        /* Warna khusus untuk peringkat 1, 2, 3 (seperti Liputan6) */
+        .sidebar-widget__item--numbered:nth-child(1) .sidebar-widget__number {
+            background: #e60000 !important;
+            color: #ffffff !important;
+        }
 
-.sidebar-widget__item--numbered:nth-child(2) .sidebar-widget__number {
-    background: #ff6600 !important;
-    color: #ffffff !important;
-}
+        .sidebar-widget__item--numbered:nth-child(2) .sidebar-widget__number {
+            background: #ff6600 !important;
+            color: #ffffff !important;
+        }
 
-.sidebar-widget__item--numbered:nth-child(3) .sidebar-widget__number {
-    background: #f59e0b !important;
-    color: #ffffff !important;
-}
+        .sidebar-widget__item--numbered:nth-child(3) .sidebar-widget__number {
+            background: #f59e0b !important;
+            color: #ffffff !important;
+        }
 
-/* Konten di samping nomor */
-.sidebar-widget__number-content {
-    flex: 1 !important;
-    display: flex !important;
-    flex-direction: column !important;
-    gap: 2px !important;
-    min-width: 0 !important;
-}
+        /* Konten di samping nomor */
+        .sidebar-widget__number-content {
+            flex: 1 !important;
+            display: flex !important;
+            flex-direction: column !important;
+            gap: 2px !important;
+            min-width: 0 !important;
+        }
 
-.sidebar-widget__number-content .sidebar-widget__title-text {
-    font-size: 14px !important;
-    font-weight: 600 !important;
-    line-height: 1.5 !important;
-    display: -webkit-box !important;
-    -webkit-line-clamp: 2 !important;
-    -webkit-box-orient: vertical !important;
-    overflow: hidden !important;
-}
+        .sidebar-widget__number-content .sidebar-widget__title-text {
+            font-size: 14px !important;
+            font-weight: 600 !important;
+            line-height: 1.5 !important;
+            display: -webkit-box !important;
+            -webkit-line-clamp: 2 !important;
+            -webkit-box-orient: vertical !important;
+            overflow: hidden !important;
+        }
 
-.sidebar-widget__number-content .sidebar-widget__time {
-    font-size: 11px !important;
-    color: #9ca3af !important;
-}
+        .sidebar-widget__number-content .sidebar-widget__time {
+            font-size: 11px !important;
+            color: #9ca3af !important;
+        }
 
-/* Hover effect */
-.sidebar-widget__item--numbered:hover .sidebar-widget__number {
-    transform: scale(1.05) !important;
-    transition: transform 0.2s ease !important;
-}
+        /* Hover effect */
+        .sidebar-widget__item--numbered:hover .sidebar-widget__number {
+            transform: scale(1.05) !important;
+            transition: transform 0.2s ease !important;
+        }
 
-.sidebar-widget__item--numbered:hover .sidebar-widget__title-text {
-    color: #e60000 !important;
-}
+        .sidebar-widget__item--numbered:hover .sidebar-widget__title-text {
+            color: #e60000 !important;
+        }
 
-/* Responsive untuk nomor */
-@media (max-width: 768px) {
-    .sidebar-widget__number {
-        width: 24px !important;
-        height: 24px !important;
-        font-size: 11px !important;
-    }
-    .sidebar-widget__number-content .sidebar-widget__title-text {
-        font-size: 13px !important;
-    }
-}
-        
+        /* Responsive untuk nomor */
+        @media (max-width: 768px) {
+            .sidebar-widget__number {
+                width: 24px !important;
+                height: 24px !important;
+                font-size: 11px !important;
+            }
+            .sidebar-widget__number-content .sidebar-widget__title-text {
+                font-size: 13px !important;
+            }
+        }
     </style>
 </head>
 <body>
@@ -580,54 +422,42 @@
                 {{ end }}
             </div>
 
-          <!-- WIDGET 1: TERPOPULER (dengan nomor 1-5 ala Liputan6) -->
-<div class="widget sidebar-widget sidebar-widget--popular">
-    <h3 class="widget__title sidebar-widget__title">Terpopuler</h3>
-    <ol class="widget-list sidebar-widget__list sidebar-widget__list--numbered" id="popularList">
-        {{ $popular := where .Site.RegularPages "Params.popular" true }}
-        {{ if $popular }}
-            {{ range first 5 $popular }}
-            <li class="sidebar-widget__item sidebar-widget__item--numbered">
-                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
-                    <span class="sidebar-widget__number"></span>
-                    <div class="sidebar-widget__number-content">
-                        <span class="sidebar-widget__title-text">{{ .Title }}</span>
-                        <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
-                    </div>
-                </a>
-            </li>
-            {{ end }}
-        {{ else }}
-            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-            <li class="sidebar-widget__item sidebar-widget__item--numbered">
-                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
-                    <span class="sidebar-widget__number"></span>
-                    <div class="sidebar-widget__number-content">
-                        <span class="sidebar-widget__title-text">{{ .Title }}</span>
-                        <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
-                    </div>
-                </a>
-            </li>
-            {{ end }}
-        {{ end }}
-    </ol>
-</div>
+            <!-- ============================================================
+                 SIDEBAR - LIPUTAN6 STYLE DENGAN NOMOR 1-5
+                 ============================================================ -->
+            <aside class="sidebar">
+
+                <!-- WIDGET 1: TERPOPULER (dengan nomor 1-5 ala Liputan6) -->
+                <div class="widget sidebar-widget sidebar-widget--popular">
+                    <h3 class="widget__title sidebar-widget__title">Terpopuler</h3>
+                    <ol class="sidebar-widget__list--numbered">
+                        {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+                        <li class="sidebar-widget__item--numbered">
+                            <span class="sidebar-widget__number"></span>
+                            <div class="sidebar-widget__number-content">
+                                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__title-text">{{ .Title }}</a>
+                                <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
+                            </div>
+                        </li>
+                        {{ end }}
+                    </ol>
+                </div>
 
                 <!-- WIDGET 2: ARTIKEL TERKINI (dengan Thumbnail) -->
                 <div class="widget sidebar-widget">
                     <h3 class="widget__title sidebar-widget__title">Berita Terkini</h3>
-                    <ul class="widget-list sidebar-widget__list">
+                    <ul style="list-style:none; padding:0; margin:0;">
                         {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-                        <li class="sidebar-widget__item sidebar-widget__item--with-image">
-                            <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
+                        <li style="padding:10px 0; border-bottom:1px solid #f3f4f6;">
+                            <a href="https://teukuanca.com{{ .RelPermalink }}" style="display:flex; gap:12px; align-items:flex-start; text-decoration:none; color:#1f2937;">
                                 {{ if .Params.featured_image }}
-                                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="sidebar-widget__image" loading="lazy">
+                                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="width:70px; height:70px; min-width:70px; object-fit:cover; border-radius:6px; background:#f3f4f6; flex-shrink:0;">
                                 {{ else }}
-                                <img src="/images/default-thumbnail.jpg" alt="{{ .Title }}" class="sidebar-widget__image" loading="lazy">
+                                <img src="/images/default-thumbnail.jpg" alt="{{ .Title }}" style="width:70px; height:70px; min-width:70px; object-fit:cover; border-radius:6px; background:#f3f4f6; flex-shrink:0;">
                                 {{ end }}
-                                <div class="sidebar-widget__content">
-                                    <span class="sidebar-widget__title-text">{{ .Title }}</span>
-                                    <time class="sidebar-widget__time">{{ .Date.Format "15:04" }}</time>
+                                <div style="flex:1; display:flex; flex-direction:column; gap:2px;">
+                                    <span style="font-size:14px; font-weight:600; line-height:1.5; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</span>
+                                    <time style="font-size:11px; color:#9ca3af;">{{ .Date.Format "15:04" }}</time>
                                 </div>
                             </a>
                         </li>
@@ -638,12 +468,12 @@
                 <!-- WIDGET 3: KATEGORI -->
                 <div class="widget sidebar-widget">
                     <h3 class="widget__title sidebar-widget__title">Kategori</h3>
-                    <ul class="sidebar-widget__categories-list">
+                    <ul style="list-style:none; padding:0; margin:0; display:flex; flex-direction:column; gap:4px;">
                         {{ range .Site.Taxonomies.categories }}
-                        <li class="sidebar-widget__categories-item">
-                            <a href="https://teukuanca.com/categories/{{ .Page.Title | urlize }}/" class="sidebar-widget__categories-link">
+                        <li>
+                            <a href="https://teukuanca.com/categories/{{ .Page.Title | urlize }}/" style="display:flex; justify-content:space-between; align-items:center; padding:8px 14px; background:#f9fafb; border-radius:6px; text-decoration:none; color:#1f2937; font-size:13px; font-weight:500; transition:all 0.2s ease;">
                                 <span>{{ .Page.Title }}</span>
-                                <span class="sidebar-widget__categories-count">{{ .Count }}</span>
+                                <span style="color:#9ca3af; font-size:11px; font-weight:400; background:#e5e7eb; padding:0px 8px; border-radius:12px;">{{ .Count }}</span>
                             </a>
                         </li>
                         {{ end }}
@@ -654,11 +484,11 @@
                 {{ if .Site.Taxonomies.tags }}
                 <div class="widget sidebar-widget">
                     <h3 class="widget__title sidebar-widget__title">Trending Topics</h3>
-                    <div class="sidebar-widget__tags-cloud">
+                    <div style="display:flex; flex-wrap:wrap; gap:6px;">
                         {{ range first 15 (sort .Site.Taxonomies.tags "Count" "desc") }}
-                        <a href="https://teukuanca.com/tags/{{ .Page.Title | urlize }}/" class="sidebar-widget__tag">
+                        <a href="https://teukuanca.com/tags/{{ .Page.Title | urlize }}/" style="display:inline-block; padding:4px 12px; background:#f3f4f6; border-radius:20px; font-size:11px; font-weight:500; color:#1f2937; text-decoration:none; transition:all 0.2s ease;">
                             {{ .Page.Title }}
-                            <span class="sidebar-widget__tag-count">{{ .Count }}</span>
+                            <span style="font-size:10px; color:#9ca3af;">{{ .Count }}</span>
                         </a>
                         {{ end }}
                     </div>
@@ -671,14 +501,12 @@
                     {{ $currentMonth := now.Format "2006-01" }}
                     {{ $currentPosts := where .Site.RegularPages "Section" "posts" }}
                     {{ $monthCount := 0 }}
-                    <ul class="widget-list sidebar-widget__list sidebar-widget__list--compact" id="currentMonthList">
+                    <ul style="list-style:none; padding:0; margin:0;">
                         {{ range $currentPosts }}
                         {{ if eq (.Date.Format "2006-01") $currentMonth }}
                         {{ $monthCount = add $monthCount 1 }}
-                        <li class="sidebar-widget__item sidebar-widget__item--compact">
-                            <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
-                                <span class="sidebar-widget__title-text">{{ .Title }}</span>
-                            </a>
+                        <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
+                            <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
                         </li>
                         {{ end }}
                         {{ end }}
@@ -691,20 +519,19 @@
                     <h3 class="widget__title sidebar-widget__title">Artikel Bulan Sebelumnya</h3>
                     {{ $prevMonth := now.AddDate 0 -1 0 | dateFormat "2006-01" }}
                     {{ $prevCount := 0 }}
-                    <ul class="widget-list sidebar-widget__list sidebar-widget__list--compact" id="prevMonthList">
+                    <ul style="list-style:none; padding:0; margin:0;">
                         {{ range $currentPosts }}
                         {{ if eq (.Date.Format "2006-01") $prevMonth }}
                         {{ $prevCount = add $prevCount 1 }}
-                        <li class="sidebar-widget__item sidebar-widget__item--compact">
-                            <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
-                                <span class="sidebar-widget__title-text">{{ .Title }}</span>
-                            </a>
+                        <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
+                            <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
                         </li>
                         {{ end }}
                         {{ end }}
                     </ul>
                     <p style="font-size:12px; color:#666; margin-top:10px;">Total: {{ $prevCount }} postingan</p>
                 </div>
+
             </aside>
         </div>
 
@@ -727,117 +554,8 @@
         </div>
 
         <!-- PAGINATION -->
-        <div class="pagination-nav" style="display:flex; justify-content:center; gap:15px; margin:20px 0;">
-            <a href="https://teukuanca.com/posts/" style="background:#9e7f3e; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; font-size:14px;">Lihat Semua Artikel &raquo;</a>
+        <div class="pagination-nav">
+            <a href="https://teukuanca.com/posts/">Lihat Semua Artikel &raquo;</a>
         </div>
 
-        <!-- 2 COLUMNS -->
-        <div class="two-columns">
-            <div class="column-box">
-                <h3>Artikel Terdahulu</h3>
-                <ul>
-                    {{ range last 5 (where .Site.RegularPages "Section" "posts") }}
-                    <li>
-                        {{ if .Params.featured_image }}
-                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
-                        {{ end }}
-                        <a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a>
-                    </li>
-                    {{ end }}
-                </ul>
-            </div>
-            <div class="column-box">
-                <h3>Artikel Terbaru</h3>
-                <ul>
-                    {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
-                    <li>
-                        {{ if .Params.featured_image }}
-                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
-                        {{ end }}
-                        <a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a>
-                    </li>
-                    {{ end }}
-                </ul>
-            </div>
-        </div>
-
-        <!-- VIDEO WIDGET -->
-        <div class="widget">
-            <h3 class="widget__title">Video Terbaru</h3>
-            {{ range first 1 (where .Site.RegularPages "Params.youtube" "!=" nil) }}
-            <iframe width="100%" height="200" src="https://www.youtube.com/embed/{{ .Params.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius:10px;"></iframe>
-            <p style="font-size:13px; margin-top:10px;">
-                <a href="https://teukuanca.com{{ .RelPermalink }}" style="color:#000; font-weight:bold;">{{ .Title }}</a>
-            </p>
-            {{ end }}
-        </div>
-    </main>
-
-    <!-- FOOTER -->
-    <footer class="footer">
-        <div class="container footer__container">
-            <div class="footer-links">
-                <a href="https://teukuanca.com/pages/tentang-saya/">Tentang Saya</a> |
-                <a href="https://teukuanca.com/pages/hubungi-saya/">Hubungi Saya</a> |
-                <a href="https://teukuanca.com/pages/kebijakan-privasi/">Kebijakan Privasi</a> |
-                <a href="https://teukuanca.com/pages/syarat-dan-ketentuan/">Syarat dan Ketentuan</a> |
-                <a href="https://teukuanca.com/pages/disclaimer/">Disclaimer</a>
-            </div>
-            <div class="social-icons">
-                <a href="https://www.facebook.com/share/14qwMpLdrqS/" title="Facebook">f</a>
-                <a href="https://x.com/teukuanca_TJI" title="Twitter">𝕏</a>
-                <a href="https://www.instagram.com/ancateuku?igsh=MXQ2Mm40dXhtcnlkYw==" title="Instagram">📷</a>
-                <a href="https://youtube.com/@teukuancat.j.i8389?si=ejQTnzUUux4qpPgl" title="YouTube">▶</a>
-            </div>
-        </div>
-        <div class="footer-copyright">
-            &copy; 2026 teukuanca.com. All rights reserved.
-        </div>
-    </footer>
-
-    <!-- BACK TO TOP -->
-    <div class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0, behavior:'smooth'});">↑</div>
-
-    <!-- SCRIPTS -->
-    <script>
-        // Slider
-        var slideNow = 0;
-        var slides = document.querySelectorAll('.slide');
-        var dotsBox = document.getElementById('sliderDots');
-        for (var i = 0; i < slides.length; i++) {
-            var dot = document.createElement('span');
-            dot.onclick = (function(idx) { return function() { goSlide(idx); }; })(i);
-            dotsBox.appendChild(dot);
-        }
-        function goSlide(idx) { slideNow = idx; updateSlide(); }
-        function moveSlide(dir) { slideNow = (slideNow + dir + slides.length) % slides.length; updateSlide(); }
-        function updateSlide() {
-            document.getElementById('slider').style.transform = 'translateX(-' + (slideNow * 100) + '%)';
-            var dots = dotsBox.querySelectorAll('span');
-            dots.forEach(function(d, idx) { d.classList.toggle('active', idx === slideNow); });
-        }
-        updateSlide();
-        setInterval(function() { moveSlide(1); }, 5000);
-
-        function toggleMenu() {
-            document.getElementById('menuList').classList.toggle('active');
-        }
-        function toggleSubmenu(el) {
-            el.parentElement.classList.toggle('active');
-        }
-        function toggleSearch() {
-            var sb = document.getElementById('searchBox');
-            sb.style.display = (sb.style.display === 'none') ? 'block' : 'none';
-        }
-
-        window.onscroll = function() {
-            var btn = document.getElementById('backToTop');
-            if (document.documentElement.scrollTop > 300) {
-                btn.classList.add('show');
-            } else {
-                btn.classList.remove('show');
-            }
-        };
-    </script>
-</body>
-</html>
+        <!-- 2 COLUMNS
