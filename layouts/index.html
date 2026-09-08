@@ -556,4 +556,292 @@
                     <div style="display:flex; justify-content:space-between; align-items:center; margin-top:12px;">
                         <span style="font-size:12px; color:#666;">Total: {{ $totalMonth }} postingan</span>
                         {{ if gt $totalMonth 10 }}
-                        <button onclick="loadMoreBulanIni()" id="btnLoadMoreBulanIni
+                        <button onclick="loadMoreBulanIni()" id="btnLoadMoreBulanIni" style="background:var(--gold); color:#fff; border:none; padding:5px 15px; border-radius:5px; cursor:pointer; font-size:12px; font-weight:600;">
+                            Selanjutnya &raquo;
+                        </button>
+                        {{ end }}
+                    </div>
+                    <div id="loadingBulanIni" style="display:none; text-align:center; padding:10px 0; font-size:12px; color:#666;">
+                        Memuat...
+                    </div>
+                </div>
+
+                <!-- WIDGET 6: ARTIKEL BULAN SEBELUMNYA -->
+                <div class="widget sidebar-widget" id="widget-bulan-lalu">
+                    <h3 class="widget__title sidebar-widget__title">Artikel Bulan Sebelumnya</h3>
+                    {{ $prevMonth := now.AddDate 0 -1 0 | dateFormat "2006-01" }}
+                    {{ $prevPosts := slice }}
+                    {{ range $currentPosts }}
+                        {{ if eq (.Date.Format "2006-01") $prevMonth }}
+                            {{ $prevPosts = $prevPosts | append . }}
+                        {{ end }}
+                    {{ end }}
+                    {{ $totalPrev := len $prevPosts }}
+                    
+                    <ul style="list-style:none; padding:0; margin:0;" id="bulanLaluList">
+                        {{ range first 10 $prevPosts }}
+                        <li style="padding:6px 0; border-bottom:1px solid #f3f4f6;">
+                            <a href="https://teukuanca.com{{ .RelPermalink }}" style="font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                    
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-top:12px;">
+                        <span style="font-size:12px; color:#666;">Total: {{ $totalPrev }} postingan</span>
+                        {{ if gt $totalPrev 10 }}
+                        <button onclick="loadMoreBulanLalu()" id="btnLoadMoreBulanLalu" style="background:var(--gold); color:#fff; border:none; padding:5px 15px; border-radius:5px; cursor:pointer; font-size:12px; font-weight:600;">
+                            Selanjutnya &raquo;
+                        </button>
+                        {{ end }}
+                    </div>
+                    <div id="loadingBulanLalu" style="display:none; text-align:center; padding:10px 0; font-size:12px; color:#666;">
+                        Memuat...
+                    </div>
+                </div>
+
+            </aside>
+        </div>
+
+        <!-- GRID TITLE -->
+        <h2 style="font-size:20px; font-weight:bold; border-bottom:3px solid #9e7f3e; padding-bottom:10px; margin:20px 0;">Semua Artikel</h2>
+
+        <!-- GRID ARTICLES -->
+        <div class="grid-articles">
+            {{ range first 8 (where .Site.RegularPages "Section" "posts") }}
+            <div class="grid-card">
+                {{ if .Params.featured_image }}
+                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                {{ end }}
+                <div class="grid-body">
+                    <h3><a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                    <div class="grid-meta">{{ .Date.Format "02 January 2006" }}</div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+
+        <!-- PAGINATION -->
+        <div class="pagination-nav">
+            <a href="https://teukuanca.com/posts/">Lihat Semua Artikel &raquo;</a>
+        </div>
+
+        <!-- 2 COLUMNS -->
+        <div class="two-columns">
+            <div class="column-box">
+                <h3>Artikel Terdahulu</h3>
+                <ul>
+                    {{ range last 5 (where .Site.RegularPages "Section" "posts") }}
+                    <li>
+                        {{ if .Params.featured_image }}
+                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                        {{ end }}
+                        <a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            <div class="column-box">
+                <h3>Artikel Terbaru</h3>
+                <ul>
+                    {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+                    <li>
+                        {{ if .Params.featured_image }}
+                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                        {{ end }}
+                        <a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+
+        <!-- VIDEO WIDGET -->
+        <div class="widget">
+            <h3 class="widget__title">Video Terbaru</h3>
+            {{ range first 1 (where .Site.RegularPages "Params.youtube" "!=" nil) }}
+            <iframe width="100%" height="200" src="https://www.youtube.com/embed/{{ .Params.youtube }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius:10px;"></iframe>
+            <p style="font-size:13px; margin-top:10px;">
+                <a href="https://teukuanca.com{{ .RelPermalink }}" style="color:#000; font-weight:bold;">{{ .Title }}</a>
+            </p>
+            {{ end }}
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="container footer__container">
+            <div class="footer-links">
+                <a href="https://teukuanca.com/pages/tentang-saya/">Tentang Saya</a> |
+                <a href="https://teukuanca.com/pages/hubungi-saya/">Hubungi Saya</a> |
+                <a href="https://teukuanca.com/pages/kebijakan-privasi/">Kebijakan Privasi</a> |
+                <a href="https://teukuanca.com/pages/syarat-dan-ketentuan/">Syarat dan Ketentuan</a> |
+                <a href="https://teukuanca.com/pages/disclaimer/">Disclaimer</a>
+            </div>
+            <div class="social-icons">
+                <a href="https://www.facebook.com/share/14qwMpLdrqS/" title="Facebook">f</a>
+                <a href="https://x.com/teukuanca_TJI" title="Twitter">𝕏</a>
+                <a href="https://www.instagram.com/ancateuku?igsh=MXQ2Mm40dXhtcnlkYw==" title="Instagram">📷</a>
+                <a href="https://youtube.com/@teukuancat.j.i8389?si=ejQTnzUUux4qpPgl" title="YouTube">▶</a>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            &copy; 2026 teukuanca.com. All rights reserved.
+        </div>
+    </footer>
+
+    <!-- BACK TO TOP -->
+    <div class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0, behavior:'smooth'});">↑</div>
+
+    <!-- SCRIPTS -->
+    <script>
+        // Slider
+        var slideNow = 0;
+        var slides = document.querySelectorAll('.slide');
+        var dotsBox = document.getElementById('sliderDots');
+        for (var i = 0; i < slides.length; i++) {
+            var dot = document.createElement('span');
+            dot.onclick = (function(idx) { return function() { goSlide(idx); }; })(i);
+            dotsBox.appendChild(dot);
+        }
+        function goSlide(idx) { slideNow = idx; updateSlide(); }
+        function moveSlide(dir) { slideNow = (slideNow + dir + slides.length) % slides.length; updateSlide(); }
+        function updateSlide() {
+            document.getElementById('slider').style.transform = 'translateX(-' + (slideNow * 100) + '%)';
+            var dots = dotsBox.querySelectorAll('span');
+            dots.forEach(function(d, idx) { d.classList.toggle('active', idx === slideNow); });
+        }
+        updateSlide();
+        setInterval(function() { moveSlide(1); }, 5000);
+
+        function toggleMenu() {
+            document.getElementById('menuList').classList.toggle('active');
+        }
+        function toggleSubmenu(el) {
+            el.parentElement.classList.toggle('active');
+        }
+        function toggleSearch() {
+            var sb = document.getElementById('searchBox');
+            sb.style.display = (sb.style.display === 'none') ? 'block' : 'none';
+        }
+
+        window.onscroll = function() {
+            var btn = document.getElementById('backToTop');
+            if (document.documentElement.scrollTop > 300) {
+                btn.classList.add('show');
+            } else {
+                btn.classList.remove('show');
+            }
+        };
+
+        // ============================================================
+        // LOAD MORE - ARTIKEL BULAN INI
+        // ============================================================
+        var bulanIniOffset = 10;
+        var bulanIniTotal = {{ $totalMonth }};
+        var bulanIniData = [
+            {{ range $index, $post := $monthPosts }}
+            {
+                title: {{ $post.Title | jsonify }},
+                url: {{ $post.RelPermalink | jsonify }}
+            }{{ if ne (add $index 1) $totalMonth }},{{ end }}
+            {{ end }}
+        ];
+
+        function loadMoreBulanIni() {
+            var btn = document.getElementById('btnLoadMoreBulanIni');
+            var loading = document.getElementById('loadingBulanIni');
+            var list = document.getElementById('bulanIniList');
+            
+            loading.style.display = 'block';
+            btn.style.display = 'none';
+
+            setTimeout(function() {
+                var nextItems = bulanIniData.slice(bulanIniOffset, bulanIniOffset + 5);
+                var hasMore = bulanIniOffset + 5 < bulanIniTotal;
+
+                nextItems.forEach(function(item) {
+                    var li = document.createElement('li');
+                    li.style.cssText = 'padding:6px 0; border-bottom:1px solid #f3f4f6;';
+                    var a = document.createElement('a');
+                    a.href = 'https://teukuanca.com' + item.url;
+                    a.style.cssText = 'font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;';
+                    a.textContent = item.title;
+                    li.appendChild(a);
+                    list.appendChild(li);
+                });
+
+                bulanIniOffset += 5;
+                loading.style.display = 'none';
+
+                if (hasMore) {
+                    btn.style.display = 'inline-block';
+                } else {
+                    btn.style.display = 'none';
+                    var info = document.querySelector('#widget-bulan-ini .widget__title');
+                    if (info) {
+                        var span = document.createElement('span');
+                        span.style.cssText = 'font-size:11px; color:#666; font-weight:400; margin-left:8px;';
+                        span.textContent = '(Semua dimuat)';
+                        info.appendChild(span);
+                    }
+                }
+            }, 500);
+        }
+
+        // ============================================================
+        // LOAD MORE - ARTIKEL BULAN SEBELUMNYA
+        // ============================================================
+        var bulanLaluOffset = 10;
+        var bulanLaluTotal = {{ $totalPrev }};
+        var bulanLaluData = [
+            {{ range $index, $post := $prevPosts }}
+            {
+                title: {{ $post.Title | jsonify }},
+                url: {{ $post.RelPermalink | jsonify }}
+            }{{ if ne (add $index 1) $totalPrev }},{{ end }}
+            {{ end }}
+        ];
+
+        function loadMoreBulanLalu() {
+            var btn = document.getElementById('btnLoadMoreBulanLalu');
+            var loading = document.getElementById('loadingBulanLalu');
+            var list = document.getElementById('bulanLaluList');
+            
+            loading.style.display = 'block';
+            btn.style.display = 'none';
+
+            setTimeout(function() {
+                var nextItems = bulanLaluData.slice(bulanLaluOffset, bulanLaluOffset + 5);
+                var hasMore = bulanLaluOffset + 5 < bulanLaluTotal;
+
+                nextItems.forEach(function(item) {
+                    var li = document.createElement('li');
+                    li.style.cssText = 'padding:6px 0; border-bottom:1px solid #f3f4f6;';
+                    var a = document.createElement('a');
+                    a.href = 'https://teukuanca.com' + item.url;
+                    a.style.cssText = 'font-size:13px; font-weight:500; color:#1f2937; text-decoration:none; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;';
+                    a.textContent = item.title;
+                    li.appendChild(a);
+                    list.appendChild(li);
+                });
+
+                bulanLaluOffset += 5;
+                loading.style.display = 'none';
+
+                if (hasMore) {
+                    btn.style.display = 'inline-block';
+                } else {
+                    btn.style.display = 'none';
+                    var info = document.querySelector('#widget-bulan-lalu .widget__title');
+                    if (info) {
+                        var span = document.createElement('span');
+                        span.style.cssText = 'font-size:11px; color:#666; font-weight:400; margin-left:8px;';
+                        span.textContent = '(Semua dimuat)';
+                        info.appendChild(span);
+                    }
+                }
+            }, 500);
+        }
+    </script>
+</body>
+</html>
