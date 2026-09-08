@@ -118,6 +118,245 @@
         .column-box li a { color: #ffffff; font-weight: bold; font-size: 13px; line-height: 1.4; }
         .column-box li a:hover { color: var(--primary); }
 
+        /* ============================================================
+   SIDEBAR LIPUTAN6 STYLE
+   ============================================================ */
+
+/* ---- SIDEBAR WRAPPER ---- */
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* ---- WIDGET CARD ---- */
+.sidebar-widget {
+    background: #ffffff !important;
+    border-radius: 8px !important;
+    padding: 16px 20px !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06) !important;
+    border: 1px solid #f0f0f0 !important;
+    margin-bottom: 0 !important;
+}
+
+.sidebar-widget__title {
+    font-size: 15px !important;
+    font-weight: 700 !important;
+    color: #1f2937 !important;
+    text-transform: uppercase !important;
+    border-bottom: 2px solid #e5e7eb !important;
+    padding-bottom: 12px !important;
+    margin-bottom: 16px !important;
+    position: relative !important;
+}
+
+/* Garis merah di bawah title ala Liputan6 */
+.sidebar-widget__title::before {
+    content: '' !important;
+    position: absolute !important;
+    bottom: -2px !important;
+    left: 0 !important;
+    width: 40px !important;
+    height: 2px !important;
+    background: linear-gradient(to right, #e60000, #ff6600) !important;
+}
+
+/* ---- LIST ITEM ---- */
+.sidebar-widget__list {
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-height: none !important;
+    overflow-y: visible !important;
+}
+
+.sidebar-widget__item {
+    padding: 12px 0 !important;
+    border-bottom: 1px solid #f3f4f6 !important;
+}
+
+.sidebar-widget__item:last-child {
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+}
+
+.sidebar-widget__item:first-child {
+    padding-top: 0 !important;
+}
+
+.sidebar-widget__link {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 2px !important;
+    text-decoration: none !important;
+    color: #1f2937 !important;
+    transition: color 0.2s ease !important;
+}
+
+.sidebar-widget__link:hover {
+    color: #e60000 !important;
+}
+
+.sidebar-widget__title-text {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 1.5 !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+}
+
+.sidebar-widget__time {
+    font-size: 11px !important;
+    color: #9ca3af !important;
+    margin-top: 2px !important;
+}
+
+/* ---- ITEM DENGAN GAMBAR (Berita Terkini) ---- */
+.sidebar-widget__item--with-image .sidebar-widget__link {
+    flex-direction: row !important;
+    gap: 12px !important;
+    align-items: flex-start !important;
+}
+
+.sidebar-widget__image {
+    width: 70px !important;
+    height: 70px !important;
+    min-width: 70px !important;
+    object-fit: cover !important;
+    border-radius: 6px !important;
+    flex-shrink: 0 !important;
+    background: #f3f4f6 !important;
+}
+
+.sidebar-widget__content {
+    flex: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 2px !important;
+}
+
+/* ---- LIST COMPACT (Untuk Bulan Ini & Sebelumnya) ---- */
+.sidebar-widget__list--compact .sidebar-widget__item {
+    padding: 6px 0 !important;
+}
+
+.sidebar-widget__list--compact .sidebar-widget__title-text {
+    font-size: 13px !important;
+    font-weight: 500 !important;
+}
+
+/* ---- KATEGORI ---- */
+.sidebar-widget__categories-list {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 4px !important;
+}
+
+.sidebar-widget__categories-item {
+    padding: 0 !important;
+    border-bottom: none !important;
+}
+
+.sidebar-widget__categories-link {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 8px 14px !important;
+    background: #f9fafb !important;
+    border-radius: 6px !important;
+    text-decoration: none !important;
+    color: #1f2937 !important;
+    font-size: 13px !important;
+    font-weight: 500 !important;
+    transition: all 0.2s ease !important;
+}
+
+.sidebar-widget__categories-link:hover {
+    background: #e60000 !important;
+    color: #ffffff !important;
+}
+
+.sidebar-widget__categories-count {
+    color: #9ca3af !important;
+    font-size: 11px !important;
+    font-weight: 400 !important;
+    background: #e5e7eb !important;
+    padding: 0px 8px !important;
+    border-radius: 12px !important;
+    font-size: 11px !important;
+}
+
+.sidebar-widget__categories-link:hover .sidebar-widget__categories-count {
+    background: rgba(255,255,255,0.2) !important;
+    color: #ffffff !important;
+}
+
+/* ---- TAG CLOUD ---- */
+.sidebar-widget__tags-cloud {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 6px !important;
+}
+
+.sidebar-widget__tag {
+    display: inline-block !important;
+    padding: 4px 12px !important;
+    background: #f3f4f6 !important;
+    border-radius: 20px !important;
+    font-size: 11px !important;
+    font-weight: 500 !important;
+    color: #1f2937 !important;
+    text-decoration: none !important;
+    transition: all 0.2s ease !important;
+}
+
+.sidebar-widget__tag:hover {
+    background: #e60000 !important;
+    color: #ffffff !important;
+    transform: translateY(-1px) !important;
+}
+
+.sidebar-widget__tag-count {
+    font-size: 10px !important;
+    color: #9ca3af !important;
+    margin-left: 2px !important;
+}
+
+.sidebar-widget__tag:hover .sidebar-widget__tag-count {
+    color: #ffffff !important;
+}
+
+/* ---- RESPONSIVE SIDEBAR ---- */
+@media (max-width: 768px) {
+    .sidebar-widget {
+        padding: 14px 16px !important;
+    }
+    
+    .sidebar-widget__image {
+        width: 60px !important;
+        height: 60px !important;
+        min-width: 60px !important;
+    }
+    
+    .sidebar-widget__title-text {
+        font-size: 13px !important;
+    }
+    
+    .sidebar-widget__categories-link {
+        padding: 6px 12px !important;
+        font-size: 12px !important;
+    }
+}
+        
+        
+        
+        
+        
         /* Sidebar Widget */
         .widget { background: #eeeee4; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
         .widget__title { font-size: 15px; text-transform: uppercase; border-bottom: 3px solid #9e7f3e; padding-bottom: 10px; margin-bottom: 15px; font-weight: bold; }
@@ -125,9 +364,7 @@
         .widget-list li { padding: 8px 0; border-bottom: 1px solid #eee; font-size: 13px; }
         .widget-list li a { color: #333; }
         .widget-list li a:hover { color: var(--primary); }
-        .widget-scroll-btn { display: flex; justify-content: center; gap: 10px; margin-top: 10px; }
-        .widget-scroll-btn button { background: #9e7f3e; color: #fff; border: none; padding: 5px 15px; border-radius: 5px; cursor: pointer; font-size: 14px; }
-        .widget-scroll-btn button:hover { background: var(--primary-dark); }
+        
 
         /* Footer */
         .footer { background: #eeeee4; color: #222222; padding: 30px 0; margin-top: 30px; font-size: 14px; border-top: 3px solid #9e7f3e; }
@@ -281,21 +518,145 @@
                 {{ end }}
             </div>
 
-            <aside class="sidebar" style="flex:1; min-width:0;">
-                <div class="widget">
-                    <h3 class="widget__title">Artikel Terpopuler</h3>
-                    <ul class="widget-list" id="popularList">
-                        {{ range first 10 (sort (where .Site.RegularPages "Section" "posts") "Title" "asc") }}
-                        <li><a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a></li>
-                        {{ end }}
-                    </ul>
-                    <div class="widget-scroll-btn">
-                        <button onclick="scrollPopular('up')">▲</button>
-                        <button onclick="scrollPopular('down')">▼</button>
+            <!-- ============================================================
+     SIDEBAR BARU ala LIPUTAN6
+     ============================================================ -->
+<aside class="sidebar" style="flex:1; min-width:0; display:flex; flex-direction:column; gap:20px;">
+
+    <!-- ============================================================
+         WIDGET 1: TERPOPULER (Popular Posts)
+         ============================================================ -->
+    <div class="widget sidebar-widget">
+        <h3 class="widget__title sidebar-widget__title">Terpopuler</h3>
+        <ul class="widget-list sidebar-widget__list" id="popularList">
+            {{ $popular := where .Site.RegularPages "Params.popular" true }}
+            {{ if $popular }}
+                {{ range first 5 $popular }}
+                <li class="sidebar-widget__item">
+                    <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
+                        <span class="sidebar-widget__title-text">{{ .Title }}</span>
+                        <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
+                    </a>
+                </li>
+                {{ end }}
+            {{ else }}
+                {{/* Fallback: ambil 5 artikel terbaru sebagai populer */}}
+                {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+                <li class="sidebar-widget__item">
+                    <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
+                        <span class="sidebar-widget__title-text">{{ .Title }}</span>
+                        <time class="sidebar-widget__time">{{ .Date.Format "02 Jan 2006" }}</time>
+                    </a>
+                </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </div>
+
+    <!-- ============================================================
+         WIDGET 2: ARTIKEL TERKINI (Latest Posts with Thumbnail)
+         ============================================================ -->
+    <div class="widget sidebar-widget">
+        <h3 class="widget__title sidebar-widget__title">Berita Terkini</h3>
+        <ul class="widget-list sidebar-widget__list">
+            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+            <li class="sidebar-widget__item sidebar-widget__item--with-image">
+                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
+                    {{ if .Params.featured_image }}
+                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="sidebar-widget__image" loading="lazy">
+                    {{ else }}
+                    <img src="/images/default-thumbnail.jpg" alt="{{ .Title }}" class="sidebar-widget__image" loading="lazy">
+                    {{ end }}
+                    <div class="sidebar-widget__content">
+                        <span class="sidebar-widget__title-text">{{ .Title }}</span>
+                        <time class="sidebar-widget__time">{{ .Date.Format "15:04" }}</time>
                     </div>
-                </div>
-            </aside>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+
+    <!-- ============================================================
+         WIDGET 3: KATEGORI (Categories)
+         ============================================================ -->
+    <div class="widget sidebar-widget">
+        <h3 class="widget__title sidebar-widget__title">Kategori</h3>
+        <ul class="sidebar-widget__categories-list">
+            {{ range .Site.Taxonomies.categories }}
+            <li class="sidebar-widget__categories-item">
+                <a href="https://teukuanca.com/categories/{{ .Page.Title | urlize }}/" class="sidebar-widget__categories-link">
+                    <span>{{ .Page.Title }}</span>
+                    <span class="sidebar-widget__categories-count">{{ .Count }}</span>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+
+    <!-- ============================================================
+         WIDGET 4: TAG CLOUD (Trending Topics)
+         ============================================================ -->
+    {{ if .Site.Taxonomies.tags }}
+    <div class="widget sidebar-widget">
+        <h3 class="widget__title sidebar-widget__title">Trending Topics</h3>
+        <div class="sidebar-widget__tags-cloud">
+            {{ range first 15 (sort .Site.Taxonomies.tags "Count" "desc") }}
+            <a href="https://teukuanca.com/tags/{{ .Page.Title | urlize }}/" class="sidebar-widget__tag">
+                {{ .Page.Title }}
+                <span class="sidebar-widget__tag-count">{{ .Count }}</span>
+            </a>
+            {{ end }}
         </div>
+    </div>
+    {{ end }}
+
+    <!-- ============================================================
+         WIDGET 5: ARTIKEL BULAN INI (Monthly Articles)
+         ============================================================ -->
+    <div class="widget sidebar-widget">
+        <h3 class="widget__title sidebar-widget__title">Artikel Bulan Ini</h3>
+        {{ $currentMonth := now.Format "2006-01" }}
+        {{ $currentPosts := where .Site.RegularPages "Section" "posts" }}
+        {{ $monthCount := 0 }}
+        <ul class="widget-list sidebar-widget__list sidebar-widget__list--compact" id="currentMonthList">
+            {{ range $currentPosts }}
+            {{ if eq (.Date.Format "2006-01") $currentMonth }}
+            {{ $monthCount = add $monthCount 1 }}
+            <li class="sidebar-widget__item sidebar-widget__item--compact">
+                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
+                    <span class="sidebar-widget__title-text">{{ .Title }}</span>
+                </a>
+            </li>
+            {{ end }}
+            {{ end }}
+        </ul>
+        <p style="font-size:12px; color:#666; margin-top:10px;">Total: {{ $monthCount }} postingan</p>
+    </div>
+
+    <!-- ============================================================
+         WIDGET 6: ARTIKEL BULAN SEBELUMNYA (Previous Month)
+         ============================================================ -->
+    <div class="widget sidebar-widget">
+        <h3 class="widget__title sidebar-widget__title">Artikel Bulan Sebelumnya</h3>
+        {{ $prevMonth := now.AddDate 0 -1 0 | dateFormat "2006-01" }}
+        {{ $prevCount := 0 }}
+        <ul class="widget-list sidebar-widget__list sidebar-widget__list--compact" id="prevMonthList">
+            {{ range $currentPosts }}
+            {{ if eq (.Date.Format "2006-01") $prevMonth }}
+            {{ $prevCount = add $prevCount 1 }}
+            <li class="sidebar-widget__item sidebar-widget__item--compact">
+                <a href="https://teukuanca.com{{ .RelPermalink }}" class="sidebar-widget__link">
+                    <span class="sidebar-widget__title-text">{{ .Title }}</span>
+                </a>
+            </li>
+            {{ end }}
+            {{ end }}
+        </ul>
+        <p style="font-size:12px; color:#666; margin-top:10px;">Total: {{ $prevCount }} postingan</p>
+    </div>
+
+</aside>
 
         
         <!-- Grid Title -->
