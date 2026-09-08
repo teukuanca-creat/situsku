@@ -60,7 +60,7 @@
         .header { background: #ffffff; }
         .header-top { display: flex; align-items: center; justify-content: space-between; padding: 5px 0; }
 
-        /* Menu Wrapper - Background hanya selebar konten */
+        /* Menu Wrapper */
         .menu-wrapper {
             background: #eeeee4;
             border-top: 2px solid var(--gold);
@@ -454,49 +454,101 @@
         }
 
         /* ============================================================
-           RESPONSIVE
+           RESPONSIVE - HANYA UNTUK MOBILE ASLI
            ============================================================ */
-        @media (max-width: 1024px) {
-            .grid-articles { grid-template-columns: repeat(2, 1fr); }
-            .grid-bulan-lalu { grid-template-columns: repeat(2, 1fr); }
-        }
-        @media (max-width: 992px) {
-            .main-wrapper { flex-direction: column; }
-            .sidebar { max-width: 100%; width: 100%; }
-        }
+        /* Deteksi mobile: hanya berlaku jika lebar layar di bawah 768px 
+           DAN tidak dalam mode desktop (dideteksi oleh JS) */
         @media (max-width: 768px) {
-            .hamburger { display: block; }
-            .menu__list { display: none; flex-direction: column; width: 100%; }
-            .menu__list.active { display: flex; }
-            .menu__item .menu__dropdown { position: static; display: none; }
-            .menu__item:hover .menu__dropdown { display: none; }
-            .menu__item.active .menu__dropdown { display: flex; flex-direction: column; }
-            .main-wrapper { flex-direction: column !important; }
-            .primary { flex: none !important; width: 100%; }
-            .sidebar { flex: none !important; width: 100%; max-width: 100%; }
-            .grid-articles { grid-template-columns: repeat(2, 1fr); }
-            .grid-bulan-lalu { grid-template-columns: 1fr; gap: 8px; }
-            .two-columns { grid-template-columns: 1fr; }
-            .section-bottom { grid-template-columns: 1fr; }
-            .slide img { height: 250px; }
-            .featured-article img { height: 250px; }
-            .footer__container { flex-direction: column; text-align: center; }
-            .sidebar-widget__number { width: 24px !important; height: 24px !important; font-size: 11px !important; }
-            .sidebar-widget__number-content .sidebar-widget__title-text { font-size: 13px !important; }
+            body.mobile-layout .hamburger { display: block; }
+            body.mobile-layout .menu__list { display: none; flex-direction: column; width: 100%; }
+            body.mobile-layout .menu__list.active { display: flex; }
+            body.mobile-layout .menu__item .menu__dropdown { position: static; display: none; }
+            body.mobile-layout .menu__item:hover .menu__dropdown { display: none; }
+            body.mobile-layout .menu__item.active .menu__dropdown { display: flex; flex-direction: column; }
+            
+            body.mobile-layout .main-wrapper { flex-direction: column !important; }
+            body.mobile-layout .primary { flex: none !important; width: 100%; }
+            body.mobile-layout .sidebar { flex: none !important; width: 100%; max-width: 100%; }
+            
+            body.mobile-layout .grid-articles { grid-template-columns: repeat(2, 1fr); }
+            body.mobile-layout .grid-bulan-lalu { grid-template-columns: 1fr; gap: 8px; }
+            body.mobile-layout .two-columns { grid-template-columns: 1fr; }
+            body.mobile-layout .section-bottom { grid-template-columns: 1fr; }
+            
+            body.mobile-layout .slide img { height: 250px; }
+            body.mobile-layout .featured-article img { height: 250px; }
+            
+            body.mobile-layout .footer__container { flex-direction: column; text-align: center; }
+            
+            body.mobile-layout .sidebar-widget__number { width: 24px !important; height: 24px !important; font-size: 11px !important; }
+            body.mobile-layout .sidebar-widget__number-content .sidebar-widget__title-text { font-size: 13px !important; }
+            
+            body.mobile-layout .section-bottom__form { flex-direction: column; max-width: 100%; }
         }
+
+        /* Ukuran sangat kecil - tetap mobile */
         @media (max-width: 480px) {
-            .grid-articles { grid-template-columns: 1fr 1fr; gap: 8px; }
-            .grid-card img { width: 100%; height: 100px; object-fit: cover; display: block; border-radius: 8px; }
-            .grid-card h3 { font-size: 11px; line-height: 1.3; }
-            .grid-card .grid-meta { font-size: 9px; }
-            .grid-bulan-lalu { grid-template-columns: 1fr; gap: 6px; }
-            .grid-bulan-lalu__item { padding: 8px 12px; }
-            .grid-bulan-lalu__link { font-size: 12px; }
-            .slide img { height: 200px; }
-            .slider-btn { padding: 10px 12px; font-size: 14px; }
-            .slider-btn.prev { left: 8px; }
-            .slider-btn.next { right: 8px; }
-            .section-bottom__form { flex-direction: column; max-width: 100%; }
+            body.mobile-layout .grid-articles { grid-template-columns: 1fr 1fr; gap: 8px; }
+            body.mobile-layout .grid-card img { width: 100%; height: 100px; object-fit: cover; display: block; border-radius: 8px; }
+            body.mobile-layout .grid-card h3 { font-size: 11px; line-height: 1.3; }
+            body.mobile-layout .grid-card .grid-meta { font-size: 9px; }
+            body.mobile-layout .grid-bulan-lalu { grid-template-columns: 1fr; gap: 6px; }
+            body.mobile-layout .grid-bulan-lalu__item { padding: 8px 12px; }
+            body.mobile-layout .grid-bulan-lalu__link { font-size: 12px; }
+            body.mobile-layout .slide img { height: 200px; }
+            body.mobile-layout .slider-btn { padding: 10px 12px; font-size: 14px; }
+            body.mobile-layout .slider-btn.prev { left: 8px; }
+            body.mobile-layout .slider-btn.next { right: 8px; }
+        }
+
+        /* Desktop di handphone (mode desktop site) - layout desktop tetap */
+        body.desktop-layout .hamburger { display: none !important; }
+        body.desktop-layout .menu__list { display: flex !important; flex-direction: row !important; }
+        body.desktop-layout .menu__item .menu__dropdown { position: absolute !important; }
+        body.desktop-layout .menu__item:hover .menu__dropdown { display: block !important; }
+        
+        body.desktop-layout .main-wrapper { display: flex !important; flex-direction: row !important; }
+        body.desktop-layout .primary { flex: 1.8 !important; width: auto !important; }
+        body.desktop-layout .sidebar { flex: 1 !important; width: auto !important; max-width: 380px !important; display: flex !important; flex-direction: column !important; }
+        
+        body.desktop-layout .grid-articles { grid-template-columns: repeat(4, 1fr) !important; }
+        body.desktop-layout .grid-bulan-lalu { grid-template-columns: repeat(3, 1fr) !important; }
+        body.desktop-layout .two-columns { grid-template-columns: 1fr 1fr !important; }
+        body.desktop-layout .section-bottom { grid-template-columns: 1fr 1fr !important; }
+        
+        body.desktop-layout .slide img { height: 400px !important; }
+        body.desktop-layout .featured-article img { height: 220px !important; }
+        
+        body.desktop-layout .footer__container { flex-direction: row !important; text-align: left !important; }
+        body.desktop-layout .section-bottom__form { flex-direction: row !important; max-width: 280px !important; }
+        
+        body.desktop-layout .sidebar-widget__number { width: 28px !important; height: 28px !important; font-size: 13px !important; }
+        body.desktop-layout .sidebar-widget__number-content .sidebar-widget__title-text { font-size: 14px !important; }
+
+        /* Default: desktop layout (untuk layar > 768px) */
+        @media (min-width: 769px) {
+            .hamburger { display: none !important; }
+            .menu__list { display: flex !important; flex-direction: row !important; }
+            .menu__item .menu__dropdown { position: absolute !important; }
+            .menu__item:hover .menu__dropdown { display: block !important; }
+            
+            .main-wrapper { display: flex !important; flex-direction: row !important; }
+            .primary { flex: 1.8 !important; width: auto !important; }
+            .sidebar { flex: 1 !important; width: auto !important; max-width: 380px !important; display: flex !important; flex-direction: column !important; }
+            
+            .grid-articles { grid-template-columns: repeat(4, 1fr) !important; }
+            .grid-bulan-lalu { grid-template-columns: repeat(3, 1fr) !important; }
+            .two-columns { grid-template-columns: 1fr 1fr !important; }
+            .section-bottom { grid-template-columns: 1fr 1fr !important; }
+            
+            .slide img { height: 400px !important; }
+            .featured-article img { height: 220px !important; }
+            
+            .footer__container { flex-direction: row !important; text-align: left !important; }
+            .section-bottom__form { flex-direction: row !important; max-width: 280px !important; }
+            
+            .sidebar-widget__number { width: 28px !important; height: 28px !important; font-size: 13px !important; }
+            .sidebar-widget__number-content .sidebar-widget__title-text { font-size: 14px !important; }
         }
     </style>
 </head>
@@ -523,7 +575,7 @@
             </div>
         </header>
 
-        <!-- MENU - Background hanya di dalam container -->
+        <!-- MENU -->
         <div class="menu-wrapper">
             <div class="container">
                 <nav class="menu">
@@ -920,7 +972,42 @@
          SCRIPTS
          ============================================================ -->
     <script>
-        // Slider
+        // ============================================================
+        // DETEKSI "DESKTOP SITE" DI HANDPHONE
+        // ============================================================
+        (function() {
+            var isMobile = /Android|iPhone|iPad|iPod|BlackBerry|Windows Phone|Opera Mini|IEMobile|Mobile/i.test(navigator.userAgent);
+            var screenWidth = window.innerWidth;
+            var isDesktopMode = screenWidth > 768; // Jika lebar layar > 768px, anggap desktop
+            
+            // Cek apakah user meminta desktop site (lebar viewport besar)
+            if (isMobile && screenWidth > 768) {
+                // Ini adalah mobile dengan mode desktop
+                document.body.classList.add('desktop-layout');
+            } else if (isMobile && screenWidth <= 768) {
+                // Mobile asli
+                document.body.classList.add('mobile-layout');
+            } else {
+                // Desktop asli
+                document.body.classList.add('desktop-layout');
+            }
+            
+            // Deteksi perubahan ukuran layar
+            window.addEventListener('resize', function() {
+                var newWidth = window.innerWidth;
+                if (newWidth > 768) {
+                    document.body.classList.remove('mobile-layout');
+                    document.body.classList.add('desktop-layout');
+                } else {
+                    document.body.classList.remove('desktop-layout');
+                    document.body.classList.add('mobile-layout');
+                }
+            });
+        })();
+
+        // ============================================================
+        // SLIDER
+        // ============================================================
         var slideNow = 0;
         var slides = document.querySelectorAll('.slide');
         var dotsBox = document.getElementById('sliderDots');
@@ -939,7 +1026,9 @@
         updateSlide();
         setInterval(function() { moveSlide(1); }, 5000);
 
-        // Menu
+        // ============================================================
+        // MENU
+        // ============================================================
         function toggleMenu() {
             document.getElementById('menuList').classList.toggle('active');
         }
@@ -951,7 +1040,9 @@
             sb.style.display = (sb.style.display === 'none') ? 'block' : 'none';
         }
 
-        // Back to Top
+        // ============================================================
+        // BACK TO TOP
+        // ============================================================
         window.onscroll = function() {
             var btn = document.getElementById('backToTop');
             if (document.documentElement.scrollTop > 300) {
