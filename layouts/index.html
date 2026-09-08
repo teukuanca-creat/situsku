@@ -46,14 +46,21 @@
         img { max-width: 100%; height: auto; }
 
         /* ============================================================
-           HEADER - STICKY
+           HEADER + MENU WRAPPER - STICKY
            ============================================================ */
-        .header { background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 100; }
+        .sticky-wrapper {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: #ffffff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        /* Header */
+        .header { background: #ffffff; }
         .header-top { display: flex; align-items: center; justify-content: space-between; padding: 5px 0; }
 
-        /* ============================================================
-           MENU - TIDAK FULL WIDTH
-           ============================================================ */
+        /* Menu Wrapper - Background hanya selebar konten */
         .menu-wrapper {
             background: #eeeee4;
             border-top: 2px solid var(--gold);
@@ -495,54 +502,58 @@
 </head>
 <body>
     <!-- ============================================================
-         HEADER - STICKY
+         STICKY WRAPPER (HEADER + MENU)
          ============================================================ -->
-    <header class="header">
-        <div class="container">
-            <div class="header-top">
-                <a href="https://teukuanca.com/">
-                    <img src="/images/logo.webp" alt="teukuanca.com" style="height:80px; display:block;">
-                </a>
-                <div style="display:flex; align-items:center; gap:10px;">
-                    <span class="search-icon" onclick="toggleSearch()">🔍</span>
-                    <button class="hamburger" onclick="toggleMenu()">
-                        <span></span><span></span><span></span>
-                    </button>
+    <div class="sticky-wrapper">
+
+        <!-- HEADER -->
+        <header class="header">
+            <div class="container">
+                <div class="header-top">
+                    <a href="https://teukuanca.com/">
+                        <img src="/images/logo.webp" alt="teukuanca.com" style="height:80px; display:block;">
+                    </a>
+                    <div style="display:flex; align-items:center; gap:10px;">
+                        <span class="search-icon" onclick="toggleSearch()">🔍</span>
+                        <button class="hamburger" onclick="toggleMenu()">
+                            <span></span><span></span><span></span>
+                        </button>
+                    </div>
                 </div>
             </div>
-        </div>
-    </header>
+        </header>
 
-    <!-- ============================================================
-         MENU - TIDAK FULL WIDTH
-         ============================================================ -->
-    <div class="menu-wrapper">
-        <div class="container">
-            <nav class="menu">
-                <ul class="menu__list" id="menuList">
-                    <li class="menu__item"><a href="https://teukuanca.com/" class="menu__link">Home</a></li>
-                    <li class="menu__item">
-                        <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Direktori Publik ▼</a>
-                        <ul class="menu__dropdown">
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/regulasi/" class="menu__link">Regulasi</a></li>
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/edukasi/" class="menu__link">Edukasi</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu__item">
-                        <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Gaya Hidup ▼</a>
-                        <ul class="menu__dropdown">
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/seni/" class="menu__link">Seni</a></li>
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/travelling/" class="menu__link">Travelling</a></li>
-                            <li class="menu__item"><a href="https://teukuanca.com/categories/kreativitas/" class="menu__link">Kreativitas</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu__item"><a href="https://teukuanca.com/pages/tentang-saya/" class="menu__link">Tentang Saya</a></li>
-                    <li class="menu__item"><a href="https://teukuanca.com/pages/hubungi-saya/" class="menu__link">Hubungi Saya</a></li>
-                </ul>
-            </nav>
+        <!-- MENU - Background hanya di dalam container -->
+        <div class="menu-wrapper">
+            <div class="container">
+                <nav class="menu">
+                    <ul class="menu__list" id="menuList">
+                        <li class="menu__item"><a href="https://teukuanca.com/" class="menu__link">Home</a></li>
+                        <li class="menu__item">
+                            <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Direktori Publik ▼</a>
+                            <ul class="menu__dropdown">
+                                <li class="menu__item"><a href="https://teukuanca.com/categories/regulasi/" class="menu__link">Regulasi</a></li>
+                                <li class="menu__item"><a href="https://teukuanca.com/categories/cerita-menarik/" class="menu__link">Cerita Menarik</a></li>
+                                <li class="menu__item"><a href="https://teukuanca.com/categories/edukasi/" class="menu__link">Edukasi</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu__item">
+                            <a href="#" class="menu__link" onclick="toggleSubmenu(this)">Gaya Hidup ▼</a>
+                            <ul class="menu__dropdown">
+                                <li class="menu__item"><a href="https://teukuanca.com/categories/seni/" class="menu__link">Seni</a></li>
+                                <li class="menu__item"><a href="https://teukuanca.com/categories/travelling/" class="menu__link">Travelling</a></li>
+                                <li class="menu__item"><a href="https://teukuanca.com/categories/kreativitas/" class="menu__link">Kreativitas</a></li>
+                            </ul>
+                        </li>
+                        <li class="menu__item"><a href="https://teukuanca.com/pages/tentang-saya/" class="menu__link">Tentang Saya</a></li>
+                        <li class="menu__item"><a href="https://teukuanca.com/pages/hubungi-saya/" class="menu__link">Hubungi Saya</a></li>
+                    </ul>
+                </nav>
+            </div>
         </div>
+
     </div>
+    <!-- END STICKY WRAPPER -->
 
     <!-- ============================================================
          SEARCH BOX
