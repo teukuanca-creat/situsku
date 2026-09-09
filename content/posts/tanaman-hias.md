@@ -65,13 +65,44 @@ Secara nasional, data produksi florikultura mencatat tren pertumbuhan permintaan
 ## Ragam Nama yang Jadi Primadona
 Beberapa jenis tanaman hias yang paling melekat dalam ingatan pada musim tersebut antara lain:
 - **Monstera adansonii (Janda Bolong):** Populer karena keunikan daunnya yang berlubang alami. Varian langkanya (variegata) bahkan pernah menyentuh harga fantastis hingga puluhan juta rupiah per pot di berbagai marketplace.
+
+![Monstera adansonii](/images/janda-bolong.webp)
+*Foto: Monstera adansonii (Janda Bolong)*
+  
 - **Aglaonema (Sri Rezeki):** Dikenal anggun lewat corak daun hijau keperakan berpadu semburat merah muda, serta sering dikaitkan dengan pembawa energi positif di rumah.
+
+![Aglaonema](/images/sri-rejeki.webp)
+*Foto: Aglaonema (Sri Rezeki)*
+
 - **Sansevieria (Lidah Mertua):** Pilihan favorit banyak orang karena daya tahannya yang kuat dan sangat ramah untuk pemula maupun pembersih udara dalam ruangan.
+
+![Sansevieria](/images/lidah-mertua.webp)
+*Foto: Sansevieria (Lidah Mertua)*
+
 - **Keladi (Caladium):** Termasuk Alocasia Polly dan keladi kuping, digemari berkat perpaduan warna daunnya yang mencolok serta bentuk fisiknya yang kontras.
+
+![Keladi](/images/keladi.webp)
+*Foto: Keladi (Caladium)*
+
 - **Calathea:** Khususnya jenis Calathea orbifolia, sering dijuluki "tanaman doa" dan menjadi buruan utama karena motif garis daunnya yang elegan.
+
+![Calathea](/images/calatea.webp)
+*Foto: Calathea*
+
 - **Philodendron:** Tetap menjadi idola karena kemudahannya untuk diperbanyak dan pasarnya yang relatif stabil meski musim tren telah berlalu.
+
+![Philodendron](/images/piledron.webp)
+*Foto: Philodendron*
+
 - **Hoya carnosa (Tali Hindu):** Unik dengan karakter daun tebal menjuntai yang sangat indah ditempatkan pada pot gantung.
+
+![Hoya carnosa](/images/hoya.webp)
+*Foto: Hoya carnosa (Tali Hindu)*
+
 - **Spanish Moss (Jenggot Musa):** Tanaman unik yang tumbuh melayang tanpa memerlukan media tanah sama sekali.
+
+![Spanish Moss](/images/muss.webp)
+*Foto: Spanish Moss (Jenggot Musa)*
 
 ## Ikhtisar 
 Bagi saya, musim bunga hias itu bukan sekadar gelombang tren yang datang lalu pergi begitu saja. 
