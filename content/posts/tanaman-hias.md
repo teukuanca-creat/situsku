@@ -42,8 +42,7 @@ Dari kacamata ekonomi, perputarannya pun terasa sangat nyata. Saat tren sedang b
 
 Pola ini tercermin jelas dari cerita para pelaku usaha tanaman hias di berbagai daerah. Salah satunya pemilik plantshop di Semarang yang mencatatkan kenaikan omzet hingga 50–75 persen di masa-masa puncak tren. 
 
-Pola ini tercermin jelas dari cerita para pelaku usaha tanaman hias di berbagai daerah. 
-
+Pola ini juga tercermin jelas dari cerita para pelaku usaha tanaman hias di berbagai daerah. 
 Salah satunya pemilik plantshop di Semarang yang mencatatkan kenaikan omzet hingga 50–75 persen di masa-masa puncak tren. 
 
 Jenis-jenis seperti Monstera (janda bolong), kaktus mini, lidah mertua, keladi, dan Aglaonema menjadi deretan primadona yang paling sering berpindah tangan ke pot pembeli.
