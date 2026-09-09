@@ -71,7 +71,7 @@ Beberapa jenis tanaman hias yang paling melekat dalam ingatan pada musim tersebu
   
 - **Aglaonema (Sri Rezeki):** Dikenal anggun lewat corak daun hijau keperakan berpadu semburat merah muda, serta sering dikaitkan dengan pembawa energi positif di rumah.
 
-![Aglaonema](/images/sri-rejeki.webp)
+![Aglaonema](/images/aglonema.webp)
 *Foto: Aglaonema (Sri Rezeki)*
 
 - **Sansevieria (Lidah Mertua):** Pilihan favorit banyak orang karena daya tahannya yang kuat dan sangat ramah untuk pemula maupun pembersih udara dalam ruangan.
