@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/spot-karang.jpg"
 categories: ["Edukasi"]
 description: "Dapatkan informasi spot mancing di dermaga seputaran ibukota Simeulue, mulai dari persiapan peranti hingga umpan yang dapat kamu pergunakan "
-tags: ["tag1", "tag2"]
+tags: ["memancing"]
 ---
 
 ## Kenapa Memancing Selalu Punya Tempat di Hati Masyarakat?
