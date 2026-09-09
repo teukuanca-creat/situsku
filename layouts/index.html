@@ -772,7 +772,7 @@
     {{ end }}
 </div>
 
-<!-- Tombol Lihat Semua Artikel (dipindah ke sini) -->
+<!-- Tombol Lihat Semua Artikel -->
 <div style="text-align:center; margin:20px 0;">
     <a href="https://teukuanca.com/posts/" style="display:inline-block; background:#1a56db; color:#fff; padding:10px 25px; border-radius:8px; font-weight:bold; text-decoration:none;">
         Lihat Semua Artikel &raquo;
@@ -785,11 +785,41 @@
 {{ partial "promo-grid.html" . }}
 
 <!-- SECTION 4: 2 KOLOM ARTIKEL -->
+<div class="two-columns">
+    <div class="column-box">
+        <h3>Artikel Terdahulu</h3>
+        <ul>
+            {{ range last 5 (where .Site.RegularPages "Section" "posts") }}
+            <li>
+                {{ if .Params.featured_image }}
+                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                {{ end }}
+                <a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    <div class="column-box">
+        <h3>Artikel Terbaru</h3>
+        <ul>
+            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+            <li>
+                {{ if .Params.featured_image }}
+                <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                {{ end }}
+                <a href="https://teukuanca.com{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+
+<!-- END PRIMARY -->
+
+
+
 
                 
-
-            <!-- END PRIMARY -->
-
             <!-- ============================================================
                  SIDEBAR (KANAN)
                  ============================================================ -->
