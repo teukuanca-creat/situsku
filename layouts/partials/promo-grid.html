@@ -1,0 +1,10 @@
+<div class="promo-grid">
+  {{ range .Site.Data.produk }}
+  <a href="{{ .link }}" target="_blank" rel="nofollow" class="promo-card">
+    <img src="{{ .gambar }}" alt="{{ .nama }}">
+    <h4>{{ .nama }}</h4>
+    <p class="promo-desc">{{ .deskripsi }}</p>
+    <span class="promo-price">{{ .harga }}</span>
+  </a>
+  {{ end }}
+</div>
