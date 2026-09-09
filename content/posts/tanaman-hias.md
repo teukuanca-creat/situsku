@@ -1,5 +1,5 @@
 ---
-title: 'Musim Bunga Hias: Ketika Teras Rumah Berubah Jadi Etalase Kebanggaan'
+title: 'Musim Bunga Hias: Ketika Teras Rumah Berubah Jadi Etalase Menawan'
 date: 2026-09-09
 draft: false
 featured_image: "/images/tanaman-hias-sinabang.webp"
