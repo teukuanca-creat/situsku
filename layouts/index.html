@@ -664,16 +664,17 @@ body.dark-mode .promo-card h4 {
         <header class="header">
             <div class="container">
                 <div class="header-top">
-                    <a href="https://teukuanca.com/">
-                        <img src="/images/logo.png" alt="teukuanca.com" style="height:80px; display:block;">
-                    </a>
-                    <div style="display:flex; align-items:center; gap:10px;">
-                        <span class="search-icon" onclick="toggleSearch()">🔍</span>
-                        <button class="hamburger" onclick="toggleMenu()">
-                            <span></span><span></span><span></span>
-                        </button>
-                    </div>
-                </div>
+    <a href="https://teukuanca.com/">
+        <h1 class="logo__title">teukuanca.com</h1>
+    </a>
+    <div style="display:flex; align-items:center; gap:10px;">
+        <button id="darkModeToggle" onclick="toggleDarkMode()" style="background:#fff; border:1px solid #ddd; border-radius:50%; width:40px; height:40px; cursor:pointer; font-size:18px;">🌙</button>
+        <span class="search-icon" onclick="toggleSearch()">🔍</span>
+        <button class="hamburger" onclick="toggleMenu()">
+            <span></span><span></span><span></span>
+        </button>
+    </div>
+</div>
             </div>
         </header>
 
@@ -709,7 +710,6 @@ body.dark-mode .promo-card h4 {
     </div>
     <!-- END STICKY WRAPPER -->
 
-<button id="darkModeToggle" onclick="toggleDarkMode()" style="background:#fff; border:1px solid #ddd; border-radius:50%; width:40px; height:40px; cursor:pointer; font-size:18px;">🌙</button>
     
     <!-- ============================================================
          SEARCH BOX
