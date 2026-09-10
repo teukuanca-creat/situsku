@@ -62,7 +62,7 @@ Begitu peluit panjang dibunyikan, semua kembali tertawa bersama. Tidak ada denda
 
 Dari situ saya paham, olahraga dalam tradisi melawat punya fungsi yang lebih luas dari sekadar mengejar skor. Ia adalah media pemersatu yang mengemas silaturahmi dalam suasana yang cair dan penuh kegembiraan.
 
-> **Baca Juga:** [Manfaat Cengkeh](https://teukuanca.com/posts/manfaat-cengkeh/)
+> **Baca Juga:** [Manfaat Cengkeh](https://teukuanca.com/posts/minyak-cengkeh-untuk-apa/)
 
 ## D. Semarak Malam Keakraban
 
