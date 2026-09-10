@@ -29,3 +29,6 @@ teukuanca.com sangat terbuka untuk diskusi, kritik, saran, maupun peluang kolabo
 * Media Sosial: [Facebook](https://www.facebook.com/share/197z6vHCQ2/)
 
 Terima kasih telah berkunjung dan menjadi bagian dari perjalanan teukuanca.com!
+
+![Teuku anca](/images/teuku-anca.webp)
+*Teuku Anca-Simeulue Island*
