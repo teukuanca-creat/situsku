@@ -170,6 +170,9 @@ img { max-width: 100%; height: auto; }
 .toc-box a:hover { text-decoration: underline; color: #ff6600; }
         .toc-box a:hover { text-decoration: underline; }
         .toc-box nav > ul > li > a { font-weight: bold; }
+   
+    .article-meta .author { font-weight: 600; color: #222; }
+.article-meta time { color: #666; }
     </style>
 </head>
 <body>
@@ -225,10 +228,11 @@ img { max-width: 100%; height: auto; }
         <article class="article">
             <h1>{{ .Title }}</h1>
             <div class="article-meta">
-                <time>{{ .Date.Format "02 January 2006" }}</time>
-                {{ if .Params.categories }}
-                <span>{{ range .Params.categories }}<span class="category">{{ . }}</span>{{ end }}</span>
-                {{ end }}
+    <span class="author">✍️ {{ .Site.Params.author | default "Teuku Anca" }}</span>
+    <time>📅 {{ .Date.Format "02 January 2006" }}, {{ .Date.Format "15:04" }} WIB</time>
+    {{ if .Params.categories }}
+    <span>{{ range .Params.categories }}<span class="category">{{ . }}</span>{{ end }}</span>
+    {{ end }}
             </div>
             {{ if .Params.featured_image }}
             <div style="text-align:center; margin: 20px 0;">
