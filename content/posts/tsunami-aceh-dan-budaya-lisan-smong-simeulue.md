@@ -8,61 +8,83 @@ description: "Catatan pribadi tentang pengalaman selamat dari tsunami 2004 di Si
 tags: ["smong", "tsunami", "Simeulue", "kearifan lokal", "bencana"]
 ---
 
-## A. Pendahuluan
+Suatu sore, saat gerimis tipis menyelimuti kawasan Pelabuhan lama di Simpang Lima, saya duduk di sebuah warung kopi yang ada di pinggir dermaga itu, pandangan ini terus saja menembus kabut hujan ke arah Pintu Babang, celah yang menjadi gerbang alami Teluk Sinabang dari terjangan ombak.
 
-Sore itu, gerimis tipis menyelimuti kawasan Pelabuhan Lama Simpang Lima. Dari bangku kayu di sebuah warung kopi, pandangan saya menembus kabut hujan ke arah Pintu Babang—celah yang menjadi gerbang alami Teluk Sinabang dari terjangan ombak.
+Suasana itu menarik ingatan ini pada Minggu pagi, 26 Desember 2004, hari yang tidak akan pernah terhapus dari memori saya bahkan bangsa ini.
 
-Suasana tenang itu menarik ingatan saya pada Minggu pagi, 26 Desember 2004, hari yang tidak akan pernah terhapus dari memori bangsa ini.
+Bagaimana bisa terlupakan, tragedi itu banyak menelan korban jiwa dan kerusakan total dibeberapa daerah pesisir bahkan ibu kota provinsi sehingga berstatus bencana nasional. 
 
-Malam sebelumnya, Sabtu, 25 Desember 2004, saya bersama tiga rekan menghabiskan waktu menyelesaikan sebuah pekerjaan kecil hingga pukul 04.00 subuh. Fisik yang teramat lelah membuat kami memutuskan menumpang tidur di kediaman seorang teman di kawasan Simpang Lima.
+## Mengenang kisah Tsunami Aceh 2004
+Waktu itu pada malam sebelum kejadian, Sabtu, 25 Desember 2004.
+Saya bersama tiga orang teman sedang begadang, kami menyelesaikan pekerjaan pemasangan stiker kenderaan pelanggan hingga pukul 4 subuh.
 
-Baru beberapa jam mata terpejam, kesadaran saya diguncang hebat.
+Fisik yang sudah terasa sangat lelah saat itu membuat kami memutuskan untuk menumpang tidur di kediaman teman di Simpang Lima desa Sinabang.
 
-## B. Guncangan Dahsyat dan Panik yang Menghujam
+Entah karena lelah dan tertidur sehingga membuat kami tidak merasa ada tanda-tanda. 
+Sebab, saya pernah dengar ungkapan kawan, dia tidak melihat ada burung atau bintang lain yang berkeliaran didepan matanya sebelum kejadian.
 
-Awalnya, dalam kondisi setengah sadar, saya mengira itu keisengan teman yang menggoyangkan tempat tidur. Namun, ketika guncangan semakin keras menghentak bumi, insting bertahan hidup mengambil alih. Saya melompat dari tempat tidur, memburu rekan yang masih terlelap, lalu menarik tangannya sekuat tenaga.
+### Guncangan Dahsyat dan Panik yang Menghujam
 
-Kami berlari menerobos kegelapan lorong menuju pintu luar. Di depan mata, tiga unit sepeda motor yang terparkir bertumbangan. Dengan gerakan refleks, kami melangkahi kendaraan yang melintang. Beruntung, pintu depan sudah terbuka lebar oleh teman yang lebih dahulu menyadari bahaya.
+Karena kelelahan begadang malam itu, perasaan saya baru saja memejamkan mata sudah terbangun lagi.
 
-Begitu sampai di halaman, pemandangan di luar sungguh mencekam. Gemuruh dinding bangunan yang saling beradu berpadu dengan gema istighfar warga. Bumi tidak lagi bergetar horizontal, melainkan menghenyak dari bawah.
+Awalnya, dalam kondisi setengah sadar, saya mengira itu keisengan teman yang menggoyangkan tempat tidur saja. Namun, guncangan semakin keras, insting bertahan hidup pun mengambil alih.
 
-Secara refleks, tubuh saya meloncat berulang kali sambil menjaga keseimbangan. Momen singkat saat melayang di udara tanpa disadari mengurangi entakan gempa. Di samping saya, seorang rekan tak sanggup bertahan. Ia duduk terpaku di tanah hingga muntah-muntah akibat disorientasi hebat.
+Sontak saja saya melompat dari tempat tidur, reflek tangan menarik teman yang masih terlelap, lalu dia juga terbangun dan kami berlari.
 
-Pengalaman itu membekas sangat dalam. Hingga hari ini, setiap merasakan guncangan gempa, tubuh saya tetap melakukan gerakan yang sama: meloncat-loncat untuk menjaga tumpuan dan mengurangi reaksi guncangan yang dirasakan, tentu saja setelah berlari ke tanah lapang.
+Kami berlari tanpa komando, tapi tujuan berlari sama yaitu ke luar dari rumah (jalan).
 
-## C. "Smong! Smong!"—Budaya Lisan yang Lebih Cepat dari Teknologi
+Beruntung pintu depan sudah dibuka dua orang teman yang sudah terlebih dahulu lari keluar rumah.
+Sebab, kenderaan yang terparkir didalam rumah berjatuhan menghambat lari saat itu. Kami  meloncati satu persatu bak dalam film.
 
-Saat gempa akhirnya mereda, fenomena tidak biasa terjadi di Sinabang. Jika di daratan utama Aceh sebagian warga mulai membenahi puing rumah, warga Simeulue justru merespons dengan cara yang sangat kontras.
+### Goyangan Gempa 9.3 Skala Richter. 
+Begitu sampai di halaman depan (jalan), suara gemuruh dinding bangunan kayu yang beradu begitu kuat terdengar.
 
-Tanpa komando resmi atau sistem peringatan dini elektronik, warga langsung memburu kendaraan masing-masing, menancap gas, dan meneriakkan satu kata yang diwariskan lintas generasi: **Smong... Smong!**
+Saat itu, badan saya secara reflek meloncat-loncat terus. Sepertinya, itu efek loncatan didalam rumah yang melewati kenderaan terjatuh saat berlari keluar tadi, ditambah lagi terbangun dari tidur disebabkan terkejut. 
 
-Masyarakat Simeulue seperti dibisiki naluri kolektif yang ditanamkan melalui tradisi lisan Nafi-Nafi. Kami paham betul pesannya: **jika gempa kuat mengguncang bumi, air laut akan naik membanjiri daratan**.
+Tetapi, reflek meloncat-loncat itu membuat badan saya tidak terikut goyangan gempa sebab terus berada diudara. Memang terasa hampir jatuh saat turun, namun saya terus meloncat lagi.
 
-Tanpa ragu, saya dan keluarga mengemas barang seperlunya dan bergerak cepat menuju Gunung Batu di Desa Suak Buluh, perbukitan sekitar 2 kilometer dari pusat kota. Sebagian warga lain menyelamatkan diri ke perbukitan sepanjang jalur jalan baru Desa Suka Karya.
+Salah seorang teman tidak sanggup berdiri, dia hanya terduduk mengikuti goyangan yang kuat itu, hingga dia muntah layaknya orang mabuk laut yang dihantam gelombang.
 
-Hanya dalam hitungan menit, puncak Gunung Batu dipadati ribuan pengungsi. Warga seakan tahu pasti ada marabahaya besar yang sedang merayap dari arah laut.
+## Budaya Lisan yang Mengalir 
+
+Saat gempa mereda, di sekeliling kami terlihat kenderaan roda dua dalam kondisi terjatuh, steling tempat jualan roboh, semua berantakan, syukur tidak ada bangunan yang runtuh di sekitar itu.
+
+Suara tangisan kami dan tasbih terus terucap. Warga tidak ada yang membenahi rumah saat itu, sampah dari puing-puing berserakkan.  
+
+ **Smooong...smoongg!!!** Semua bersiap lari menuju gunung/bukit.
+Kami langsung memburu kendaraan masing-masing, menancap gas menuju gunung-gunung terdekat.
+
+Sebagian warga menyelamatkan diri menuju perbukitan terdekat di jalan baru Desa Suka Karya, sekitar 1 kilometer dari pusat kota Sinabang.
+
+Saya bersama keluarga bergerak cepat menuju Gunung Batu Desa Suak Buluh, perbukitan sekitar 2 kilometer dari pusat kota. 
+Hanya dalam hitungan menit, puncak Gunung Batu dipadati ribuan pengungsi saat itu.
 
 > **Baca Juga:** [Jejak Teluk Sinabang](https://teukuanca.com/posts/jejak-teluk-sinabang-dari-ekonomi-90-an-ke-modernisasi/)
 
-## D. Terjebak di Lantai Dua dan Benteng Pintu Babang
+### Air Laut Surut
 
-Rasa penasaran dan kewajiban memantau kediaman keluarga yang berada di pinggir Teluk Sinabang mendorong saya turun kembali ke area pasar. Namun, baru saja tiba di pusat kota, teriakan histeris warga kembali pecah:
+Karena merasa penasaran dan kewajiban memantau kediaman keluarga yang berada di pinggir Teluk Sinabang, mendorong saya turun kembali ke area pasar bersama beberapa warga yang hendak juga memantau situasi ke pesisir teluk Sinabang.
 
-**Air surut! Smong... Smong!**
+Dalam perjalanan kami mendekati pusat kota sinabang, ternyata ada sebagian warga yang sudah terlebih dahulu berada di sana memantau situasi air laut dari teluk Sinabang.
+Tiba-tiba mereka meneriakkan **Air surut! Smong... Smong!** sambil menghalau kami untuk menjauh dan berlarian menuju perbukitan.
 
-Seketika, orang-orang berhamburan menuju perbukitan. Berbeda dari warga di beberapa daerah yang berbondong-bondong ke pantai mengumpulkan ikan terdampar, warga Simeulue justru terus berlari ke tempat yang lebih tinggi.
+Saya langsung memutar balik kenderaan menuju gunung batu kembali. Dengan perasaan yang cemas, semua kami histeris. Ada yang berlari dan ada yang berkendaraan menuju pengungsian masing-masing.
 
-Beberapa saat kemudian, ketika situasi tampak menyurut, saya bersama beberapa warga memberanikan diri memantau area pasar. Setibanya di sana untuk kedua kalinya, jejak kehancuran mulai terlihat. Jalanan basah kuyup, dipenuhi lumpur dan sampah bawaan Samudera.
+### Terjebak Smong
+Beberapa menit kemudian, ketika situasi tampak menyurut, saya dan beberapa warga kembali memberanikan diri memantau area pasar lagi. 
 
-Saya menerobos masuk ke dalam rumah. Di dinding, terpampang garis batas air setinggi pinggang orang dewasa. Televisi, lemari es, tempat tidur, dan sofa basah kuyup. Saya berusaha menyelamatkan barang-barang berharga dengan mengangkutnya satu per satu ke lantai dua.
+Untuk kedua kalinya tiba di sana, jejak kehancuran terlihat. Jalanan basah kuyup dipenuhi lumpur dan sampah bawaan Samudra.
 
-Di tengah evakuasi mandiri itulah, terdengar dentuman gemuruh dari arah laut. Air menghempas dan mendorong konstruksi rumah dari bawah, disusul teriakan warga: **Smong... Smong!**
+Saya menerobos masuk ke dalam rumah. Di dinding, terpampang garis batas air setinggi pinggang orang dewasa.
+Televisi, lemari es, tempat tidur, dan sofa basah kuyup. Saya berusaha menyelamatkan barang-barang berharga dengan mengangkutnya satu per satu ke lantai dua.
 
-Saya terjebak di lantai dua. Dengan jantung berdegup kencang, mata saya terus mengawasi loteng, mengalkulasi jalur meloloskan diri jika air kembali naik.
+Di tengah evakuasi mandiri itu, saya mendengar suara gemuruh dari arah bawah tanah. Sepertinya air menghempas dan mendorong konstruksi rumah dari bawah, disusul teriakan warga dari kejauhan: **Smong... Smong!**
 
-Beruntung, gelombang yang masuk saat itu bukan lagi gelombang utama, melainkan sisa fluktuasi air laut yang telah kehilangan daya hancurnya.
+Tetapi saya sudah terjebak di lantai dua, dengan jantung berdegup kencang, mata ini terus mengawasi loteng, mengalkulasi jalur meloloskan diri jika air mencapai lantai dua.
 
-Setelah air mereda, saya menutup rapat pintu rumah agar barang-barang tidak hanyut terbawa arus balik, lalu kembali berlari ke tempat aman di Gunung Batu.
+Tidak lama kemudian, suara air mulai menunjukkan penurunan. bersyukur gelombang yang masuk saat itu bukan lagi gelombang utama, tetapi gelombang kesekian kalinya yang sisa fluktuasi air laut saja dan telah kehilangan daya hancurnya.
+
+Setelah air mereda, saya menutup rapat pintu rumah agar barang-barang tidak hanyut terbawa arus balik jika naik lagi, lalu kembali berlari ke tempat aman ke Gunung Batu.
 
 ## E. Penyelamat Alami: Pintu Babang dan Kearifan Leluhur
 
