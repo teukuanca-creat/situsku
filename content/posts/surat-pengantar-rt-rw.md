@@ -1,107 +1,107 @@
 ---
-title: 'Surat Pengantar RT/RW: Kapan Masih Wajib, Kapan Sudah Tidak Perlu Lagi'
+title: 'Surat Pengantar RT/RW di Aceh: Kapan Masih Wajib, dan Kenapa Istilahnya Beda di Gampong'
 date: 2026-09-06
 draft: false
 featured_image: "/images/pengantar.webp"
 categories: ["Regulasi"]
-description: "Banyak yang masih mengira surat pengantar RT/RW wajib untuk urus KTP dan KK. Simak aturan terbaru berdasarkan Perpres 96/2018, kapan surat ini masih dibutuhkan, dan cara membuatnya."
-tags: ["surat pengantar RT RW", "administrasi kependudukan", "dukcapil"]
+description: "Banyak yang mengira surat pengantar RT/RW wajib untuk urus KTP dan KK. Simak aturan Perpres 96/2018 pasal per pasal, kapan surat ini masih dibutuhkan, dan kenapa istilahnya berbeda di Aceh dan Simeulue yang memakai sistem Gampong."
+tags: ["surat pengantar RT RW", "administrasi kependudukan", "dukcapil", "Gampong Aceh", "Simeulue"]
 ---
 
 ## Urus KTP dan KK Masih Perlu Surat Pengantar RT/RW? Ternyata Enggak Selalu!
 
-​Pernah diminta petugas atau tetangga buat "minta pengantar RT dulu" pas mau urus KTP atau Kartu Keluarga?
+Pernah diminta petugas atau tetangga buat "minta pengantar RT dulu" pas mau urus KTP atau Kartu Keluarga?
 
-Nah, ada kabar penting yang mungkin belum banyak orang tahu: sebenarnya, sejak beberapa tahun lalu syarat itu sudah enggak wajib lagi.
+Ada kabar yang mungkin belum banyak orang tahu: sejak beberapa tahun lalu, syarat itu sudah tidak wajib lagi untuk sebagian besar urusan kependudukan. Anehnya, kebingungan soal ini masih rutin muncul di media nasional, tanda bahwa banyak warga, bahkan sebagian perangkat di tingkat bawah, belum benar-benar paham aturan terbarunya.
 
-​Anehnya, urusan simpel ini masih sering bikin orang kebingungan sampai sekarang. Bahkan berita-berita di media nasional pun masih rutin membahas aturan ini, tanda kalau masih banyak warga—bahkan sebagian perangkat di tingkat bawah yang belum benar-benar paham aturan terbarunya.
-
-​Biar enggak bolak-balik dan buang waktu, yuk kita bedah bareng: sebenarnya kapan sih surat pengantar RT/RW ini masih dipakai, dan kapan yang sudah bisa langsung kita lewati?
+Biar tidak bolak-balik buang waktu, mari dibedah pasal per pasal: kapan surat pengantar ini masih dipakai, kapan sudah bisa dilewati dan khusus untuk pembaca di Aceh serta Simeulue, ada satu lapisan tambahan yang jarang dibahas: istilah "RT/RW" itu sendiri sebenarnya tidak sepenuhnya berlaku di sini.
 
 ## Aturan yang Mengubah Segalanya: Perpres 96/2018
 
-​Titik balik perubahan aturan ini sebenarnya berakar dari Peraturan Presiden (Perpres) Nomor 96 Tahun 2018.
+Titik balik perubahan aturan ini berakar dari Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 
-​Lewat Perpres ini, pemerintah pusat sejatinya sudah resmi memangkas birokrasi. Syarat surat pengantar dari RT, RW, kelurahan, sampai kecamatan dihapus untuk sebagian besar urusan dokumen kependudukan termasuk bikin e-KTP dan Kartu Keluarga (KK).
+Yang sering bikin bingung, Perpres ini sebenarnya tidak menghapus syarat surat pengantar secara total melainkan membedakannya berdasarkan jenis layanan:
 
-​Pihak Dukcapil Kemendagri juga sudah berulang kali menegaskan: selama Anda sudah punya NIK (alias sudah terdaftar dan pernah punya e-KTP), mau urus atau ubah data KK itu enggak perlu lagi minta surat pengantar ke mana-mana. Cukup bawa dokumen pendukungnya dan datang langsung ke kantor Disdukcapil sesuai domisili. Simpel, kan?
+- **Pasal 15** mengatur penerbitan KTP-el: syaratnya hanya berusia 17 tahun (atau sudah/pernah kawin) dan membawa Kartu Keluarga. Tidak ada lagi klausul surat pengantar RT/RW di pasal ini
+- **Pasal 25 ayat (3)** mengatur pindah domisili dalam satu kabupaten/kota: cukup menunjukkan KK, tanpa pengantar apa pun
+- **Pasal 4** justru sebaliknya—mengatur pencatatan biodata penduduk WNI yang baru pertama kali terdaftar, dan di pasal inilah syarat "surat pengantar dari rukun tetangga dan rukun warga **atau yang disebut dengan nama lain**" masih dicantumkan sebagai salah satu persyaratan
 
-### Jadi, Kapan Surat Pengantar Ini Masih Dibutuhkan?
-​Nah, di sini bagian yang sering bikin orang salah paham. Walaupun sudah enggak terpakai buat urus KTP dan KK (asal sudah punya NIK), surat pengantar RT/RW ini sebenarnya belum sepenuhnya "pensiun".
+Frasa "atau yang disebut dengan nama lain" di Pasal 4 ini penting sekali untuk pembaca di Aceh akan dijelaskan di bagian bawah kenapa.
 
-​Masih ada beberapa kondisi di mana Anda tetap harus sowan ke rumah Pak RT/RW:
-* **​Belum Punya NIK Sama Sekali:** Misalnya mau mendaftarkan bayi yang baru lahir, atau kasus-kasus khusus warga yang belum pernah terdata di sistem kependudukan. Di situasi ini, surat pengantar dari RT/RW masih wajib sebagai bukti keterangan domisili awal.
-* **​Urusan di Luar Dukcapil:** Ingat, Perpres 96/2018 itu spesifik cuma memangkas birokrasi di Dukcapil. Jadi, kalau Anda mau mengurus dokumen lain di tingkat kelurahan/desa—seperti Surat Keterangan Tidak Mampu (SKTM), surat izin usaha tempatan, atau dokumen administrasi lingkungan lainnya—surat pengantar RT/RW biasanya tetap diminta.
+Jadi selama Anda sudah punya NIK (pernah punya e-KTP sebelumnya), urus atau ubah data KK tidak perlu lagi surat pengantar ke mana-mana. Cukup bawa dokumen pendukung, datang langsung ke Disdukcapil sesuai domisili.
 
-**Intinya begini:** kalau NIK Anda sudah terdaftar, mau urus KTP atau ubah data KK itu biasanya sudah bebas dari surat pengantar. 
+## Jadi, Kapan Surat Pengantar Ini Masih Dibutuhkan?
 
-Tapi kalau urusannya menyangkut dokumen lain di tingkat desa atau kelurahan, tidak ada salahnya tetap bertanya ke petugas setempat, karena praktiknya di lapangan kadang masih punya kebijakan masing-masing.
+Walau sudah tidak dipakai untuk urus KTP dan KK bagi yang sudah punya NIK, surat pengantar ini belum sepenuhnya "pensiun". Masih ada dua kondisi yang tetap memerlukannya:
+
+- **Belum punya NIK sama sekali.** Misalnya mendaftarkan bayi baru lahir, atau warga yang belum pernah terdata di sistem kependudukan. Sesuai Pasal 4 Perpres 96/2018, surat pengantar tetap wajib sebagai bukti keterangan domisili awal
+- **Urusan di luar Dukcapil.** Perpres 96/2018 spesifik hanya memangkas birokrasi layanan Disdukcapil. Untuk dokumen lain di tingkat gampong/kelurahan seperti Surat Keterangan Tidak Mampu (SKTM) atau izin usaha tempatan, surat pengantar biasanya tetap diminta, tergantung kebijakan masing-masing daerah
 
 {{< affiliate src="/images/sonic.webp" link="https://s.shopee.co.id/3Vk2jmgp6x" title="Treadmill Listrik Sonix Lite (Harga Terjangkau)" >}}
 
-### Lalu, Apa Sebenarnya Fungsi Surat Pengantar Ini?
-​Di luar urusan wajib atau enggaknya, surat pengantar RT/RW itu sebenarnya punya fungsi sosial yang cukup krusial. 
+## Kenapa Istilahnya Beda di Aceh dan Simeulue
 
-Sederhananya, ini adalah bentuk "kenalan" dan pengesahan bahwa Anda memang benar-benar warga yang tinggal di situ dan dikenal oleh lingkungan sekitar.
+Ini bagian yang tidak akan Anda temukan di kebanyakan artikel sejenis, karena kebanyakan ditulis dengan asumsi struktur pemerintahan nasional generik.
 
-​Bisa dibilang, surat ini seperti "stempel restu" atau pengesahan sosial dari Pak RT dan Pak RW sebelum berkas Anda masuk ke meja birokrasi pemerintahan yang lebih formal di kelurahan.
-​Dan fungsi ini enggak cuma formalitas kertas semata. Dari sudut pandang ketertiban warga, proses sowan ke RT/RW ini berguna buat mencegah adanya identitas palsu atau warga "gelap". 
+Wilayah Provinsi Aceh memiliki sistem pemerintahan tingkat bawah yang berbeda dari daerah lain di Indonesia, diatur lewat UU Nomor 11 Tahun 2006 tentang Pemerintahan Aceh dan qanun turunannya. Uniknya, ada penyesuaian istilah yang perlu dipahami:
+* Di wilayah daratan Aceh, satuan setingkat desa disebut Gampong yang dipimpin oleh Keuchik. Namun khusus di Kabupaten Simeulue, secara administrasi dan penyebaran adat tetap resmi menggunakan istilah Desa dan Kepala Desa.
+* Lembaga musyawarah atau badan perwakilan desanya disebut Tuha Peut Gampong (atau Tuha Peut Desa di Simeulue).
+* Unit langsung di bawah desa, yang di daerah lain berbentuk RT/RW, di Simeulue lazimnya langsung berbentuk Dusun yang dipimpin oleh Kepala Dusun.
 
-Selain itu, momen ini juga jadi jembatan silaturahmi supaya pengurus lingkungan tetap kenal sama warganya sendiri.
+Inilah kenapa frasa "atau yang disebut dengan nama lain" di Pasal 4 Perpres 96/2018 relevan langsung bagi warga Simeulue. Secara hukum, fungsi "surat pengantar RT/RW" itu digantikan langsung melalui koordinasi Kepala Dusun dan Kepala Desa setempat, bukan Ketua RT dan RW seperti istilah yang umum dipakai media nasional.
 
-### Syarat dan Langkah Simpel Cara Bikinnya
-​Nah, kalau kebetulan urusan Anda memang masih butuh surat pengantar ini, tenang saja, prosesnya sebenarnya enggak seribet yang dibayangkan.
+Bagi warga yang baru pindah dari luar Aceh ke Simeulue, hal ini sering jadi titik kebingungan tersendiri. Mereka sibuk mencari "Ketua RW atau RT", padahal yang perlu didatangi langsung adalah Kepala Dusun atau Kantor Kepala Desa setempat.
 
-​Dokumen yang Perlu Disiapkan:
-* ​Fotokopi KTP dan Kartu Keluarga (KK) yang masih berlaku.
-* ​Bukti pelunasan PBB tahun berjalan (opsional, tergantung kebiasaan di lingkungan tempat tinggal Anda).
-​
-Alurnya Biasanya Berjenjang seperti Ini:
-* ​Sowan ke Rumah Ketua RT: Bawa berkas tadi, jelaskan maksud keperluan Anda, lalu minta surat pengantar yang sudah ditandatangani dan distempel.
-* ​Lanjut ke Ketua RW: Bawa surat dari RT tadi ke rumah Ketua RW untuk dapat pengesahan dan stempel tambahan.
+## Beda Surat Pengantar dengan Surat Keterangan Domisili
 
-​Begitu stempel RT dan RW sudah lengkap di atas kertas, surat itu siap dipakai buat mengurus dokumen selanjutnya di kantor kelurahan atau desa.
+Dua dokumen ini sering dikira sama, padahal fungsinya beda jauh:
 
-> **Baca Juga:** [Buat akta Kelahiran: Panduan Pengurusan Akta Kelahiran Anak](https://teukuanca.com/posts/akta-kelahiran-anak/)
+- **Surat pengantar** (dari Kepala Dusun/Jurong dan Keuchik di Aceh): fungsinya sebagai "tiket" atau syarat awal untuk mengurus dokumen lain di gampong/kelurahan, levelnya masih ringan
+- **Surat Keterangan Domisili (SKD):** dokumen lebih final dengan kekuatan legal lebih tinggi, sering dipakai langsung sebagai bukti alamat resmi untuk melamar kerja atau membuka rekening bank
 
-### Beda Surat Pengantar RT vs Surat Keterangan Domisili
-​Banyak orang sering mengira dua dokumen ini sama saja, padahal fungsinya beda jauh!
-* **​Surat Pengantar RT/RW:** Ibaratnya cuma "tiket pengantar" atau syarat awal. Tugasnya cuma mengantarkan Anda buat mengurus dokumen lain di kelurahan, levelnya masih ringan.
-* **Surat Keterangan Domisili (SKD):** Nah, sementara surat keterangan domisili adalah dokumen yang lebih final, dengan kekuatan legal lebih tinggi, dan sering dipakai langsung sebagai bukti alamat resmi untuk berbagai urusan seperti melamar kerja atau membuka rekening bank.
+## Langkah Membuatnya di Gampong
 
-### Relevansinya bagi Warga Simeulue
-​Khusus buat kita warga di Kabupaten Simeulue, paham aturan ini rasanya krusial sekali. 
+Kalau urusan Anda memang masih membutuhkan surat pengantar ini, alurnya berjenjang seperti berikut:
 
-Tujuannya simpel: biar enggak rugi waktu dan ongkos gara-gara bolak-balik urus berkas yang sebenarnya udah enggak kepake.
+**Dokumen yang perlu disiapkan:**
+- Fotokopi KTP dan KK yang masih berlaku
+- Bukti pelunasan PBB tahun berjalan (opsional, tergantung kebiasaan setempat)
 
-​Kita sama-sama tahu, kondisi geografis daerah kepulauan bikin perjalanan ke kantor kecamatan atau kantor Disdukcapil di kota itu butuh perjuangan, baik waktu, tenaga, sampai biaya minyak.
+**Alurnya:**
+1. Datangi Kepala Dusun/Jurong, jelaskan keperluan, minta surat pengantar bertanda tangan dan berstempel
+2. Lanjutkan ke kantor Keuchik gampong untuk pengesahan dan stempel tambahan
+3. Surat yang sudah lengkap stempelnya siap dipakai untuk mengurus dokumen selanjutnya di kecamatan
 
-​Jadi, kalau urusan Anda murni soal KTP atau KK dan NIK-nya sudah ada, langsung saja meluncur ke Disdukcapil. Enggak perlu repot-repot muter minta surat pengantar RT/RW dulu. 
+> Baca Juga: [Buat Akta Kelahiran: Panduan Pengurusan Akta Kelahiran Anak](https://teukuanca.com/posts/akta-kelahiran-anak/)
 
-Tapi, kalau urusannya masih menyangkut dokumen di tingkat gampong atau kecamatan, baru deh berkoordinasi dulu dengan perangkat setempat.
+## Relevansinya bagi Warga Simeulue
+
+Bagi warga Kabupaten Simeulue, paham aturan ini cukup krusial. Kondisi geografis kepulauan bikin perjalanan ke kantor kecamatan atau Disdukcapil di kota membutuhkan waktu, tenaga, dan biaya transportasi yang tidak kecil, apalagi untuk gampong-gampong yang jaraknya jauh dari pusat kabupaten.
+
+Kalau urusan Anda murni soal KTP atau KK dan NIK sudah ada, langsung saja ke Disdukcapil tanpa perlu memutar dulu ke kantor Keuchik. Tapi kalau urusannya menyangkut dokumen di tingkat gampong atau kecamatan, koordinasi dengan Kepala Dusun/Jurong dan Keuchik tetap jadi langkah pertama yang tidak bisa dilewati.
 
 ## Penutup
-Pada akhirnya, surat pengantar RT/RW memang tidak lagi menjadi syarat mutlak untuk seluruh jenis urusan administrasi. 
-Namun, hal itu bukan berarti fungsi dan perannya dalam birokrasi lokal lantas hilang sepenuhnya.
-​
-Hal terpenting yang perlu kita lakukan adalah memilah keperluan spesifik dokumen yang hendak diurus. 
-Pahami apakah berkas tersebut masuk dalam kategori administrasi kependudukan Dukcapil yang sudah dipangkas syaratnya, atau keperluan lain di tingkat desa/kelurahan yang masih memintanya.
 
-​Dengan pemahaman yang tepat, Anda dapat menghemat waktu, menekan biaya perjalanan, serta terhindar dari kerumitan mengurus dokumen yang sejatinya tak lagi diperlukan.
+Surat pengantar RT/RW atau di Aceh, surat pengantar dari Kepala Dusun/Jurong dan Keuchik, memang tidak lagi jadi syarat mutlak untuk seluruh urusan administrasi. Tapi perannya dalam birokrasi lokal belum sepenuhnya hilang.
 
-#### FAQ Seputar Surat Pengantar RT/RW
+Hal terpenting adalah memilah keperluan spesifik dokumen yang hendak diurus: apakah masuk kategori administrasi kependudukan Dukcapil yang sudah dipangkas syaratnya, atau keperluan lain di tingkat gampong yang masih memintanya. 
+
+Dengan pemahaman yang tepat, Anda bisa menghemat waktu, menekan biaya perjalanan, dan terhindar dari kerumitan mengurus dokumen yang sejatinya sudah tidak diperlukan.
+
+## FAQ Seputar Surat Pengantar RT/RW
 
 **Apakah surat pengantar RT/RW masih wajib untuk membuat KTP baru?**
+Kalau Anda sudah punya NIK sebelumnya, tidak wajib lagi sesuai Pasal 15 Perpres Nomor 96 Tahun 2018. Kalau belum pernah punya NIK/e-KTP sama sekali, Pasal 4 perpres yang sama tetap mensyaratkan surat pengantar sebagai bukti domisili awal.
 
-Kalau Anda sudah punya NIK sebelumnya, tidak wajib lagi sejak berlakunya Perpres Nomor 96 Tahun 2018. Namun kalau belum pernah punya NIK/e-KTP sama sekali, Anda tetap memerlukan pengantar dari RT, RW, atau kelurahan sebagai bukti domisili awal.
+**Kalau tidak perlu untuk KTP dan KK, kenapa kantor gampong/kelurahan masih sering memintanya?**
+Karena penghapusan syarat lewat Perpres 96/2018 spesifik menyasar layanan di Disdukcapil. Untuk layanan lain di tingkat gampong/desa seperti surat keterangan domisili atau izin usaha, kebijakan lokal masing-masing daerah masih bisa mensyaratkannya.
 
-**Kalau tidak perlu untuk KTP dan KK, kenapa kelurahan masih sering memintanya?**
+**Kenapa istilah RT/RW tidak dipakai di Aceh, termasuk Simeulue?**
+Jawabannya karena Aceh punya sistem pemerintahan lokal sendiri yang diatur dalam UU Nomor 11 Tahun 2006 tentang Pemerintahan Aceh (UUPA).Menurut aturan ini, wilayah setingkat desa di Aceh disebut Gampong dan dipimpin oleh seorang Keuchik. Nah, di bawah Gampong, wilayahnya langsung dibagi ke dalam Dusun atau Jurong.Jadi, fungsi pelayanan administrasi warga yang biasanya dipegang RT/RW di daerah lain, di Aceh langsung dilebur dan diurus oleh Kepala Dusun (Ulee Jurong). Makanya, struktur RT/RW di sini otomatis tidak diperlukan lagi!
 
-Karena penghapusan syarat lewat Perpres 96/2018 itu spesifik menyasar layanan administrasi kependudukan di Disdukcapil. Untuk layanan lain di tingkat kelurahan/desa seperti surat keterangan domisili atau izin usaha, kebijakan lokal masing-masing daerah masih bisa mensyaratkannya.
+**Apa bedanya surat pengantar dengan surat keterangan domisili?**
+Surat pengantar sifatnya syarat awal untuk mengurus dokumen lain di gampong/kecamatan, sementara surat keterangan domisili adalah dokumen final dengan kekuatan legal lebih tinggi yang bisa langsung dipakai sebagai bukti alamat resmi.
 
-**Apa bedanya surat pengantar RT dengan surat keterangan domisili?**
-
-Surat pengantar RT sifatnya sebagai syarat awal untuk mengurus dokumen lain di kelurahan/kecamatan, sementara surat keterangan domisili adalah dokumen final dengan kekuatan legal lebih tinggi yang bisa langsung dipakai sebagai bukti alamat resmi.
 
 **Referensi:**
 * [Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.](https://peraturan.bpk.go.id/Details/97804/perpres-no-96-tahun-201)
