@@ -32,7 +32,7 @@ Waktu itu, belum tau manfaat Kolong (teripang) ini, apalagi masalah harganya. ya
 
 Setelah sekian lama menyadari, ternyata kolong (Teripang ) itu salah satu hasil laut yang bernilai tinggi.
 
-Berikut kita urai apa saja yang menjadi Teripang ini bernilai, mari sama-sama kita ulas secara satu persatu.
+Berikut kita uraikan apa saja yang menjadi Teripang ini bernilai.
 
 ## Apa Itu Teripang Laut?
 
@@ -44,15 +44,11 @@ Kolong atau Teripang bukanlah jenis ikan ataupun jenis kerang. Tapi dia sejenis 
 
 Walaupun dia terbilang mahal, tetapi tidak semua jenisnya bisa dimakan. Kemudian ada yang bernilai tinggi dan ada juga yang tidak laku di pasaran.
 
-Biasanya, jenis yang paling banyak di cari orang adalah:
+Biasanya, jenis yang paling banyak di cari orang adalah Teripang pasir, Teripang koro juga Teripang hitam.
 
-- Teripang pasir
-- Teripang koro
-- Teripang hitam
+Ketiganya punya harga yang berbeda-beda, itu tergantung ukuran dan kualitas pengeringannya.
 
-Walaupun ketiganya punya harga yang berbeda-beda, itu tergantung ukuran dan kualitas pengeringannya.
-
-### Jenis-Jenis Teripang yang Umum Dikenal
+## Jenis-Jenis Teripang yang Umum Dikenal
 
 Saat kamu rekreasi ke laut, gak ada salahnya seskali memperhatikan di bebatuan tepi pantai, banyak tuh kolong atau teripang dengan bentuk berbeda, ada seperti mentimun, ada yang berduri, biasnya mereka mengeluarkan cairan putih di belakangnya.
 
@@ -63,7 +59,7 @@ Daerah Babang juga banyak terlihat kok, apalgi sebelah lautan yang menghadap ke 
 
 Jika merujuk ke berbagai informasi, ada beberapa jenis dan bentuk kolong (teripang) yang dikenal secara umum, baik di simeulue maupun daerah lain, berikut kita uraikan apa saja jenis dan bentuknya.
 
-**1. Teripang Pasir**
+### 1. Teripang Pasir
 
 Ini jenis yang paling populer. Warga Simeulue tentu mengenlnya, apalagi mereka yang khusus mengelola teripang, pasti tau!
 
@@ -71,7 +67,7 @@ Bentuknya sedang, kulitnya abu-abu hingga cokelat tua, dengan bintil-bintil halu
 
 Bahkan, teripang pasir ini juga sudah banyak dibudidayakan, karena permintaan pasarnya masih relatif tinggi dan perawatannya juga tidak terlalu rumit.
 
-**2. Teripang Koro atau Teripang Susu**
+### 2. Teripang Koro atau Teripang Susu
 
 Memang namanya terdengar unik kan? Teripang ini punya dinding tubuh yang tebal dan keras. Warna tubuhnya hitam, kadang putih kehitaman.
 
@@ -79,7 +75,7 @@ Kalau kita dipegang, terasa lebih padat dibandingkan jenis lain. Lalu di bagian 
 
 Karena dagingnya tebal, teripang ini biasanya dihargai lebih tinggi.
 
-**3. Teripang Pandan**
+### 3. Teripang Pandan
 
 Jika dilihat sekilas, bentuknya agak menyeramkan. Karena permukaan tubuhnya dipenuhi duri-duri berdaging yang menyerupai buah nanas. 
 
@@ -87,13 +83,13 @@ Warnanya kemerahan atau kecokelatan.
 
 Meski dia berduri, teripang ini tidak berbahaya dan cukup bernilai juga di pasaran.
 
-**4. Teripang Batu**
+### 4. Teripang Batu
 
 Ini sesuai namanya, teripang yang terlihat seperti batu karang. Dinding tubuhnya tebal, kasar, dan keras. 
 
 Karena penampilannya menyerupai karang, orang yang belum terbiasa bisa saja melewatkannya. Padahal jenis ini banyak dicari karena kualitas dagingnya.
 
-**5. Teripang Hitam**
+### 5. Teripang Hitam
 
 Kalu Teripang jenis ini, dia bertubuh lunak berwarna dasarnya hitam atau kehitaman. 
 
@@ -101,19 +97,19 @@ Banyak ditemukan di perairan dangkal kawasan Indo-Pasifik, termasuk di sekitar S
 
 Bentuknya sederhana, tidak mencolok, tetapi tetap bernilai jual.
 
-**6. Teripang Ular atau Gamat Batik**
+### 6. Teripang Ular atau Gamat Batik
 
 Namanya diambil dari corak di punggungnya yang terdapat banyak bintik atau bulatan seperti mata, sehingganya tampak seperti bermotif batik. 
 
 Jenis ini cukup unik dan sering menarik perhatian para pengumpul.
 
-**7. Teripang Kunyit**
+### 7. Teripang Kunyit
 
 Ini jenis lokal yang penamaannya diambil dari warna tubuhnya yang cenderung kekuningan, seperti kunyit. 
 
 Saya sendiri dulu pernah melihatnya di tangkahan. Karena warnanya berbeda dari yang lain, justru mudah diingat.
 
-### Mengapa Teripang Direbus dan Dijemur?
+## Mengapa Teripang Direbus dan Dijemur?
 
 Dulu saya kira teripang yang direbus itu untuk langsung dimakan, ternyata tidak begitu.
 
@@ -127,7 +123,7 @@ Proses ini sederhana, tapi menentukan harga. Teripang yang dijemur sempurna akan
 
 > **Baca Juga:** [Gaya Pancing Gurita di Simeulue](https://teukuanca.com/posts/uniknya-gaya-pancing-gurita-di-simeulue-aceh/)
 
-### Teripang Diolah Menjadi Apa?
+## Teripang Diolah Menjadi Apa?
 
 Ini yang dulu saya tidak paham dan memang belum mau memahami sebab masih kanak-kanak. Seiring waktu, baru mengscrol mencari informasinya. Ternyata teripang punya nilai guna yang luas. berikut pengolahannya.
 
@@ -147,7 +143,7 @@ Dalam pengobatan tradisional di Tiongkok, Kolong (teripang) memang sudah dipakai
 
 Ternyata teripang juga diolah menjadi Kapsul suplemen, Minyak teripang, Krim perawatan kulit. Semua itu disebkan karena kandungan kolagen dan kondroitin sulfatnya.
 
-### Kandungan Gizi Teripang
+## Kandungan Gizi Teripang
 
 Rupanya Teripang termasuk makanan rendah lemak, tetapi tinggi protein.
 Ini dia beberapa kandungan penting yang dimilikinya, antara lain:
@@ -160,7 +156,7 @@ Ini dia beberapa kandungan penting yang dimilikinya, antara lain:
 
 Maka itulah Kolong atau Teripang ini di hargai tinggi dipasar Internasional, 
 
-### Harga Pasar Teripang
+## Harga Pasar Teripang
 
 Ternyata dulu pada era 90-an, harga teripang kering di tingkat penampung sudah cukup baik lho, meskipun belum seperti sekarang ini.
 
