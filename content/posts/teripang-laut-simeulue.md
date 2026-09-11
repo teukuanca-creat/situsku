@@ -1,5 +1,5 @@
 ---
-title: 'Manfaat Teripang Laut: Memori Tangkahan Sejak 90-an di Sinabang'
+title: 'Teripang Laut: Memori Tangkahan Sejak 90-an di Sinabang'
 date: 2026-08-20
 draft: false
 featured_image: "/images/by-pexels.webp"
@@ -8,174 +8,195 @@ description: "Kenangan masa kecil melihat pengolahan teripang laut di tangkahan 
 tags: ["Teripang", "Hasil Laut", "Simeulue", "Tangkahan", "Ekonomi Pesisir"]
 ---
 
-## A. Teripang Laut Terlihat Sejak Dahulu
+## Tempat Penampungan yang Melegenda 
+Di era 90-an, dalam penglihatan saya **tangkahan** sudah berdiri di seputar teluk Sinabang, persisnya pinggiran pelabuhan lama simpang lima Sinabang, Pakan Baru Desa Suka Maju hingga Potongan Desa Suka Damai.
 
-Era 90-an, di seputaran Teluk Sinabang Simpang Lima, ada pemandangan yang hampir setiap hari saya lihat sepulang bermain. Warga setempat menyebutnya **tangkahan**, yaitu tempat penampungan hasil laut sederhana.
+Tangkahan itu sebutan lokal untuk tempat jual beli hasil laut. Berbentuk rumah, dengan tiang bangunan tertancap ke laut dan umumnya berada dipinggir laut.
 
-Kebetulan ada dua tangkahan yang letaknya tidak jauh dari kediaman saya. Pemiliknya adalah orang tua dari teman. Setiap hari di tempat itu selalu ada aktivitas: ikan diturunkan dari perahu, gurita dipisahkan, lobster disortir, dan satu yang paling membekas di ingatan saya, yaitu **teripang laut**.
+Kamu mungkin terfikir semacam tempat budidaya ikan atau hasil laut, kan?
 
-Di Simeulue, kami biasa menyebutnya dengan nama **kolong**. Waktu itu saya belum paham manfaat kolong, apalagi soal harganya. Yang saya ingat, hewan laut ini dijemur di terik matahari, ada juga yang direbus dalam drum besar. Asap mengepul, bau laut bercampur asin menguar ke mana-mana.
+Ini berbeda, justru tempat budidaya itu disebut **"keramba"**.
+Boleh dikatakan sama-sama berada diatas laut tetapi beda fungsi.
 
-Ternyata kolong yang sejak dulu sering terlihat itu adalah salah satu hasil laut yang bernilai tinggi.
+Setiap hari,bunyi es batang yang dipukul atau di banting-banting ke lantai, seperti alarm aktivitas jual beli di mulai.
 
-## B. Apa Itu Teripang Laut?
+Salah satu hasil laut yang sering saya lihat saat itu **kolong**. ini sebutan dari **Teripang**.
+Aktivitas penjemuran dan pengelolaannya pun sering saya saksikan dimasa kanak-kanak.
 
-Teripang adalah hewan laut dari kelas Holothuroidea. Bentuknya seperti mentimun, sehingga dalam bahasa Inggris disebut *sea cucumber*.
+Bahkan, di dalam tangkahan juga ada tempat merebus Teripang, berupa drum yang sudah diolah sedemikian rupa dengan pemanggang besi di bawahnya.
 
-Hewan ini hidup di dasar laut dan memakan sisa organik serta plankton. Di Indonesia, teripang banyak ditemukan di perairan dangkal, termasuk di sekitar Teluk Sinabang.
+Biasanya sebelum dijemur, teripang harus direbus dulu. 
+Saat dijemur, pernah saya perhatikan Teripang itu seperti di berikan garam, kemudian belahan perutnya di ganjal dengan kayu seukuran korek api supaya bagian dalam dapat tersinar matahari.
 
-Teripang bukan ikan, bukan juga kerang. Ia sejenis hewan berkulit lunak yang punya banyak spesies. Tidak semuanya bisa dimakan. Ada yang bernilai tinggi, ada juga yang tidak laku di pasaran.
+Waktu itu, belum tau manfaat Kolong (teripang) ini, apalagi masalah harganya. yang saya ingat, dia diletakkan dalam baskom dengan isian air dan mengeluarkan cairan putih. Ketika direbus, aroma laut bercampur asin menguar kemana-mana.
 
-Jenis yang paling dicari biasanya:
+Setelah sekian lama menyadari, ternyata kolong (Teripang ) itu salah satu hasil laut yang bernilai tinggi.
+
+Berikut kita urai apa saja yang menjadi Teripang ini bernilai, mari sama-sama kita ulas secara satu persatu.
+
+## Apa Itu Teripang Laut?
+
+Kita mungkin sudah tau bahwa Kolong atau Teripang adalah hewan laut dari kelas **Holothuroidea**. Bentuknya pun seperti mentimun, kalau bahasa Inggrisnya *sea cucumber*.
+
+Dia hidup di dasar laut, kadang diperairan dangkal kadang juga perairan dalam. Makanannya sisa organik dan plankton.
+
+Kolong atau Teripang bukanlah jenis ikan ataupun jenis kerang. Tapi dia sejenis hewan berkulit lunak yang punya banyak spesies. 
+
+Walaupun dia terbilang mahal, tetapi tidak semua jenisnya bisa dimakan. Kemudian ada yang bernilai tinggi dan ada juga yang tidak laku di pasaran.
+
+Biasanya, jenis yang paling banyak di cari orang adalah:
 
 - Teripang pasir
 - Teripang koro
 - Teripang hitam
 
-Ketiganya punya harga berbeda-beda tergantung ukuran, jenis, dan kualitas pengeringannya.
+Walaupun ketiganya punya harga yang berbeda-beda, itu tergantung ukuran dan kualitas pengeringannya.
 
-## C. Jenis-Jenis Teripang yang Umum Dikenal
+### Jenis-Jenis Teripang yang Umum Dikenal
 
-Kalau sedang berjalan di karang tepi pantai atau melihat tangkahan, kita mungkin menemukan beberapa jenis teripang dengan bentuk yang berbeda-beda. Ada yang mirip mentimun, ada yang berduri, ada pula yang keras seperti batu. Masing-masing punya nama dan nilai yang tidak sama.
+Saat kamu rekreasi ke laut, gak ada salahnya seskali memperhatikan di bebatuan tepi pantai, banyak tuh kolong atau teripang dengan bentuk berbeda, ada seperti mentimun, ada yang berduri, biasnya mereka mengeluarkan cairan putih di belakangnya.
 
-### 1. Teripang Pasir
+Saya sering melihatnya di daerah Lataling Teupah Selatan. Terlepas dari apakah itu jenis yang bisa dimakan atupun dijual sih!
+Yang jelas itu adalah Kolong (Teripang).
 
-Jenis ini paling populer. Orang Simeulue yang pernah mengolah teripang pasti mengenalnya. Bentuknya sedang, kulitnya abu-abu sampai cokelat gelap, dengan bintil-bintil halus di permukaannya.
+Daerah Babang juga banyak terlihat kok, apalgi sebelah lautan yang menghadap ke Sumatera.
 
-Teripang pasir juga sudah banyak dibudidayakan karena permintaannya tinggi dan perawatannya tidak terlalu rumit.
+Jika merujuk ke berbagai informasi, ada beberapa jenis dan bentuk kolong (teripang) yang dikenal secara umum, baik di simeulue maupun daerah lain, berikut kita uraikan apa saja jenis dan bentuknya.
 
-### 2. Teripang Koro atau Teripang Susu
+**1. Teripang Pasir**
 
-Namanya terdengar unik. Teripang ini punya dinding tubuh yang tebal dan keras. Warna tubuhnya hitam, kadang putih kehitaman.
+Ini jenis yang paling populer. Warga Simeulue tentu mengenlnya, apalagi mereka yang khusus mengelola teripang, pasti tau!
 
-Kalau dipegang, terasa lebih padat dibandingkan jenis lain. Di bagian samping tubuhnya ada tonjolan besar seperti papila. Karena dagingnya tebal, teripang ini biasanya dihargai lebih tinggi.
+Bentuknya sedang, kulitnya abu-abu hingga cokelat tua, dengan bintil-bintil halus di permukaannya.
 
-### 3. Teripang Pandan
+Bahkan, teripang pasir ini juga sudah banyak dibudidayakan, karena permintaan pasarnya masih relatif tinggi dan perawatannya juga tidak terlalu rumit.
 
-Sekilas bentuknya agak menyeramkan. Permukaan tubuhnya dipenuhi duri-duri berdaging yang menyerupai buah nanas. Warnanya kemerahan atau kecokelatan. Meski berduri, teripang ini sebenarnya tidak berbahaya dan cukup bernilai di pasaran.
+**2. Teripang Koro atau Teripang Susu**
 
-### 4. Teripang Batu
+Memang namanya terdengar unik kan? Teripang ini punya dinding tubuh yang tebal dan keras. Warna tubuhnya hitam, kadang putih kehitaman.
 
-Sesuai namanya, teripang ini terlihat seperti batu karang. Dinding tubuhnya tebal, kasar, dan keras. Karena penampilannya menyerupai karang, orang yang belum terbiasa bisa saja melewatkannya. Padahal jenis ini banyak dicari karena kualitas dagingnya.
+Kalau kita dipegang, terasa lebih padat dibandingkan jenis lain. Lalu di bagian samping badanya ada tonjolan besar seperti papila.
 
-### 5. Teripang Hitam
+Karena dagingnya tebal, teripang ini biasanya dihargai lebih tinggi.
 
-Jenis ini bertubuh lunak dengan warna dasar hitam atau kehitaman. Banyak ditemukan di perairan dangkal kawasan Indo-Pasifik, termasuk di sekitar Simeulue. Bentuknya sederhana, tidak mencolok, tetapi tetap bernilai jual.
+**3. Teripang Pandan**
 
-### 6. Teripang Ular atau Gamat Batik
+Jika dilihat sekilas, bentuknya agak menyeramkan. Karena permukaan tubuhnya dipenuhi duri-duri berdaging yang menyerupai buah nanas. 
 
-Namanya diambil dari corak di punggungnya. Ada banyak bintik atau bulatan seperti mata, membuatnya tampak seperti bermotif batik. Jenis ini cukup unik dan sering menarik perhatian para pengumpul.
+Warnanya kemerahan atau kecokelatan. 
 
-### 7. Teripang Kunyit
+Meski dia berduri, teripang ini tidak berbahaya dan cukup bernilai juga di pasaran.
 
-Ini jenis lokal yang penamaannya diambil dari warna tubuhnya yang cenderung kekuningan, seperti kunyit. Saya sendiri dulu pernah melihatnya di tangkahan. Karena warnanya berbeda dari yang lain, justru mudah diingat.
+**4. Teripang Batu**
 
-## D. Mengapa Teripang Direbus dan Dijemur?
+Ini sesuai namanya, teripang yang terlihat seperti batu karang. Dinding tubuhnya tebal, kasar, dan keras. 
 
-Dulu saya kira teripang yang direbus itu untuk dimakan langsung. Ternyata tidak begitu.
+Karena penampilannya menyerupai karang, orang yang belum terbiasa bisa saja melewatkannya. Padahal jenis ini banyak dicari karena kualitas dagingnya.
 
-Proses perebusan dan penjemuran adalah bagian dari pengolahan agar teripang bisa disimpan lama dan dijual ke luar daerah.
+**5. Teripang Hitam**
 
-### 1. Perebusan
+Kalu Teripang jenis ini, dia bertubuh lunak berwarna dasarnya hitam atau kehitaman. 
 
-- Teripang segar direbus dalam air mendidih
-- Proses ini menghilangkan racun alami yang ada di kulitnya
-- Membuat dagingnya mengeras dan tidak mudah busuk
+Banyak ditemukan di perairan dangkal kawasan Indo-Pasifik, termasuk di sekitar Simeulue. 
 
-### 2. Penjemuran
+Bentuknya sederhana, tidak mencolok, tetapi tetap bernilai jual.
 
-- Setelah direbus, teripang dijemur di bawah sinar matahari
-- Proses ini mengurangi kadar air
-- Hasilnya teripang kering yang bisa disimpan berminggu-minggu
+**6. Teripang Ular atau Gamat Batik**
+
+Namanya diambil dari corak di punggungnya yang terdapat banyak bintik atau bulatan seperti mata, sehingganya tampak seperti bermotif batik. 
+
+Jenis ini cukup unik dan sering menarik perhatian para pengumpul.
+
+**7. Teripang Kunyit**
+
+Ini jenis lokal yang penamaannya diambil dari warna tubuhnya yang cenderung kekuningan, seperti kunyit. 
+
+Saya sendiri dulu pernah melihatnya di tangkahan. Karena warnanya berbeda dari yang lain, justru mudah diingat.
+
+### Mengapa Teripang Direbus dan Dijemur?
+
+Dulu saya kira teripang yang direbus itu untuk langsung dimakan, ternyata tidak begitu.
+
+Proses perebusan dan penjemuran itu sebagai bagian dari pengolahan agar teripang bisa disimpan lama dan dijual ke luar daerah.
+
+Dan ternyata, Teripang segar yang direbus dalam air mendidih itu untuk menghilangkan racun alami yang ada di kulitnya. Selain itu, juga membuat dagingnya mengeras dan tidak mudah busuk
+
+Setelah direbus, teripang dijemur di bawah sinar matahari guna mengurangi kadar air. Sebab, teripang kering bisa disimpan berminggu-minggu
 
 Proses ini sederhana, tapi menentukan harga. Teripang yang dijemur sempurna akan punya tekstur keras dan tidak berbau busuk.
 
 > **Baca Juga:** [Gaya Pancing Gurita di Simeulue](https://teukuanca.com/posts/uniknya-gaya-pancing-gurita-di-simeulue-aceh/)
 
-## E. Teripang Diolah Menjadi Apa?
+### Teripang Diolah Menjadi Apa?
 
-Di balik bentuknya yang sederhana, teripang punya nilai guna yang luas. Berikut beberapa pengolahannya.
+Ini yang dulu saya tidak paham dan memang belum mau memahami sebab masih kanak-kanak. Seiring waktu, baru mengscrol mencari informasinya. Ternyata teripang punya nilai guna yang luas. berikut pengolahannya.
 
-### 1. Bahan Makanan
+**1. Bahan Makanan**
 
-Di beberapa negara, terutama Tiongkok dan Jepang, teripang dianggap sebagai makanan istimewa. Biasanya diolah menjadi:
+Di beberapa negara, terutama Tiongkok dan Jepang, teripang dianggap sebagai makanan istimewa. Mereka biasa mengolahnya menjadi Sup teripang, tumis teripang dengan saus tiram, dan bahan campuran hidangan laut yang mewah.
 
-- Sup teripang
-- Tumis teripang dengan saus tiram
-- Bahan campuran hidangan laut mewah
+**2. Obat Tradisional**
 
-### 2. Obat Tradisional
+Dalam pengobatan tradisional di Tiongkok, Kolong (teripang) memang sudah dipakai dari dulu sebab kandungan nutrisinya dipercaya membantu pengobatan atau suplemen seperti:
 
-Dalam pengobatan tradisional Tiongkok, teripang sudah dipakai sejak lama. Kandungan nutrisinya dipercaya membantu:
+- **Meredakan peradangan dan sendi:** Karena Teripang mengandung kondroitin sulfat dan glukosamin, komponen alami pelumas sendi membantu meredakan nyeri pada penderita radang sendi.
+- **Mempercepat pemulihan luka:** Kandungan asam lemak esensial dan glikosaminoglikan yang dikandungnya membantu mempercepat regenerasi sel dan penutupan luka.
+- **Menambah energi:** Kadar protein yang tinggi (mencapai 80% dalam kondisi kering) dan vitamin B kompleks membantu metabolisme tubuh untuk menghasilkan energi.
 
-- **Meredakan peradangan dan sendi:** Teripang mengandung kondroitin sulfat dan glukosamin, komponen alami pelumas sendi yang membantu meredakan nyeri pada penderita radang sendi.
-- **Mempercepat pemulihan luka:** Kandungan asam lemak esensial dan glikosaminoglikan membantu mempercepat regenerasi sel dan penutupan luka.
-- **Menambah energi:** Kadar protein yang tinggi (mencapai 80% dalam kondisi kering) dan vitamin B kompleks membantu metabolisme tubuh menghasilkan energi.
+**3. Suplemen dan Kosmetik**
 
-### 3. Suplemen dan Kosmetik
+Ternyata teripang juga diolah menjadi Kapsul suplemen, Minyak teripang, Krim perawatan kulit. Semua itu disebkan karena kandungan kolagen dan kondroitin sulfatnya.
 
-Saat ini teripang juga diolah menjadi:
+### Kandungan Gizi Teripang
 
-- Kapsul suplemen
-- Minyak teripang
-- Krim perawatan kulit
+Rupanya Teripang termasuk makanan rendah lemak, tetapi tinggi protein.
+Ini dia beberapa kandungan penting yang dimilikinya, antara lain:
 
-Kandungan kolagen dan kondroitin sulfatnya menjadi alasan utama.
+- **Protein:** Untuk membangun dan memperbaiki jaringan tubuh.
+- **Kolagen:** Membantu menjaga elastisitas kulit serta kesehatan sendi.
+- **Kondroitin sulfat:** Mendukung kesehatan tulang rawan.
+- **Asam amino esensial:** Membantu metabolisme tubuh.
+- **Mineral:** Mendukung fungsi organ.
 
-## F. Kandungan Gizi Teripang
+Maka itulah Kolong atau Teripang ini di hargai tinggi dipasar Internasional, 
 
-Teripang termasuk makanan rendah lemak, tapi tinggi protein. Kandungan pentingnya antara lain:
+### Harga Pasar Teripang
 
-- **Protein:** Membangun dan memperbaiki jaringan tubuh
-- **Kolagen:** Membantu menjaga elastisitas kulit serta kesehatan sendi
-- **Kondroitin sulfat:** Mendukung kesehatan tulang rawan
-- **Asam amino esensial:** Membantu metabolisme tubuh
-- **Mineral:** Mendukung fungsi organ
+Ternyata dulu pada era 90-an, harga teripang kering di tingkat penampung sudah cukup baik lho, meskipun belum seperti sekarang ini.
 
-Karena itu, tidak heran kalau teripang dihargai tinggi di pasar internasional.
+Perkiraannya saja waktu itu, teripang kering berkualitas sedang dihargai sekitar **Rp50.000 sampai Rp150.000 per kilogram**. Memang tergantung jenis dan tingkat kekeringannya juga.
 
-## G. Harga Pasar Teripang
+Bagi masyarakat pesisir, angka itu sudah sangat-sangat membantu ekonomi rumah tangga. Apalagi harga bahan pokok dahulu masih murah-murah.
 
-### Era 90-an
+Sekarang harga teripang sudah melonjak jauh. Beberapa jenis teripang kering saja kini dihargai Rp500.000 sampai Rp1.500.000 per kilogram itu dengan Teripang kualitas biasa.
 
-Pada tahun 90-an, harga teripang kering di tingkat penampung sudah cukup baik, meskipun belum seperti sekarang.
-
-Perkiraan waktu itu, teripang kering berkualitas sedang dihargai sekitar **Rp50.000 sampai Rp150.000 per kilogram**. Tergantung jenis dan tingkat kekeringannya. Bagi masyarakat pesisir, angka itu sudah sangat membantu ekonomi rumah tangga.
-
-### Era Sekarang
-
-Sekarang harga teripang melonjak jauh. Beberapa jenis teripang kering kini dihargai:
-
-- **Teripang kualitas biasa:** Rp500.000 sampai Rp1.500.000 per kilogram
-- **Teripang kualitas premium:** Rp2.000.000 sampai Rp5.000.000 per kilogram
-- **Teripang spesies langka:** lebih mahal lagi, tergantung pasar ekspor
+Apalagi Teripang kualitas premium, Rp2.000.000 sampai Rp5.000.000 per kilogramnya
+Bahkan lebih mahal lagi, tergantung pasar ekspor.
 
 Kenaikan harga ini terjadi karena permintaan dari pasar Asia, terutama Tiongkok, yang terus meningkat.
 
-## H. Potensi Teripang bagi Simeulue
+## Potensi Teripang bagi Simeulue
 
-Melihat harga dan manfaatnya, teripang sebenarnya bisa menjadi komoditas unggulan Simeulue.
+Kalau dilihat dari berbagai harga dan manfaatnya, teripang ini bisa menjadi peluang salah satu komoditas unggulan juga di Simeulue.
 
-Dukungan yang dibutuhkan antara lain:
+Apalagi jika fasilitas dan dukungan yang dibutuhkan tersedia, misalnya nih, Alat pengeringan yang lebih modern, Akses pasar yang lebih luas, Pelatihan pengolahan yang benar, Sistem penampungan yang lebih higienis
 
-- Alat pengeringan yang lebih modern
-- Akses pasar yang lebih luas
-- Pelatihan pengolahan yang benar
-- Sistem penampungan yang lebih higienis
+Kalau ini dikelola serius, bukan tidak mungkin teripang Simeulue menembus pasar ekspor dengan harga terbaik bukan?
 
-Kalau ini dikelola serius, bukan tidak mungkin teripang Simeulue menembus pasar ekspor dengan harga terbaik.
+## Ikhtiar 
 
-## I. Penutup
+Memang ya, kalau kita tumbuh diseputaran air laut, tentu meninggalkan sejuta kenangan kecil di seputar laut dan hasilnya. Begitu juga sebaliknya, jika kita tumbuh di area pegunungan, masa kecil kita dipenuhi memori  hutan dan potensinya, bukan begitu?
 
-Masa kecil saya dihabiskan dengan melihat banyak aktivitas di tangkahan. Ikan, gurita, lobster, dan teripang adalah bagian dari pemandangan sehari-hari.
+Begitulah masa-masa dulu yang sering melihat aktivitas tangkahan. mulai jual beli Ikan, gurita, lobster, dan teripang, seperti sudah bagian dari pemandangan sehari-hari.
 
-Waktu itu saya tidak paham nilainya. Sekarang saya sadar, apa yang terlihat oleh mata saja sudah sangat banyak. Belum lagi yang tidak terlihat, hasil laut yang tidak pernah saya catat, yang mungkin saja lebih banyak dari yang dikira.
+Walaupun waktu itu saya tidak paham nilai dan manfaanya. Apalagi jumlah Tangkahan disudut lain yang tidak terlihat, ini hanya dilingkungan saya saja lho. 
 
-Simeulue sebenarnya sedang berjalan di atas potensi yang besar: laut, perkebunan, dan pertanian. Tiga hal itu jika dikelola dengan serius akan membawa pulau ini ke posisi yang lebih kuat di masa depan.
+Dengan ikon penghasil laut ini, saya yakin banyak aktivitas sejak dulu di Simeulue ini sudah memiliki sepak-terjang yang tinggi.
 
-Teripang mungkin hanya salah satu potongan kecil dari kekayaan itu. Tapi dari satu potongan itu, ada cerita panjang tentang kerja, kesabaran, dan harapan masyarakat pesisir.
+Bukan saja hasil laut, hasil alam lain juga bnyak terekspose di media-media sosial dan berita.
+
 
 ## Referensi
 
-1. Hewan Laut Kaya Manfaat
-2. Enam Manfaat Teripang
+1. [Enam Manfaat Teripang](https://rri.co.id/sendawar/kesehatan/2259569/enam-manfaat-teripang-bagi-kesehatan-superfood-laut-yang-kaya-nutrisi)
+2. [Kenapa Harga Teripang Mahal? Bisa Capai Rp 42 Juta Per Kilogram](https://www.kompas.com/food/read/2021/09/11/170800775/kenapa-harga-teripang-mahal-bisa-capai-rp-42-juta-per-kilogram)
