@@ -16,34 +16,34 @@ Semua itu terasa biasa sekarang, seolah-olah riuh stiker atau aksesoris kendaraa
 
 Namun, ada satu kisah di balik kebiasaan sehari-hari ini yang jarang terungkap: siapa sebenarnya sosok di balik layar yang pertama kali membawa usaha Stiker Aksesoris kenderaan di Simeulue?
 
-Artikel ini menceritakan kisah usaha stiker dan aksesoris Kenderaan yang sudah berdiri sebelum Smong 2004 (Tsunami Aceh).
-Mari kita simak kisahnya....
+Artikel ini menceritakan kisah usaha Stiker Aksesoris Kenderaan yang sudah berdiri sebelum Smong 2004 (Tsunami Aceh) di Sinabang Kabupaten Simeulue.
+
+Yuk simak kisahnya....
 
 ## Awal Mula di Simpang Tiga Sinabang
 Usaha ini lahir hanya setahun sebelum bencana besar Smong (tsunami 2004) melanda, yaitu sejak tahun 2003.
-Usaha stiker dan aksesoris kendaraan ini bisa dibilang salah satu pelopor di Simeulue. 
+Usaha stiker aksesoris kendaraan ini bisa dibilang salah satu pelopor di Kabupaten Simeulue. 
 
-Di masa-masa awal kehadirannya, usaha itu memantik antusiasme yang di luar dugaan, minat warga Simeulue ternyata begitu besar. Pesanan stiker kendaraan mengalir tanpa henti, memaksa lampu toko terus menyala hingga larut malam demi menyelesaikan setiap garapan.
+Di masa-masa awal kehadirannya, usaha itu memantik antusiasme di luar dugaan, minat warga Sinabang ternyata begitu besar. Pesanan stiker kendaraan mengalir tanpa henti, memaksa stamina harus kuat hingga larut malam demi menyelesaikan setiap garapan.
 
 Padahal saat itu, usahanya cuma bermodalkan steling seadanya, berdiri di pinggir jalan seputaran Simpang Tiga Desa Sinabang, jauh dari kesan usaha besar yang mapan.
 
-Tapi jangan salah, perputaran stiker di Sinabang waktu itu ternyata sangat pesat. Bahkan sang pemilik beberapa kali mengirim barang ke Sumatera Utara beberapa kali dalam satu bulan. Sebuah tanda bahwa permintaan lokal sudah cukup besar untuk membuat usaha ini terus bergerak aktif mengisi stok.
+Tapi jangan salah, perputaran stiker di Sinabang waktu itu ternyata sangat pesat. Bahkan sang pemilik beberapa kali mengirim barang ke Sumatera Utara dalam satu bulan. Sebuah tanda bahwa permintaan lokal cukup besar dan berpotensi berkembang dimasa depan.
 
 ## Ketika Smong Menghentikan Sejenak 
-Semua momentum itu terhenti saat Smong datang di akhir 2004. Kala itu, usaha stiker dan hampir semua aktivitas ekonomi di Simeulue terpaksa tutup total.
+Semua momentum itu terhenti saat Smong datang di akhir 2004.
+Kala itu, usaha stiker dan hampir semua aktivitas ekonomi di Simeulue terpaksa tutup total.
 
-Tetapi semangat untuk bangkit tidak ikut hilang tersapu gelombang sebab menjelang Maret 2005, usaha ini dibuka kembali, masih di lokasi yang sama, perempatan jalan Simpang Tiga Desa Sinabang.
+Tetapi semangat untuk bangkit tidak ikut hilang tersapu gelombang sebab menjelang Maret 2005 usaha ini dibuka kembali, masih di lokasi yang sama, perempatan jalan Simpang Tiga Desa Sinabang.
 
-Seolah membuktikan bahwa Sinabang bisa kembali hidup seperti sedia kala.
+Memang saat itu Aceh sedang lumpuh total, Simeulue juga demikian, usaha stiker pun tetap berjalan. Seolah membuktikan kalau Sinabang bisa kembali seperti sedia kala.
 
-## Gempa Malam yang Memaksa Berhenti Lagi
+### Gempa Malam yang Memaksa Berhenti Lagi
 Sayangnya, ketenangan itu tidak berlangsung lama. Pada Maret 2005, gempa besar kembali mengguncang, kali ini terjadi di waktu malam. 
 
 Ini adalah gempa Nias-Simeulue yang tercatat berkekuatan sekitar magnitudo 8,6, salah satu gempa darat terbesar yang pernah terjadi di kawasan ini setelah gempa megathrust Desember 2004.
 
-Usaha stiker yang baru saja bangkit itupun terpaksa berhenti beroperasi lagi, kali ini hingga Agustus 2005.
-
-Bayangkan berada di posisi itu, baru saja pulih dari satu bencana, disusul gempa susulan yang memaksa memulai dari nol lagi. 
+Usaha stiker yang baru saja di buka terpaksa berhenti beroperasi lagi, kali ini hingga Agustus 2005.
 
 > **Baca Juga:** [Jejak Teluk Sinabang: Dari Ekonomi 90-an ke Modernisasi](https://teukuanca.com/posts/jejak-teluk-sinabang-dari-ekonomi-90-an-ke-modernisasi/)
 
