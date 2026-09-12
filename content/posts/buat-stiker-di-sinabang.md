@@ -56,7 +56,7 @@ Setelah beberapa tahun menetap di simpang lima, usaha stiker dan aksesoris ini k
 
 Padahal, pemilik baru memasok isi kedai dengan barang-barang terbaru, dan tak satupun dapat terselamatkan, Bahkan terlihat pintu rolling besi yang hangus dan masih tertutup dengan gemboknya.
 
-Pasca kejadian itu, pemilik usaha tidak menyerah, walaupun semua hangus dilalap sijago ia memilih terus melanjutkannya.
+Pasca kejadian itu, pemilik usaha tidak menyerah, walaupun semua hangus dilalap sijago merah, ia memilih terus melanjutkannya.
 
 Usaha ini sekarang sudah berpindah ke Desa Suka Jaya, dan masih beroperasi hingga sekarang.
 
