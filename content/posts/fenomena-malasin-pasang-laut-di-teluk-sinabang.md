@@ -9,79 +9,88 @@ description: "Kenangan saat-saat fenomena Malasin (pasang air laut) di era 90an 
 tags: ["Pasang Air Laut", "Malasin"]
 ---
 
-Jika kamu tumbuh besar di pinggiran Teluk Sinabang, berarti sama halnya dengan saya yang pernah merasakan saat tergopoh-gopoh memindahkan televisi, sofa, sampai lemari ke tempat yang lebih tinggi karena air mulai merambat masuk rumah.
+Ada saat-saat dimana harus mengangkat barang-barang, menggulung celana masuk kerumah, menghalau sampah berjalan, bahkan berenang-renang. 
 
-Bukan tsunami, bukan pula banjir kiriman, ini fenomena yang oleh warga setempat akrab disebut **Malasin** (istilah lokal untuk pasang air laut yang meluap ke daratan).
+Itulah suasana yang pernah kami lalui pada musim tertentu di pinggir teluk Sinabang.
+
+Bukan tsunami, bukan pula banjir kiriman, ini fenomena yang kami sebut **Malasin** (pasang air laut).
 
 ## Sinabang di Era 90-an: Saat Purnama Berarti Bersiap-siap
 
-Saya masih ingat betul suasana kampung waktu itu. Pada musim-musim tertentu, kawasan permukiman di sepanjang Teluk Sinabang memang rawan terendam air pasang.
+Saya masih ingat sekali suasana waktu itu. Jika waktunya tiba, kawasan permukiman di sepanjang Teluk Sinabang terendam air pasang.
 
-Para tetua kampung punya cara sendiri mengingatkan kami: "**Apabila sudah bulan purnama, di situlah pasang naik.**" Kalimat itu bukan sekadar omongan orang tua, ia semacam kalender alam yang diwariskan turun-temurun.
+Kata orang tua dulu, "**Apabila sudah bulan purnama, di situlah pasang naik.**" Kalimat itu bukan sekadar omongan, ia semacam kalender alam yang terdengar turun-temurun.
 
-Menghadapi Malasin, ada warga yang menimbun lantai rumah mereka lebih tinggi, ada juga yang memilih pasrah saja pada keadaan. Tapi sekuat apa pun usaha itu, akses jalan menuju permukiman tetap saja kebanjiran setiap kali pasang datang.
+Menghadapi Malasin, ada warga yang menimbun lantai rumah supaya lebih tinggi, ada juga yang memilih pasrah saja dengan keadaan. 
+Tapi sekuat apapun usaha itu, akses jalan menuju rumah tetap saja terendam air laut itu.
 
-Kalau saya coba gambarkan pola kejadiannya waktu itu, kira-kira begini:
+Saya masih teringat bagaimana situasi saat itu. Air laut naiknya perlahan tidak sampai merusak bangunan atau konstruksi apapun sebab airnya nggak ber-arus alias genangan saja.
 
-- **Cara airnya naik:** perlahan, tidak sampai merusak bangunan atau konstruksi apa pun.
-- **Waktu kejadian:** kadang air naik di pagi hari dan baru surut siangnya, kadang malah naik sore dan surut di malam hari.
-- **Seberapa tinggi:** biasanya sebatas betis, kadang sampai selutut orang dewasa, cukup untuk menggenangi jalan menuju pelabuhan kargo Simpang Lima, pelabuhan lama dulu.
+Biasnya air pasang naik pagi hari, surutnya siang. Pernah juga naik di sore hari dan surutnya menjelang malam (senja).
+
+Memang ketinggiannya gak sampai pinggang, biasanya sebatas betis, kadang sampai selutut orang dewasa.
 
 ### Kenapa Air Laut Bisa Naik Saat Bulan Purnama?
 
-Ini pertanyaan yang dulu sering muncul di kepala saya sebagai anak kecil, dan ternyata jawabannya ada hubungannya dengan posisi bulan dan matahari.
-Saat bulan memasuki fase purnama, terjadi yang disebut spring tide atau pasang purnama. 
+Ini pertanyaan yang dulu sering muncul di kepala saya waktu kecil. Jawabannya, ternyata semua ini karena "kerja sama" antara posisi Bulan dan Matahari.
 
-Sederhananya begini: bulan dan matahari berada dalam satu garis lurus yang searah dengan bumi, sehingga gaya gravitasi keduanya "menarik" air laut secara bersamaan.
+Gampangnya begini: ada momen di mana Bulan, Bumi, dan Matahari berada dalam satu garis lurus yang sejajar. 
 
-Tarikan ganda ini membuat efeknya jauh lebih kuat dibanding hari-hari biasa. Hasilnya, air laut naik lebih tinggi ke daratan saat pasang, tapi juga surut lebih rendah dari biasanya saat air turun.
+Saat itu terjadi, gaya tarik gravitasi Bulan dan Matahari jadi nyatu dan saling memperkuat.
+Gabungan kekuatan ini akhirnya menarik air laut.
 
-Fenomena ini sebenarnya terjadi dua kali sebulan—saat purnama dan saat bulan baru (bulan mati). Yang perlu diwaspadai adalah ketika purnama bertepatan dengan posisi bulan paling dekat ke bumi, atau yang kita kenal sebagai supermoon.
+Katanya, Fenomena ini rutin terjadi dua kali sebulan, yaitu pas Bulan Baru (Bulan Mati) dan pas Bulan Purnama.
 
-Pada momen seperti ini, kenaikan air laut bisa jauh lebih ekstrem dan berpotensi memicu banjir rob di kawasan pesisir (sumber).
+Yang harus diwaspadai sekali adalah jika Bulan Purnama ini tepat di titik paling dekat dengan Bumi, atau yang biasa kita sebut supermoon.
+
+Di momen supermoon ini, tarikan gravitasinya jadi jauh lebih kuat lagi. Akibatnya, air laut bisa naik dengan sangat ekstrem dan sering kali memicu banjir rob di daerah pantai atau pesisir.
+
 > **Baca Juga:** [Smong: Kearifan Lisan Simeulue pada Tsunami Aceh 2004](https://teukuanca.com/posts/tsunami-aceh-dan-budaya-lisan-smong-simeulue/)
+
 ## Sesuatu Berubah Setelah Smong 2004
 
-Setelah Smong 2004 (istilah lokal Simeulue untuk tsunami) menerjang, saya tidak pernah lagi melihat air menggenangi pesisir Teluk Sinabang seperti dulu. Ada yang berubah, dan perubahan itu terlihat jelas di lapangan.
+Setelah Smong 2004 (tsunami aceh) menerjang, saya tidak pernah lagi melihat air menggenangi pesisir Teluk Sinabang seperti dulu. Ada yang berubah, dan perubahan itu terlihat jelas di lapangan.
 
-Beberapa area di pinggiran teluk yang dulunya jadi rumah bagi pohon bakau di dalam laut, kini justru terlihat kering. Saking keringnya, area-area tersebut sekarang malah bisa didirikan bangunan rumah di atasnya. 
+Beberapa area di pinggiran teluk yang dulunya jadi rumah bagi pohon bakau di dalam laut, kini justru terlihat kering. 
+Saking keringnya, area-area tersebut sekarang bisa saja didirikan bangunan rumah di atasnya. 
 
 Pertanyaan yang lantas muncul di benak saya: apakah tsunami yang menyebabkan daratan ini naik?
 
 ### Simeulue yang "Bergerak" Saat Gempa
 
-Ternyata jawabannya iya. Gempa megathrust dahsyat yang memicu tsunami Aceh 2004 memang membuat sebagian wilayah Pulau Simeulue terangkat. Tapi, pergerakan lempeng tektonik saat itu tidak merata di seluruh pulau, ada bagian yang naik, ada yang justru turun.
+Ternyata jawabannya iya. Gempa megathrust dahsyat yang memicu tsunami Aceh 2004 memang membuat sebagian wilayah Pulau Simeulue terangkat. 
 
-**Bagian utara terangkat:** Saat gempa Desember 2004, sisi utara Simeulue naik sekitar 1,5 hingga 3 meter (sumber).
+Tapi, pergerakan lempeng tektonik saat itu tidak merata di seluruh pulau, ada bagian yang naik, ada yang justru turun.
 
-**Bagian selatan justru turun:** Bersamaan dengan itu, bagian selatan pulau malah mengalami penurunan atau ambles.
+Saya baca beberapa informasinya, bagian utara terangkat ketika gempa Desember 2004, sisi utara Simeulue naik sekitar 1,5 hingga 3 meter. Bagian selatan justru turun atau ambles.
 
-**Terbalik lagi tiga bulan kemudian:** Ketika gempa Nias mengguncang pada 2005, situasinya berbalik, bagian selatan Simeulue yang sebelumnya turun kini terangkat naik, 
+Posisinya terbalik lagi tiga bulan kemudian. Ketika gempa Nias mengguncang pada 2005, bagian selatan Simeulue yang sebelumnya turun kini terangkat naik.
 
-**sementara bagian utara justru turun** Bukti fisik di lapangan: Pengangkatan tanah ini membuat sebagian terumbu karang di pesisir muncul ke permukaan, dan tak sedikit sumur warga yang sempat mengering karenanya (sumber).
+Sementara bagian utara justru turun. Terlihat dari bukti fisik di lapangan, pengangkatan tanah ini membuat sebagian terumbu karang di pesisir muncul ke permukaan, dan tak sedikit sumur warga yang sempat mengering karenanya.
 
-Dari berbagai sumber ini, jelas terlihat bahwa yang terjadi bukan sekadar kebetulan alam biasa, melainkan perubahan geologi besar-besaran. Itulah sebabnya Malasin tidak lagi menggenangi permukiman warga di pesisir Teluk Sinabang seperti dulu.
+Dari berbagai sumber itu, jelas terlihat bahwa yang terjadi bukan sekadar kebetulan alam biasa, melainkan perubahan geologi besar-besaran. Itulah sebabnya Malasin tidak lagi menggenangi permukiman warga di pesisir Teluk Sinabang seperti dulu.
 
 ## Bagi Nelayan, Malasin Masih Jadi Cerita Sehari-hari
 
 Meski sudah tak lagi menggenangi rumah-rumah warga, Malasin tetap punya dampaknya sendiri, terutama bagi para nelayan.
 
-Keluhan soal Malasin ini sering saya dengar sendiri di pajak ikan (pasar ikan tradisional), biasanya muncul bersamaan dengan harga ikan yang sedikit merangkak naik.
+Pernah satu waktu berdiskusi dengan seorang nelayan di Teupah Selatan, ketika saya menanyakan kenapa tidak melaut, jawabannya adalah Malasin menjadi sebab saat itu. 
+
+Keluhan soal Malasin ini sering juga saya dengar di pajak ikan, Malasin muncul bersamaan dengan harga ikan yang sedikit merangkak naik.
 
 Pasalnya, saat Malasin terjadi, ikan-ikan cenderung berpindah ke area yang lebih dangkal, membuat hasil tangkapan nelayan menurun.
 
-Di masa-masa seperti ini, saya sering melihat warga lebih memilih memancing di pinggiran saja, mengikuti ke mana ikan-ikan itu bergeser.
+Di masa-masa seperti ini, pilihan terbaik adalah memancing di pinggiran saja, mengikuti ke mana ikan-ikan itu bergeser. 
+
+Tetapi, memancing di pesisir dengan pantai lepas tanpa teluk saat malasin sangatlah beresiko. Terkecuali tetap menggunakan sampan menuju sedikit dari bibir pantai. 
 
 ## Jejak Alam yang Tak Pernah Benar-benar Hilang
 
-Simeulue, seperti daerah berkembang lainnya, terus berbenah lewat pembangunan sarana dan prasarana. Lahan-lahan kosong yang dulu sepi kini berubah jadi kawasan permukiman padat. 
-
-Dari kacamata tata kota, kepadatan seperti ini sebenarnya bagus, ia menghidupkan roda ekonomi.
-
-Tapi ada konsekuensinya: kalau pemukiman menumpuk di sepanjang garis pantai saja, sementara daratan bagian tengah belum dimanfaatkan maksimal, maka satu titik jadi terlalu padat, dan risiko-risiko seperti Malasin pun jadi lebih terasa dampaknya.
-
-Perubahan wajah Simeulue, bagi saya, bukan cuma cerita tentang pembangunan dan infrastruktur yang terus berjalan. Ia juga cerita tentang dinamika alam dan jejak peristiwa tektonik besar yang diam-diam mengubah kontur daratan tempat kita berpijak.
-
-Malasin akan selalu jadi bagian dari fenomena yang dijumpai warga pesisir, membawa kenangan sekaligus dampak tersendiri, dari masa lalu hingga hari ini.
+Malasin akan selalu jadi bagian dari fenomena yang dijumpai warga pesisir sejak dulu, membawa kenangan sekaligus dampak tersendiri hingga hari ini.
 
 Tapi bagi warga kawasan pinggiran dan para nelayan, Malasin bukanlah penghalang untuk mencari nafkah. Berbagai ikhtiar tetap ditempuh demi menyambung hidup, sembari menanti Malasin kembali mereda.
+
+**Referensi:**
+1. [Wikipedia](https://id.wikipedia.org/wiki/Gempa_bumi_dan_tsunami_Samudra_Hindia_2004)
+2. [Fenomena Geologi di Balik Daratan Terangkat](https://news.kompas.com/read/2008/06/18/16150117/fenomena-geologi-di-balik-daratan-terangkat?page=all)
+3. [Pasang Surut Air Laut](https://www.ruangguru.com/blog/pasang-surut-air-laut-akibat-gravitasi-bulan)
