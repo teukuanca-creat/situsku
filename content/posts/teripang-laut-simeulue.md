@@ -30,15 +30,15 @@ Saat dijemur, pernah saya perhatikan Teripang itu seperti di berikan garam, kemu
 
 Waktu itu, belum tau manfaat Kolong (teripang) ini, apalagi masalah harganya. yang saya ingat, dia diletakkan dalam baskom dengan isian air dan mengeluarkan cairan putih. Ketika direbus, aroma laut bercampur asin menguar kemana-mana.
 
-Setelah sekian lama menyadari, ternyata kolong (Teripang ) itu salah satu hasil laut yang bernilai tinggi.
+Setelah sekian lama menyadari, ternyata kolong (Teripang ) salah satu hasil laut yang bernilai tinggi.
 
 Berikut kita uraikan apa saja yang menjadi Teripang ini bernilai.
 
 ## Apa Itu Teripang Laut?
 
-Kita mungkin sudah tau bahwa Kolong atau Teripang adalah hewan laut dari kelas **Holothuroidea**. Bentuknya pun seperti mentimun, kalau bahasa Inggrisnya *sea cucumber*.
+Kita mungkin sudah tau bahwa Kolong atau Teripang adalah hewan laut dari kelas **Holothuroidea**. Bentuknya seperti mentimun, kalau bahasa Inggrisnya **sea cucumber**.
 
-Dia hidup di dasar laut, kadang diperairan dangkal kadang juga perairan dalam. Makanannya sisa organik dan plankton.
+Dia hidup di dasar laut, kadang diperairan dangkal kadang juga perairan dalam. Makanannya sisa-sisa organik dan plankton.
 
 Kolong atau Teripang bukanlah jenis ikan ataupun jenis kerang. Tapi dia sejenis hewan berkulit lunak yang punya banyak spesies. 
 
@@ -46,16 +46,16 @@ Walaupun dia terbilang mahal, tetapi tidak semua jenisnya bisa dimakan. Kemudian
 
 Biasanya, jenis yang paling banyak di cari orang adalah Teripang pasir, Teripang koro juga Teripang hitam.
 
-Ketiganya punya harga yang berbeda-beda, itu tergantung ukuran dan kualitas pengeringannya.
+Ketiganya punya harga yang berbeda-beda, tergantung ukuran dan kualitas pengeringan.
 
 ## Jenis-Jenis Teripang yang Umum Dikenal
 
-Saat kamu rekreasi ke laut, gak ada salahnya seskali memperhatikan di bebatuan tepi pantai, banyak tuh kolong atau teripang dengan bentuk berbeda, ada seperti mentimun, ada yang berduri, biasnya mereka mengeluarkan cairan putih di belakangnya.
+Jika sedang rekreasi ke laut, sesekali coba perhatikan di pinggir batu, banyak teripang dengan bentuk berbeda, ada seperti mentimun, ada yang berduri, biasanya mereka mengeluarkan cairan putih di belakangnya.
 
-Saya sering melihatnya di daerah Lataling Teupah Selatan. Terlepas dari apakah itu jenis yang bisa dimakan atupun dijual sih!
+Saya sering melihat di daerah Lataling Teupah Selatan. Terlepas dari apakah itu jenis yang bisa dimakan atupun dijual sih!
 Yang jelas itu adalah Kolong (Teripang).
 
-Daerah Babang juga banyak terlihat kok, apalgi sebelah lautan yang menghadap ke Sumatera.
+Daerah Babang juga banyak terlihat kok, apalagi sebelah lautan yang menghadap ke Sumatera.
 
 Jika merujuk ke berbagai informasi, ada beberapa jenis dan bentuk kolong (teripang) yang dikenal secara umum, baik di simeulue maupun daerah lain, berikut kita uraikan apa saja jenis dan bentuknya.
 
