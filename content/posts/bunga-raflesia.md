@@ -8,7 +8,7 @@ description: "Kisah penemuan 11 titik bunga Rafflesia di hutan Simeulue, sekalig
 tags: ["Rafflesia", "Bunga Langka", "Biodiversitas Simeulue"]
 ---
 
-## Pertama Kali Saya mendengar Ditemukan
+## Pertama Kali Terdengar Ditemukan di Simeulue 
 
 Kalau menyebut nama Raflesia, pasti pikiran tertuju ke Sumatera, khususnya Bengkulu, Provinsi yang sampai mendapat julukan The Land of Rafflesia. 
 Dari berbagai literatur yang pernah saya baca, memang di sanalah bunga raksasa ini paling akrab tumbuh dan paling sering jadi bahan penelitian.
