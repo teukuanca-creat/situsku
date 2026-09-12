@@ -8,61 +8,99 @@ description: "Kisah penemuan 11 titik bunga Rafflesia di hutan Simeulue, sekalig
 tags: ["Rafflesia", "Bunga Langka", "Biodiversitas Simeulue"]
 ---
 
-## Pertama Kali Ditemukan
+## Pertama Kali Saya mendengar Ditemukan
 
-Coba sebut nama Raflesia, dan hampir pasti bayangan kita langsung melayang ke Sumatera, khususnya Bengkulu, Provinsi yang sampai mendapat julukan The Land of Rafflesia. Dari berbagai literatur yang pernah saya baca, memang di sanalah bunga raksasa ini paling akrab tumbuh dan paling sering jadi bahan penelitian.
+Kalau menyebut nama Raflesia, pasti pikiran tertuju ke Sumatera, khususnya Bengkulu, Provinsi yang sampai mendapat julukan The Land of Rafflesia. 
+Dari berbagai literatur yang pernah saya baca, memang di sanalah bunga raksasa ini paling akrab tumbuh dan paling sering jadi bahan penelitian.
 
-Makanya, saat kabar bahwa puspa langka ini ternyata juga pernah mekar di tanah Simeulue beberapa tahun lalu, rasanya seperti menemukan halaman yang selama ini terselip dari buku sejarah. Ini bukan sekadar catatan kecil, penemuan ini melengkapi peta sebaran flora langka yang selama ini belum banyak tergambar di luar pulau induk Sumatera.
+Tetapi, saat mendengar kabar tentang puspa langka ini juga ditemukan di tanah Simeulue, rasanya seperti menemukan halaman yang selama ini terselip dari buku sejarah.
 
-Sejauh yang tercatat, ada dua titik di Kabupaten Simeulue yang pernah kedatangan tamu istimewa ini:
+Menurut saya, ini bukan sekadar catatan kecil, penemuan itu seperti melengkapi peta sebaran flora langka yang selama ini belum banyak tergambar di luar pulau induk Sumatera.
 
-- **Kawasan Hutan Desa Lafakha:** di rimba lebat desa ini, Raflesia pernah tumbuh dan mekar dengan anggunnya, seolah tak peduli betapa jauh ia dari "kampung halaman" Sumatera.
-- **Pegunungan Simeulue Tengah:** pada pertengahan 2023, warga yang sedang mencari rotan tak sengaja tersandung pada "ladang" Raflesia yang bersembunyi jauh di kedalaman pegunungan.
+Tumbuhan langka itu ditemukan secara tidak sengaja, bayangkan jika rencanaian pencariannya, saya rasa mungkin lebih banyak lagi ditemui.
 
-Raflesia memang bukan tumbuhan yang bisa hidup sembarangan. Ia flora yang sangat pemilih dan sensitif, hanya mau hidup sebagai parasit pada tanaman inang khusus bernama Tetrastigma, dan hanya betah di hutan primer yang benar-benar lebat, gelap, serta lembap. 
+Penemuan tidak sengaja itu ditemukan di Kawasan Hutan Desa Lafakha. Dalam rimba lebat desa ini, Raflesia tumbuh dan mekar dengan anggunnya, seolah tak peduli betapa jauh ia dari "kampung halaman" Sumatera.
 
-Jadi kalau ia masih bisa mekar di Simeulue, itu ibarat stempel alami yang berbicara sendiri: ekosistem hutan di sini masih sehat, murni, dan belum banyak terusik tangan manusia.
+Juga ditemui secara tak sengaja oleh warga sedang mencari rotan di pegunungan Simeulue Tengah pada pertengahan 2023. Ladang Raflesia bersembunyi jauh di kedalaman pegunungan.
 
-Ada sesuatu yang menggelitik rasa penasaran saya soal letak geografis Simeulue, seolah pulau ini tumbuh dengan iramanya sendiri, jauh dari hiruk-pikuk ekosistem daratan Sumatera, hingga terasa seperti sebuah laboratorium evolusi alami yang bekerja diam-diam, tanpa banyak orang tahu.
+Beberapa informasi mengatakan bahwa Raflesia bukanlah tumbuhan yang bisa hidup sembarangan, ia flora yang sangat pemilih dan sensitif, hanya mau hidup sebagai parasit pada tanaman inang khusus bernama Tetrastigma, dan hanya betah di hutan primer yang benar-benar lebat, gelap, serta lembap. 
+
+Jadi, kalau ia masih bisa mekar di Simeulue, itu ibarat stempel alami yang bertulisakan: ekosistem hutan di sini masih sehat, murni, dan belum banyak terusik oleh tangan manusia. Bukan begitu?
 
 ## Raflesia atau Bunga Bangkai? Dua Hal yang Sering Tertukar
 
-Sebelum melangkah lebih jauh, mari luruskan dulu satu kesalahpahaman yang sudah lama mengakar. Jujur saja, dulu saya sendiri sempat ikut tertukar: Raflesia dan bunga bangkai itu ternyata dua sosok yang jauh berbeda, meski sering dianggap kembar.
+Sebelum melangkah lebih jauh, mari kita luruskan dulu satu kesalahpahaman yang sudah lama mengakar. Jujur saja, saya sendiri sempat ikut tertukar pemahaman tentang ini, ternyata Raflesia dan bunga bangkai itu dua sosok yang jauh berbeda, hanya sering dianggap kembar.
 
-Memang, keduanya sama-sama berukuran raksasa, dan sama-sama punya "senjata" berupa aroma busuk menyengat yang bikin hidung berkerut seketika. Tapi begitu diperhatikan lebih dekat, wujud dan cara hidup mereka ternyata jauh panggang dari api:
+Memang keduanya sama-sama berukuran raksasa, dan sama-sama punya "senjata" alias aroma busuk menyengat yang bikin hidung berkerut seketika. 
+Namun, ketika diperhatikan dan pahami lebih dekat, wujud dan cara hidup mereka ternyata jauh panggang dari api.
 
-- **Raflesia** adalah parasit sejati. Ia tak punya daun, batang, apalagi akar sendiri, hidupnya sepenuhnya menumpang pada tanaman inang, seperti liana atau rotan hutan. Bentuknya melebar ke samping, dengan kelopak merah merona yang terhampar rata di atas tanah, seolah selimut raksasa yang tiba-tiba muncul dari balik semak.
-- **Bunga Bangkai** (Amorphophallus titanum, atau suweg raksasa) justru kebalikannya. Ia punya batang dan daun sendiri, dan saat mekar, bentuknya menjulang tinggi ke atas menyerupai terompet raksasa yang gagah berdiri.
+**Rafflesia:** merupakan parasit sejati. Ia tidak memiliki daun, batang, maupun akar sendiri, melainkan hidup sepenuhnya menumpang pada tanaman inang, yaitu liana (tanaman merambat) dari genus Tetrastigma. Bentuk bunganya melebar ke samping dengan kelopak merah merona yang terhampar rata di atas tanah, seolah selimut raksasa yang tiba-tiba muncul dari balik semak hutan.
+  
+**Bunga Bangkai (Amorphophallus titanum, atau suweg raksasa):** justru kebalikannya. Ia punya batang dan daun sendiri, dan saat mekar, bentuknya menjulang tinggi ke atas menyerupai terompet raksasa yang gagah berdiri.
 
-Di tengah masyarakat kita, keduanya jadi contoh paling klasik dari dua spesies yang paling sering tertukar, bahkan kerap dianggap satu tanaman yang sama. Wajar saja, informasi keliru soal ini sudah lama beredar, jadi kebingungan inipun ikut menyebar luas dari mulut ke mulut.
+Wajar saja dahulu kita keliru karena wujud mereka agak mirip, yaitu sama-sama besar. Kelangkaan tersebut saya rasa membuat kita kurang familiar sehingga mengira keduanya sama. Namun, kita perlu membedakannya sekarang karena mereka memang berbeda.
 
 Nah, khusus yang mekar di rimba Simeulue kemarin, berdasarkan laporan resmi dan foto-foto dari lapangan, sudah jelas: itu Rafflesia, bukan bunga bangkai.
 
 ### 4 Keunikan Tak Biasa dari "Ladang" Raflesia di Simeulue
 
-Menemukan Raflesia di pulau terluar seperti Simeulue saja sudah cukup untuk bikin geger. Tapi yang membuat penemuan ini berkali-kali lipat lebih istimewa adalah caranya muncul, bukan satu-dua kuntum malu-malu, melainkan membentuk semacam "ladang" massal di satu lokasi yang sama.
+Menemukan Raflesia di pulau Simeulue ternyata sudah cukup membuat geger. Penemuan ini bisa dikatakan berkali-kali lipat lebih istimewa karena cara munculnya bukan satu-dua kuntum saja, melainkan membentuk semacam "ladang" massal di satu lokasi yang sama.
 
-Biasanya, di alam liar, flora parasit langka ini nyaris selalu tampil menyendiri alias soliter, paling banter cuma satu atau dua kuncup mekar di satu titik. Tapi di rimba Simeulue, kebiasaan itu seolah didobrak begitu saja, seakan alam sedang menunjukkan sisi lain dari dirinya yang jarang terlihat.
+Biasanya, flora parasit langka ini nyaris selalu tampil menyendiri alias soliter, paling banter cuma satu atau dua kuncup mekar di satu titik. 
 
-Berikut beberapa alasan mengapa para ahli menilai fenomena ini sangat langka:
+Maka itu dapat dikatakan geger dan istimewa. analisa nya begini:
 
-- **Tumbuh Berkelompok dalam Jumlah Banyak.** Bukan cuma satu atau dua kuntum, laporan resmi mencatat setidaknya 11 titik tumbuh Raflesia yang letaknya saling berdekatan dalam satu area. Coba bayangkan belasan puspa langka mekar berdampingan begitu saja; rasanya sulit untuk tidak merinding membayangkan pemandangannya.
-- **Fenomena Langka di Pulau Terisolasi.** Simeulue terpisah samudera dari daratan utama Sumatera, jadi penemuan ini jadi berlipat berharga. Populasi Raflesia yang begitu subur di sana membuktikan bahwa ekosistem pulau terluar ini menyimpan keanekaragaman hayati endemik yang masih sangat murni dan terjaga.
-- **Mekar di Tengah Ekosistem Hutan Rotan.** Di kawasan pegunungan Simeulue Tengah, bunga-bunga ini hidup berdampingan erat dengan rotan liar jenis sibalio. Ini jadi sinyal kuat bahwa tanaman inangnya, Tetrastigma, tumbuh subur di bawah naungan kanopi hutan rotan tersebut.
-- **Ketidaksengajaan yang Mendebarkan.** Tidak ada ekspedisi ilmiah yang direncanakan di balik penemuan mahakarya alam ini. "Ladang" bunga ini justru ditemukan begitu saja dan orang yang pertama kali berpapasan dengannya sempat merasa kaget, bahkan sedikit ketakutan, saat berhadapan langsung dengan wujud bunga raksasa yang tak biasa itu!
+**Tumbuh Berkelompok dalam Jumlah Banyak:** Bukan cuma satu atau dua kuntum, laporan resmi mencatat setidaknya 11 titik tumbuh Raflesia yang letaknya saling berdekatan dalam satu area.
+
+Coba bayangkan belasan puspa langka mekar berdampingan begitu saja, rasanya sulit untuk tidak merinding membayangkan pemandangannya.
+
+**Fenomena Langka di Pulau Terisolasi:** Simeulue terpisah oleh samudera dari daratan utama Sumatera, jadi penemuan ini jadi berlipat berharga. 
+
+Populasi Raflesia yang begitu subur di sana membuktikan bahwa ekosistem pulau terluar ini menyimpan keanekaragaman hayati endemik yang masih sangat murni dan terjaga.
+
+**Mekar di Tengah Ekosistem Hutan Rotan:** Di kawasan pegunungan Simeulue Tengah, bunga-bunga ini hidup berdampingan erat dengan rotan liar jenis sibalio. 
+Ini jadi sinyal kuat bahwa tanaman inangnya, Tetrastigma, tumbuh subur di bawah naungan kanopi hutan rotan tersebut.
+
+**Ketidaksengajaan yang Mendebarkan:** Tidak ada ekspedisi ilmiah yang direncanakan di balik penemuan mahakarya alam ini. "Ladang" bunga ini justru ditemukan begitu saja dan orang yang pertama kali berpapasan dengannya sempat merasa kaget, bahkan sedikit ketakutan, saat berhadapan langsung dengan wujud bunga raksasa yang tak biasa itu!
 
 > **Baca Juga:** [Mengenal Otus Umbra, Burung Hantu Endemik Simeulue](https://teukuanca.com/posts/otus-umbra-burung-hantu-mungil-endemik-simeulue-aceh/)
 
 ## Kisah Raflesia: Parasit Cantik yang Bertaruh pada Kematian
 
-Jika kita menarik garis sejarah jauh ke belakang, genus Rafflesia sebenarnya sudah mengetuk pintu dunia sains Barat sejak tahun 1797, dua dekade lebih awal dari yang selama ini banyak diceritakan orang. Adalah Louis Auguste Deschamps, seorang dokter sekaligus penjelajah asal Prancis, yang pertama kali mendokumentasikannya di belantara Pulau Jawa.
+Jika merujuk dari sumber informasi awal sejarahnya, ternyata bunga raksasa ini tidak dimulai dari sebuah penemuan yang mulus, melainkan dari sebuah drama perang dan ambisi yang terbelah dua negara. 
+Jauh sebelum dunia mengenal nama Rafflesia, tirai sejarah pertama kali terbuka di belantara Pulau Jawa pada tahun 1797.
 
-Sayangnya, catatan berharga itu tidak langsung sampai ke tangan dunia. Akibat pergolakan perang saat itu, spesimen yang sudah susah payah dikumpulkan Deschamps justru disita oleh armada Inggris. 
+Di sana, seorang dokter sekaligus penjelajah asal Prancis bernama **Louis Auguste Deschamps** menjadi manusia pertama yang berhasil mendokumentasikan genus bunga raksasa ini untuk dunia sains Barat.
 
-Kisahnya pun terhenti sejenak, sebelum panggung sejarah bergeser ke tahun 1818 di Bengkulu, momen yang selama ini lebih dikenal luas sebagai titik awal Raflesia diperkenalkan ke dunia.
+Bertahun-tahun Deschamps keluar masuk hutan Jawa demi mengumpulkan spesimen berharga dan menyusun catatan ilmiah yang rapi.
 
-Ada satu benang merah dari kisah penamaannya yang menggelitik sekaligus menyentuh. Meski nama bunga raksasa ini disematkan untuk menghormati Sir Thomas Stamford Raffles, sang pemimpin ekspedisi, sosok yang sebenarnya pertama kali melihat langsung tumbuhan ini di lapangan justru seorang pemandu lokal misterius yang bekerja untuk Dr. Joseph Arnold.
-Dari gabungan nama dua tokoh Eropa itulah akhirnya lahir nama spesies yang kini mendunia: Rafflesia arnoldii.
+Namun, takdir berkata lain. Pada tahun 1803, saat Deschamps berlayar pulang membawa seluruh hasil kerja kerasnya, kapal yang ia tumpangi dicegat di tengah laut oleh armada Inggris. 
+
+Saat itu, Prancis dan Inggris sedang terlibat perang hebat. Alih-alih sampai ke Prancis untuk dipublikasikan, seluruh catatan berharga, ilustrasi, dan spesimen bunga milik Deschamps disita sebagai jarahan perang. 
+
+Koleksi itu kemudian dikunci rapat-rapat di dalam peti gelap di gudang arsip London, membuat kisah bunga raksasa ini terhenti sejenak dan terkubur dalam sejarah selama dua dekade.
+
+Dua puluh tahun berlalu, dan panggung sejarah bergeser ke tahun 1818 di Bengkulu, Sumatra. 
+Pihak Inggris, yang sama sekali tidak tahu bahwa mereka menyimpan catatan rahasia milik Deschamps di London, melakukan ekspedisi ke pedalaman hutan Sumatra.
+
+Ekspedisi besar ini dipimpin oleh Gubernur Jenderal Inggris, **Sir Thomas Stamford Raffles**, didampingi oleh seorang dokter sekaligus naturalis asal Skotlandia bernama **Dr. Joseph Arnold**.
+
+Pada pertengahan Mei 1818, di dekat Sungai Manna, keheningan hutan pecah ketika seorang pemandu lokal berlari ke arah Dr. Arnold dengan napas terengah-engah. Di balik semak-semak yang rapat, sang pemandu menunjukkan sebuah keajaiban alam: bunga merah raksasa yang sedang mekar dengan megah. 
+
+Karena catatan Deschamps masih tersita dan dirahasiakan, Dr. Arnold dan Raffles sangat yakin bahwa merekalah orang pertama di dunia yang menemukan makhluk botani luar biasa ini.
+
+Dr. Arnold yang terkesima segera meraih kertasnya untuk membuat sketsa kasar. Namun, hutan Sumatra menyimpan bahayanya sendiri. Belum sempat ia menyelesaikan tugasnya atau membawa kabar gembira ini ke Eropa, Dr. Joseph Arnold terserang demam malaria parah dan meninggal dunia di pedalaman Sumatra. 
+
+Dalam duka yang mendalam, Lady Sophia Raffles istri dari Stamford Raffles, memutuskan untuk menyelamatkan warisan terakhir Dr. Arnold dengan menyelesaikan lukisan berwarna bunga tersebut.
+
+Seluruh material yang tersisa kemudian dikirim melintasi samudra menuju London dan jatuh ke tangan seorang pakar botani terkemuka bernama Robert Brown. Pada 30 Juni 1820, di hadapan sidang Linnean Society of London, Robert Brown secara resmi mengumumkan penemuan ini kepada dunia. 
+
+Untuk menghormati pemimpin ekspedisi, ia memberikan nama genus Rafflesia, dan untuk mengenang sang dokter yang gugur di medan tugas, ia menyematkan nama spesies arnoldii. Nama ilmiah Rafflesia arnoldii pun resmi lahir dan diakui dunia.
+
+Misteri ini baru benar-benar lengkap pada tahun 1954, ketika para peneliti membuka kembali peti-peti tua jarahan perang di British Museum. 
+Di sanalah catatan asli Louis Deschamps dari tahun 1797 ditemukan kembali.
+
+Dunia akhirnya sadar bahwa sejarah bunga ini telah terikat oleh benang merah yang ironis: pihak Inggris yang menyita dan menghentikan sejarah tersebut di masa lalu, adalah pihak yang sama yang menemukan kembali dan memberikan namanya di masa depan.
 
 ### Sebuah Pertaruhan Hidup yang Ekstrem
 
