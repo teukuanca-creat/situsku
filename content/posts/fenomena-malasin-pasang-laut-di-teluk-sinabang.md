@@ -17,16 +17,17 @@ Bukan tsunami, bukan pula banjir kiriman, ini fenomena yang kami sebut **Malasin
 
 ## Sinabang di Era 90-an: Saat Purnama Berarti Bersiap-siap
 
-Saya masih ingat sekali suasana waktu itu. Jika waktunya tiba, kawasan permukiman di sepanjang Teluk Sinabang terendam air pasang.
+Saya masih ingat sekali suasana saat itu. Jika waktunya tiba, kawasan permukiman di sepanjang Teluk Sinabang terendam pasang air laut.
 
 Kata orang tua dulu, "**Apabila sudah bulan purnama, di situlah pasang naik.**" Kalimat itu bukan sekadar omongan, ia semacam kalender alam yang terdengar turun-temurun.
 
-Menghadapi Malasin, ada warga yang menimbun lantai rumah supaya lebih tinggi, ada juga yang memilih pasrah saja dengan keadaan. 
-Tapi sekuat apapun usaha itu, akses jalan menuju rumah tetap saja terendam air laut itu.
+Menghadapi Malasin, ada warga yang menimbun lantai rumah supaya lebih tinggi, ada juga yang memilih pasrah dengan keadaan saja. 
 
-Saya masih teringat bagaimana situasi saat itu. Air laut naiknya perlahan tidak sampai merusak bangunan atau konstruksi apapun sebab airnya nggak ber-arus alias genangan saja.
+Namun, sekuat apapun usaha kita menimbun lantai rumah, akses jalan menuju kediaman tetap saja terendam air.
 
-Biasnya air pasang naik pagi hari, surutnya siang. Pernah juga naik di sore hari dan surutnya menjelang malam (senja).
+Saya masih teringat bagaimana situasinya. Air laut naiknya perlahan tidak sampai merusak bangunan atau konstruksi apapun, sebab airnya nggak ber-arus alias genangan saja.
+
+Biasanya air pasang naik pagi hari, surutnya siang. Pernah juga naik di sore hari dan surutnya menjelang malam (senja).
 
 Memang ketinggiannya gak sampai pinggang, biasanya sebatas betis, kadang sampai selutut orang dewasa.
 
