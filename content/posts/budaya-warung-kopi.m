@@ -13,16 +13,20 @@ Aceh sangat familiar dengan warung kopi, hampir setiap daerah di Aceh ini tidak 
 
 Di Simeulue, sama dengan di daratan Aceh, warung kopi sudah menjamur hingga ke pelosok kampung.
 
-Dalam ingatan saya, warung kopi sudah ada sejak kanak-kanak lagi, Di simpang lima pada masa itu terdapat tiga-empat warkop yang ramai pengunjung, warkop itupun ada yang masih eksis hingga saat ini.
+Dalam ingatan saya, warung kopi sudah ada sejak kanak-kanak lagi,
+Di simpang lima contohnya, pada masa itu terdapat tiga-empat warkop yang ramai pengunjung, warkop inipun ada yang masih eksis hingga saat sekarang.
 
-Momen yang paling berkesan itu ketika malam hari. Warung kopi sangat padat, apalagi kondisi simpang lima yang saat itu merupakan sentral transportasi laut. Kemudian, menyajikan tontonan "Kaset Video" layaknya bioskop mini yang bernuansa remang sehingga memberikan kesan eksotis.
+Momen yang paling berkesan dulu, ketika malam hari. Warung kopi sangat padat, apalagi kondisi simpang lima yang saat itu merupakan sentral transportasi laut. Kemudian, menyajikan tontonan "Kaset Video" layaknya bioskop mini yang bernuansa remang sehingga memberikan kesan eksotis.
 
-Sekarang ini, Perkembangan tekhnologi merubah wajah warung kopi dari sisi dekorasi dan fasilitasnya. Bayangkan sebelumnya hanya mengandalkan Televisi dan Kaset Video saja, sekarang dengan fasilitas Wifi dan Siaran televisi menggunakan parabola.
+Sekarang, Perkembangan tekhnologi merubah wajah warung kopi dari sisi dekorasi dan fasilitasnya. Bayangkan dulu hanya mengandalkan Televisi dengan Kaset Video saja, sekarang sudah menggunakan fasilitas Wifi dan Siaran televisi-parabola.
 
 Walaupun demikian, media penyaringan dan rasa kopi tidak pernah berubah mengikuti perubahan jaman. "Kain saringan" menjadi pemandangan yang tetap digunakan warkop di sinabang hingga saat ini.
 
 ## Warkop Berevolusi menjadi ruang sosial
 Jauh hari 
+Satu hal yang unik menurut saya, usaha warung kopi yang baru di mulai (usaha baru), diberikan minum kopi gratis bagi siapa saja yang datang berkunjung. Tradisi ini sudah ada sejak dulu lagi.
+
+Kata lainnya, lebih kearah promosi tanpa brosur himbauan layaknya promo produk. Selain itu, praktek ini memberikan sentuhan berupa menu, tempat dan pelayanan yang kita rasakan langsung.
 
 Ia ibarat kantor berita tanpa redaksi, ruang sidang tanpa hakim, dan laboratorium sosial tempat denyut nadi informasi masyarakat setempat. Begitulah gambarannya.
 
