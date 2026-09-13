@@ -9,7 +9,7 @@ tags: ["Warkop Sinabang", "Warung Kopi Simeulue"]
 ---
 
 ## Suasana Warkop 
-Ketika kapal feri merapat di Pelabuhan Sinabang, ada satu pemandangan yang tak pernah absen menyambut siapa pun yang menginjakkan kaki di Kabupaten Simeulue: deretan warung kopi (warkop) kayu dan bangunan permanen yang riuh oleh denting gelas sejak subuh hingga larut malam.
+Aceh sangat identik dengan warung kopi, hampir setiap sudut kota berdiri warung
 
 Di daratan utama Sumatera, warkop mungkin hanya tempat persinggahan atau sekadar nongkrong. Namun di Simeulue, pulau yang berdiri secara geografis di tengah Samudera Hindia ini, warkop bertransformasi menjadi salah satu pusat saraf kehidupan pulau.
 
