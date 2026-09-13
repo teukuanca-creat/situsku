@@ -17,9 +17,12 @@ Dalam ingatan saya, warung kopi sudah ada sejak kanak-kanak lagi, Di simpang lim
 
 Momen yang paling berkesan itu ketika malam hari. Warung kopi sangat padat, apalagi kondisi simpang lima yang saat itu merupakan sentral transportasi laut. Kemudian, menyajikan tontonan "Kaset Video" layaknya bioskop mini yang bernuansa remang sehingga memberikan kesan eksotis.
 
-Sekarang ini, Perkembangan tekhnologi merubah wajah warung kopi dari sisi dekorasi dan fasilitasnya. Bayangkan sebelumnya hanya hanya mengandalkan Televisi dan Kaset Video saja, sekarang dengan fasilitas Wifi dan Siaran TV dengan parabola.l
+Sekarang ini, Perkembangan tekhnologi merubah wajah warung kopi dari sisi dekorasi dan fasilitasnya. Bayangkan sebelumnya hanya mengandalkan Televisi dan Kaset Video saja, sekarang dengan fasilitas Wifi dan Siaran televisi menggunakan parabola.
 
+Walaupun demikian, media penyaringan dan rasa kopi tidak pernah berubah mengikuti perubahan jaman. "Kain saringan" menjadi pemandangan yang tetap digunakan warkop di sinabang hingga saat ini.
 
+## Warkop Berevolusi menjadi ruang sosial
+Jauh hari 
 
 Ia ibarat kantor berita tanpa redaksi, ruang sidang tanpa hakim, dan laboratorium sosial tempat denyut nadi informasi masyarakat setempat. Begitulah gambarannya.
 
