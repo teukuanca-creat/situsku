@@ -1,5 +1,5 @@
 ---
-title: 'Musim Bunga Hias: Ketika Teras Rumah Berubah Jadi Etalase Menawan'
+title: 'Tren Tanaman Hias di Sinabang'
 date: 2026-09-09
 draft: false
 featured_image: "/images/tanaman-hias-sinabang.webp"
