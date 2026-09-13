@@ -15,8 +15,8 @@ Di Simeulue, sama dengan di daratan Aceh, warung kopi sudah menjamur hingga ke p
 
 Dalam ingatan saya, warung kopi sudah ada sejak kanak-kanak lagi, Di simpang lima pada masa itu terdapat tiga-empat warkop yang ramai pengunjung. Warkop itupun ada yang masih eksis hingga saat ini.
 
-Momen yang paling berkesan dulu, ketika malam hari warkop sangat padat, apalagi kondisi simpang lima 
-saat itu sentral transportasi laut. Warung kopi kala itu menyajikan tontonan Video pita kaset
+Momen yang paling berkesan itu ketika malam hari. Warung kopi sangat padat, apalagi kondisi simpang lima yang saat itu merupakan sentral transportasi laut.
+Warung kopi kala itu menyajikan tontonan layaknya bisokop mini dengan "Kaset Video". Nuansa remangnya memberikan kesan yang eksotis.
 
 
 
