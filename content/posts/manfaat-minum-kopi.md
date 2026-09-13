@@ -10,32 +10,32 @@ tags: ["Minum Kopi", "Manfaat Kopi bagi Tubuh"]
 
 ## Kalimat Sakti yang Tak Pernah Ketinggalan Zaman
 
-Sebelum kerja lembur, "**kopi meneng!**" menjadi Kalimat yang akrab di telinga. Kalimat ini digunakan untuk mengajak **ngopi dulu** dalam bahasa lokal di sini.
+Sebelum kerja lembur, "**kopi meneng!**" menjadi Kalimat yang akrab di telinga. Kalimat ini digunakan untuk ajakkan **ngopi dulu** dalam bahasa lokal.
 
 Kalimat ini juga akrab didengar sepulang kerja, sepulang melaut, bahkan sebelum memulai aktivitas pagi hari.
 
-Pernah juga terdengar kopi kalau dicampur garam membuat mata melek.
-Saya memang merasakan susah tidur minum kopi di tengah malam. Tetapi, ada juga yang merasa gak ngaruh dengan itu, tetap saja dia ngantuk.
+Saya sendiri merasakan susah tidur kalau minum kopi di tengah malam. Namun, ada juga yang merasa gak ngaruh dengan itu, tetap saja dia ngantuk.
 
-Sebagian kita yang belum memahami, timbul pertanyaan-pertanyaan seperti "Apa benar kopi bisa biat kita nggak ngantuk?", ataupun "Apa iya menjadi suplemen tenaga?", dan "Apa sebenarnya kandungan di dalam kopi?"
+Pernah juga beberapa kali mendengar, jika kopi dicampuri garam bisa buat mata kita melek, cocok untuk melaut di malam hari atau ngeronda. Terlepas dari benar atau tidak, jelas saya merasakan efek kopi tetap melek dan memberikan semangat.
 
-Sebelum mengulas pertanyaan-pertanyaan itu, kita bahas terlebih dulu sejarah awal dan penyebaran kopi di masa lalu. Yuk simak ulasannya....!!!
+Tetapi pernah tidak terlintas difikaran "Apa benar efek kopi bisa bikin kita nggak ngantuk?", atau "kok bisa membuat seperti suplemen tenaga?". Apa sebenarnya kandungan di dalam kopi?
+
+Kita ulas apa saja kandungan kopi itu. Tapi, sebelum mengulas pertanyaan-pertanyaan itu, kita bahas terlebih dulu sejarah awal dan penyebaran kopi di masa lalu. Yuk simak ulasannya....!!!
 
 ## Perjalanan Panjang Secangkir Kopi
 
-Merujuk dari informasi cerita sejarah, kopi bermula dari dataran tinggi Ethiopia, Afrika Timur, sekitar abad ke-9.
-Bermula dari seorang penggembala kambing yang bernama Kaldi. Hingga menjadi kebiasaan disana saat itu. Memang kisahnya banyak ditemukan di internet, itu semacam legenda yang sudah menjadi cerita rakyat yang terus hidup 
+Merujuk dari informasi sejarah, kopi bermula dari dataran tinggi Ethiopia, Afrika Timur, sekitar abad ke-9.
 
-Kita ambil point lainya, kopi juga menyeberang lewat Laut Merah menuju Yaman pada abad ke-15 dan mulai dibudidayakan secara komersial, dengan Pelabuhan Mocha sebagai pusat perkembangan perdagangan kopi, dan sempat memonopoli distribusi kopi dunia.
+Hingga menyeberang lewat Laut Merah menuju Yaman pada abad ke-15 dan mulai dibudidayakan secara komersial, dengan Pelabuhan Mocha sebagai pusat perkembangan perdagangan kopi, dan sempat memonopoli distribusi kopi dunia.
 
 Kemudian, popularitasnya terus menyebar, kopi jadi minuman penambah energi untuk beribadah malam di dunia Arab, sebelum akhirnya kedai-kedai kopi pertama bermunculan di Kairo, Damaskus, dan Istanbul.
 
-Ke Nusantara, kopi dibawa pemerintah kolonial Belanda lewat bibit Arabika asal Malabar, India.
-Pertama kali ditanam di Pulau Jawa pada 1696, dan cikal bakal Indonesia menjadi salah satu produsen kopi terbesar dunia hingga sekarang.
-
 Di belahan bumi lain, pedagang membawa kopi ke Venesia dan London pada abad ke-17, memicu tren rumah kopi ala Eropa, Kemudian menyeberang ke Karibia dan Amerika Selatan di awal abad ke-18, yang pada akhirnya membuat Brasil tumbuh jadi raksasa produsen kopi dunia sampai hari ini.
 
-Ternyata, kopi yang kita nikmati sekarang sudah jadi minuman favorit sejak berabad-abad lalu, hanya saja cara penyajiannya yang terus berevolusi.
+Di Nusantara, kopi dibawa pemerintah kolonial Belanda lewat bibit Arabika asal Malabar,India.
+Pertama kali ditanam di Pulau Jawa pada 1696, dan cikal bakal Indonesia menjadi salah satu produsen kopi terbesar dunia hingga sekarang.
+
+Ternyata, kopi yang kita nikmati sekarang sudah menjadi minuman favorit sejak berabad-abad lalu, hanya saja cara penyajiannya yang terus berevolusi.
 
 Dulu, biji kopi diolah dengan sangat sederhana: dikeringkan, direbus, atau diseduh langsung secara tradisional.
 
@@ -45,30 +45,22 @@ Di zaman modern, penyajian kopi sudah bertransformasi total lewat mesin espresso
 
 Sebelum bicara manfaatnya, menarik juga untuk kita ketahui apa kandungan yang terdapat pada biji kopi sebelum di olah (baru dipetik dari batang) dan setelah di olah (disangrai). 
 
-Ternyata perbedaannya cukup drastis, akibat proses roasting dengan suhu tinggi mengubah struktur kimia biji kopi secara menyeluruh. Berikut kandungannya:
+Ternyata perbedaannya cukup drastis, akibat proses roasting dengan suhu tinggi mengubah struktur kimia biji kopi secara menyeluruh, Sebab, kadar air biji kopi hijau yang tadinya cukup tinggi sekitar 10–12 persen, menyusut jauh hingga tersisa 1–5 persen setelah disangrai. 
 
-* Kadar air biji kopi hijau yang tadinya cukup tinggi, sekitar 10–12 persen, menyusut jauh hingga tersisa 1–5 persen setelah disangrai. 
+Kemudian, Asam klorogenat, senyawa antioksidan utama pada kopi yang tadinya melimpah di biji mentah, ikut menurun drastis karena sebagian besar terurai jadi asam kinat dan kafeat akibat panas.
 
-* Asam klorogenat, senyawa antioksidan utama pada kopi yang tadinya melimpah di biji mentah, ikut menurun drastis karena sebagian besar terurai jadi asam kinat dan kafeat akibat panas.
-
-* Kafeinnya sendiri justru terasa lebih pekat setelah disangrai, bukan karena jumlahnya bertambah, melainkan karena konsentrasinya meningkat seiring menyusutnya kadar air.
-
-* Sementara itu, biji kopi mentah sebenarnya hanya beraroma seperti dedaunan atau kacang mentah. Aroma khas kopi yang kita kenal baru terbentuk melalui reaksi Maillard dan karamelisasi gula alami, proses yang menghasilkan warna cokelat khas sekaligus ribuan senyawa aroma baru.
+Akan tetapi, kafeinnya justru terasa lebih pekat setelah disangrai, bukan karena jumlahnya bertambah, melainkan karena konsentrasinya meningkat seiring menyusutnya kadar air.
 
 ![Kopi Hitam Warkop Sinabang](/images/kopi-hitam.jpg)
 *Foto: Kopi Hitam Warkop Sinabang*
 
 ## Manfaat Minum Kopi bagi Tubuh
 
-Berdasarkan berbagai penelitian terbaru, minum kopi hitam tanpa gula ternyata memberi manfaat yang jauh lebih luas dari sekadar mengusir kantuk.
+Berdasarkan berbagai penelitian terbaru, minum **kopi hitam tanpa gula** ternyata memberi manfaat yang jauh lebih luas dari sekadar mengusir kantuk.
 
-Yang paling terasa tentu soal energi dan fokus.
-* Kandungan kafein merangsang sistem saraf pusat,
-* Mengurangi rasa lelah,
-* Mempertajam konsentrasi,
-* Memperbaiki suasana hati. 
+Yang paling terasa tentu soal energi dan fokus. Karena, kandungan kafeinnua yang dapat merangsang sistem saraf pusat, kemudian dapat mengurangi rasa lelah, lalu mempertajam konsentrasi dan bahkan memperbaiki suasana hati. 
 
-Tapi manfaatnya ternyata tidak berhenti di situ. Sebuah tinjauan dari 30 penelitian menemukan bahwa setiap cangkir kopi yang diminum setiap hari dikaitkan dengan:
+Manfaatnya ternyata tidak berhenti di situ. Sebuah tinjauan dari 30 penelitian menemukan bahwa setiap cangkir kopi yang diminum setiap hari dikaitkan dengan:
 * Risiko 6% lebih rendah terkena diabetes tipe 2, kemungkinan lewat perannya membantu tubuh menjaga kadar gula darah dan meningkatkan sensitivitas insulin.
 
 Yang paling mengejutkan justru datang dari penelitian terbaru soal kesehatan hati. 
