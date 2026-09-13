@@ -146,6 +146,6 @@ Melawat bukan cerita lama yang berdebu. Ia warisan sosial yang terbukti fleksibe
 
 ## Referensi
 
-1. Tradisi Melawat dalam Masyarakat Simeulue
-2. Melawat di Simeulue: Studi Kasus Desa Lambaya dan Desa Sanggiran
-3. Pewarisan Budaya dan Konservasi Nilai Melalui Tradisi Melawat di Simeulue, Aceh
+1. [Tradisi Melawat dalam Masyarakat Simeulue](https://aceh.tribunnews.com/2022/06/04/tradisi-melawat-pada-masyarakat-simeulue)
+2. [Melawat di Simeulue](https://www.researchgate.net/publication/343079180_Melawat_di_Simeulue_Studi_Kasus_di_Desa_Lambaya_Kec_Simeulue_Tengah_dengan_Desa_Sanggiran_Kec_Simeulue_Barat_Kabupaten_Simeulue)
+3. [Pewarisan Budaya dan Konservasi Nilai Melalui Tradisi Melawat di Simeulue, Aceh](https://garuda.kemdiktisaintek.go.id/documents/detail/4131203)
