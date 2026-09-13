@@ -1,17 +1,24 @@
 ---
-title: 'Nongkrong di Warung Kopi Simeulue: Ruang Ketiga di Tepi Samudera Hindia'
-date: 2026-07-24
+title: 'Nongkrong di Warung Kopi Simeulue'
+date: 2026-09-13
 draft: false
 featured_image: "/images/warkop.webp"
 categories: ["Cerita Menarik"]
-description: "Mengulas budaya warung kopi (warkop) di Kabupaten Kepulauan Simeulue bukan sekadar tempat minum kopi saring, melainkan jantung sosial dan ekonomi"
+description: "Mengulas budaya warung kopi (warkop) di Kabupaten Simeulue bukan sekadar tempat minum kopi saring, melainkan jantung sosial dan ekonomi"
 tags: ["Warkop Sinabang", "Warung Kopi Simeulue"]
 ---
 
-## Suasana Warkop 
-Aceh sangat identik dengan warung kopi, hampir setiap sudut kota berdiri warung
+## Kilas Balik Warkop
+Aceh sangat familiar dengan warung kopi, hampir setiap daerah di Aceh ini tidak terlepas dari bangunan-bangunan usaha ini. 
 
-Di daratan utama Sumatera, warkop mungkin hanya tempat persinggahan atau sekadar nongkrong. Namun di Simeulue, pulau yang berdiri secara geografis di tengah Samudera Hindia ini, warkop bertransformasi menjadi salah satu pusat saraf kehidupan pulau.
+Di Simeulue, sama dengan di daratan Aceh, warung kopi sudah menjamur hingga ke pelosok kampung.
+
+Dalam ingatan saya, warung kopi sudah ada sejak kanak-kanak lagi, Di simpang lima pada masa itu terdapat tiga-empat warkop yang ramai pengunjung. Warkop itupun ada yang masih eksis hingga saat ini.
+
+Momen yang paling berkesan dulu, ketika malam hari warkop sangat padat, apalagi kondisi simpang lima 
+saat itu sentral transportasi laut. Warung kopi kala itu menyajikan tontonan Video pita kaset
+
+
 
 Ia ibarat kantor berita tanpa redaksi, ruang sidang tanpa hakim, dan laboratorium sosial tempat denyut nadi informasi masyarakat setempat. Begitulah gambarannya.
 
