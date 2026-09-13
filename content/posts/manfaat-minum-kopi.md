@@ -14,10 +14,11 @@ Setiap kali ada pekerjaan lembur, kalimat "**kopi meneng!**" selalu jadi ajakan 
 
 Bahasa ini juga akrab didengar sepulang kerja, sepulang melaut, bahkan sebelum memulai aktivitas pagi hari, seolah kopi adalah syarat wajib sebelum tubuh benar-benar siap beraktivitas.
 
-Tapi pernahkah kita bertanya, apakah kopi memang benar-benar memberi efek tidak mengantuk?
-Apakah ia semacam suplemen tenaga, atau ada kandungan tertentu di dalam yang membuat kita jadi lebih bersemangat?
+Apa benar kopi itu membuat kita nggak ngantuk?
+Apa iya semacam suplemen tenaga?
+Apa sebenarnya kandungan di dalam kopi sehingga membuat kita jadi bersemangat?
 
-Sebelum menjawab pertanyaan itu, ada baiknya kita mundur sedikit dan menengok dari mana pertama kali minuman ini berasal.
+Sebelum menjawab pertanyaan itu, kita ulas mundur sedikit dan mengkaji dari mana pertama kali minuman ini berasal.
 
 ## Perjalanan Panjang Secangkir Kopi
 
