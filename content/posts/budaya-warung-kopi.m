@@ -13,10 +13,11 @@ Aceh sangat familiar dengan warung kopi, hampir setiap daerah di Aceh ini tidak 
 
 Di Simeulue, sama dengan di daratan Aceh, warung kopi sudah menjamur hingga ke pelosok kampung.
 
-Dalam ingatan saya, warung kopi sudah ada sejak kanak-kanak lagi, Di simpang lima pada masa itu terdapat tiga-empat warkop yang ramai pengunjung. Warkop itupun ada yang masih eksis hingga saat ini.
+Dalam ingatan saya, warung kopi sudah ada sejak kanak-kanak lagi, Di simpang lima pada masa itu terdapat tiga-empat warkop yang ramai pengunjung, warkop itupun ada yang masih eksis hingga saat ini.
 
-Momen yang paling berkesan itu ketika malam hari. Warung kopi sangat padat, apalagi kondisi simpang lima yang saat itu merupakan sentral transportasi laut.
-Warung kopi kala itu menyajikan tontonan layaknya bisokop mini dengan "Kaset Video". Nuansa remangnya memberikan kesan yang eksotis.
+Momen yang paling berkesan itu ketika malam hari. Warung kopi sangat padat, apalagi kondisi simpang lima yang saat itu merupakan sentral transportasi laut. Kemudian, menyajikan tontonan "Kaset Video" layaknya bioskop mini yang bernuansa remang sehingga memberikan kesan eksotis.
+
+Sekarang ini, Perkembangan tekhnologi merubah wajah warung kopi dari sisi dekorasi dan fasilitasnya. Bayangkan sebelumnya hanya hanya mengandalkan Televisi dan Kaset Video saja, sekarang dengan fasilitas Wifi dan Siaran TV dengan parabola.l
 
 
 
