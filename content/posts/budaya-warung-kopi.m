@@ -14,9 +14,10 @@ Aceh sangat familiar dengan warung kopi, hampir setiap daerah di Aceh ini tidak 
 Di Simeulue, sama dengan di daratan Aceh, warung kopi sudah menjamur hingga ke pelosok kampung.
 
 Dalam ingatan saya, warung kopi sudah ada sejak kanak-kanak lagi,
-Di simpang lima contohnya, pada masa itu terdapat tiga-empat warkop yang ramai pengunjung, warkop inipun ada yang masih eksis hingga saat ini.
+Di simpang lima contohnya, pada masa itu terdapat tiga hingga empat warkop yang ramai pengunjung, warkop inipun ada yang masih eksis hingga saat ini.
 
-Momen yang paling berkesan dulu, ketika malam hari. Warung kopi sangat padat, apalagi kondisi simpang lima yang saat itu merupakan sentral transportasi laut. Kemudian, menyajikan tontonan "Kaset Video" layaknya bioskop mini yang bernuansa remang sehingga memberikan kesan eksotis.
+Momen yang paling berkesan dulu, ketika malam hari. Warung kopi sangat padat, apalagi kondisi simpang lima yang saat itu merupakan sentral transportasi laut.
+Kemudian, menyajikan tontonan "Kaset Video" layaknya bioskop mini yang bernuansa remang sehingga memberikan kesan eksotis.
 
 Sekarang, Perkembangan tekhnologi merubah wajah warung kopi dari sisi dekorasi dan fasilitasnya. Bayangkan dulu hanya mengandalkan Televisi dengan Kaset Video saja, sekarang sudah menggunakan fasilitas Wifi dan Siaran televisi-parabola.
 
@@ -32,16 +33,16 @@ Ini dapat dibuktikan dengan sebuah cerita, ketika ingin berjumpa dengan seseoran
 
 Warung Kopi seperti ruang ketiga saat ini. Sebab, hampir semua kemudahan didapatkan di Warkop. Mendapatkan cerita-cerita personal serta perkembangan informasi terbaru.
 
-Selain itu, Kemudahan jaringan internet wifi yang tersedia di warkop, menjadikan tempat ini ruang kerja bagi yang ingin kerja santai.
+Selain itu, Kemudahan jaringan internet wifi yang tersedia di warkop, menjadikan tempat ini ruang kerja bagi yang ingin bekerja santai. Sehingga tidak heran jika melihat orang duduk berjam-jam di sana.
 
-Ia ibarat kantor berita tanpa redaksi, ruang sidang tanpa hakim, dan laboratorium sosial tempat denyut nadi informasi masyarakat setempat. Begitulah gambarannya.
+Bukan sekedar itu saja, kemudahan lainnya juga dimanfaatkan mereka yang ingin tempat santai sambil mendaftar kuliahan, membuat tugas online, dan aktivitas dengan jaringan lainnya.
 
-## Ruang Ketiga ala Ray Oldenburg
+### Ruang Ketiga ala Ray Oldenburg
 
-Konsep ini sebenarnya bukan sekadar impresi personal saya. Sosiolog Ray Oldenburg, dalam bukunya The Great Good Place (1989), memperkenalkan istilah The Third Place, ruang ketiga di luar rumah (tempat pertama) dan tempat kerja (tempat kedua), tempat orang berkumpul secara sukarela, informal, dan lintas status sosial.
+Dari gambaran sebagai ruang ketiga, konsep itu sebenarnya bukan sekadar impresi personal saya, tetapi Sosiolog Ray Oldenburg dalam bukunya The Great Good Place (1989), sudah memperkenalkan istilah The Third Place, ruang ketiga di luar rumah (tempat pertama) dan tempat kerja (tempat kedua), tempat orang berkumpul secara sukarela, informal, dan lintas status sosial. 
+
 Warkop di Sinabang, menurut pengamatan saya, adalah wujud paling murni dari konsep ini.
-
-Di sini, hierarki sosial luntur secara otomatis. Seorang pejabat bisa duduk satu meja, berbagi asbak dan mengobrol dengan lainnya, atau anak muda bisa duduk bersama dengan orang-orang tua.
+Jika saya gambarkan, ia ibarat kantor berita tanpa redaksi, ruang sidang tanpa hakim, dan laboratorium sosial tempat denyut nadi informasi masyarakat setempat.
 
 ### Kenapa Inklusivitas Ini Bisa Terjadi?
 
