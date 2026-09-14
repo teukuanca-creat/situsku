@@ -4,7 +4,7 @@ date: 2026-09-14
 draft: false
 featured_image: "/images/monetisasi.webp"
 categories: ["Edukasi"]
-description: "Catatan santai mengenai dinamika kreator konten di Pulau Simeulue—menelusuri sudut pandang lokal yang unik, tantangan jaringan di perjalanan, hingga realita monetisasi."
+description: "Catatan santai mengenai dinamika kreator konten di Pulau Simeulue, menelusuri sudut pandang lokal yang unik, tantangan jaringan di perjalanan, hingga realita monetisasi"
 tags: ["Kreator Konten", "Simeulue", "Digital", "Ekonomi Kreatif", "Literasi Digital"]
 ---
 
@@ -76,3 +76,5 @@ Sebagian besar kegiatan seperti ini terpusat di kota-kota utama.
 ​Mungkin saat ini belum semua memiliki kemewahan perangkat kelas atas atau akses mudah ke sponsor besar, justru di situlah nilai estetikanya sebab mereka berkarya dengan apa yang ada, dari sudut pulau yang indah dan autentik.
 
 Menurut saya satu pelajaran yang bisa dipetik, dunia konten di daerah seperti Simeulue mungkin belum menawarkan janji manis serba instan, namun sebagai ruang untuk mencatat, mengekspresikan diri, dan memperkenalkan keindahan daerah ke khalayak luas. Dan juga memiliki nilai yang tidak bisa dinilai hanya dengan angka-angka komersial semata.
+
+> **Baca Juga:** [Galeri Foto Menjadi Mesin Pendapatan Pasif](https://teukuanca.com/posts/mengubah-galeri-foto/)
