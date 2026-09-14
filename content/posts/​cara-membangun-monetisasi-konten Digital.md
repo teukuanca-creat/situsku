@@ -2,7 +2,7 @@
 title: 'Menatap Geliat Kreator di Simeulue: Antara Cerita Lokal, Tantangan, dan Peluang'
 date: 2026-09-15
 draft: false
-featured_image: "/images/kreator-simeulue.jpg"
+featured_image: "/images/monetisasi.webp"
 categories: ["Edukasi"]
 description: "Catatan santai mengenai dinamika kreator konten di Pulau Simeulue—menelusuri sudut pandang lokal yang unik, tantangan jaringan di perjalanan, hingga realita monetisasi."
 tags: ["Kreator Konten", "Simeulue", "Digital", "Ekonomi Kreatif", "Literasi Digital"]
