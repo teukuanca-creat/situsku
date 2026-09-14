@@ -55,17 +55,16 @@ Obrolan di atas segelas kopi saring panas memfasilitasi kompromi yang lebih sant
 
 Di tengah keragaman bahasa inilah, warkop menjadi kuali peleburan (melting pot) bagi warga dari ujung barat hingga timur pulau. Mereka menyatu dengan menggunakan bahasa Jamee sebagai lingua franca, atau bahasa Indonesia sebagai bahasa penghubung.
 
-## Profil Kuliner: Dari Kopi Saring hingga Mie Aceh Lobster
+## Dari Kopi Saring, Kuliner rumahan hingga Mie Aceh
 
-Mayoritas warkop di sini menggunakan biji kopi olahan bubuk lokal dan bubuk Aceh yang diekstraksi memakai kantong kain panjang secara berulang-ulang.
+Mayoritas warkop di sini menggunakan bubuk kopi lokal pilihan dan bubuk kopi Aceh yang diekstraksi memakai kantong kain panjang secara berulang-ulang.
 
 Hasilnya segelas kopi berkarakter pekat, bertubuh mantap (full body), tanpa endapan ampas, disajikan dalam gelas-gelas kaca yang jadi ciri khas visual warkop Aceh pada umumnya.
 
-Soal makanan, Mie Aceh di sini punya sentuhan berbeda dari daratan Sumatera yang biasanya didominasi daging sapi atau kepiting.
-Warkop-warkop di Sinabang justru memanfaatkan kekayaan laut lokal.
+Soal makanan, Mie Aceh di sini biasanya didominasi lobster atau kepiting dan cumi.
+Selain mie aceh, di etalase luar juga tersedia nasi goreng, nasi gurih (menu sarapan), gorengan 
 
-Anda bisa menikmati Mie Aceh dengan topping lobster segar hasil tangkapan nelayan setempat, kemewahan kuliner laut kelas dunia yang disajikan dalam suasana warung rakyat yang bersahaja.
-
+Di dalam juga terlihat steling yang berisi kuliner lainnya
 > **Baca Juga:** [Mengapa Pohon Pinggir Jalan Sama](https://teukuanca.com/posts/mengapa-pohon-pinggir-jalan-sama/)
 
 Dari sisi harga, kisarannya cukup ramah meski tetap fluktuatif tergantung musim tangkap:
