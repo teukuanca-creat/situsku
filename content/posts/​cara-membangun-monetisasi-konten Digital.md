@@ -1,5 +1,5 @@
 ---
-title: 'Menatap Geliat Kreator di Simeulue: Antara Cerita Lokal, Tantangan, dan Peluang'
+title: 'Menatap Geliat Kreator di Simeulue'
 date: 2026-09-14
 draft: false
 featured_image: "/images/monetisasi.webp"
