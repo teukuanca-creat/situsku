@@ -29,50 +29,35 @@ Satu hal yang unik menurut saya, ketika usaha warung kopi yang baru di buka (usa
 
 Keunikan lainnya, disetiap warkop, diahiasi dengan wajah-wajah yang sama setiap harinya. Mereka adalah para pelanggan tetap yang sudah merasa nyaman dengan rasa kopi dan fasilitas yang ada.
 
-Ini dapat dibuktikan dengan sebuah cerita, ketika ingin berjumpa dengan seseorang, namun Handphonnya nonaktif, datanglah ke warkop yang sering dikunjunginya.
+Hal ini dapat diilustrasikan melalui kebiasaan masyarakat setempat; ketika seseorang tidak dapat dihubungi melalui telepon seluler, ia sering kali dapat ditemui di warung kopi yang biasa dikunjunginya."
 
 Warung Kopi seperti ruang ketiga saat ini. Sebab, hampir semua kemudahan didapatkan di Warkop. Mendapatkan cerita-cerita personal serta perkembangan informasi terbaru.
 
-Selain itu, Kemudahan jaringan internet wifi yang tersedia di warkop, menjadikan tempat ini ruang kerja bagi yang ingin bekerja santai. Sehingga tidak heran jika melihat orang duduk berjam-jam di sana.
+Selain itu, Kemudahan jaringan internet wifi yang tersedia di warkop, menjadikan tempat ini ruang kerja bagi yang ingin bekerja santai. Sehingga tidak heran jika warkop kini selalu ramai menjadi pilihan utama untuk produktif.
 
 Bukan sekedar itu saja, kemudahan lainnya juga dimanfaatkan mereka yang ingin tempat santai sambil mendaftar kuliahan, membuat tugas online, dan aktivitas dengan jaringan lainnya.
 
 ### Ruang Ketiga ala Ray Oldenburg
 
-Dari gambaran sebagai ruang ketiga, konsep itu sebenarnya bukan sekadar impresi personal saya, tetapi Sosiolog Ray Oldenburg dalam bukunya The Great Good Place (1989), sudah memperkenalkan istilah The Third Place, ruang ketiga di luar rumah (tempat pertama) dan tempat kerja (tempat kedua), tempat orang berkumpul secara sukarela, informal, dan lintas status sosial. 
+Dari gambaran sebagai ruang ketiga, konsep itu sebenarnya bukan sekadar impresi personal saya. Sosiolog Ray Oldenburg dalam bukunya The Great Good Place (1989), sudah memperkenalkan istilah The Third Place—ruang ketiga di luar rumah (tempat pertama) dan tempat kerja (tempat kedua), tempat orang berkumpul secara sukarela, informal, dan lintas status sosial.
 
-Warkop di Sinabang, menurut pengamatan saya, adalah wujud paling murni dari konsep ini.
-Jika saya gambarkan, ia ibarat kantor berita tanpa redaksi, ruang sidang tanpa hakim, dan laboratorium sosial tempat denyut nadi informasi masyarakat setempat.
+Warkop di Sinabang, menurut pengamatan saya, menjadi salah satu contoh nyata dari konsep ini. Jika digambarkan, ia ibarat pusat informasi warga yang tumbuh organik, ruang diskusi tanpa sekat, dan laboratorium sosial tempat denyut nadi masyarakat setempat berdenyut bebas.
 
 ### Kenapa Inklusivitas Ini Bisa Terjadi?
 
 Ada dua alasan utama yang membuat warkop di sini berfungsi jauh lebih dari sekadar tempat minum kopi.
 
-#### Pertama, sebagai peredam konflik sosial.
-Sebelum sebuah perselisihan misalnya sengketa batas tanah antarwarga atau urusan transaksi jual-beli dibawa ke ranah hukum formal atau Balai Desa, warkop kerap menjadi "ring diplomasi" tidak resmi.
+**Pertama, sebagai peredam konflik sosial**. Sebelum sebuah perselisihan, misalnya sengketa batas tanah antarwarga atau urusan transaksi jual-beli dibawa ke ranah hukum formal atau Balai Desa, warkop kerap menjadi "ring diplomasi" informal.
 
-Obrolan di atas segelas kopi saring panas memfasilitasi kompromi yang jauh lebih ramah dan beradab dibanding jalur formal.
+Obrolan di atas segelas kopi saring panas memfasilitasi kompromi yang lebih santai, sehingga membantu mencairkan suasana sebelum diselesaikan secara resmi.
 
-#### Kedua, sebagai titik peleburan bahasa daerah.
-Simeulue memang unik karena memiliki beberapa bahasa daerah asli yang berbeda-beda. 
+**Kedua, sebagai titik peleburan bahasa daerah**. Simeulue memang unik karena memiliki beberapa bahasa daerah asli yang berbeda-beda. 
 
-Di tengah keragaman bahasa inilah, warkop menjadi kuali peleburan (melting pot) warga dari ujung barat hingga timur pulau, menyatu menggunakan bahasa jamu berlogat khas atau bahasa Indonesia sebagai bahasa penghubung.
-
-### Jaringan Informasi yang Luas
-
-Sebelum era aplikasi prakiraan cuaca di smartphone populer, warkop di kawasan pesisir Sinabang praktis berfungsi sebagai "stasiun informasi lisan".
-
-Setiap waktu, terlihat para nelayan secara tak sengaja duduk satu meja berbagi informasi tentang pergerakan angin, arah arus Samudera Hindia, hingga bertukar kabar soal lokasi kawanan lobster dan ikan karang dari rekan sejawat yang baru pulang melaut malam sebelumnya.
-
-Fungsi yang tak kalah penting adalah sebagai ruang transmisi memori kolektif secara umum, mulai dari informasi formal maupun nonformal
-
-Obrolan santai di warkop yang tanpa disadari warga sendiri, menjadi salah satu ruang informal tempat tradisi lisan. Ini menjadi tren terus-menerus yang diwariskan lintas generasi,
+Di tengah keragaman bahasa inilah, warkop menjadi kuali peleburan (melting pot) bagi warga dari ujung barat hingga timur pulau. Mereka menyatu dengan menggunakan bahasa Jamee sebagai lingua franca, atau bahasa Indonesia sebagai bahasa penghubung.
 
 ## Profil Kuliner: Dari Kopi Saring hingga Mie Aceh Lobster
 
-Karakteristik warkop Simeulue dibentuk oleh tradisi penyeduhan yang jujur dan olahan rempah yang berani.
-
-Mayoritas warkop di sini menggunakan biji kopi olahan lokal dan bubuk khas Aceh yang diekstraksi memakai kantong kain panjang secara berulang-ulang, atau yang biasa disebut kopi saring.
+Mayoritas warkop di sini menggunakan biji kopi olahan bubuk lokal dan bubuk Aceh yang diekstraksi memakai kantong kain panjang secara berulang-ulang.
 
 Hasilnya segelas kopi berkarakter pekat, bertubuh mantap (full body), tanpa endapan ampas, disajikan dalam gelas-gelas kaca yang jadi ciri khas visual warkop Aceh pada umumnya.
 
