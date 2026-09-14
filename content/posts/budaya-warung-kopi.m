@@ -16,7 +16,7 @@ Di Simeulue, sama dengan di daratan Aceh, warung kopi sudah menjamur hingga ke p
 Dalam ingatan saya, warung kopi sudah ada sejak kanak-kanak lagi,
 Di simpang lima contohnya, pada masa itu terdapat tiga hingga empat warkop yang ramai pengunjung, warkop inipun ada yang masih eksis hingga saat ini.
 
-Momen yang paling berkesan dulu, ketika malam hari. Warung kopi sangat padat, apalagi kondisi simpang lima yang saat itu merupakan sentral transportasi laut.
+Momen yang paling berkesan dulu, ketika malam hari. Warung kopi sangat padat, apalagi kondisi simpang lima yang saat itu salah satu sentral transportasi laut.
 Kemudian, menyajikan tontonan "Kaset Video" layaknya bioskop mini yang bernuansa remang sehingga memberikan kesan eksotis.
 
 Sekarang, Perkembangan tekhnologi merubah wajah warung kopi dari sisi dekorasi dan fasilitasnya. Bayangkan dulu hanya mengandalkan Televisi dengan Kaset Video saja, sekarang sudah menggunakan fasilitas Wifi dan Siaran televisi-parabola.
@@ -29,9 +29,9 @@ Satu hal yang unik menurut saya, ketika usaha warung kopi yang baru di buka (usa
 
 Keunikan lainnya, disetiap warkop, diahiasi dengan wajah-wajah yang sama setiap harinya. Mereka adalah para pelanggan tetap yang sudah merasa nyaman dengan rasa kopi dan fasilitas yang ada.
 
-Hal ini dapat diilustrasikan melalui kebiasaan masyarakat setempat; ketika seseorang tidak dapat dihubungi melalui telepon seluler, ia sering kali dapat ditemui di warung kopi yang biasa dikunjunginya."
+Hal ini dapat diilustrasikan melalui kebiasaan masyarakat setempat; ketika seseorang tidak dapat dihubungi melalui telepon seluler, ia sering kali dapat ditemui di warung kopi yang biasa dikunjunginya.
 
-Warung Kopi seperti ruang ketiga saat ini. Sebab, hampir semua kemudahan didapatkan di Warkop. Mendapatkan cerita-cerita personal serta perkembangan informasi terbaru.
+Menurut saya, warung Kopi seperti ruang ketiga saat ini. Sebab, hampir semua kemudahan didapatkan di Warkop. Mendapatkan cerita-cerita personal serta perkembangan informasi terbaru.
 
 Selain itu, Kemudahan jaringan internet wifi yang tersedia di warkop, menjadikan tempat ini ruang kerja bagi yang ingin bekerja santai. Sehingga tidak heran jika warkop kini selalu ramai menjadi pilihan utama untuk produktif.
 
@@ -39,9 +39,9 @@ Bukan sekedar itu saja, kemudahan lainnya juga dimanfaatkan mereka yang ingin te
 
 ### Ruang Ketiga ala Ray Oldenburg
 
-Dari gambaran sebagai ruang ketiga, konsep itu sebenarnya bukan sekadar impresi personal saya. Sosiolog Ray Oldenburg dalam bukunya The Great Good Place (1989), sudah memperkenalkan istilah The Third Place—ruang ketiga di luar rumah (tempat pertama) dan tempat kerja (tempat kedua), tempat orang berkumpul secara sukarela, informal, dan lintas status sosial.
+Dari gambaran sebagai ruang ketiga, konsep itu sebenarnya bukan sekadar impresi personal saya. Berdasarkan literatur, sosiolog Ray Oldenburg dalam bukunya The Great Good Place (1989) sudah memperkenalkan istilah The Third Place, ruang ketiga di luar rumah (tempat pertama) dan tempat kerja (tempat kedua). Di ruang inilah orang-orang berkumpul secara sukarela, informal, dan lintas status sosial.
 
-Warkop di Sinabang, menurut pengamatan saya, menjadi salah satu contoh nyata dari konsep ini. Jika digambarkan, ia ibarat pusat informasi warga yang tumbuh organik, ruang diskusi tanpa sekat, dan laboratorium sosial tempat denyut nadi masyarakat setempat berdenyut bebas.
+Di warkop, kita bisa berkumpul secara sukarela, santai, dan lepas dari status sosial. 
 
 ### Kenapa Inklusivitas Ini Bisa Terjadi?
 
@@ -57,14 +57,13 @@ Di tengah keragaman bahasa inilah, warkop menjadi kuali peleburan (melting pot) 
 
 ## Dari Kopi Saring, Kuliner rumahan hingga Mie Aceh
 
-Mayoritas warkop di sini menggunakan bubuk kopi lokal pilihan dan bubuk kopi Aceh yang diekstraksi memakai kantong kain panjang secara berulang-ulang.
+Mayoritas warkop di sini menggunakan bubuk kopi lokal pilihan yang diekstraksi memakai kantong kain panjang secara berulang-ulang.
 
-Hasilnya segelas kopi berkarakter pekat, bertubuh mantap (full body), tanpa endapan ampas, disajikan dalam gelas-gelas kaca yang jadi ciri khas visual warkop Aceh pada umumnya.
+Hasilnya adalah segelas kopi berkarakter pekat, full body, dan tanpa endapan ampas, disajikan dalam gelas kaca yang menjadi ciri khas visual warkop Aceh.
 
-Soal makanan, Mie Aceh di sini biasanya didominasi lobster atau kepiting dan cumi.
-Selain mie aceh, di etalase luar juga tersedia nasi goreng, nasi gurih (menu sarapan), gorengan 
+Soal makanan, menu Mie Aceh di sini biasanya didominasi pilihan seperti lobster, kepiting, atau cumi. Selain itu, di etalase luar juga tersedia nasi goreng, nasi gurih, gorengan, hingga martabak. 
+Sementara di bagian dalam, terdapat steling yang memajang beragam kuliner olahan rumahan.
 
-Di dalam juga terlihat steling yang berisi kuliner lainnya
 > **Baca Juga:** [Mengapa Pohon Pinggir Jalan Sama](https://teukuanca.com/posts/mengapa-pohon-pinggir-jalan-sama/)
 
 Dari sisi harga, kisarannya cukup ramah meski tetap fluktuatif tergantung musim tangkap:
