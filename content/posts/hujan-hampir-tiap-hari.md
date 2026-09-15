@@ -2,15 +2,15 @@
 title: 'Di Sinabang: Hujan Hampir Tiap Hari, Reda Sebentar Lalu Turun Lagi'
 date: 2026-09-15
 draft: false
-featured_image: "/images/nama-gambar.webp"
+featured_image: "/images/musim-hujan.webp"
 categories: ["Cerita Menarik"]
-description: "Deskripsi artikel"
-tags: ["tag1", "tag2"]
+description: "Hujan di Sinabang hampir setiap hari, dan Kebiasaan Warga Sinabang Saat Musim Hujan"
+tags: ["Musim Hujan Lagi", "Sinabang hujan"]
 ---
 
 Sudah hampir sepekan ini Sinabang hujan terus. Polanya bukan hujan deras tanpa henti seharian, tapi hampir setiap hari ada. 
 
-Reda satu dua jam, jalan mulai kering, lalu turun lagi. Kadang cuma gerimis, kadang disertai petir yang menggelegar di atas atap seng.
+Reda satu dua jam, jalan mulai kering, lalu turun lagi. Kadang cuma rintik, kadang disertai petir yang menggelegar di atas atap seng.
 
 Padahal di beberapa tulisan saya sebelumnya, saya masih menulis Sinabang dalam kondisi panas terik. 
 
@@ -71,3 +71,7 @@ Di rumah, kita pastikan selokan depan tidak tersumbat sampah, karena genangan ai
 Dan jangan lupa cabut stopkontak kalau petirnya sudah terlalu dekat, karena dikhawatirkan listrik padam sesaat kalau petir besar.
 
 Pada akhirnya, pulau ini memang mengajarkan satu hal. Kita bisa memprediksi kemarau sampai September di atas kertas, tapi yang menentukan tetap langit di atas Sinabang. Sepekan ini buktinya, hujan hampir tiap hari ada, walau sempat reda lalu turun lagi.
+
+**Referensi:**
+- [bmkg](https://www.bmkg.go.id/cuaca/maritim/peringatan-gelombang-tinggi)
+- [BMKG Ingatkan Potensi Hujan Lebat dan Angin Kencang di Aceh hingga 17 September](https://rri.co.id/banda-aceh/regional/2731551/bmkg-ingatkan-potensi-hujan-lebat-dan-angin-kencang-di-aceh-hingga-17-september)
