@@ -12,32 +12,34 @@ tags: ["Nilam Simeulue", "Nilam Aceh"]
 
 Ada satu musim dalam ingatan saya yang selalu terasa begitu wangi kalau diingat kembali. Sekitar era 90-an, tak lama sebelum Kabupaten Simeulue dimekarkan, hampir setiap perjalanan menuju kebun selalu disambut pemandangan yang sama: pohon nilam menghiasi lereng bukit, merambat sampai ke pagar-pagar pekarangan kebun warga.
 
-Termasuk Orang tua saya, paling gigih merawat tanaman ini yang setiap pekan rutin ke kebun. 
+Termasuk Orang tua kami, paling gigih merawat tanaman ini yang setiap pekan rutin ke kebun. 
 
-Bahkan masa itu ada rumah warga yang dijadikan tempat penyulingan sederhana, bukan pabrik, cuma dapur rumahan, tapi hasilnya cukup untuk dibawa berjualan sampai ke Aceh Barat. Orang tua saya juga pernah menjual satu jerigen berisi lima kilogram minyak nilam dari hasil penyulingan di tempat ini.
+Bahkan masa itu ada rumah warga yang dijadikan tempat penyulingan sederhana, bukan pabrik, cuma dapur rumahan, tapi hasilnya cukup untuk dibawa berjualan sampai ke Aceh Barat. Orang tua kami juga pernah menjual satu jerigen berisi lima kilogram minyak nilam dari hasil penyulingan di tempat ini.
 
-Bertahun-tahun kemudian rasa baru sadar, ternyata sungguh besarnya nilai yang terkandung dalam tanaman berdaun bulat telur bertepi bergerigi itu.
+Bertahun-tahun kemudian rasa baru sadar, ternyata sangat besar nilai yang terkandung dalam tanaman berdaun bulat telur bertepi bergerigi itu.
 
 Ia bukan sekadar tanaman kebun biasa, melainkan salah satu komoditas yang pernah jadi tulang punggung ekonomi rakyat Aceh, dengan jejak yang sampai sekarang masih terasa di industri parfum dunia. 
-
-Yang jadi pertanyaan sekarang: apakah tanaman yang dulu begitu semarak ini masih ada di kebun-kebun Simeulue?
 
 ## Tanaman Kecil dengan Aroma yang Sulit Dilupakan
 
 Nilam (Pogostemon cablin) adalah tanaman herbal tropis dari famili Lamiaceae, tumbuh subur di iklim lembap berhujan tinggi seperti Aceh, Sumatera Utara, dan Sulawesi.
 
-Batangnya berkayu, daunnya berbulu halus dengan aroma khas—perpaduan bumi, kehangatan, dan sedikit manis yang begitu kuat hingga satu helai saja sudah cukup mengharumkan ruangan.
+Batangnya berkayu, daunnya sedikit berbulu dan aroma khasnya begitu menyengat, satu helai saja sudah cukup mengharumkan ruangan.
 
-Tanaman ini bisa dipanen tiga sampai empat kali dalam setahun, menjadikannya salah satu tanaman perkebunan rakyat yang relatif produktif dibanding komoditas tahunan lainnya.
+Umumnya tanaman ini bisa dipanen tiga sampai empat kali dalam setahun, menjadikannya salah satu tanaman perkebunan rakyat yang relatif produktif dibanding komoditas tahunan lainnya.
 
 Indonesia sendiri jadi produsen minyak nilam terbesar di dunia. Berdasarkan pemberitaan yang saya telusuri, negara kita diperkirakan memasok hingga 90 persen kebutuhan patchouli oil global, dengan Aceh khususnya Simeulue, Aceh Barat, Aceh Jaya, dan Gayo Lues sebagai sentra utamanya sejak era 1990-an.
 
 ## Daun Nilam untuk Apa? Ini Kegunaan Nilam yang Jarang Diketahui
 
-Kebanyakan orang tahu nilam itu harum, tapi tidak semua paham seberapa jauh manfaatnya menyebar ke berbagai industri.
+Kebanyakan orang tau kalau nilam itu harum, tapi belum tentu semua paham seberapa jauh manfaatnya menyebar ke berbagai industri.
+
+berikut pada umumnya manfaat dari nilam yang diolah sebagai bahan baku di berbagai industri.
 
 ### Bahan baku minyak atsiri
-Fungsi paling mendasarnya adalah sebagai bahan baku minyak atsiri. Dari 300 kilogram daun nilam kering, bisa dihasilkan sekitar 10 kilogram minyak mentah, mengandung senyawa aktif patchouli alcohol (PA) yang menentukan aroma sekaligus kualitasnya.
+Fungsi paling mendasarnya adalah sebagai bahan baku minyak atsiri.
+
+Dari 300 kilogram daun nilam kering, bisa dihasilkan sekitar 10 kilogram minyak mentah, mengandung senyawa aktif patchouli alcohol (PA) yang menentukan aroma sekaligus kualitasnya.
 
 Semakin tinggi kadar PA, semakin mahal harganya, dengan standar ekspor umumnya mensyaratkan kadar minimal 30 persen untuk grade premium.
 
