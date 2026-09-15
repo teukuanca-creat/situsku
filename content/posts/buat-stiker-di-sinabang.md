@@ -24,7 +24,9 @@ Bayangkan, dahulu hanya ada satu tempat usaha stiker dan aksesori di Sinabang. S
 
 Di satu sisi, saya harus bersabar menunggu meskipun barang tersebut sebenarnya sangat mendesak. Di sisi lain, pemilik usahapun kewalahan untuk memastikan pesanan bisa tiba lebih cepat karena harus mengikuti antrean barang yang sudah terlanjur dikemas. Seperti itulah siklus kendala yang harus dihadapi saat itu.
 
-Situasi sulit tersebut pernah dirasakan oleh pemilik usaha stiker dan aksesori yang telah berdiri di Sinabang sejak awal tahun 2000-an. Usaha ini merupakan salah satu pelopor bisnis stiker kendaraan yang masih kokoh bertahan di Kabupaten Simeulue hingga saat ini.
+Situasi sulit tersebut pernah dirasakan oleh pemilik usaha stiker dan aksesori yang telah berdiri di Sinabang sejak awal tahun 2000-an. 
+
+Usaha ini merupakan salah satu pelopor pertama usaha stiker dan aksesoris kendaraan yang masih kokoh bertahan di Kabupaten Simeulue hingga saat ini.
 
 ## Awal Mula di Simpang Tiga Sinabang
 
