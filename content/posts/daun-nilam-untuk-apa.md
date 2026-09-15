@@ -10,12 +10,13 @@ tags: ["Nilam Simeulue", "Nilam Aceh"]
 
 ## Emas Hijau yang Pernah Menghiasi Setiap Sudut Kebun Simeulue
 
-Ada satu musim dalam hidup saya yang selalu terasa begitu wangi kalau diingat kembali. Sekitar era 90-an, tak lama sebelum Kabupaten Simeulue dimekarkan, hampir setiap perjalanan menuju kebun selalu disambut pemandangan yang sama: rimbunan pohon nilam menghiasi lereng bukit, merambat sampai ke pagar-pagar pekarangan kebun warga.
+Ada satu musim dalam ingatan saya yang selalu terasa begitu wangi kalau diingat kembali. Sekitar era 90-an, tak lama sebelum Kabupaten Simeulue dimekarkan, hampir setiap perjalanan menuju kebun selalu disambut pemandangan yang sama: pohon nilam menghiasi lereng bukit, merambat sampai ke pagar-pagar pekarangan kebun warga.
 
-Orang tua saya termasuk yang paling gigih merawatnya, rutin ke kebun hampir setiap hari. Saya masih ingat ada rumah warga yang dijadikan tempat penyulingan sederhana, bukan pabrik, cuma dapur rumahan, tapi hasilnya cukup untuk dibawa berjualan sampai ke Aceh Barat.
-Orang tua saya sendiri pernah membawa satu jerigen berisi lima kilogram minyak nilam untuk dijual di Aceh Barat.
+Termasuk Orang tua saya, paling gigih merawat tanaman ini yang setiap pekan rutin ke kebun. 
 
-Bertahun-tahun kemudian, saya baru sadar betapa besarnya nilai yang sebenarnya terkandung dalam tanaman berdaun bulat telur bertepi bergerigi itu.
+Bahkan masa itu ada rumah warga yang dijadikan tempat penyulingan sederhana, bukan pabrik, cuma dapur rumahan, tapi hasilnya cukup untuk dibawa berjualan sampai ke Aceh Barat. Orang tua saya juga pernah menjual satu jerigen berisi lima kilogram minyak nilam dari hasil penyulingan di tempat ini.
+
+Bertahun-tahun kemudian rasa baru sadar, ternyata sungguh besarnya nilai yang terkandung dalam tanaman berdaun bulat telur bertepi bergerigi itu.
 
 Ia bukan sekadar tanaman kebun biasa, melainkan salah satu komoditas yang pernah jadi tulang punggung ekonomi rakyat Aceh, dengan jejak yang sampai sekarang masih terasa di industri parfum dunia. 
 
