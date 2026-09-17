@@ -55,8 +55,7 @@ Di satu sisi, lirik radat tradisional memancarkan nuansa sakral dan mistis. Di s
 ## Dari Panggung Kampung ke Festival Antar-Provinsi
 Setelah "Radat Dabui" lahir, lagu itu jadi amunisi utama The[A]Team di berbagai panggung. Dari parade musik komunitas Akbar Studio, sampai event-event besar besutan daerah setempat, hampir tidak ada panggung lokal yang mereka lewatkan.
 
-![Festival Band, Simeulue](/images/festival.webp)
-*Foto: Festival Band di Simeulue*
+
 
 ![penyambutan Tamu](/images/theateam-parade.webp)
 *Foto: Penampilan dalam Penyambutan Tamu, Pelabuhan Cargo, Sinabang*
@@ -64,7 +63,7 @@ Setelah "Radat Dabui" lahir, lagu itu jadi amunisi utama The[A]Team di berbagai 
 Gaungnya bahkan terdengar sampai luar pulau. Salah satu festival lokal yang terbilang prestisius saat itu sampai kedatangan band undangan dari Kota Sibolga, Tapanuli Selatan, Sumatera Utara, sebuah rivalitas sehat yang justru makin mengukuhkan nama The[A]Team di kancah musik Simeulue.
 
 ![Festival Akbar Studio 1, Simeulue](/images/akbar-festival.webp)
-*Foto: Festival Akbar Studio 1, Simeulue*
+*Foto: Brosur Festival Akbar Studio 1, Simeulue*
 
 Puncaknya datang ketika mereka memberanikan diri menyeberang ke Banda Aceh. Pada 2010, mereka ambil bagian dalam Festival Budaya di Taman Budaya Banda Aceh, membuktikan di hadapan penikmat seni se-Aceh bahwa musik modern bisa berjalan beriringan tanpa menanggalkan identitas lokal. 
 
@@ -75,6 +74,9 @@ Setahun berikutnya, sekitar 2011, mereka kembali ke tempat yang sama, kali ini s
 Di hadapan band-band Aceh pecinta musik ekstrem, The[A]Team tetap tampil dengan cara distorsi mereka sendiri.
 
 Lalu pada 2012, mereka mencapai titik tertinggi perjalanan festival luar daerahnya: tampil di ajang bergengsi Soundversity Live On Stage XII, dalam rangkaian acara yang turut mendatangkan band rock legendaris tanah air, Pas Band.
+
+![Festival Band, Simeulue](/images/festival.webp)
+*Foto: Brosur Festival Soundrenaline-Pasa Band di Banda Aceh*
 
 (Dokumentasi video YouTube pada Festival Soundrenaline) 
 [![Tonton Video Ini](/images/thumbnail.jpg)](https://youtu.be/E8wXusUv8qw?si=QQy3Il9D73TSkvf9)
