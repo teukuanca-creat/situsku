@@ -8,7 +8,7 @@ description: "Perjalanan Musik Band Pengiring yang pernah Merajai Panggung Hajat
 tags: ["Musik Simeulue", "Band Era 80 hingga 90 an"]
 ---
 
-## Perjalanan Musik Band di Simeulue 
+## Nostalgia group Band di Simeulue era 80 hingga 90-an
 
 "Simeulue itu jauh", kalimat ini kerap terdengar ditelinga.
 
