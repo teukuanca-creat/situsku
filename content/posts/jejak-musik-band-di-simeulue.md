@@ -30,7 +30,7 @@ Saya pernah melihat dan ikut bermain band saat berkunjung ke Kawat, sebuah desa 
 
 Hal serupa juga saya temui di Desa Salur, Teupah Barat. Dua tempat ini jaraknya cukup jauh satu sama lain, tapi sama-sama punya alat band yang siap tampil. 
 
-Dilain itu, pernah  mendengar cerita-cerita teman ketika mereka bermain band di Kampung Air Simeulue Tengah, walaupun saya belum pernah melihat langsung, tapi saya percaya itu memang benar, sebab nama-nama personel band itu belakangan sering terdengar di warkop Sinabang.
+Dilain itu, pernah  mendengar cerita-cerita teman ketika mereka bermain band di Kampung Air Simeulue Tengah, walaupun belum pernah melihat langsung, tapi saya percaya itu memang benar, sebab nama-nama personel band itu belakangan sering terdengar di warkop Sinabang.
 
 Artinya, budaya band ini bukan cuma milik satu kampung saja, tapi menyebar merata ke berbagai penjuru pulau.
 
