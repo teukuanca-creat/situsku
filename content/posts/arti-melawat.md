@@ -62,13 +62,18 @@ Dulu, kabar "kami mau datang melawat" harus disampaikan lisan lewat utusan yang 
 Tapi yang paling membanggakan, modernisasi ini tidak mengikis ruh tradisinya. Yang berubah hanya aspek teknis cara mengabarkan, cara datang. Solidaritas dan niat tulus menyambung silaturahmi tetap sama seperti dulu.
 
 ## Kalau Desa Ingin Menggelar atau Menerima Melawat
-Bagian ini sering luput dibahas, padahal justru paling praktis: apa saja yang sebenarnya perlu disiapkan.
+Gambaran ini sering luput menurut saya, padahal justru paling praktis: apa saja yang sebenarnya perlu disiapkan.
 
-Dari sisi desa yang akan melawat (tamu), biasanya perlu dipikirkan lebih dulu: kapan waktu yang tidak berbenturan dengan musim tanam atau melaut, siapa yang akan jadi juru bicara untuk menyampaikan maksud kunjungan ke tuan rumah, serta tim olahraga atau kesenian yang akan dibawa.
+Dari sisi desa yang akan melawat (tamu), biasanya perlu dipikirkan lebih dulu: 
+- Kapan waktu yang tidak berbenturan dengan musim tanam atau melaut,
+- Siapa yang akan jadi juru bicara untuk menyampaikan maksud kunjungan ke tuan rumah, serta tim olahraga atau kesenian yang akan dibawa.
 
-Dari sisi desa tuan rumah, biasanya yang perlu disiapkan adalah koordinasi konsumsi lewat gotong royong ibu-ibu dan pemuda, kesiapan lapangan atau tempat pertandingan, panggung sederhana untuk hiburan malam, serta pembagian peran, siapa yang mengurus acara keagamaan, siapa yang mengatur jadwal pertandingan, dan siapa yang menjaga alur acara secara keseluruhan.
+Dari sisi desa tuan rumah, biasanya yang perlu disiapkan adalah 
+- Koordinasi konsumsi lewat gotong royong ibu-ibu dan pemuda,
+- Kesiapan lapangan atau tempat pertandingan, panggung sederhana untuk hiburan malam,
+- Serta pembagian peran, siapa yang mengurus acara keagamaan, siapa yang mengatur jadwal pertandingan, dan siapa yang menjaga alur acara secara keseluruhan.
 
-Pembagian peran ini biasanya juga mengikuti kelompok usia: anak-anak ikut lomba keagamaan dan panggung gembira, generasi muda tampil di pertandingan olahraga, orang tua dan ibu-ibu gotong royong menyiapkan konsumsi dan logistik, sementara tokoh masyarakat mengatur alur acara dan menjaga diplomasi antargampong. 
+Pembagian peran ini biasanya juga mengikuti kelompok usia: Anak-anak ikut lomba keagamaan dan panggung gembira, generasi muda tampil di pertandingan olahraga, orang tua dan ibu-ibu gotong royong menyiapkan konsumsi dan logistik, sementara tokoh masyarakat mengatur alur acara dan menjaga diplomasi antargampong. 
 
 Karena pembagian ini merata, hampir tidak ada kelompok usia yang merasa ditinggalkan, semua merasa punya bagian dalam acara ini.
 
@@ -88,7 +93,7 @@ Menurut cerita yang diwariskan turun-temurun, tradisi ini berakar dari cara dakw
 **Apakah tradisi melawat masih dijalankan sampai sekarang?**
 Masih. Bentuknya menyesuaikan zaman, misalnya koordinasi lewat WhatsApp, tapi inti acaranya (pertandingan, silaturahmi, hiburan bersama) tetap dipertahankan.
 
-## Penutup
+## Ikhtisar 
 Melawat adalah bukti bahwa acara bermakna tidak selalu butuh konsep mahal. Cukup lapangan terbuka, kekompakan warga, dan niat tulus menjaga silaturahmi, sebuah momen bisa tercipta dan dikenang puluhan tahun kemudian. Ia bukan cerita lama yang berdebu, melainkan warisan sosial yang terbukti fleksibel dan kemungkinan besar akan terus hidup di Simeulue, dulu, sekarang, hingga generasi mendatang.
 
 > **Baca Juga:** [Manfaat Cengkeh](https://teukuanca.com/posts/minyak-cengkeh-untuk-apa/)
