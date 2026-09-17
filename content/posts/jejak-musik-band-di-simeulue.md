@@ -38,7 +38,7 @@ Kalau dipikir-pikir, ini menunjukkan sesuatu yang cukup luar biasa untuk ukuran 
 
 Namun penampilan band tetap menghiasi acara-acara di era 80 hingga 90-an, seakan seni musik sudah menjadi bagian yang tidak bisa dipisahkan dari kehidupan sosial masyarakat Simeulue, khususnya dalam momen-momen sakral seperti pernikahan.
 
-![Band Era 80-an di Simeulue](/images/band-simeulue2.webp.webp)
+![Band Era 80an di Simeulue](/images/band-simeulue2.webp)
 *Foto: Kejora Band Kp.Air Simeulue Tengah. Dok.Facebook-Rahmad Irwandi (alm)*
 
 ## Dua Nama dari Kacamata Pribadi 
