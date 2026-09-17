@@ -16,7 +16,7 @@ Namanya The[A]Team. Genre yang mereka usung disebut NuMetal Etnik, distorsi gita
 
 Karya paling ikoniknya, "Radat Dabui", sampai hari ini masih dapat di dengar karya mereka itu di video YouTube pada tengah artikel ini.
 
-![Band Simeulue](/images/theateam.jpg)
+![The [A]Team Band Simeulue](/images/theateam.jpg)
 *Foto: The [A]Team Band Simeulue*
 
 ## Berawal dari Tongkrongan, Berakhir Jadi Nama Band Ikonik
@@ -55,8 +55,6 @@ Di satu sisi, lirik radat tradisional memancarkan nuansa sakral dan mistis. Di s
 ## Dari Panggung Kampung ke Festival Antar-Provinsi
 Setelah "Radat Dabui" lahir, lagu itu jadi amunisi utama The[A]Team di berbagai panggung. Dari parade musik komunitas Akbar Studio, sampai event-event besar besutan daerah setempat, hampir tidak ada panggung lokal yang mereka lewatkan.
 
-
-
 ![penyambutan Tamu](/images/theateam-parade.webp)
 *Foto: Penampilan dalam Penyambutan Tamu, Pelabuhan Cargo, Sinabang*
 
@@ -75,13 +73,14 @@ Di hadapan band-band Aceh pecinta musik ekstrem, The[A]Team tetap tampil dengan 
 
 Lalu pada 2012, mereka mencapai titik tertinggi perjalanan festival luar daerahnya: tampil di ajang bergengsi Soundversity Live On Stage XII, dalam rangkaian acara yang turut mendatangkan band rock legendaris tanah air, Pas Band.
 
-![Festival Band, Simeulue](/images/festival.webp)
+![Brosur Festival Soundrenaline-Pasa Band di Banda Aceh](/images/festival.webp)
 *Foto: Brosur Festival Soundrenaline-Pasa Band di Banda Aceh*
 
 (Dokumentasi video YouTube pada Festival Soundrenaline) 
 [![Tonton Video Ini](/images/thumbnail.jpg)](https://youtu.be/E8wXusUv8qw?si=QQy3Il9D73TSkvf9)
 
 > **Baca Juga:** [Eksistensi Warung Kopi di Simeulue](https://teukuanca.com/posts/budaya-warung-kopi/)
+
 Berbagi panggung dalam rangkaian event nasional seperti itu jelas jadi catatan emas tersendiri bagi sejarah musik Pulau Simeulue. 
 
 Momentum ini juga yang akhirnya mendorong mereka masuk ke tahap rekaman profesional (tracking studio), dibantu seorang musisi senior asal Simeulue yang berdomisili di Banda Aceh, sebuah usaha untuk mengabadikan karya mereka lebih dari sekadar kenangan panggung.
