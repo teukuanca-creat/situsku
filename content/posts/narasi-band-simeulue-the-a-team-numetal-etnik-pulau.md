@@ -31,7 +31,7 @@ Nama "The[A]Team" sendiri lahir dari kebetulan yang cukup unik: seluruh personel
 Belakangan, setelah jumlah personel bertambah jadi enam orang, nama itu disempurnakan menjadi The[A]Team, sekaligus menyesuaikan dengan nama sang vokalis, biar terasa lebih solid.
 
 ![Foto Pamplet The A Team Band Simeulue](/images/band-konten.webp)
-*Foto Studio The A Team Band Simeulue. Foto: Dokumentasi Pribadi*
+*Foto: Studio The A Team Band Simeulue*
 
 ## Kenapa Musik Mereka Terasa Beda: Mengenal NuMetal Etnik
 Yang membuat The[A]Team menonjol bukan cuma soal "band metal di pulau kecil", tapi cara mereka meracik tiga elemen sekaligus jadi satu warna suara yang belum pernah ada di Simeulue sebelumnya.
@@ -47,7 +47,7 @@ Ketiganya melebur jadi sajian musik yang berat secara teknik, tapi tetap berpija
 ## "Radat Dabui": Ketika Debus dan Distorsi Metal Berjumpa
 Karya perdana mereka, "Radat Dabui", jadi bukti paling nyata dari eksperimen itu. Liriknya ditulis dalam bahasa lokal Simeulue, dinyanyikan dengan cengkok yang meniru bait-bait Radat Debus tradisional. Begitu musik masuk, aransemen cadas berbalut NuMetal langsung menyapa telinga pendengarnya.
 
-(Video dokumentasi lagu "Radat Dabui")
+(Video dokumentasi YouTube "Radat Dabui")
 [![Tonton Video Ini](/images/thumbnail-video.jpg)](https://www.youtube.com/watch?v=E8wXusUv8qw)
 
 Di satu sisi, lirik radat tradisional memancarkan nuansa sakral dan mistis. Di sisi lain, distorsi NuMetal meledakkan energi yang jauh lebih modern. Perpaduan yang kontras ini menjadi bukti bahwa musik modern tidak harus melunturkan tradisi, justru itulah cara paling efektif agar warisan budaya tetap terasa relevan di telinga generasi muda.
@@ -56,31 +56,36 @@ Di satu sisi, lirik radat tradisional memancarkan nuansa sakral dan mistis. Di s
 Setelah "Radat Dabui" lahir, lagu itu jadi amunisi utama The[A]Team di berbagai panggung. Dari parade musik komunitas Akbar Studio, sampai event-event besar besutan daerah setempat, hampir tidak ada panggung lokal yang mereka lewatkan.
 
 ![Festival Band, Simeulue](/images/festival.webp)
-*Festival Band di Simeulue. Foto: Dokumentasi Pribadi*
+*Foto: Festival Band di Simeulue*
 
 ![penyambutan Tamu](/images/theateam-parade.webp)
-*Penampilan salam Penyambutan Tamu, Pelabuhan Cargo, Simeuelue. Foto: Dokumentasi Pribadi*
+*Foto: Penampilan dalam Penyambutan Tamu, Pelabuhan Cargo, Sinabang*
 
 Gaungnya bahkan terdengar sampai luar pulau. Salah satu festival lokal yang terbilang prestisius saat itu sampai kedatangan band undangan dari Kota Sibolga, Tapanuli Selatan, Sumatera Utara, sebuah rivalitas sehat yang justru makin mengukuhkan nama The[A]Team di kancah musik Simeulue.
 
 ![Festival Akbar Studio 1, Simeulue](/images/akbar-festival.webp)
-*Festival Akbar Studio 1, Simeulue. Foto: Dokumentasi Pribadi*
+*Foto: Brosur Festival Akbar Studio 1*
+
+![Festival Akbar Studio 1, Simeulue](/images/akbar-festival.webp)
+*Foto: Festival Akbar Studio 1, Simeulue*
 
 Puncaknya datang ketika mereka memberanikan diri menyeberang ke Banda Aceh. Pada 2010, mereka ambil bagian dalam Festival Budaya di Taman Budaya Banda Aceh, membuktikan di hadapan penikmat seni se-Aceh bahwa musik modern bisa berjalan beriringan tanpa menanggalkan identitas lokal. 
 
 ![Menuju Festival,Banda Aceh](/images/menuju-festival.webp)
-*Menuju Festival di Banda Aceh. Foto: Dokumentasi Pribadi*
+*Foto: Menuju Festival Budaya di Banda Aceh*
 
 Setahun berikutnya, sekitar 2011, mereka kembali ke tempat yang sama, kali ini suasananya jauh lebih cadas, karena mereka tampil dalam festival komunitas underground lokal yang digelar untuk menyambut kedatangan raksasa metal nasional asal Bandung, Burgerkill.
-
 Di hadapan band-band Aceh pecinta musik ekstrem, The[A]Team tetap tampil dengan cara distorsi mereka sendiri.
 
 Lalu pada 2012, mereka mencapai titik tertinggi perjalanan festival luar daerahnya: tampil di ajang bergengsi Soundversity Live On Stage XII, dalam rangkaian acara yang turut mendatangkan band rock legendaris tanah air, Pas Band.
 
+![Menuju Festival,Banda Aceh](/images/festival.webp)
+*Foto: Brosur Festival di Banda Aceh*
+
+(Dokumentasi video YouTube pada Festival Soundrenaline) 
 [![Tonton Video Ini](/images/thumbnail.jpg)](https://youtu.be/E8wXusUv8qw?si=QQy3Il9D73TSkvf9)
 
-> **Baca Juga:** [Peluang dan Memahami Media Sosial](https://teukuanca.com/posts/memahami-media-sosial/)
-
+> **Baca Juga:** [Eksistensi Warung Kopi di Simeulue](https://teukuanca.com/posts/budaya-warung-kopi/)
 Berbagi panggung dalam rangkaian event nasional seperti itu jelas jadi catatan emas tersendiri bagi sejarah musik Pulau Simeulue. 
 
 Momentum ini juga yang akhirnya mendorong mereka masuk ke tahap rekaman profesional (tracking studio), dibantu seorang musisi senior asal Simeulue yang berdomisili di Banda Aceh, sebuah usaha untuk mengabadikan karya mereka lebih dari sekadar kenangan panggung.
