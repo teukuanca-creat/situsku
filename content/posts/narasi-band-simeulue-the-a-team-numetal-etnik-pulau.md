@@ -74,9 +74,9 @@ Di hadapan band-band Aceh pecinta musik ekstrem, The[A]Team tetap tampil dengan 
 Lalu pada 2012, mereka mencapai titik tertinggi perjalanan festival luar daerahnya: tampil di ajang bergengsi Soundversity Live On Stage XII, dalam rangkaian acara yang turut mendatangkan band rock legendaris tanah air, Pas Band.
 
 ![Brosur Festival Soundrenaline-Pasa Band di Banda Aceh](/images/festival.webp)
-*Foto: Brosur Festival Soundrenaline-Pasa Band di Banda Aceh*
+*Foto: Brosur Festival Soundfersiti-Pasa Band di Banda Aceh*
 
-(Dokumentasi video YouTube pada Festival Soundrenaline) 
+(Dokumentasi video YouTube pada Festival Soundfersiti) 
 [![Tonton Video Ini](/images/thumbnail.jpg)](https://youtu.be/E8wXusUv8qw?si=QQy3Il9D73TSkvf9)
 
 > **Baca Juga:** [Eksistensi Warung Kopi di Simeulue](https://teukuanca.com/posts/budaya-warung-kopi/)
