@@ -121,6 +121,5 @@ Jauh sebelum The[A]Team terbentuk, musisi-musisi senior Simeulue sebenarnya suda
 
 Pertanyaannya sekarang, akankah nama harum musik Simeulue di masa lalu bisa kembali bersemi mewarnai masa kini? Tantangannya jelas makin berat, gawai perlahan menggeser minat anak muda untuk memegang instrumen fisik. Tapi selama masih ada yang mau bercerita, mendokumentasikan, dan mendukung geliat komunitas seni lokal, harapan itu masih terbuka.
 
-Jika kamu punya foto, video, atau cerita tambahan tentang The[A]Team atau band-band Simeulue era 2000-an lainnya, jangan ragu bagikan di kolom komentar bantu lengkapi arsip musik lokal ini.
 
 {{< affiliate src="/images/keyboard.webp" link="https://s.shopee.co.id/3g3R5yDQAx" title="Menuju Keyboard Profesional (Harga Terjangkau)" >}}
