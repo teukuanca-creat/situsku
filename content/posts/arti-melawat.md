@@ -8,18 +8,18 @@ description: "Mengulas arti melawat, tradisi kunjungan antardesa di Simeulue yan
 tags: ["Melawat", "Tradisi Melawat di Simeulue", "Kunjungan dan Kebersamaan di Simeulue"]
 ---
 
-Ada satu malam yang selalu saya ingat: lapangan gampong penuh sesak, lampu sorot seadanya menyala di atas panggung kayu, dan tawa warga dari dua desa berbaur jadi satu suara.
+Ada satu malam yang selalu saya ingat: lapangan riuh dan sesak, lampu sorot seadanya menyala di lapangan atau diatas panggung kayu sederhana dan tawa warga dari dua desa berbaur jadi satu suara.
 
 Itu bukan acara ulang tahun kampung, bukan pula pesta pernikahan. Itu melawat, dan bagi masyarakat Simeulue, kata ini menyimpan makna yang jauh lebih dalam daripada sekadar "berkunjung".
 
-Melawat bukan sekadar datang bertamu lalu pulang. Ia adalah momen ketika satu gampong sengaja mendatangi gampong lain, membawa rombongan, lalu bersama-sama menggelar rangkaian acara:
+Melawat bukan sekadar datang bertamu lalu pulang. Ia adalah momen ketika satu desa sengaja mendatangi desa lain, membawa rombongan, lalu bersama-sama menggelar rangkaian acara:
 
 - Pertandingan olahraga,
-- Dzikir bersama,
+- Acara Keagamaan,
 - Panggung hiburan rakyat,
 - Sampai obrolan hangat yang mempererat hubungan antarwarga.
 
-Begitu satu desa mengumumkan akan melawat, keriuhannya sudah terasa berhari-hari sebelumnya.
+Biasanya, begitu satu desa mengumumkan akan melawat, keriuhannya sudah terasa berhari-hari sebelumnya.
 
 ## Dari Mana Tradisi Ini Berasal?
 Kalau ditelusuri, cerita yang diwariskan turun-temurun oleh warga Simeulue mengaitkan asal-usul melawat dengan jejak dakwah Teungku Diujung (Teungku Khalilullah) saat menyebarkan Islam di pulau ini sekitar abad ke-17. 
@@ -28,16 +28,16 @@ Konon, beliau berdakwah bukan dengan cara yang kaku, melainkan mengajak warga an
 
 Dari kebiasaan saling mengunjungi itulah, menurut cerita yang beredar di masyarakat cikal bakal melawat lahir dan terus dijaga sampai sekarang.
 
-Perlu digarisbawahi, ini adalah tradisi lisan yang diwariskan dari generasi ke generasi, bukan catatan sejarah yang terdokumentasi secara tertulis. Namun di situlah kekuatannya: sebuah nilai yang tetap hidup bukan karena dipaksakan lewat aturan, tapi karena terus-menerus dipraktikkan oleh warga sendiri.
+Perlu digarisbawahi, ini adalah tradisi lisan yang diwariskan dari generasi ke generasi, bukan catatan sejarah yang terdokumentasi secara tertulis.
 
-Secara sederhana, melawat adalah kunjungan rombongan warga dari satu desa ke desa lain. Tapi di baliknya ada persiapan yang tidak main-main, kedua belah pihak, desa tamu maupun tuan rumah, sama-sama bergotong royong menyiapkan rangkaian acara yang akan digelar bersama.
+Namun di situlah kekuatannya: sebuah nilai yang tetap hidup bukan karena dipaksakan lewat aturan, tapi karena terus-menerus dipraktikkan oleh warga sendiri.
 
 ## Panggung Utama: Pertandingan yang Tak Pernah Berujung Dendam
-Kalau ditanya bagian melawat yang paling dinanti, jawabannya hampir selalu sama: pertandingan olahraga, biasanya sepak bola atau voli.
+Kalau ditanya bagian melawat yang paling sering dijumpai, jawabannya pertandingan olahraga, biasanya sepak bola atau voli, sebab ini yang sering saya dengar dan jumpai. Walaupun melawat ini juga pernah dipraktekkan pada luas selain dari olahraga.
 
-Beberapa tahun lalu, saya pernah menyaksikan pertandingan voli dalam sebuah acara kunjungan melawat. Selain itu, beberapa teman saya juga sempat beberapa kali bertanding ke kecamatan lain untuk agenda serupa. Meski tidak semua kegiatannya saya hadiri, tradisi kunjungan ini sudah sangat akrab di telinga saya
+Beberapa tahun lalu, saya pernah menjumpai acara melawat di ulul falu desa labuhan bakti Teupah Selatan, pertandingan voli dalam sebuah acara kunjungan melawat. Selain itu, beberapa teman saya juga sempat beberapa kali ikut bertanding ke kecamatan lain untuk agenda serupa. Meski tidak semua kegiatannya saya hadiri, tradisi kunjungan ini sudah sangat akrab ditelinga.
 
-Yang membuat pertandingan ini berbeda dari kompetisi olahraga pada umumnya adalah suasananya. Warga berbondong-bondong memenuhi pinggir lapangan, pemain tampil dengan semangat sportif, penonton riuh memberi dukungan, tapi begitu peluit panjang dibunyikan, semua kembali tertawa bersama. Tidak ada dendam, tidak ada adu mulut. 
+Yang membuat pertandingan ini berbeda dari kompetisi olahraga pada umumnya adalah suasananya. Warga terlihat ramai memenuhi pinggir lapangan, pemain tampil dengan semangat sportif, penonton riuh memberi dukungan, tapi begitu peluit panjang dibunyikan, semua kembali tertawa bersama. Tidak ada dendam, tidak ada adu mulut. 
 
 Lapangan di sini bukan arena mencari musuh, melainkan alasan terbaik untuk berkumpul dan berkenalan.
 
