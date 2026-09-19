@@ -37,6 +37,8 @@ Khusus di Simeulue, keberadaan lembaga ini juga diatur lewat Peraturan Bupati Si
 
 (Catatan: Sebagian sumber menyebutkan adanya peraturan turunan lain yang secara spesifik mengatur mekanisme kerja dan kode etik Panglima Lot Lhok di Simeulue. Namun, karena nomor dan tahunnya belum dapat saya verifikasi secara pasti, bagian tersebut sengaja tidak saya cantumkan di sini demi menjaga akurasi informasi bagi pembaca).
 
+> **Baca Juga:** [Peran Keujruen Blang dalam Pertanian di Simeulue](https://teukuanca.com/posts/peran-keujruen-blang-dalam-pertanian-di-simeulue/)
+
 ## Struktur dan Cara Kerjanya
 Struktur kelembagaan Panglima Laot bersifat berjenjang: ada Panglima Laot Kabupaten yang mengoordinasikan wilayah hukum adat laut secara keseluruhan, dan Panglima Laot Lhok di tingkat kecamatan atau kawasan pesisir tertentu, biasanya berkedudukan di pangkalan pendaratan ikan tempat aktivitas nelayan berlangsung sehari-hari.
 
