@@ -8,18 +8,18 @@ description: "Minyak Cengkeh Untuk Apa: Perjalanan Masa Jaya Cengkeh di Simeulue
 tags: ["Minyak Cengkeh", "Cengkeh Simeulue"]
 ---
 
-## Latar Belakang 
-Dahulu, setiap kali panen raya tiba, pelataran dan sudut-sudut desa di Simeulue selalu dipenuhi hamparan tikar penjemuran cengkeh.
-Riuh warga lalu-lalang membolak-balik jemuran menjadi bagian dari keseharian yang hangat, lengkap dengan aroma khas yang sulit dilupakan.
+## Memori Masa Silam 
+Dahulu, jika saat panen tiba, pelataran dan sudut-sudut kampung berjejer hamparan tikar-tikar yang berjemur cengkeh.
 
-Mungkin banyak dari kita yang belum mengetahui cerita kejayaan cengkeh di masa lalu, terutama generasi yang tumbuh di era 2000-an. Padahal, jejak komoditas unggulan di Simeulue ini sudah ada jauh sebelum era 90-an. 
+Riuh warga lalu-lalang membolak-balik jemuran menjadi bagian dari keseharian yang hangat. Apalagi saat hujan turun, kami berlarian menuju tikar penjemuran, ada yang ditutup saja ada juga yang diangkat ke rumah.
 
-Merujuk berbagai sumber informasi, sejak masa kolonial Belanda, pulau ini telah tersohor dengan perdagangan kopranya, yang kemudian disusul oleh melejitnya komoditas cengkih hingga menjadi sektor unggulan kualitas ekspor.
+Kalau sekarang memang masih terlihat penjemuran walaupun tidak se-riuh dulu menurut saya.
 
-Seperti banyak komoditas primadona lainnya, kejayaan itu tidak abadi. Pertanyaan yang sering muncul sekarang justru soal manfaatnya. Selain kegunaan yang kita ketahui pada umumnya sebagai bahan baku rokok, ternyata ada minyak berkhasiat yang dihasilkan dari tanaman ini.
-Jadi, minyak cengkih ini sebenarnya untuk apa?
+Jika merujuk berbagai sumber informasi, memang sejak masa kolonial Belanda, pulau ini sudah tersohor dengan perdagangan kopranya, yang kemudian disusul oleh melejitnya komoditas cengkih hingga menjadi sektor unggulan kualitas ekspor.
 
-Sebelum mengulas manfaat minyak tersebut, ada baiknya kita bernostalgia sejenak dengan sejarah dan sepak terjang cengkeh di Aceh, khususnya di Simeulue pada masa kejayaannya. Berikut ulasan singkatnya.
+Pertanyaan yang sering muncul sekarang justeru soal manfaatnya. Selain untuk rokok, ternyata ada minyak berkhasiat yang dihasilkan dari cengkeh ini.
+
+Sebelum mengulas manfaat minyak tersebut, ada baiknya kita bernostalgia sejenak dengan sejarah dan sepak terjang cengkeh di Aceh, khususnya di Simeulue.
 
 ## Ketika Cengkeh Setara dengan Emas
 Untuk memahami betapa berharganya cengkeh dulu, kita perlu menengok sebuah fakta luar biasa dari pertengahan era Orde Baru.
