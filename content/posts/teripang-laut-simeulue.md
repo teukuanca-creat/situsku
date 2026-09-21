@@ -43,7 +43,7 @@ Kolong atau Teripang bukanlah jenis ikan ataupun jenis kerang. Tapi dia sejenis 
 
 Walaupun dia terbilang mahal, tetapi tidak semua jenisnya bisa dimakan. Kemudian ada yang bernilai tinggi dan ada juga yang tidak laku di pasaran.
 
-Biasanya, jenis yang paling banyak di cari orang adalah Teripang pasir, Teripang koro juga Teripang hitam.
+Biasanya, jenis yang paling banyak di cari warga yaitu Teripang pasir, Teripang koro juga Teripang hitam.
 
 Ketiganya punya harga yang berbeda-beda, tergantung ukuran dan kualitas pengeringan.
 
@@ -56,7 +56,7 @@ Yang jelas itu adalah Kolong (Teripang).
 
 Daerah Babang Teluk Sinabang juga banyak terlihat, apalagi sebelah lautan yang menghadap ke Sumatera.
 
-Jika merujuk ke berbagai informasi, ada beberapa jenis dan bentuk kolong (teripang) yang dikenal secara umum, baik di simeulue maupun daerah lain, berikut kita uraikan apa saja jenis dan bentuknya.
+Jika merujuk ke berbagai informasi, ada beberapa jenis dan bentuk kolong (teripang) yang dikenal secara umum, baik di simeulue maupun daerah lain, berikut jenis dan bentuknya.
 
 ### 1. Teripang Pasir
 
