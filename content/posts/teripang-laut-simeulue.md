@@ -9,7 +9,7 @@ tags: ["Teripang", "Hasil Laut", "Simeulue", "Tangkahan", "Ekonomi Pesisir"]
 ---
 
 ## Tempat Penampungan yang Melegenda 
-Di era 90-an, dalam penglihatan saya **tangkahan** sudah berdiri di seputar teluk Sinabang, persisnya pinggiran pelabuhan lama simpang lima Sinabang, Pakan Baru Desa Suka Maju hingga Potongan Desa Suka Damai.
+Di era 90-an, dalam penglihatan saya **tangkahan** sudah berdiri di seputar teluk Sinabang, persisnya pinggiran pelabuhan lama simpang lima Sinabang, kemudian di Pakan Baru Desa Suka Maju dan juga di Potongan Desa Suka Damai.
 
 Tangkahan itu sebutan lokal untuk tempat jual beli hasil laut. Berbentuk rumah, dengan tiang bangunan tertancap ke laut dan umumnya berada dipinggir laut.
 
@@ -18,25 +18,24 @@ Kamu mungkin terfikir semacam tempat budidaya ikan atau hasil laut, kan?
 Ini berbeda, justru tempat budidaya itu disebut **"keramba"**.
 Boleh dikatakan sama-sama berada diatas laut tetapi beda fungsi.
 
-Setiap hari,bunyi es batang yang dipukul atau di banting-banting ke lantai, seperti alarm aktivitas jual beli di mulai.
+Dahulu, setiap hari bunyi es batang yang dipukul atau di banting-banting ke lantai, seperti alarm aktivitas jual beli di mulai.
 
 Salah satu hasil laut yang sering saya lihat saat itu **kolong**. ini sebutan dari **Teripang**.
-Aktivitas penjemuran dan pengelolaannya pun sering saya saksikan dimasa kanak-kanak.
+Aktivitas penjemuran dan pengelolaannya juga sering saya saksikan dimasa kanak-kanak.
 
-Bahkan, di dalam tangkahan juga ada tempat merebus Teripang, berupa drum yang sudah diolah sedemikian rupa dengan pemanggang besi di bawahnya.
+Bahkan, didalam tangkahan juga ada tempat merebus Teripang, berupa drum yang sudah diolah sedemikian rupa dengan pemanggang besi dibawahnya.
 
 Biasanya sebelum dijemur, teripang harus direbus dulu. 
+
 Saat dijemur, pernah saya perhatikan Teripang itu seperti di berikan garam, kemudian belahan perutnya di ganjal dengan kayu seukuran korek api supaya bagian dalam dapat tersinar matahari.
 
 Waktu itu, belum tau manfaat Kolong (teripang) ini, apalagi masalah harganya. yang saya ingat, dia diletakkan dalam baskom dengan isian air dan mengeluarkan cairan putih. Ketika direbus, aroma laut bercampur asin menguar kemana-mana.
 
 Setelah sekian lama menyadari, ternyata kolong (Teripang ) salah satu hasil laut yang bernilai tinggi.
 
-Berikut kita uraikan apa saja yang menjadi Teripang ini bernilai.
-
 ## Apa Itu Teripang Laut?
 
-Kita mungkin sudah tau bahwa Kolong atau Teripang adalah hewan laut dari kelas **Holothuroidea**. Bentuknya seperti mentimun, kalau bahasa Inggrisnya **sea cucumber**.
+Kolong atau Teripang adalah hewan laut dari kelas **Holothuroidea**. Bentuknya seperti mentimun, kalau bahasa Inggrisnya **sea cucumber**.
 
 Dia hidup di dasar laut, kadang diperairan dangkal kadang juga perairan dalam. Makanannya sisa-sisa organik dan plankton.
 
@@ -52,10 +51,10 @@ Ketiganya punya harga yang berbeda-beda, tergantung ukuran dan kualitas pengerin
 
 Jika sedang rekreasi ke laut, sesekali coba perhatikan di pinggir batu, banyak teripang dengan bentuk berbeda, ada seperti mentimun, ada yang berduri, biasanya mereka mengeluarkan cairan putih di belakangnya.
 
-Saya sering melihat di daerah Lataling Teupah Selatan. Terlepas dari apakah itu jenis yang bisa dimakan atupun dijual sih!
+Saya sering melihatnya di daerah Lataling Teupah Selatan. Terlepas dari apakah itu jenis yang bisa dimakan atupun dijual sih!
 Yang jelas itu adalah Kolong (Teripang).
 
-Daerah Babang juga banyak terlihat kok, apalagi sebelah lautan yang menghadap ke Sumatera.
+Daerah Babang Teluk Sinabang juga banyak terlihat, apalagi sebelah lautan yang menghadap ke Sumatera.
 
 Jika merujuk ke berbagai informasi, ada beberapa jenis dan bentuk kolong (teripang) yang dikenal secara umum, baik di simeulue maupun daerah lain, berikut kita uraikan apa saja jenis dan bentuknya.
 
