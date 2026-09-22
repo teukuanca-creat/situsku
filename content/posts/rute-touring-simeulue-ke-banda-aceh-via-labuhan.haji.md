@@ -1,22 +1,28 @@
 ---
-title: 'Rute Touring Simeulue ke Banda Aceh via Labuhan Haji'
+title: 'Perjalanan Darat Simeulue-Banda Aceh Bersepeda Motor'
 date: 2026-08-17
 draft: false
 featured_image: "/images/touring.webp"
 categories: ["Travelling"]
 description: "Menjelajah perjalanan dengan sepeda motor melintasi pesisir barat Aceh sejauh 388 km, dari Labuhan Haji hingga Banda Aceh."
 tags: ["Travelling", "Simeulue Banda Aceh", "Touring Motor", "Aceh", "Geurutee"]
----
+--- 
 
-## A. Pendahuluan
+Jika dibayangkan perjalanan darat rute Labuahan Haji-Banda Aceh menggunakan sepeda motor, pasti di pikiran kita muncul seribu kekhawatiran. Apalagi itu dengan jarak tempuh sekitar 388 kilometer menggunakan sepeda motor.
 
-Menempuh perjalanan darat sejauh 388 kilometer dengan sepeda motor jelas bukan opsi untuk semua orang. Mayoritas orang tentu lebih memilih duduk manis di mobil travel atau naik pesawat agar bisa tidur sepanjang jalan.
+Saya juga begitu sebelumnya. Tetapi, saat saya mencobanya ternyata ada kesan dan kenikmatan tersendiri.
 
-Namun bagi yang menyukai kebebasan di atas roda dua, rute lintas barat Aceh adalah salah satu jalur touring terbaik.
+Menurut saya, keleluasaan saat melintasi jalanan dengan kendali sendiri itulah  kenikmatnya. Saya bisa berhenti kapanpun untuk beristirahat sambil ngopi, berhenti untuk menikmati view rute pantai barat Aceh, serta dapat menentukan sendiri ritme sepanjang perjalanan.
 
-Rute ini menggabungkan penyeberangan laut belasan jam dengan trek aspal mulus yang membelah pesisir pantai dan pegunungan. Paket lengkap bagi seorang petualang.
+Memang tidak bisah di pungkiri rasa lelah pasti ada. Kalo saya perhatikan, Lelah sebab badan harus terus seimbang, artinya jangan mengantuk. Kemudian harus fokus, seperti mata terus jeli melihat spion kiri-kanan dan lurus, memperkirakan kapan harus pelan dan kapan harus menerobos.
 
-## B. Etape 1: Logistik Penyeberangan dari Pelabuhan Kolok
+Dari segi kenyamanan, tentu saja kenderaan roda empat (travel) pilihannya. Tapi jangan tanya sopirnya ya, pasti lelah juga.
+
+Namun bagi yang menyukai kebebasan di atas roda dua, rute lintas barat Aceh adalah salah satu jalur touring terbaik. 
+
+Apalagi menggabungkan dua rute, pertama penyeberangan laut selama belasan jam dari Simeulue menuju Labuhan haji, kemudian perjalanan darat dengan aspal mulus pesisir pantai dan pegunungan.
+
+## Etape 1: Logistik Penyeberangan dari Pelabuhan Kolok
 
 Titik mula perjalanan ini berada di **Pelabuhan Kolok, Sinabang, Kabupaten Simeulue**. Untuk menyeberang ke daratan utama Sumatera, kita menggunakan kapal Feri Roro rute Sinabang menuju **Pelabuhan Labuhan Haji, Aceh Selatan**.
 
