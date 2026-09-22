@@ -31,10 +31,10 @@ Titik mula perjalanan ini dari **Pelabuhan Kolok, Sinabang, Kabupaten Simeulue**
 
 #### Catatan Penting Penyeberangan
 
-- **Jadwal keberangkatan:** Kapal umumnya bertolak pukul 22.00 WIB
-- **Prosedur parkir:** Masukkan motor ke dalam kapal setidaknya 2 jam sebelum keberangkatan, sekitar pukul 20.00 WIB. Ini penting agar posisi motor bisa diikat (*lashing*) dengan aman oleh awak kapal untuk mengantisipasi ombak
-- **Harga tiket:** Tiket motor plus pengendara sekitar Rp120.000, harga bisa menyesuaikan kebijakan regulator
-- **Durasi pelayaran:** Perjalanan laut memakan waktu kurang lebih 8 hingga 9 jam menyeberangi Samudra Hindia
+- **Jadwal keberangkatan:** Kapal bertolak pukul 22.00 WIB.
+- **Prosedur parkir:** Motor masuk ke dalam kapal sekitar 2 jam sebelum keberangkatan, sekitar pukul 20.00 WIB. Ini penting agar posisi motor bisa diikat (*lashing*) dengan aman oleh awak kapal untuk mengantisipasi ombak.
+- **Harga tiket:** Tiket motor plus pengendara sekitar Rp120.000, harga bisa menyesuaikan kebijakan regulator.
+- **Durasi pelayaran:** Perjalanan laut memakan waktu kurang lebih 8 hingga 9 jam.
 
 ## C. Etape 2: Persiapan dan Safety Riding di Labuhan Haji
 
