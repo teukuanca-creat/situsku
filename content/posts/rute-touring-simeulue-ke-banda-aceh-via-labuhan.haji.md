@@ -36,29 +36,29 @@ Titik mula perjalanan ini dari **Pelabuhan Kolok, Sinabang, Kabupaten Simeulue**
 - **Harga tiket:** Tiket motor plus pengendara sekitar Rp120.000, harga bisa menyesuaikan kebijakan regulator.
 - **Durasi pelayaran:** Perjalanan laut memakan waktu kurang lebih 8 hingga 9 jam.
 
-## C. Etape 2: Persiapan dan Safety Riding di Labuhan Haji
+## Etape 2: Persiapan dan Safety Riding di Labuhan Haji
 
-Kapal dijadwalkan menyentuh dermaga Pelabuhan Labuhan Haji sekitar pukul 07.00 WIB.
+Normalnya kapal menyentuh dermaga Pelabuhan Labuhan Haji sekitar pukul 07.00 WIB, memang tergantung kondisi cuaca dan jam bertolak.
 
-Jangan langsung tancap gas. Gunakan fasilitas pelabuhan untuk mandi air tawar agar mata segar, lalu sarapan di warung kopi sekitar dermaga.
+Sebelum tancap gas. mandi, sarapan  terlebih dahulu di seputar pelabuhan yang tersedia warkop dan rumah makan dengan fasilitasnya.
 
-Sebelum memutar kunci kontak, luangkan waktu 5 menit untuk mengecek persiapan *safety riding*. Mengendarai motor sendirian melintasi antarkabupaten butuh disiplin tinggi.
+Sebelum memutar kunci kontak, harus luangkan waktu 10 menit untuk mengecek persiapan *safety riding*. Selain persiapan fisik pengendara, persiapan kenderaan juga perlu di perhitungkan.
 
-### Perlengkapan dan Cek Fisik Motor
+#### Perlengkapan dan Cek Fisik Motor
 
 - **Proteksi pengendara:** Wajib pakai helm *full-face* berstandar SNI/DOT, jaket tahan angin (*windproof*), sarung tangan, dan sepatu yang menutup mata kaki
-- **Kondisi kendaraan:** Periksa tekanan angin ban, ketebalan kampas rem, dan setelan rantai
-- **Isi BBM:** Sebelum keluar dari area Labuhan Haji, singgah di SPBU terdekat untuk mengisi penuh tangki bahan bakar. Ini modal awal yang krusial
+- **Kondisi kendaraan:** Memeriksa tekanan angin ban, ketebalan kampas rem, dan setelan rantai
+- **Isi BBM:** Sebelum keluar dari area Labuhan Haji, singgah dulu di SPBU terdekat untuk mengisi penuh tangki bahan bakar. Ini modal awal yang krusial
 
 > **Baca Juga:** [Kenapa Pohon Pinggir Jalan Sama?](https://teukuanca.com/posts/mengapa-pohon-pinggir-jalan-sama/)
 
-## D. Etape 3: Membelah Pesisir Abdya hingga Nagan Raya
+## Etape 3: Membelah Pesisir Abdya hingga Nagan Raya
 
 Begitu roda berputar keluar dari pelabuhan, jalan aspal mulus siap menyambut. Karakteristik jalur pesisir barat Aceh ini terkenal lebar dan bersahabat.
 
 ### 1. Aceh Barat Daya (Abdya)
 
-Saat melintasi wilayah Blangpidie, manfaatkan jalur alternatif atau jalan pintas yang melintasi kawasan Masjid Agung Abdya. Jalur ini efektif memotong rute agar tidak kemalaman tiba di Banda Aceh.
+Saat melintasi wilayah Blangpidie, memanfaatkan jalur alternatif atau jalan pintas yang melintasi kawasan Masjid Agung Abdya. Jalur ini efektif memotong rute agar tidak kemalaman tiba di Banda Aceh.
 
 ### 2. Nagan Raya
 
