@@ -9,47 +9,63 @@ tags: ["Travelling Via Laut", "Perjalanan Laut", "Simeulue", "Feri", "Aceh"]
 ---
 
 ## Perjalanan Laut yang Berkesan Sejak Dahulu 
-Selain via udara, menyeberangi lautan itu sudah menjadi pilihan yang tidak dapat dihindari lagi untuk sampai ke daratan Sumatera. Seakan, riak ombak sekitar 150 KM atau 80-105 mil laut terasa tidak asing lagi. 
 
-Bagaimana tidak, sejak kanak-kanak sudah dihadapkan dengan perjalanan lautan ini untuk menuju ke Meulaboh sebagai ibu kota Kabupaten saat itu. 
+Selain via udara, menyeberangi lautan sudah menjadi pilihan yang tidak dapat dihindari lagi untuk menuju ke daratan Sumatera. Seakan, riak ombak sepanjang sekitar 150 KM atau 80–105 mil laut terasa tidak asing lagi.
 
-Kapal Fery saat itupun ukurannya lebih kecil, jauh lah dari ukuran Fery sekarang, namanya Km.Cucut. Bertolak dari dermaga simpang lima pukul 16.00 Wib. tiba di Meulaboh Aceh Barat pukul 09-10.00 Wib (tergantung kondisi cuaca).
+Bagaimana tidak, sejak kanak-kanak saya sudah dihadapkan dengan perjalanan laut ini untuk menuju ke Meulaboh, yang merupakan ibu kota kabupaten saat itu.
 
-Dan seingat saya, dulu kapal Fery Km.Cucut ini hanya melayani satu rute yaitu pelabuhan Ujung Karang Meulaboh, dengan jadwal satu kali seminggu.
+Kapal feri kala itu ukurannya jauh lebih kecil dibandingkan feri sekarang. Namanya KM. Cucut. Keberangkatannya dari dermaga Simpang Lima pukul 16.00 WIB dan tiba di Meulaboh, Aceh Barat, sekitar pukul 09.00 atau 10.00 WIB, tergantung kondisi cuaca.
 
-Disamping Km.Cucut, ada juga kapal-kapal kayu menuju daratan Sumatera, tetapi rutenya Sibolga, Sumatera Utara. Pelayaran ini menggunakan kapal Km. Sumber Jaya, Km. Lily, Km. Yossika dan beberapa lainnya. Hanya tiga nama yang melekat diingatan saya, karena mandi dan terjun ke laut sering dari atas kapal-kapal ini.
+Seingat saya, dulu KM. Cucut hanya melayani satu rute, yaitu menuju pelabuhan Ujung Karang, Meulaboh, dengan jadwal satu kali seminggu. Setelahnya, KMP. Kuala Batee juga ikut melayani rute Sinabang–Meulaboh hingga tahun 2000-an, sebelum akhirnya KMP. Teluk Sinabang dan KMP. Simeulue hadir melayani rute-rute lainnya ke daratan Aceh.
+
+Di samping kapal feri, ada juga kapal-kapal kayu yang menuju daratan Sumatera dengan rute ke Sibolga, Sumatera Utara. Pelayaran ini menggunakan kapal seperti KM. Sumber Jaya, KM. Lily, KM. Yossika, dan beberapa lainnya. Hanya tiga nama itu yang melekat di ingatan saya, karena dulu saya sering mandi dan terjun ke laut dari atas kapal-kapal tersebut.
+
+Sekarang, pilihan sudah semakin banyak dengan adanya KM. Antares ataupun kapal Perintis yang melayani rute ke Calang dan Tapaktuan. 
+
+Memang, rute dan armada kapal bisa berubah sewaktu-waktu. Biasanya, perubahan tersebut akan diumumkan melalui sumber-sumber informasi yang tersedia.
 
 ## Memulai Perjalanan 
-Mengarungi lautan kedaratan Aceh, sebenarnya sangat menyenangkan. Perjalanan semalam suntuk ini akan terasa panjang sekali kalau nggak tahu harus ngapain di atas kapal. 
+Mengarungi lautan ke daratan Aceh sebenarnya sangat menyenangkan. Perjalanan semalam suntuk ini akan terasa panjang sekali kalau tidak tahu harus berbuat apa di atas kapal.
 
-Tapi kalau sudah paham triknya, kita gak akan terasa jenuh sepanjang perjalanan. Perkiraannya harus tepat, seperti kapan harus datang, di mana enaknya tidur, apa yang wajib dibawa, sampai perencanaan cuaca dan rute kapal Fery.
+Tapi kalau sudah paham triknya, kita tidak akan merasa jenuh sepanjang perjalanan. Perkiraannya harus tepat, seperti kapan harus ke pelabuhan, di mana posisi tidur yang nyaman, apa saja barang yang wajib dibawa, sampai memantau prakiraan cuaca dan rute kapal feri.
 
-### Kapal Mana yang Jalan di Rute Mana
-Sekarang ini, akses dan fasilitas kapal jauh dibandingkan dahulu. Ada tiga kapal Ro-Ro yang jadi andalan warga Simeulue keluar-masuk pulau.
-- KMP Aceh Hebat 1 melayani rute Calang/Meulaboh–Sinabang. Ini kapal paling besar dengan fasilitas paling baru.
-- KMP Teluk Sinabang jalan di rute Labuhan Haji–Sinabang, sekaligus juga melayani Sinabang–Meulaboh.
-- Sementara KMP Aceh Hebat 3 kebagian rute Singkil–Sinabang.
+### Kapan Waktu yang Tepat ke Pelabuhan?
+Ini nasihat yang dari dulu terus di sampaikan Ini nasihat yang dari dulu terus disampaikan orang tua soal naik feri: **datanglah lebih awal**. Bukan basa-basi, sampai sekarang pun nasihat ini masih sangat relevan.
 
-### Kenapa Harus Datang Lebih Awal
-Ini nasihat yang dari dulu terus di sampaikan orang tua soal naik feri, **datang lebih awal**. Bukan basa-basi, sampai sekarangpun masih relevan.
+Tidak heran jika kamu datang ke pelabuhan dan menaikkan barang-barang dengan perasaan sudah paling cepat tiba di sana, tahu-tahu sudah ada orang lain yang datang lebih duluan.
 
-Tidak heran jika kamu datang Kepelabuhan kemudian menaikkan barang-barang ke kapal dengan perasaan sudah paling cepat tiba di sana, tidak tahunya sudah ada yang lebih duluan datang.
+Namun, bukan berarti kamu harus datang sehari sebelumnya. Baiknya, kalau kapal berangkat sore, usahakan sudah berada di pelabuhan sekitar jam 15.00–16.00 WIB. Kalau berangkatnya malam, geser waktu kedatanganmu jadi sekitar jam 19.30–20.00 WIB.
 
-Baiknya, kalau kapal berangkat sore, usahakan sudah nongkrong di pelabuhan sekitar jam 15.00-16.00 WIB. Kalau berangkatnya malam, geser jadi sekitar jam 19.30-20.00 WIB.
+**Pola jadwalnya kira-kira begini:**
+- Dari Sinabang ke Calang/Meulaboh biasanya sore, sekitar jam 17.00–18.00 WIB.
+- Ke Labuhan Haji atau Singkil biasanya malam, sekitar jam 22.00 WIB.
 
-Pola jadwalnya kira-kira begini:
-- Dari Sinabang ke Calang/Meulaboh biasanya sore, sekitar jam 17.00-18.00 Wib.
-- Ke Labuhan Haji atau Singkil, biasanya malam, sekitar jam 22.00 Wib.
+**Gambaran sebaliknya dari dermaga daratan Aceh seperti ini:**
+- Dari Calang/Meulaboh ke Sinabang berangkat siang menjelang sore, sekitar jam 14.00–16.00 WIB.
+- Dari Labuhan Haji malam, sekitar jam 22.00 WIB.
+- Dari Singkil sore, sekitar jam 17.00–18.00 WIB.
 
-Gambaran Sebaliknya di dermaga aceh seperti ini;
-- Dari Calang/Meulaboh ke Sinabang berangkat siang menjelang sore sekitar jam 14-16.00. Wib
-- Dari Labuhan Haji malam sekitar jam 22.00,Wib dan
-- Dari Singkil sore sekitar jam 17.00-18.00.Wib
+Tapi ini cuma patokan kasar, sebab cuaca dan tinggi gelombang yang akhirnya menentukan kapal bisa berangkat tepat waktu atau tidak. Jadi, sebelum berangkat dari rumah, cek dulu informasi terbaru lewat kanal resmi Dinas Perhubungan setempat.
 
-Tapi ini cuma patokan kasar, sebab cuaca dan tinggi gelombang yang akhirnya menentukan kapal berangkat tepat waktu atau tidak.
-Jadi sebelum berangkat dari rumah, cek dulu lewat kanal resmi Dinas Perhubungan setempat.
+### Soal Tempat Tidur dan Fasilitas
+Tidak perlu khawatir untuk hal yang satu ini. Sebab, armada laut sekarang sudah dilengkapi dengan fasilitas yang mendukung, sehingga membuat kita tetap nyaman di tengah laut.
 
-### Kenapa buru-buru itu penting?
+Pada umumnya, ada tiga pilihan kelas yang bisa kita tentukan sebelum berlayar. Berikut adalah pilihan tiketnya:
+- **Ekonomi:** Menggunakan fasilitas bangku atau tatami (lesehan) terbuka. Kelas ini sudah termasuk dalam tarif dasar penumpang.
+- **Bisnis:** Ruangan ber-AC yang sudah dilengkapi dengan fasilitas tempat tidur.
+- **VIP:** Ruangan ber-AC dengan fasilitas tempat tidur (bed) dan TV. Jumlah kamar ini terbatas dan tidak semua kapal menyediakannya.
+- **Kendaraan:** Jika kamu membawa kendaraan roda dua, tarif tiket kendaraan saat ini sudah otomatis termasuk dengan satu tiket penumpang kelas ekonomi.
+
+### Kapal Mana yang Beroperasi di Rute Mana?
+Sekarang ini, akses dan fasilitas kapal sudah jauh lebih baik dibandingkan dahulu. Ada tiga kapal Ro-Ro yang menjadi andalan warga Simeulue untuk keluar-masuk pulau saat ini.
+
+Berikut adalah gambaran pilihannya, meskipun jadwal bisa berubah sewaktu-waktu karena kondisi cuaca atau kebutuhan armada:
+- **KMP. Aceh Hebat 1:** Melayani rute Calang/Meulaboh–Sinabang (PP). Ini adalah kapal terbesar dengan fasilitas paling baru.
+- **KMP. Teluk Sinabang:** Beroperasi di rute Labuhan Haji–Sinabang (PP), sekaligus juga melayani rute Sinabang–Meulaboh (PP).
+- **KMP. Aceh Hebat 3:** Melayani rute Singkil–Sinabang (PP).
+
+
+### Tips Kenyamanan Dari Kacamata Pribadi 
 Menurut saya, disiplin keberangkatan itu tidak hanya pada perjalanan laut saja, perjalanan udara, kereta dan armada apapun tetap begitu.
 - Pertama, soal tiket. Jika musim liburan atau muatan barang lagi padat, antrean loket bisa mengular tanpa ampun.
 - Kedua, soal tempat. Di kelas ekonomi, banyak warga justru lebih suka rebahan di celah kursi ketimbang duduk di kursi yang disediakan, dan matras yang tersedia jumlahnya terbatas.
@@ -57,13 +73,8 @@ Menurut saya, disiplin keberangkatan itu tidak hanya pada perjalanan laut saja, 
 
 Semakin cepat datang, makin besar peluang dapat tempat dan matras yang nyaman.
 
-### Soal Fasilitasnya
-Tidak perlu khawatir, Sebab, armada laut sudah dilengkapi dengan fasilitas yang mendukung, membuat kita nyaman ditengah laut.
 
-Untuk kelas tiket, ada tiga pilihan.
-- Ekonomi dengan bangku atau tatami terbuka, sudah masuk tarif dasar.
-- Bisnis dengan ruang ber-AC dan tempat tidur, dan
-- VIP, ber-AC juga dengan bunk bed dan TV, jumlahnya terbatas dan tidak semua kapal menyediakannya. sebaiknya tanya langsung ke loket atau purser saat beli tiket.
+
 
 Colokan listrik ada di beberapa titik, tapi jika ingin membawa colokan sendiri lebih bagus biar bisa dipakai bareng-bareng.
 
