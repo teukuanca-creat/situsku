@@ -64,25 +64,35 @@ Berikut adalah gambaran pilihannya, meskipun jadwal bisa berubah sewaktu-waktu k
 - **KMP. Teluk Sinabang:** Beroperasi di rute Labuhan Haji–Sinabang (PP), sekaligus juga melayani rute Sinabang–Meulaboh (PP).
 - **KMP. Aceh Hebat 3:** Melayani rute Singkil–Sinabang (PP).
 
-
 ### Tips Kenyamanan Dari Kacamata Pribadi 
-Menurut saya, disiplin keberangkatan itu tidak hanya pada perjalanan laut saja, perjalanan udara, kereta dan armada apapun tetap begitu.
-- Pertama, soal tiket. Jika musim liburan atau muatan barang lagi padat, antrean loket bisa mengular tanpa ampun.
-- Kedua, soal tempat. Di kelas ekonomi, banyak warga justru lebih suka rebahan di celah kursi ketimbang duduk di kursi yang disediakan, dan matras yang tersedia jumlahnya terbatas.
-- Deck atas juga jadi favorit buat rebahan sambil menikmati udara terbuka.
+Menurut saya, disiplin waktu keberangkatan itu sangat perlu. Tidak hanya pada perjalanan laut saja, aturan ini juga berlaku untuk perjalanan udara, kereta, maupun armada lainnya.
 
-Semakin cepat datang, makin besar peluang dapat tempat dan matras yang nyaman.
+Jika menggunakan transportasi laut (kapal), kenyamanan kita akan sangat ditentukan oleh dua hal ini:
+- Pertama, soal tiket. Saat musim liburan atau muatan barang sedang padat, antrean loket bisa mengular tanpa ampun. Dengan tiba lebih awal, kita bisa mengamankan posisi di depan antrean.
+
+- Kedua, soal tempat. Jika ingin menikmati deck atas, datang lebih cepat adalah pilihan bijak. Kamu punya banyak pilihan sudut pandang (view) terbaik daripada sekadar mendapat tempat sisa. Selain itu, ketersediaan matras juga masih melimpah di awal.
+
+Untuk kebutuhan daya, colokan listrik tersedia di beberapa titik strategis seperti area kantin dan beberapa dinding kapal. 
+
+Jika merasa lapar, kamu bisa mengunjungi kafetaria atau kantin yang terletak di tengah ruang penumpang dan di dek atas. Kantin ini menyediakan berbagai pilihan seperti Pop Mie, aneka camilan, kue kering, kopi sachet, dan teh.
+
+## Silaturahmi di Atas Samudera 
+Pelayaran sangat menyenangkan sekali jika melihat saat-saat lepas tali dan mulai menjauhi dermaga.
+
+Body kapal mulai terasa bergetar ketika kapal mulai berjalan, air laut pun terlihat memutih disudut kapal.
+
+Momen ini jangan terlewati, langsung saja naik ke deck paling atas, sambil melihat garis pantai yang perlahan menjauh, bertepatan dengan matahari yang turun ke cakrawala. 
+
+Begitu langit gelap, deck luar dan area sekitar kantin diam-diam berubah jadi ruang ngobrol yang hangat. Sinyal ponsel biasanya hilang total 1-1,5 jam setelah kapal berjalan.
+
+Disinilah menurut saya sekat-sekat antarpenumpang mulai luntur. Tidak terlihat lagi yang sibuk menunduk ke layar. Obrolan mulai mengalir, yang tadinya hanya bertegur siapa di jalan, dengan suasana diatas kapal ini dapat saling ngobrol.
+
+Saat malam makin larut, ruang penumpang makin sepi, hanya satu dua orang yang masih bertahan ngobrol.
+Baringkan badan dengan ayunan gelombang yang ritmis itu menjadi pengantar tidur paling alami, lebih manjur dari lagu pengantar tidur.
 
 
 
 
-Colokan listrik ada di beberapa titik, tapi jika ingin membawa colokan sendiri lebih bagus biar bisa dipakai bareng-bareng.
-
-Kantin kapal, yang terletak di tengah ruang penumpang dan di dek luar, menjual mie instan rebus, kopi sachet, teh, sampai camilan ringan dengan harga yang masih masuk akal.
-Yang Bikin Pelayaran Ini Terasa Beda
-Begitu kapal lepas jangkar dan mesinnya mulai bergetar, langsung saja naik ke dek paling atas. Jangan sampai ketinggalan momen ini: garis pantai yang perlahan menjauh, bertepatan dengan matahari yang turun ke cakrawala Samudra Hindia dan daratan Sumatra. Kombinasi warna jingga yang susah dilupakan.
-Begitu langit gelap, dek luar dan area sekitar kantin diam-diam berubah jadi ruang ngobrol yang hangat. Sinyal ponsel biasanya hilang total 1-1,5 jam setelah kapal berlayar — Telkomsel maupun Indosat sama saja. Tapi justru di situlah sekat-sekat antarpenumpang mulai luntur. Tidak ada lagi yang sibuk menunduk ke layar. Obrolan mengalir begitu saja antara pelancong, warga lokal, sampai sopir truk logistik yang sudah hafal betul rute ini. Ditemani kopi hangat dan angin laut, malam jadi terasa lebih akrab dari yang dibayangkan.
-Makin larut, ruang penumpang makin sepi. Kalau badan sedang fit, ayunan gelombang yang ritmis itu justru jadi pengantar tidur paling alami — lebih manjur dari lagu pengantar tidur manapun.
 Sekitar jam 06.00-07.00 WIB, sinyal ponsel perlahan hidup lagi. Tandanya daratan sudah dekat. Kalau tujuannya Simeulue, dari jendela kapal akan terlihat Pulau Siumat di sisi kanan, seolah menyambut kapal masuk ke Teluk Sinabang. Kalau sebaliknya, yang menyambut adalah jajaran Pegunungan Sumatra yang masih berselimut kabut tipis fajar.
 Biar Nggak Mabuk Laut
 Jangan naik kapal dengan perut kosong — makan makanan berkarbohidrat sedang sekitar satu jam sebelum berangkat. Kalau perlu obat anti-mabuk, minum sekitar 30 menit sebelum kapal berangkat. Dan kalau mulai pusing di ruangan ber-AC, keluar saja, hirup udara dek terbuka, tatap garis horizon yang stabil — biasanya itu sudah cukup membantu.
