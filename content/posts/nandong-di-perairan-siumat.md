@@ -32,8 +32,6 @@ Nandong kerap hadir di acara desa atau panggung hiburan, menjadi ruh ketika oran
 
 ​Nandong tidak menunggu festival, anggaran, atau panggung hiburan untuk tetap ada. Ia bertahan karena terus dituturkan dalam keseharian warga, di laut, di kebun, dan di mana saja.
 
-​Jika generasi muda menyadari bahwa Nandong hidup organik di tengah aktivitas keseharian warga, mungkin mereka akan memaknainya secara berbeda. Bukan lagi sekadar warisan budaya yang kaku dan harus dilestarikan di dalam museum atau panggung pertunjukan, melainkan tradisi yang tetap bernapas dan relevan.
-
-​Sore itu di perairan Siumat, saya mendengar Nandong bukan lagi sebagai penonton, melainkan sebagai bagian dari tradisi itu sendiri, sesuatu yang dari dulu ada dan tak pernah benar-benar pergi.
+​Sore itu di perairan Siumat, saya mendengar Nandong bukan lagi sebagai penonton, tetapi sebagai bagian dari tradisi disini, sesuatu yang dari dulu ada dan masih tetap hidup hingga kini.
 
 > **Baca Juga:** [Minyak Cengkeh untuk Apa? Napak Tilas "Emas Hijau" yang Pernah Berjaya](https://teukuanca.com/posts/minyak-cengkeh-untuk-apa/)
