@@ -88,3 +88,17 @@ theme = 'PaperMod'
     name = "Hubungi Saya"
     url = "/pages/hubungi-saya/"
     weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
