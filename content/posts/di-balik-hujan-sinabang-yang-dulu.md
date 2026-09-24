@@ -7,7 +7,7 @@ categories: ["Cerita Menarik"]
 description: "Memori becak di tengah hujan dulu di Sinabang. Catatan kerinduan akan masa lalu dan dinamika kemajuan di Pulau Simeulue."
 tags: ["BecakKlasik", "Musim Hujan Simeulue"]
 cover:
-image: "/images/ilustrasi-becak.webp"
+ image: "/images/ilustrasi-becak.webp"
 related:
   - /posts/bunga-raflesia/
   - /posts/nandong-di-perairan-siumat/
