@@ -2,10 +2,11 @@
 title: 'Bikin Akta Kelahiran: Panduan dan Pengurusannya'
 date: 2026-08-31
 draft: false
-featured_image: "/images/akta-kelahiran.webp"
 categories: ["Regulasi"]
 description: "Panduan taktis dan jujur mengurus akte kelahiran di Simeulue. Dari persiapan berkas, perjuangan perjalanan ke Sinabang, hingga solusi terlambat urus."
 tags: ["Akte Kelahiran", "Disdukcapil Simeulue", "bikin akta kelahiran", "Sinabang", "Panduan Orang Tua"]
+cover:
+  image: "/images/akta-kelahiran.webp"
 ---
 
 ## Identitas si Kecil 

@@ -3,10 +3,11 @@ title: 'Pohon Pinggir Jalan: Fungsi dan Manfaatnya'
 permalink: '/2026/07/mengapa-pohon-pinggir-jalan-sama-ini.html'
 date: 2026-07-11
 draft: false
-featured_image: "/images/pohon-pinggir-jalan.webp"
 categories: ["Edukasi"]
 description: "Mengulas pengetahuan seputar ekosistem, tata ruang hijau, serta sains populer di balik keharmonian antara pembangunan infrastruktur dan alam sekitar."
 tags: ["Pohon Pinggir Jalan Simeulue", "Kenapa Pohon Sama"]
+cover:
+  image: "/images/pohon-pinggir-jalan.webp"
 ---
  
 Saat melintasi jalan raya, pernahkah kamu perhatikan jenis pohon peneduh terlihat hampir seragam?

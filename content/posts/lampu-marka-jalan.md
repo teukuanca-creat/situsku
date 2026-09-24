@@ -2,10 +2,11 @@
 title: 'Marka Jalan: Manfaat Paku Jalan (Road Stud) dan Fungsinya'
 date: 2026-09-01
 draft: false
-featured_image: "/images/paku-jalan.webp"
 categories: ["Edukasi"]
 description: "Mengenal Marka jalan:paku jalan yang banyak belum diketahui manfaatnya sebagian orang"
 tags: ["manfaat paku jalan", "road stud"]
+cover:
+  image: "/images/paku-jalan.webp"
 ---
 
 ## Benda Kecil di Tengah Jalan 

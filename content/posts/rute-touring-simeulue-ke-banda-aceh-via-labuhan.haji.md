@@ -2,10 +2,11 @@
 title: 'Panduan Lengkap Rute Simeulue hingga Banda Aceh Roda Dua'
 date: 2026-08-17
 draft: false
-featured_image: "/images/touring.webp"
 categories: ["Travelling"]
 description: "Simak panduan lengkap touring motor dari Pulau Simeulue menembus pesisir barat Aceh sepanjang 388 km menuju Banda Aceh."
 tags: ["Travelling", "Simeulue Banda Aceh", "Touring Motor", "Aceh", "Geurutee"]
+cover:
+  image: "/images/touring.webp"
 --- 
 
 ## Perjalanan dengan Sepeda Motor ke Banda Aceh 

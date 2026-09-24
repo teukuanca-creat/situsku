@@ -2,10 +2,11 @@
 title: 'Mancing di Perairan Siumat sambil Mendengar Nandong'
 date: 2026-09-18
 draft: false
-featured_image: "/images/nandong.webp"
 categories: ["Cerita Menarik"]
 description: "Catatan pengalaman mendengar Nandong dari perahu lain di perairan Siumat, sebuah tradisi yang hidup bukan hanya di panggung, tapi juga di laut dan daratan."
 tags: ["Nandong", "Tradisi Simeulue", "Budaya Simeulue"]
+cover:
+  image: "/images/nandong.webp"
 ---
 
 Bagi masyarakat luar, Nandong mungkin terdengar asing. Ini adalah seni tutur khas Simeulue yang dilantunkan tanpa instrumen musik. Ritme dan temponya hanya mengandalkan tepukan manual atau hentakan ritmis, dibawakan secara bersahutan oleh para pelantunnya.

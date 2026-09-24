@@ -3,10 +3,11 @@ title: 'Pesona Batu Siambong-ambong Simeulue,Aceh: Rute dan Tips'
 permalink: '/2026/07/pesona-batu-siambong-ambong.html'
 date: 2026-08-05
 draft: false
-featured_image: "/images/batu-siambung-ambung.webp"
 categories: ["Travelling"]
 description: "Pengalaman pribadi menjelajahi Batu Siambung-Ambung Simeulue. Temukan info akses jalan, biaya makanan, spot memancing kerapu, dan tips wisatanya."
 tags: ["traveling", "wisata simeulue"]
+cover:
+  image: "/images/batu-siambung-ambung.webp"
 ---
 
 ## A. Pendahuluan 

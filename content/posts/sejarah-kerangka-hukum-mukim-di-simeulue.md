@@ -2,10 +2,11 @@
 title: 'Mukim: Sistem Lama yang Masih Menopang Simeulue Hari Ini'
 date: 2026-07-20
 draft: false
-featured_image: "/images/ilustrasi-mukim.webp"
 categories: ["Regulasi"]
 description: "Memahami institusi pemerintahan Adat Mukim yang ada di Aceh khususnya Kabupaten Simeulue, simak ulasan lengkapnya disini"
 tags: ["Mukim Aceh", "Mukim Simeulue"]
+cover:
+  image: "/images/ilustrasi-mukim.webp"
 ---
 
 Sebagai warga yang hidup dan besar di Aceh, khususnya di Simeulue, saya sering mendengar istilah mukim, Imeum Mukim, atau Panglima Laot disebut dalam percakapan sehari-hari, entah saat ada sengketa tanah, urusan adat, atau sekadar obrolan warung kopi.

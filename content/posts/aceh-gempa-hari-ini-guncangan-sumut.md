@@ -3,10 +3,11 @@ title: 'Gempa Hari Ini: Guncangan Sumut Terasa sampai Simeulue'
 permalink: '/2026/08/aceh-gempa-hari-ini-guncangan-sumut.html'
 date: 2026-08-15
 draft: false
-featured_image: "/images/gempa.webp"
 categories: ["Cerita Menarik"]
 description: "Gempa Sumatera Utara menggetarkan Simeulue sore ini.  Ulasan pribadi, karakteristik getaran, serta mitigasi."
 tags: ["Gempa Aceh", "Gempa Sumut"]
+cover:
+  image: "/images/gempa.webp"
 ---
 
 ## A. Kondisi Sore Hari ini

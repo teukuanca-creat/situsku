@@ -2,10 +2,11 @@
 title: 'Memancing di Dermaga Sinabang: Umpan & Alat'
 date: 2026-08-03
 draft: false
-featured_image: "/images/spot-karang.jpg"
 categories: ["Edukasi"]
 description: "Dapatkan informasi spot mancing di dermaga seputaran ibukota Simeulue, mulai dari persiapan peranti hingga umpan yang dapat kamu pergunakan "
 tags: ["memancing"]
+cover:
+  image: "/images/spot-karang.jpg"
 ---
 
 ## Kenapa Memancing Selalu Punya Tempat di Hati Masyarakat?

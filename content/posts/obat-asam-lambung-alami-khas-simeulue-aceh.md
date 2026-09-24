@@ -2,10 +2,11 @@
 title: 'Obat Asam Lambung Alami Khas Simeulue, Aceh'
 date: 2026-07-14
 draft: false
-featured_image: "/images/alongoibatu.webp"
 categories: ["Edukasi"]
 description: "Mengulas racikan obat tradisional asam lambung dari Desa Ulul Falu, Simeulue. Kombinasi terapi urut, ramuan herbal Alongoi Batu"
 tags: ["Babadotan Daun Obat", "Penyakit Lambung"]
+cover:
+  image: "/images/alongoibatu.webp"
 ---
 
 ## Ketika Asam Lambung Membawa Saya Pulang ke Teupah Selatan

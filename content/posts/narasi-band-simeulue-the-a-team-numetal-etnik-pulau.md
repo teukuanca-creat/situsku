@@ -2,10 +2,11 @@
 title: 'Narasi Band Simeulue: The[A]Team, NuMetal Etnik Pulau'
 date: 2026-07-08
 draft: false
-featured_image: "/images/the-a-team.jpg"
 categories: ["Musik"]
 description: "Perjalanan musik di Simeulue: Narasi The[A]Team Band-NuMetal Etnik Pulau. Kisah perjalanan band kabupaten simeulue."
 tags: ["musik", "band simeulue"]
+cover:
+  image: "/images/the-a-team.jpg"
 ---
 
 Distorsi gitar menggelegar, ketukan drum menghentak keras, tiba-tiba di tengah kebisingan itu muncul lantunan mantra Debus yang menggetarkan panggung dengan cara yang belum pernah terdengar sebelumnya di Simeulue.

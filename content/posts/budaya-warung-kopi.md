@@ -2,10 +2,11 @@
 title: 'Eksistensi Warung Kopi di Simeulue'
 date: 2026-09-14
 draft: false
-featured_image: "/images/warkop.webp"
 categories: ["Cerita Menarik"]
 description: "Mengulas budaya warung kopi (warkop) di Kabupaten Simeulue bukan sekadar tempat minum kopi saring, melainkan jantung sosial dan ekonomi"
 tags: ["Warkop Sinabang", "Warung Kopi Simeulue"]
+cover:
+  image: "/images/warkop.webp"
 ---
 
 ## Kilas Balik Warkop

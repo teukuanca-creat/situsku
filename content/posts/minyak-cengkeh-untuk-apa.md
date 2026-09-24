@@ -2,10 +2,11 @@
 title: 'Minyak Cengkeh untuk Apa? Napak Tilas "Emas Hijau" yang Pernah Berjaya'
 date: 2026-09-01
 draft: false
-featured_image: "/images/cengkeh.jpg"
 categories: ["Cerita Menarik"]
 description: "Minyak Cengkeh Untuk Apa: Perjalanan Masa Jaya Cengkeh di Simeulue yang manfaatnya Bukan Saja Bahan Rokok, Simak Ulasannya"
 tags: ["Minyak Cengkeh", "Cengkeh Simeulue"]
+cover:
+  image: "/images/cengkeh.jpg"
 ---
 
 ## Memori Masa Silam 

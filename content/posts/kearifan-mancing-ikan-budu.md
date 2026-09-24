@@ -2,10 +2,11 @@
 title: 'Musim Ikan Budu di Teluk Sinabang: Tradisi Silaturahmi Warga Sinabang'
 date: 2026-07-08
 draft: false
-featured_image: "/images/ilustrasi-jembatan-biru.webp"
 categories: ["Cerita Menarik"]
 description: "Mengenal ikan budu (Sardinella fimbriata) dan predatornya, gabu, serta tradisi memancing musiman di Teluk Sinabang, Simeulue, lengkap dengan teknik mancing tradisional dan aturan tak tertulis warga."
 tags: ["ikan budu", "teluk sinabang", "simeulue", "tradisi memancing"]
+cover:
+  image: "/images/ilustrasi-jembatan-biru.webp"
 ---
 
 Pernahkah kamu mendengar nama ikan budu? Di Sinabang, ikan ini biasa hidup berkelompok dekat pantai dan teluk, kadang muncul di perairan tengah membentuk kawanan yang sangat padat.

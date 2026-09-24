@@ -2,10 +2,11 @@
 title: 'Semarak Pohon Nilam di Simeulue Sejak 90-an'
 date: 2026-08-24
 draft: false
-featured_image: "/images/nilam.webp"
 categories: ["Cerita Menarik"]
 description: "Semarak Nilam di Simeulue Sejak era 90an yang membangkitkan Ekonomi Pulau Simeulue selain Komoditas lainnya"
 tags: ["Nilam Simeulue", "Nilam Aceh"]
+cover:
+  image: "/images/nilam.webp"
 ---
 
 ## Emas Hijau yang Pernah Menghiasi Setiap Sudut Kebun Simeulue

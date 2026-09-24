@@ -2,10 +2,11 @@
 title: 'Musik Bukan Sekadar Hiburan: Bagaimana Otak Merespons Setiap Nada'
 date: 2026-07-12
 draft: false
-featured_image: "/images/musik.webp"
 categories: ["Seni"]
 description: "Menjelaskan secara ilmiah bagaimana musik mempengaruhi otak, emosi, dan produktivitas, lengkap dengan panduan memilih lagu sesuai kebutuhan kerja."
 tags: ["musik", "otak", "produktivitas", "dopamin", "fokus"]
+cover:
+  image: "/images/musik.webp"
 ---
 
 ## Kenapa Sebuah Lagu Bisa Bikin Dada Sesak Tiba-tiba?

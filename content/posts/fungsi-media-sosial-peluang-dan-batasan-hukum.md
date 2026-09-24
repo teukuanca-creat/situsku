@@ -2,10 +2,11 @@
 title: 'Fungsi Media Sosial: Peluang, dan Batasan Hukum'
 date: 2026-08-03
 draft: false
-featured_image: "/images/ilustrasi-media-sosial.webp"
 categories: ["Kreativitas"]
 description: "Membedah enam lanskap utama pemanfaatan media sosial, peluang ekonomi digital, serta batasan hukum yang wajib dipahami pengguna di Indonesia."
 tags: ["media sosial", "UU ITE", "monetisasi", "ekonomi kreatif", "etika digital"]
+cover:
+  image: "/images/ilustrasi-media-sosial.webp"
 ---
 
 ## A. Pendahuluan

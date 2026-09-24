@@ -2,10 +2,11 @@
 title: 'Galeri Foto Menjadi Mesin Pendapatan Pasif'
 date: 2026-08-09
 draft: false
-featured_image: "/images/konten-photo.webp"
 categories: ["Kreativitas"]
 description: "Ubah galeri HP menjadi aset digital ber-Dolar Pelajari panduan lengkap monetisasi foto smartphone di platform microstock global seperti Shutterstock "
 tags: ["Peluang Cuan", "Media Penghasil Cuan"]
+cover:
+  image: "/images/konten-photo.webp"
 ---
 
 ## Dari Foto HP Jadi Mesin Pendapatan Pasif

@@ -2,10 +2,11 @@
 title: 'Cerita Sejarah Batu Sandi Salapan Simeulue'
 date: 2026-07-06
 draft: false
-featured_image: "/images/batu-sandi-salapan.webp"
 categories: ["Cerita Menarik"]
 description: "Pengalaman pribadi mengunjungi Batu Sandi Salapan di Teupah Barat, Simeulue. Pelajari rute, sejarah hubungan Kesultanan Aceh, hingga keajaiban tsunami"
 tags: ["Batu Sandi Salapan", "Sejarah Simeulue"]
+cover:
+  image: "/images/batu-sandi-salapan.webp"
 ---
 
 Sejak masih duduk di bangku sekolah, saya sudah sering mendengar cerita tentang Batu Sandi Salapan ini. Waktu itu ceritanya masih terasa seperti dongeng yang diceritakan mulut-kemulut, tentang batu-batu keramat di sebuah masjid tua di Simeulue. 

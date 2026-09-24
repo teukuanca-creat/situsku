@@ -3,11 +3,12 @@ title: 'Mengenal Motorik Anak Lewat Kebiasaan Bongkar Mainan'
 permalink: '/2026/08/menyelami-tumbuh-kembang-balita-mengapa.html'
 date: 2026-08-13
 draft: false
-featured_image: "/images/motor.jpg"
 youtube: "A7ROaSE6WOg"
 categories: ["Edukasi"]
 description: "Panduan tumbuh kembang balita usia 18-24 bulan: Memahami motorik kasar & halus, alasan anak suka membongkar mainan, dan stimulasi bermain luar ruangan."
 tags: ["Motorik Anak", "Tumbuh Kembang Anak"]
+cover:
+  image: "/images/motor.jpg"
 ---
 
 [![Tonton Video Ini](https://img.youtube.com/vi/E8wXusUv8qw/maxresdefault.jpg)](https://youtu.be/A7ROaSE6WOg?si=YSEC7pJpicHMHXMz)

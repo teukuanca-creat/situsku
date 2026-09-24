@@ -2,10 +2,11 @@
 title: 'Sejarah Pelopor Stiker Pertama yang Bertahan di Simeulue'
 date: 2026-08-26
 draft: false
-featured_image: "/images/aktivitas-stiker-sinabang.jpg"
 categories: ["Cerita Menarik"]
 description: "Kisah usaha stiker kendaraan pertama di Simeulue, bertahan dari sederet musibah hingga kini menetap di Desa Suka Jaya."
 tags: ["Buat Stiker", "Stiker Kenderaan Sinabang"]
+cover:
+  image: "/images/aktivitas-stiker-sinabang.jpg"
 ---
 
 ## Tren Stiker dan Aksesoris di Sinabang 

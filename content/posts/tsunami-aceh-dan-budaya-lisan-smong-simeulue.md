@@ -2,10 +2,11 @@
 title: 'Smong: Budaya Lisan yang Tertanam di Simeulue pada Tsunami Aceh 2004'
 date: 2026-08-15
 draft: false
-featured_image: "/images/ombak.webp"
 categories: ["Cerita Menarik"]
 description: "Catatan pribadi tentang pengalaman tsunami 2004 di Simeulue, bagaimana tradisi lisan Smong itu terbukti lebih cepat dari sistem alarm modern."
 tags: ["smong", "tsunami", "Simeulue", "kearifan lokal", "bencana"]
+cover:
+  image: "/images/ombak.webp"
 ---
 
 Suatu sore, gerimis tipis menyelimuti kawasan teluk Sinabang, saya duduk di sebuah warung kopi tepat berada di Pelabuhan Cargo lama Simpang Lima.

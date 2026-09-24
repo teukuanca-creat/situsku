@@ -2,10 +2,11 @@
 title: 'Teripang Laut: Memori Tangkahan Sejak 90-an di Sinabang'
 date: 2026-08-20
 draft: false
-featured_image: "/images/by-pexels.webp"
 categories: ["Cerita Menarik"]
 description: "Kenangan masa kecil melihat pengolahan teripang laut di tangkahan Teluk Sinabang era 90-an, lengkap dengan manfaat, cara pengolahan, dan harga pasarnya."
 tags: ["Teripang", "Hasil Laut", "Simeulue", "Tangkahan", "Ekonomi Pesisir"]
+cover:
+  image: "/images/by-pexels.webp"
 ---
 
 ## Tempat Penampungan yang Melegenda 

@@ -2,10 +2,11 @@
 title: 'Tren Tanaman Hias di Sinabang'
 date: 2026-09-09
 draft: false
-featured_image: "/images/tanaman-hias-sinabang.webp"
 categories: ["Cerita Menarik"]
 description: "Mengenang musim tanaman hias yang pernah menjadi tren di Sinabang, lengkap dengan jenis-jenis tanaman populer, daerah yang ikut booming, dan sisi ekonomi di baliknya."
 tags: ["Tanaman Hias", "Tren", "Hobi", "Ekonomi Kreatif", "Kenangan"]
+cover:
+  image: "/images/tanaman-hias-sinabang.webp"
 ---
 
 ## Musim yang Pernah Begitu Riuh

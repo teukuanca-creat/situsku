@@ -2,10 +2,11 @@
 title: 'Sekretaris Desa dalam Tata Kelola Modern: Memahami Tugas Sekdes dan Regulasi Terbaru'
 date: 2026-07-08
 draft: false
-featured_image: "/images/ilustrasi-sekdes.webp"
 categories: ["Regulasi"]
 description: "Membedah peran strategis Sekretaris Desa dalam tata kelola pemerintahan, perubahan regulasi dari PP 43/2014 ke PP 16/2026, serta implikasinya bagi birokrasi desa."
 tags: ["sekdes", "pemerintahan desa", "PP 16 2026", "regulasi", "tata kelola"]
+cover:
+  image: "/images/ilustrasi-sekdes.webp"
 ---
 
 ## Ketika Sekdes Jadi Penjaga Gerbang Administrasi Desa

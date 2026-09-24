@@ -3,10 +3,11 @@ title: 'Pasang Air Laut: Fenomena Malasin di Pinggiran Teluk Sinabang'
 permalink: '/2026/08/fenomena-malasin-pasang-air-laut-di.html'
 date: 2026-08-06
 draft: false
-featured_image: "/images/ilustrasi-malasin.webp"
 categories: ["Cerita Menarik"]
 description: "Kenangan saat-saat fenomena Malasin (pasang air laut) di era 90an Pinggir Teluk Sinabang hingga perubahan dampak Malasin pasca Smong 2004 (Tsunami)."
 tags: ["Pasang Air Laut", "Malasin"]
+cover:
+  image: "/images/ilustrasi-malasin.webp"
 ---
 
 Ada saat-saat dimana harus mengangkat barang-barang, menggulung celana masuk kerumah, menghalau sampah berjalan, bahkan berenang-renang. 

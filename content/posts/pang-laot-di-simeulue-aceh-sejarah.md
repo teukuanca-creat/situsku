@@ -2,10 +2,11 @@
 title: 'Panglima Laot: Ketika Laut Punya Aturannya di Simeulue'
 date: 2026-08-01
 draft: false
-featured_image: "/images/panglaot.webp"
 categories: ["Regulasi"]
 description: "Mengulas sejarah, struktur, dan peran Panglima Laot di Simeulue sebagai lembaga adat laut yang menjaga tata kelola pesisir dan kehidupan nelayan."
 tags: ["Panglima Laot", "Simeulue", "Hukum Adat Laut", "Nelayan", "Kearifan Lokal"]
+cover:
+  image: "/images/panglaot.webp"
 ---
 
 Kalau kamu tinggal di pulau Simeulue, ada satu hal yang mungkin pernah kamu sadari tetapi tak memikirkannya, misal ada hari-hari tertentu ketika nelayan tidak melaut sama sekali, bukan karena cuaca buruk, tapi karena memang "pantang". 

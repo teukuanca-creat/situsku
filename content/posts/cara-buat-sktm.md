@@ -2,10 +2,11 @@
 title: 'Kegunaan SKTM: Cara Membuat, Syarat, dan Prosedur'
 date: 2026-08-24
 draft: false
-featured_image: "/images/ilustrasi-sktm.webp"
 categories: ["Edukasi"]
 description: "Cara Buat SKTM, Panduan Lengkap dan Informasi Manfaatnya"
 tags: ["SKTM", "Pengurusan SKTM di Simeulue"]
+cover:
+  image: "/images/ilustrasi-sktm.webp"
 ---
 
 ## Cara Membuat SKTM (Surat Keterangan Tidak Mampu): Panduan Lengkap dari Desa hingga ke Manfaatnya

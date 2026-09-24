@@ -2,10 +2,11 @@
 title: 'Keragaman Rasa Kopi Sinabang dan Manfaat Kopi Bagi Tubuh'
 date: 2026-09-04
 draft: false
-featured_image: "/images/cofee.webp"
 categories: ["Edukasi"]
 description: "Manfaat Minum Kopi yang banyak belum diketahui, apakah mitos menahan ngantuk"
 tags: ["Minum Kopi", "Manfaat Kopi bagi Tubuh"]
+cover:
+  image: "/images/cofee.webp"
 ---
 
 ## Kalimat Sakti yang Tak Pernah Ketinggalan Zaman

@@ -2,10 +2,11 @@
 title: 'Umpan Jitu Dari Sendok: Cara Menangkap Gurita di Simeulue'
 date: 2026-08-10
 draft: false
-featured_image: "/images/ilustrasi-umpan-sendok.webp"
 categories: ["Cerita Menarik"]
 description: "Membedah kreativitas nelayan Simeulue meracik umpan gurita dari sendok makan, lengkap dengan spot gosong, sensasi strike, hingga dampak ekonominya."
 tags: ["gurita", "umpan sendok", "nelayan", "Simeulue", "kearifan lokal"]
+cover:
+  image: "/images/ilustrasi-umpan-sendok.webp"
 ---
 
 ## Menyusuri Gosong Bersama Pemburu Gurita Labuhan Bakti

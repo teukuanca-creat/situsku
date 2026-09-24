@@ -2,10 +2,11 @@
 title: 'Mengenal Otus Umbra, Burung Hantu Endemik Simeulue'
 date: 2026-07-19
 draft: false
-featured_image: "/images/cilepuk-simalur.webp"
 categories: ["Cerita Menarik"]
 description: "Mengenal Celepuk Simalur (Otus umbra), satwa endemik Pulau Simeulue. Temukan fakta sejarah ekspedisi, morfologi unik, suara vokal, dan status IUCN-nya."
 tags: ["Cilepuk Simalur", "Otus Umbra", "Simeulue", "Burung Endemik", "Satwa Langka"]
+cover:
+  image: "/images/cilepuk-simalur.webp"
 ---
 
 ## A. Penjaga Malam dari Rimba Simeulue

@@ -2,10 +2,11 @@
 title: 'Lobster Simeulue: Nostalgia Masa Kecil di Teluk Sinabang'
 date: 2026-09-05
 draft: false
-featured_image: "/images/lahok.webp"
 categories: ["Cerita Menarik"]
 description: "Mengenal lobster Simeulue dari kenangan masa kecil di Teluk Sinabang, jenis-jenisnya, harga pasar, hingga prospeknya di pasar dunia."
 tags: ["Lobster Simeulue", "Lobster di Teluk Sinabang", "Hasil Laut Simeulue", "Lahok", "Ekonomi Pesisir"]
+cover:
+  image: "/images/lahok.webp"
 ---
 
 Masa kecil dulu, sudut manapun bisa dibuat tempat bermain. Belum ada gawai, kita juga butuh teman disamping supaya selalu beriringan kemana-mana.

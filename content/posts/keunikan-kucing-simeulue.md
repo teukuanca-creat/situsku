@@ -2,10 +2,11 @@
 title: 'Keunikan Hewan: Kucing Simeulue, Aceh'
 date: 2026-08-04
 draft: false
-featured_image: "/images/kucing-simeulue.webp"
 categories: ["Cerita Menarik"]
 description: "Menyimak perilaku kucing lokal yang bernilai unik dan sarat makna. Dari kebiasaan berburu hingga cara mereka berkomunikasi dengan manusia. yuk simak!"
 tags: ["Kucing Simeulue", "Kucing Pengasuh"]
+cover:
+  image: "/images/kucing-simeulue.webp"
 ---
 ## Keunikan kucing Pesisir 
 

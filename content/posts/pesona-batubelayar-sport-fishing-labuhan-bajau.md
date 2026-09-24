@@ -3,10 +3,11 @@ title: 'Pesona Batubelayar & Sport Fishing Labuhan Bajau'
 permalink: '/2026/07/menjelajah-batubelayar-pesona-pesisir.html'
 date: 2026-07-20
 draft: false
-featured_image: "/images/ulul-falu.webp"
 categories: ["Travelling"]
 description: "Jelajahi pesona Batubelayar di Labuhan Bajau, Simeulue. Temukan keunikan dermaga batu alami, jejak transformasi wilayah, hingga surga sport fishing."
 tags: ["Pantai Simeulue", "Sport Fishing Simeulue"]
+cover:
+  image: "/images/ulul-falu.webp"
 ---
 
 Menghirup udara asin di pesisir Teupah Selatan hari ini seakan berhasil melempar ingatan saya ke belasan atau puluhan tahun yang lalu.

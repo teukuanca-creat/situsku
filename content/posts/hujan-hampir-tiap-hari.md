@@ -2,10 +2,11 @@
 title: 'Di Sinabang: Hujan Hampir Tiap Hari, Reda Sebentar Lalu Turun Lagi'
 date: 2026-09-15
 draft: false
-featured_image: "/images/musim-hujan.webp"
 categories: ["Cerita Menarik"]
 description: "Hujan di Sinabang hampir setiap hari, dan Kebiasaan Warga Sinabang Saat Musim Hujan"
 tags: ["Musim Hujan Lagi", "Sinabang hujan"]
+cover:
+  image: "/images/musim-hujan.webp"
 ---
 
 Sudah hampir sepekan ini Sinabang hujan terus. Polanya bukan hujan deras tanpa henti seharian, tapi hampir setiap hari ada. 

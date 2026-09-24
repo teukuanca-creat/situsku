@@ -2,10 +2,11 @@
 title: 'Di Balik Hujan Sinabang yang Dulu'
 date: 2026-09-19
 draft: false
-featured_image: "/images/ilustrasi-becak.webp"
 categories: ["Cerita Menarik"]
 description: "Memori becak di tengah hujan dulu di Sinabang. Catatan kerinduan akan masa lalu dan dinamika kemajuan di Pulau Simeulue."
 tags: ["BecakKlasik", "Musim Hujan Simeulue"]
+cover:
+  image: "/images/ilustrasi-becak.webp"
 ---
 
 "Cuaca mendung terus, sepertinya mau hujan lagi." Begitulah kalimat yang sering terdengar dari percakapan di warung kopi. 

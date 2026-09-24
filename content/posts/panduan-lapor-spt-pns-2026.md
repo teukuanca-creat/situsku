@@ -2,10 +2,11 @@
 title: 'Panduan Lapor SPT ASN 2026 via Coretax dari Pulau Terluar'
 date: 2026-08-28
 draft: false
-featured_image: "/images/spt.webp"
 categories: ["Regulasi"]
 description: "Panduan lengkap lapor SPT Tahunan 2026 bagi ASN di Simeulue menggunakan Coretax DJP, termasuk kendala akses dari pulau terluar, solusi teknis, dan langkah pengisiannya."
 tags: ["SPT", "Coretax", "ASN", "Simeulue", "pajak"]
+cover:
+  image: "/images/spt.webp"
 ---
 
 ## A. Pendahuluan

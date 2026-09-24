@@ -2,10 +2,11 @@
 title: 'Arti Melawat: Tradisi Kebersamaan Masyarakat Simeulue'
 date: 2026-09-04
 draft: false
-featured_image: "/images/lawat.webp"
 categories: ["Cerita Menarik"]
 description: "Mengulas arti melawat, tradisi kunjungan antardesa di Simeulue yang menyatukan olahraga, hiburan, dan nilai keagamaan."
 tags: ["Melawat", "Tradisi Melawat di Simeulue", "Kunjungan dan Kebersamaan di Simeulue"]
+cover:
+  image: "/images/lawat.webp"
 ---
 
 ## Tradisi Turun-temurun 

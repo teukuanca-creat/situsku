@@ -2,10 +2,11 @@
 title: 'Cara Mengisi SKP ASN 2026'
 date: 2026-08-23
 draft: false
-featured_image: "/images/ilustrasi-skp.webp"
 categories: ["Edukasi"]
 description: "Contoh SKP yang perlu kamu pahami cara penyusunanya"
 tags: ["SKP ASN 2026", "Contoh SKP"]
+cover:
+  image: "/images/ilustrasi-skp.webp"
 ---
 
 

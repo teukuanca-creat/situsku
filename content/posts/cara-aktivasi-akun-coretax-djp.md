@@ -2,10 +2,11 @@
 title: 'Aktivasi Coretax: Panduan Lengkap untuk Wajib Pajak'
 date: 2026-08-29
 draft: false
-featured_image: "/images/ilustrasi-aktivasi-pajak.webp"
 categories: ["Regulasi"]
 description: "Panduan aktivasi akun Coretax DJP untuk wajib pajak, disajikan dengan bahasa ringan dan perspektif dari Simeulue. Cocok untuk ASN, pelaku usaha, dan masyarakat umum."
 tags: ["Coretax", "Pajak", "DJP", "Wajib Pajak", "Simeulue"]
+cover:
+  image: "/images/ilustrasi-aktivasi-pajak.webp"
 ---
 
 ## Pendahuluan 

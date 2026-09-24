@@ -2,10 +2,11 @@
 title: 'Jejak Musik Band Simeulue: Panggung Hajatan Era 80-90 an'
 date: 2026-09-17
 draft: false
-featured_image: "/images/band-simeulue.webp"
 categories: ["Musik"]
 description: "Perjalanan Musik Band Pengiring yang pernah Merajai Panggung Hajatan di Simeulue"
 tags: ["Musik Simeulue", "Band Era 80 hingga 90 an"]
+cover:
+  image: "/images/band-simeulue.webp"
 ---
 
 ## Nostalgia group Band di Simeulue era 80 hingga 90-an
