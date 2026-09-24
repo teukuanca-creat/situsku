@@ -27,6 +27,14 @@ theme = 'PaperMod'
   showtoc = true
   tocopen = false
 
+  [params.shareButtons]
+    - "facebook"
+    - "x"
+    - "whatsapp"
+    - "telegram"
+    - "linkedin"
+    - "reddit"
+
   [params.assets]
     disableHLJS = true
     favicon = "/images/logo.webp"
