@@ -1,0 +1,62 @@
+/* ============================================================
+   SERAGAMKAN UKURAN GAMBAR UNGGULAN (COVER)
+   ============================================================ */
+
+.entry-cover,
+figure.entry-cover {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 0 12px 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+    border-radius: 8px !important;
+}
+
+.entry-cover img,
+figure.entry-cover img,
+.entry-cover a img {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 100% !important;
+    height: 220px !important;
+    max-height: 220px !important;
+    min-height: 220px !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    display: block !important;
+    border-radius: 8px !important;
+    margin: 0 !important;
+}
+
+.post-single .entry-cover,
+.post-single figure.entry-cover {
+    max-width: 100% !important;
+    margin: 0 0 20px 0 !important;
+}
+
+.post-single .entry-cover img,
+.post-single figure.entry-cover img {
+    width: 100% !important;
+    height: 350px !important;
+    max-height: 350px !important;
+    min-height: 350px !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    border-radius: 10px !important;
+}
+
+@media (max-width: 768px) {
+    .entry-cover img,
+    figure.entry-cover img {
+        height: 180px !important;
+        max-height: 180px !important;
+        min-height: 180px !important;
+    }
+    .post-single .entry-cover img,
+    .post-single figure.entry-cover img {
+        height: 220px !important;
+        max-height: 220px !important;
+        min-height: 220px !important;
+    }
+}
