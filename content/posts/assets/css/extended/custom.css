@@ -1,0 +1,39 @@
+/* ============================================================
+   SERAGAMKAN UKURAN GAMBAR UNGGULAN (COVER)
+   ============================================================ */
+
+/* Cover di homepage (list artikel) */
+.entry-cover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.entry-cover img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 8px;
+    display: block;
+}
+
+/* Cover di halaman artikel (single) */
+.post-single .entry-cover img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+}
+
+/* Responsive untuk HP */
+@media (max-width: 768px) {
+    .entry-cover img {
+        height: 180px;
+    }
+    .post-single .entry-cover img {
+        height: 220px;
+    }
+}
