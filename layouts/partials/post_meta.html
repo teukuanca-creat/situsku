@@ -1,0 +1,7 @@
+{{- if .Params.categories -}}
+<div class="post-meta-categories">
+  {{- range .Params.categories -}}
+  <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+  {{- end -}}
+</div>
+{{- end -}}
