@@ -2,6 +2,7 @@
 title: 'Di Balik Hujan Sinabang yang Dulu'
 date: 2026-09-19
 draft: false
+comments: true
 categories: ["Cerita Menarik"]
 description: "Memori becak di tengah hujan dulu di Sinabang. Catatan kerinduan akan masa lalu dan dinamika kemajuan di Pulau Simeulue."
 tags: ["BecakKlasik", "Musim Hujan Simeulue"]
