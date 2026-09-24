@@ -1,5 +1,5 @@
 ---
-title: 'Cerita Sejarah Batu Sandi Salapan Simeulue, Aceh'
+title: 'Cerita Sejarah Batu Sandi Salapan Simeulue'
 date: 2026-07-06
 draft: false
 featured_image: "/images/batu-sandi-salapan.webp"
