@@ -29,6 +29,7 @@ theme = 'PaperMod'
   hideSummary = false
   showtoc = true
   tocopen = false
+  comments = true
   ShowSearchIcon = true
 
   [params.assets]
@@ -40,6 +41,12 @@ theme = 'PaperMod'
   [params.homeInfoParams]
     Title = "Selamat Datang di teukuanca.com"
     Content = "Portal Artikel dan Berita"
+
+  [params.utterances]
+    repo = "teukuanca-creat/situsku"
+    issueTerm = "pathname"
+    theme = "github-light"
+    label = ""
 
   [[params.socialIcons]]
     name = "facebook"
