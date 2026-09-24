@@ -1,0 +1,15 @@
+{{- $image := "" -}}
+{{- $alt := "" -}}
+
+{{- if .Params.cover.image -}}
+    {{- $image = .Params.cover.image -}}
+    {{- $alt = .Params.cover.alt -}}
+{{- else if .Params.featured_image -}}
+    {{- $image = .Params.featured_image -}}
+{{- end -}}
+
+{{- if $image -}}
+<figure class="entry-cover">
+    <img loading="lazy" src="{{ $image | absURL }}" alt="{{ $alt | default .Title }}">
+</figure>
+{{- end -}}
