@@ -7,6 +7,9 @@ description: "Memori becak di tengah hujan dulu di Sinabang. Catatan kerinduan a
 tags: ["BecakKlasik", "Musim Hujan Simeulue"]
 cover:
   image: "/images/ilustrasi-becak.webp"
+related:
+  - /posts/bunga-raflesia/
+  - /posts/nandong-di-perairan-siumat/
 ---
 
 "Cuaca mendung terus, sepertinya mau hujan lagi." Begitulah kalimat yang sering terdengar dari percakapan di warung kopi. 
