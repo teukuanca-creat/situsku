@@ -28,6 +28,9 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Install PaperMod theme
+        run: git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
+
       - name: Build
         run: hugo --minify
 
@@ -46,5 +49,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
-        
