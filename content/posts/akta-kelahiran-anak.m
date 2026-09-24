@@ -44,49 +44,33 @@ Bahkan Format Akta Kelahiran pun kini sudah menggunakan **Tanda Tangan Elektroni
 
 ## Syarat Berkas yang Wajib Disiapkan
 
-Sebelum melangkahkan kaki dari rumah, pastikan seluruh berkas berikut sudah lengkap dalam satu map agar proses pengurusan berjalan lancar:
-* **Surat Keterangan Lahir** (Asli) dari Bidan, Dokter, Rumah Sakit (RSUD Simeulue), atau Puskesmas setempat. (Jika lahir di rumah tanpa bantuan medis, dapat diganti dengan mengisi formulir SPTJM Kelahiran F-2.03).
-  
-* **Kartu Keluarga (KK)** Orang Tua (Asli & Fotokopi).
-  
-* **KTP Elektronik** Kedua Orang Tua (Fotokopi).
-  
-* **Buku Nikah / Akta Perkawinan** Orang Tua (Cukup bawa fotokopi dan tunjukkan dokumen aslinya, tidak perlu dilegalisir lagi).
-  
-* **KTP Dua Orang Saksi** (Cukup fotokopi KTP kerabat/tetangga yang mengetahui kelahiran. Saksi tidak perlu ikut datang ke kantor dinas).
-  
-* **Formulir Pelaporan Kelahiran (F-2.01)** yang telah diisi dan ditandatangani. Formulir ini bisa didapatkan langsung di kantor desa atau loket Disdukcapil Kabupaten Simeulue.
+Bagi kamu yang ingin mengurus langsung melalui loket kantor Disdukcapil atau saat ada program Pelayanan Keliling (Jemput Bola) di desa/kecamatan, pastikan dahulu seluruh berkasnya sudah lengkap di dalam satu map agar prosesnya berjalan lancar, berkasnya berupa:
 
-## Panduan Langkah demi Langkah di Disdukcapil Simeulue dan Daerah Anda 
+- **Surat Keterangan Lahir (Asli)** dari Bidan, Dokter, RSUD Simeulue, atau Puskesmas setempat. (Jika lahir di rumah tanpa bantuan medis, dapat diganti dengan mengisi formulir SPTJM Kelahiran F-2.03).
+- **Kartu Keluarga (KK) Orang Tua** (Bawa dokumen Asli & 1 lembar Fotokopi).
+- **KTP Elektronik Kedua Orang Tua** (Cukup bawa 1 lembar Fotokopi).
+- **Buku Nikah / Akta Perkawinan Orang Tua** (Bawa dokumen Asli untuk ditunjukkan ke petugas dan 1 lembar Fotokopi).
+- **KTP Elektronik Dua Orang Saksi** (Cukup fotokopi KTP kerabat atau tetangga yang mengetahui kelahiran. Saksi tidak perlu ikut datang ke lokasi).
+- **Formulir Pelaporan Kelahiran (F-2.01)** yang telah diisi dan ditandatangani. Formulir fisik ini bisa didapatkan langsung di kantor desa atau loket pelayanan.
 
-### 1. Pengisian Formulir (Mandiri atau Lewat Desa)Proses:
-* Anda **tidak perlu** lagi meminta Surat Pengantar RT/RW atau Kepala Desa (Keuchik).
-  
-* **Langkah Nyata:** Langsung isi Formulir F-2.01 (Formulir Pelaporan Pencatatan Sipil).
-  
-* **Tips Lapangan:** Formulir ini bisa diunduh mandiri secara online, diambil langsung di loket Disdukcapil, atau meminta lembarannya ke Kantor Desa jika mereka menyediakan fungsi fasilitasi cetak formulir untuk warga.
+Kemudian, bagi kamu yang ingin mengurus dari **rumah** tanpa perlu mengantre, pengurusan bisa diakses melalui aplikasi **Identitas Kependudukan Digital (IKD)** atau layanan WhatsApp Resmi Disdukcapil.
 
-### 2. Pendaftaran dan Penyerahan Berkas
-Anda memiliki dua opsi jalur pendaftaran yang sah:
-**Jalur Tatap Muka (Offline):**
-Datang langsung ke Kantor Disdukcapil. Bagi warga Simeulue yang berasal dari kecamatan luar (seperti Alafan, Salang, atau Teupah Barat), sangat disarankan tiba sebelum pukul 09.00 WIB untuk menghindari jam pelayanan puncak dan antrean panjang.
+Sebelum memulai, siapkan dokumen dengan ketentuan berikut:
+- **Foto Dokumen Asli:** Kamu tidak memerlukan berkas fotokopi atau map fisik. Cukup foto dokumen asli kamu menggunakan kamera handphone (KTP orang tua, KTP saksi, Buku Nikah, KK, dan Surat Lahir). Pastikan gambar jernih, terang, dan tidak terpotong.
+- **Pengisian Formulir Digital:** Jika menggunakan aplikasi IKD, kamu tidak perlu mengisi formulir kertas F-2.01. Data tinggal dimasukkan langsung ke dalam kolom aplikasi di handphone saja. (Jika lewat WhatsApp, petugas akan mengirimkan format digital untuk Anda isi).
+- **Cetak Mandiri:** Setelah permohonan selesai diproses, dokumen Akta Kelahiran asli berformat PDF (dengan QR Code resmi) akan dikirim langsung ke email kita untuk dicetak mandiri menggunakan kertas HVS A4 80 gram.
 
-**Jalur Digital (Online):**
-Menggunakan aplikasi layanan administrasi kependudukan (Adminduk) resmi yang disediakan oleh Disdukcapil setempat jika tersedia, atau melalui situs daring resmi Kementerian Dalam Negeri. Seluruh berkas cukup dipindai (scan) atau difoto dengan jelas.
+### Panduan Lengkap Pengurusan Akta Kelahiran Disdukcapil Kabupaten Simeulue
+Kini masyarakat Kabupaten Simeulue semakin dimudahkan dalam mengurus administrasi kependudukan. Selain pelayanan tatap muka di kantor dinas, pemerintah juga menyediakan program Jemput Bola (Pelayanan Keliling) langsung ke desa/kecamatan, serta layanan pengurusan secara Online via Handphone (HP).Hebatnya lagi, pengurusan Akta Kelahiran kini menggunakan Sistem Terintegrasi. Dalam satu kali pengajuan, Anda akan langsung mendapatkan 3 dokumen sekaligus: Akta Kelahiran Anak, Kartu Keluarga (KK) terbaru, dan Kartu Identitas Anak (KIA).Silakan pilih salah satu metode pengurusan di bawah ini yang paling sesuai dengan kondisi Anda:
 
-### 3. Veriikasi Validasi oleh Petugas
-* **Proses:** Petugas loket atau sistem online akan memeriksa kelengkapan berkas fisik/digital Anda.
-  
-* **Pengecekan Sistem:** Petugas akan mencocokkan data pernikahan orang tua, Kartu Keluarga, dan data kelahiran anak langsung ke dalam basis data SIAK (Sistem Informasi Administrasi Kependudukan) Terpusat secara nasional.
-  
-* **Catatan Saksi:** Dua orang saksi kelahiran yang Anda cantumkan di formulir tidak perlu hadir secara fisik ke kantor dinas.
+#### METODE 1: PELAYANAN TATAP MUKA (LOKET KANTOR & JEMPUT BOLA)
+Metode ini ditujukan bagi Anda yang ingin mengurus langsung dengan mendatangi loket Kantor Disdukcapil di Kota Sinabang atau saat petugas mengadakan program Pelayanan Keliling (Jemput Bola) di desa/kecamatan Anda.Pastikan seluruh berkas berikut sudah lengkap di dalam satu map sebelum diserahkan kepada petugas:Surat Keterangan Lahir (Asli) dari Bidan, Dokter, RSUD Simeulue, atau Puskesmas setempat. (Jika anak lahir di rumah tanpa bantuan medis, berkas dapat diganti dengan mengisi Formulir SPTJM Kelahiran F-2.03).Kartu Keluarga (KK) Orang Tua (Bawa dokumen Asli dan 1 lembar Fotokopi).KTP Elektronik Kedua Orang Tua (Bawa masing-masing 1 lembar Fotokopi).Buku Nikah / Akta Perkawinan Orang Tua (Bawa dokumen Asli untuk ditunjukkan ke petugas dan 1 lembar Fotokopi).KTP Elektronik Dua Orang Saksi (Cukup sertakan 1 lembar fotokopi KTP kerabat atau tetangga yang mengetahui kelahiran anak. Saksi tidak perlu ikut hadir ke lokasi pelayanan).Formulir Pelaporan Kelahiran (F-2.01) yang telah diisi lengkap dan ditandatangani. Formulir fisik ini bisa didapatkan gratis di kantor desa atau loket pelayanan dinas.
 
-### 4. Penerbitan dan Pencetakan Dokumen (One-Day Service)
-* **Durasi:** Jika jaringan sistem pusat normal dan berkas lengkap, dokumen dapat langsung terbit dalam 1 hari kerja.
-  
-* **Format Baru:** Akta Kelahiran terbit menggunakan format Tanda Tangan Elektronik (TTE) berbentuk QR Code dan dicetak menggunakan kertas HVS Putih Polos A4 80 gram.
-  
-* **Kemudahan Cetak:** Karena sudah ber-TTE, Anda akan dikirimi file PDF resmi via email atau WhatsApp. Anda bisa mencetaknya sendiri di rumah atau di rental komputer terdekat tanpa perlu melegalisirnya lagi ke kantor dinas.
+#### METODE 2: PELAYANAN MANDIRI SECARA ONLINE (VIA HANDPHONE)
+Metode ini ditujukan bagi Anda yang ingin mengurus dokumen dari rumah tanpa perlu mengantre di kantor dinas. Pendaftaran online dapat diakses secara mandiri melalui aplikasi nasional Identitas Kependudukan Digital (IKD) yang dikeluarkan oleh Kemendagri.Perhatikan ketentuan pengurusan berbasis digital berikut:Foto Dokumen Asli (Bukan Fotokopi): Anda tidak memerlukan berkas fisik ataupun map. Cukup gunakan kamera handphone Anda untuk mengambil foto dari dokumen asli (KTP orang tua, KTP saksi, Buku Nikah, KK, dan Surat Lahir). Pastikan hasil foto jernih, terang, tidak blur, dan tidak terpotong.Pengisian Formulir Digital: Anda tidak perlu mencari formulir kertas F-2.01. Seluruh data anak, orang tua, dan saksi tinggal diinput langsung ke dalam kolom elektronik yang tersedia di layar aplikasi IKD Anda.Cetak Mandiri di Rumah: Setelah permohonan Anda diverifikasi dan disetujui oleh petugas, dokumen Akta Kelahiran resmi berformat PDF akan dikirimkan langsung ke email Anda.Sah Tanpa Legalisir: Karena sudah menggunakan Tanda Tangan Elektronik (TTE) berupa QR Code, dokumen tersebut sah secara hukum dan dapat Anda cetak mandiri menggunakan kertas putih polos jenis HVS A4 80 gram. Dokumen ini tidak memerlukan legalisir manual lagi untuk keperluan apa pun.
+
+#### SALURAN INFORMASI & BANTUAN PUBLIK
+Seluruh proses pengurusan Akta Kelahiran ini 100% GRATIS (tidak dipungut biaya apa pun). Jika Anda memiliki pertanyaan lebih lanjut mengenai persyaratan atau membutuhkan bantuan teknis terkait pendaftaran online, silakan hubungi saluran resmi berikut:Kontak Pelayanan (Pendaftaran Penduduk): 0812-6222-8226Situs Web Resmi: dukcapil.simeuluekab.go.idEmail Resmi: disdukcapil@simeuluekab.go.idJam Operasional Layanan: Senin - Jumat (08.00 - 17.00 WIB)
 
 ## Solusi Khusus: Skema SPTJM (Jika Berkas Tidak Lengkap)
 Banyak orang tua menunda mengurus Akta Kelahiran karena tidak memiliki Surat Keterangan Lahir dari bidan/dokter atau belum mempunyai Buku Nikah/Akta Perkawinan resmi.
