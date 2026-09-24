@@ -17,7 +17,7 @@ Belum lagi soal cuaca yang tak menentu, hingga bayangan antrean di kantor dinas.
 
 Tulisan ini, memberikan gambaran dan sekaligus panduan terkait pengurusan akta kelahiran si buah hati, yang kami rangkum dari berbagai sumber rujukan resmi. yuk simak ulasannya.
 
-## Lakukan Pembuatan di Awal Jangan Menunda?
+## Pentingnya Akta Kelahiran Anak, Jangan Menunda
 
 Akta kelahiran itu bukan sekadar dokumen pengisi lemari, tetapi sebuah syarat yang sangat krusial untuk pintu masuk ke setiap urusan lainnya yang sudah terkoneksi atau memerlukan akta kelahiran sebagai dokumen pendukung dalam pengurusan-pengurusan tertentu. 
 
@@ -32,12 +32,15 @@ Sebagai orang tua, menyegerakan pembuatan akta kelahiran adalah salah satu wujud
 
 ## Perkembangan Layanan Disdukcapil Saat Ini
 
-Jika dulu warga yang tinggal jauh dari pusat kota harus bolak-balik ke kantor dinas hanya untuk menanyakan syarat berkas, kini keadaannya sudah jauh lebih baik.
+Jika dulu, warga yang tinggal jauh dari pusat kota harus bolak-balik ke kantor dinas hanya untuk menanyakan syarat berkas, tetapi kini keadaannya sudah jauh lebih baik.
 
-Pemerintah melalui Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) di berbagai daerah terus membenahi akses pelayanan. 
-Selain pelayanan tatap muka di kantor pusat, kini banyak daerah menyediakan program jemput bola (pelayanan keliling) ke tingkat kecamatan atau desa, hingga layanan pengurusan secara online.
+Seperti kita saksikan sekarang ini, pemerintah melalui Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) di berbagai daerah terus membenahi akses pelayanan.
 
-Format Akta Kelahiran pun kini sudah menggunakan **Tanda Tangan Elektronik (TTE)** dengan **QR Code**. Dengan teknologi ini, dokumen dapat dicetak mandiri menggunakan kertas putih polos jenis HVS A4 80 gram dan sudah sah secara hukum, sehingga Anda tidak memerlukan legalisir manual lagi.
+Kini banyak daerah menyediakan program jemput bola (pelayanan keliling) ke tingkat kecamatan atau desa, hingga layanan pengurusan secara online. [Sumber](https://setda.bogorkab.go.id/berita/seputar-opd/jemput-bola-pelayanan-publik-kecamatan-jonggol-luncurkan-mobil-gercep-berkah-pasti)
+
+Meskipun tingkat penerapan program jemput bola di setiap daerah belum sepenuhnya merata, Disdukcapil Simeulue kini sudah mulai aktif turun ke desa-desa. Selain itu, masyarakat juga semakin dimudahkan karena pengurusan dokumen kini bisa diakses secara online langsung dari handphone (HP).
+
+Bahkan Format Akta Kelahiran pun kini sudah menggunakan **Tanda Tangan Elektronik (TTE)** dengan **QR Code**. Dengan teknologi ini, dokumen dapat dicetak mandiri menggunakan kertas putih polos jenis HVS A4 80 gram dan sudah sah secara hukum, sehingga kita tidak memerlukan legalisir manual lagi.
 
 ## Syarat Berkas yang Wajib Disiapkan
 
