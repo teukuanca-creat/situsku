@@ -7,6 +7,7 @@ description: "Panduan aktivasi akun Coretax DJP untuk wajib pajak, disajikan den
 tags: ["Coretax", "Pajak", "DJP", "Wajib Pajak", "Simeulue"]
 cover:
   image: "/images/ilustrasi-aktivasi-pajak.webp"
+comments: true
 ---
 
 ## Pendahuluan 

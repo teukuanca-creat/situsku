@@ -7,6 +7,7 @@ description: "Memahami institusi pemerintahan Adat Mukim yang ada di Aceh khusus
 tags: ["Mukim Aceh", "Mukim Simeulue"]
 cover:
   image: "/images/ilustrasi-mukim.webp"
+comments: true
 ---
 
 Sebagai warga yang hidup dan besar di Aceh, khususnya di Simeulue, saya sering mendengar istilah mukim, Imeum Mukim, atau Panglima Laot disebut dalam percakapan sehari-hari, entah saat ada sengketa tanah, urusan adat, atau sekadar obrolan warung kopi.

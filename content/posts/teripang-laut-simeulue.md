@@ -7,6 +7,7 @@ description: "Kenangan masa kecil melihat pengolahan teripang laut di tangkahan 
 tags: ["Teripang", "Hasil Laut", "Simeulue", "Tangkahan", "Ekonomi Pesisir"]
 cover:
   image: "/images/by-pexels.webp"
+comments: true
 ---
 
 ## Tempat Penampungan yang Melegenda 

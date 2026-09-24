@@ -7,6 +7,7 @@ description: "Kisah penemuan 11 titik bunga Rafflesia di hutan Simeulue, sekalig
 tags: ["Rafflesia", "Bunga Langka", "Biodiversitas Simeulue"]
 cover:
   image: "/images/bunga-raflesia.webp"
+comments: true
 ---
 
 ## Pertama Kali Terdengar Ditemukan di Simeulue 

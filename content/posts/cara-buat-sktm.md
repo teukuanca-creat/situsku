@@ -7,6 +7,7 @@ description: "Cara Buat SKTM, Panduan Lengkap dan Informasi Manfaatnya"
 tags: ["SKTM", "Pengurusan SKTM di Simeulue"]
 cover:
   image: "/images/ilustrasi-sktm.webp"
+comments: true
 ---
 
 ## Cara Membuat SKTM (Surat Keterangan Tidak Mampu): Panduan Lengkap dari Desa hingga ke Manfaatnya

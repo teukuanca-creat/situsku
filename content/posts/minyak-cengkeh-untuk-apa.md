@@ -7,6 +7,7 @@ description: "Minyak Cengkeh Untuk Apa: Perjalanan Masa Jaya Cengkeh di Simeulue
 tags: ["Minyak Cengkeh", "Cengkeh Simeulue"]
 cover:
   image: "/images/cengkeh.jpg"
+comments: true
 ---
 
 ## Memori Masa Silam 

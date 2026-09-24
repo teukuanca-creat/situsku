@@ -7,6 +7,7 @@ description: "Pengalaman pribadi mengunjungi Batu Sandi Salapan di Teupah Barat,
 tags: ["Batu Sandi Salapan", "Sejarah Simeulue"]
 cover:
   image: "/images/batu-sandi-salapan.webp"
+comments: true
 ---
 
 Sejak masih duduk di bangku sekolah, saya sudah sering mendengar cerita tentang Batu Sandi Salapan ini. Waktu itu ceritanya masih terasa seperti dongeng yang diceritakan mulut-kemulut, tentang batu-batu keramat di sebuah masjid tua di Simeulue. 

@@ -8,6 +8,7 @@ description: "Jelajahi pesona Batubelayar di Labuhan Bajau, Simeulue. Temukan ke
 tags: ["Pantai Simeulue", "Sport Fishing Simeulue"]
 cover:
   image: "/images/ulul-falu.webp"
+comments: true
 ---
 
 Menghirup udara asin di pesisir Teupah Selatan hari ini seakan berhasil melempar ingatan saya ke belasan atau puluhan tahun yang lalu.

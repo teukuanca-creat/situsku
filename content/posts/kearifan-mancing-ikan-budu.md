@@ -7,6 +7,7 @@ description: "Mengenal ikan budu (Sardinella fimbriata) dan predatornya, gabu, s
 tags: ["ikan budu", "teluk sinabang", "simeulue", "tradisi memancing"]
 cover:
   image: "/images/ilustrasi-jembatan-biru.webp"
+comments: true
 ---
 
 Pernahkah kamu mendengar nama ikan budu? Di Sinabang, ikan ini biasa hidup berkelompok dekat pantai dan teluk, kadang muncul di perairan tengah membentuk kawanan yang sangat padat.

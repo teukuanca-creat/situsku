@@ -8,6 +8,7 @@ description: "Ulasan batu akik & Giok Aceh: dari jenis, aspek hukum pertambangan
 tags: ["Batu Akik", "Aceh"]
 cover:
   image: "/images/ilustrasi-batu-akik.png"
+comments: true
 ---
 
 ## A.Latar Belakang 

@@ -7,6 +7,7 @@ description: "Contoh SKP yang perlu kamu pahami cara penyusunanya"
 tags: ["SKP ASN 2026", "Contoh SKP"]
 cover:
   image: "/images/ilustrasi-skp.webp"
+comments: true
 ---
 
 

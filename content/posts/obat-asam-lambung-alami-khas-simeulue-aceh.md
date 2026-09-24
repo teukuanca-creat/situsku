@@ -7,6 +7,7 @@ description: "Mengulas racikan obat tradisional asam lambung dari Desa Ulul Falu
 tags: ["Babadotan Daun Obat", "Penyakit Lambung"]
 cover:
   image: "/images/alongoibatu.webp"
+comments: true
 ---
 
 ## Ketika Asam Lambung Membawa Saya Pulang ke Teupah Selatan

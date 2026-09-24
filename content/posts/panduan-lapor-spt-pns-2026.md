@@ -7,6 +7,7 @@ description: "Panduan lengkap lapor SPT Tahunan 2026 bagi ASN di Simeulue menggu
 tags: ["SPT", "Coretax", "ASN", "Simeulue", "pajak"]
 cover:
   image: "/images/spt.webp"
+comments: true
 ---
 
 ## A. Pendahuluan

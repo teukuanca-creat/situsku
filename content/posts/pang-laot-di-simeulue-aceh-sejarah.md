@@ -7,6 +7,7 @@ description: "Mengulas sejarah, struktur, dan peran Panglima Laot di Simeulue se
 tags: ["Panglima Laot", "Simeulue", "Hukum Adat Laut", "Nelayan", "Kearifan Lokal"]
 cover:
   image: "/images/panglaot.webp"
+comments: true
 ---
 
 Kalau kamu tinggal di pulau Simeulue, ada satu hal yang mungkin pernah kamu sadari tetapi tak memikirkannya, misal ada hari-hari tertentu ketika nelayan tidak melaut sama sekali, bukan karena cuaca buruk, tapi karena memang "pantang". 

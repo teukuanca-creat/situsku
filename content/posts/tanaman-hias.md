@@ -7,6 +7,7 @@ description: "Mengenang musim tanaman hias yang pernah menjadi tren di Sinabang,
 tags: ["Tanaman Hias", "Tren", "Hobi", "Ekonomi Kreatif", "Kenangan"]
 cover:
   image: "/images/tanaman-hias-sinabang.webp"
+comments: true
 ---
 
 ## Musim yang Pernah Begitu Riuh

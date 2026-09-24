@@ -7,6 +7,7 @@ description: "Catatan santai mengenai dinamika kreator konten di Pulau Simeulue,
 tags: ["Kreator Konten", "Simeulue", "Digital", "Ekonomi Kreatif", "Literasi Digital"]
 cover:
   image: "/images/monetisasi.webp"
+comments: true
 ---
 
 ## Ketika Beranda Mulai Berwarna

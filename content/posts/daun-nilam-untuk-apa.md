@@ -7,6 +7,7 @@ description: "Semarak Nilam di Simeulue Sejak era 90an yang membangkitkan Ekonom
 tags: ["Nilam Simeulue", "Nilam Aceh"]
 cover:
   image: "/images/nilam.webp"
+comments: true
 ---
 
 ## Emas Hijau yang Pernah Menghiasi Setiap Sudut Kebun Simeulue

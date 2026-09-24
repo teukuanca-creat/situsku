@@ -7,6 +7,7 @@ description: "Perjalanan musik di Simeulue: Narasi The[A]Team Band-NuMetal Etnik
 tags: ["musik", "band simeulue"]
 cover:
   image: "/images/the-a-team.jpg"
+comments: true
 ---
 
 Distorsi gitar menggelegar, ketukan drum menghentak keras, tiba-tiba di tengah kebisingan itu muncul lantunan mantra Debus yang menggetarkan panggung dengan cara yang belum pernah terdengar sebelumnya di Simeulue.

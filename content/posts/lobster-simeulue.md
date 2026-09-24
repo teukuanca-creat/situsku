@@ -7,6 +7,7 @@ description: "Mengenal lobster Simeulue dari kenangan masa kecil di Teluk Sinaba
 tags: ["Lobster Simeulue", "Lobster di Teluk Sinabang", "Hasil Laut Simeulue", "Lahok", "Ekonomi Pesisir"]
 cover:
   image: "/images/lahok.webp"
+comments: true
 ---
 
 Masa kecil dulu, sudut manapun bisa dibuat tempat bermain. Belum ada gawai, kita juga butuh teman disamping supaya selalu beriringan kemana-mana.

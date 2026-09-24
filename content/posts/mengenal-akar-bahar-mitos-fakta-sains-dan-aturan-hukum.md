@@ -8,6 +8,7 @@ description: "Mengungkap identitas asli Akar Bahar dari ingatan mistis Simeulue,
 tags: ["akar bahar", "simeulue"]
 cover:
   image: "/images/ilustrasi-akar-bahar.png"
+comments: true
 ---
 
 ## A. Pengantar 

@@ -8,6 +8,7 @@ description: "Gempa Sumatera Utara menggetarkan Simeulue sore ini.  Ulasan priba
 tags: ["Gempa Aceh", "Gempa Sumut"]
 cover:
   image: "/images/gempa.webp"
+comments: true
 ---
 
 ## A. Kondisi Sore Hari ini

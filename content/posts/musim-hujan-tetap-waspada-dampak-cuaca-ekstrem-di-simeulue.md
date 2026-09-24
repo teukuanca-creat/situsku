@@ -8,6 +8,7 @@ description: "2026/08/musim-hujan-tetap-waspada-dampak-cuaca.html."
 tags: ["Musim Hujan", "Cuaca Ekstrem"]
 cover:
   image: "/images/musim-hujan-simeulue.webp"
+comments: true
 ---
 
 ## A. Latar Belakang 

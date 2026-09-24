@@ -7,6 +7,7 @@ description: "Esai humanis dinamika warga Sinabang, Simeulue menghadapi kemarau 
 tags: ["Kemarau", "Simeulue", "Kekurangan Air", "Nelayan", "Petani"]
 cover:
   image: "/images/foto-musim-panas.webp"
+comments: true
 ---
 
 ## A. Pendahuluan

@@ -7,6 +7,7 @@ description: "Membedah peran strategis Sekretaris Desa dalam tata kelola pemerin
 tags: ["sekdes", "pemerintahan desa", "PP 16 2026", "regulasi", "tata kelola"]
 cover:
   image: "/images/ilustrasi-sekdes.webp"
+comments: true
 ---
 
 ## Ketika Sekdes Jadi Penjaga Gerbang Administrasi Desa

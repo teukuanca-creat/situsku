@@ -8,6 +8,7 @@ description: "Bongkar rahasia rempah bumbu Mie Aceh otentik dan teknik masak api
 tags: ["Mie Aceh", "Simeulue, Aceh"]
 cover:
   image: "/images/ilustrasi-mie-aceh.jpg"
+comments: true
 ---
 ## A. Latar Belakang 
 Pulau Simeulue memang terpisah oleh lautan dengan daratan utama Aceh. Namun, dalam urusan budaya minum kopi dan kuliner, napas yang berdenyut di pulau ini tidak ada bedanya dengan daratan Aceh.

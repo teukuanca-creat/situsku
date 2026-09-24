@@ -9,6 +9,7 @@ description: "Panduan tumbuh kembang balita usia 18-24 bulan: Memahami motorik k
 tags: ["Motorik Anak", "Tumbuh Kembang Anak"]
 cover:
   image: "/images/motor.jpg"
+comments: true
 ---
 
 [![Tonton Video Ini](https://img.youtube.com/vi/E8wXusUv8qw/maxresdefault.jpg)](https://youtu.be/A7ROaSE6WOg?si=YSEC7pJpicHMHXMz)

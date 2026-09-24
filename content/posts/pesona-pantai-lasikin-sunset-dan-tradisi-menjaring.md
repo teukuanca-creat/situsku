@@ -8,6 +8,7 @@ description: "Keindahan salah satu pantai Simeulue yang dapat kamu tuju ketika b
 tags: ["Pantai Lasikin", "Sunset"]
 cover:
   image: "/images/lasikin.webp"
+comments: true
 ---
 
 ## Perbedaan Dulu dan Sekarang

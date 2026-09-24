@@ -7,6 +7,7 @@ description: "Menjelaskan secara ilmiah bagaimana musik mempengaruhi otak, emosi
 tags: ["musik", "otak", "produktivitas", "dopamin", "fokus"]
 cover:
   image: "/images/musik.webp"
+comments: true
 ---
 
 ## Kenapa Sebuah Lagu Bisa Bikin Dada Sesak Tiba-tiba?

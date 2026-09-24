@@ -8,6 +8,7 @@ description: "Mengulas pengetahuan seputar ekosistem, tata ruang hijau, serta sa
 tags: ["Pohon Pinggir Jalan Simeulue", "Kenapa Pohon Sama"]
 cover:
   image: "/images/pohon-pinggir-jalan.webp"
+comments: true
 ---
  
 Saat melintasi jalan raya, pernahkah kamu perhatikan jenis pohon peneduh terlihat hampir seragam?

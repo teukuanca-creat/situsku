@@ -8,6 +8,7 @@ description: "Kenangan saat-saat fenomena Malasin (pasang air laut) di era 90an 
 tags: ["Pasang Air Laut", "Malasin"]
 cover:
   image: "/images/ilustrasi-malasin.webp"
+comments: true
 ---
 
 Ada saat-saat dimana harus mengangkat barang-barang, menggulung celana masuk kerumah, menghalau sampah berjalan, bahkan berenang-renang. 

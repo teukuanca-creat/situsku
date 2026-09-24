@@ -7,6 +7,7 @@ description: "Catatan pengalaman mendengar Nandong dari perahu lain di perairan 
 tags: ["Nandong", "Tradisi Simeulue", "Budaya Simeulue"]
 cover:
   image: "/images/nandong.webp"
+comments: true
 ---
 
 Bagi masyarakat luar, Nandong mungkin terdengar asing. Ini adalah seni tutur khas Simeulue yang dilantunkan tanpa instrumen musik. Ritme dan temponya hanya mengandalkan tepukan manual atau hentakan ritmis, dibawakan secara bersahutan oleh para pelantunnya.

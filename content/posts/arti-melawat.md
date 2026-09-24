@@ -7,6 +7,7 @@ description: "Mengulas arti melawat, tradisi kunjungan antardesa di Simeulue yan
 tags: ["Melawat", "Tradisi Melawat di Simeulue", "Kunjungan dan Kebersamaan di Simeulue"]
 cover:
   image: "/images/lawat.webp"
+comments: true
 ---
 
 ## Tradisi Turun-temurun 

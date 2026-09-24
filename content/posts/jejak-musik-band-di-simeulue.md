@@ -7,6 +7,7 @@ description: "Perjalanan Musik Band Pengiring yang pernah Merajai Panggung Hajat
 tags: ["Musik Simeulue", "Band Era 80 hingga 90 an"]
 cover:
   image: "/images/band-simeulue.webp"
+comments: true
 ---
 
 ## Nostalgia group Band di Simeulue era 80 hingga 90-an

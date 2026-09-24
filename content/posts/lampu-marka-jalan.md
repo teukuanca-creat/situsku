@@ -7,6 +7,7 @@ description: "Mengenal Marka jalan:paku jalan yang banyak belum diketahui manfaa
 tags: ["manfaat paku jalan", "road stud"]
 cover:
   image: "/images/paku-jalan.webp"
+comments: true
 ---
 
 ## Benda Kecil di Tengah Jalan 

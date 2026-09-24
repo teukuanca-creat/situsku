@@ -7,6 +7,7 @@ description: "Banyak yang mengira surat pengantar RT/RW wajib untuk urus KTP dan
 tags: ["surat pengantar RT RW", "administrasi kependudukan", "dukcapil", "Gampong Aceh", "Simeulue"]
 cover:
   image: "/images/pengantar.webp"
+comments: true
 ---
 
 ## Urus KTP dan KK Masih Perlu Surat Pengantar RT/RW? Ternyata Enggak Selalu!

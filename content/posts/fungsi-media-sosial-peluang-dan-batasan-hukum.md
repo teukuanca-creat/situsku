@@ -7,6 +7,7 @@ description: "Membedah enam lanskap utama pemanfaatan media sosial, peluang ekon
 tags: ["media sosial", "UU ITE", "monetisasi", "ekonomi kreatif", "etika digital"]
 cover:
   image: "/images/ilustrasi-media-sosial.webp"
+comments: true
 ---
 
 ## A. Pendahuluan

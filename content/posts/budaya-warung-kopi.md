@@ -7,6 +7,7 @@ description: "Mengulas budaya warung kopi (warkop) di Kabupaten Simeulue bukan s
 tags: ["Warkop Sinabang", "Warung Kopi Simeulue"]
 cover:
   image: "/images/warkop.webp"
+comments: true
 ---
 
 ## Kilas Balik Warkop

@@ -8,6 +8,7 @@ description: "Potensi rumput laut Simeulue dari kenangan Labuhan Bajau hingga pe
 tags: ["Rumput Laut", "Simeulue"]
 cover:
   image: "/images/ilustrasi-rumput-laut-simeulue.webp"
+comments: true
 ---
 ## A. Latar Belakang 
 Sesekali ingatan saya menuju ke era 90an, ketika Pulau Simeulue masih berada dalam naungan Administrasi Kabupaten Aceh Barat.

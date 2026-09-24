@@ -7,6 +7,7 @@ description: "Panduan lengkap dan praktis penyeberangan kapal feri rute Pulau Si
 tags: ["Travelling Via Laut", "Perjalanan Laut", "Simeulue", "Feri", "Aceh"]
 cover:
   image: "/images/dishub-simeulue.jpg"
+comments: true
 ---
 
 ## Perjalanan Laut yang Berkesan Sejak Dahulu 

@@ -7,6 +7,7 @@ description: "Menyimak perilaku kucing lokal yang bernilai unik dan sarat makna.
 tags: ["Kucing Simeulue", "Kucing Pengasuh"]
 cover:
   image: "/images/kucing-simeulue.webp"
+comments: true
 ---
 ## Keunikan kucing Pesisir 
 

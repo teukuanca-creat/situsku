@@ -7,6 +7,7 @@ description: "Kisah usaha stiker kendaraan pertama di Simeulue, bertahan dari se
 tags: ["Buat Stiker", "Stiker Kenderaan Sinabang"]
 cover:
   image: "/images/aktivitas-stiker-sinabang.jpg"
+comments: true
 ---
 
 ## Tren Stiker dan Aksesoris di Sinabang 

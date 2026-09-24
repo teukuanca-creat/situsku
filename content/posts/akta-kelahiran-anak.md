@@ -7,6 +7,7 @@ description: "Panduan taktis dan jujur mengurus akte kelahiran di Simeulue. Dari
 tags: ["Akte Kelahiran", "Disdukcapil Simeulue", "bikin akta kelahiran", "Sinabang", "Panduan Orang Tua"]
 cover:
   image: "/images/akta-kelahiran.webp"
+comments: true
 ---
 
 ## Identitas si Kecil 

@@ -8,6 +8,7 @@ description: "Pengalaman pribadi menjelajahi Batu Siambung-Ambung Simeulue. Temu
 tags: ["traveling", "wisata simeulue"]
 cover:
   image: "/images/batu-siambung-ambung.webp"
+comments: true
 ---
 
 ## A. Pendahuluan 

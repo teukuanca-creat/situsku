@@ -7,6 +7,7 @@ description: "Memahami Apa Itu NPHD dan Regulasi Terbarunya yang harus Anda Keta
 tags: ["NPHD Hibah", "nphd singkatan dari"]
 cover:
   image: "/images/ilustrasi-nphd.webp"
+comments: true
 ---
 
 ## ​NPHD Hibah: Pengertian, Fungsi, Isi, dan Dasar Hukum Terbaru

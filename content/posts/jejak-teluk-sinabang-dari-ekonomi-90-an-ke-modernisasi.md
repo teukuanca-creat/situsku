@@ -8,6 +8,7 @@ description: "Sejarah dan Perubahan Lanskap Maritim Teluk Sinabang: Dari Pusat E
 tags: ["Teluk Sinabang", "Era 90 an"]
 cover:
   image: "/images/teluk-sinabang.webp"
+comments: true
 ---
 
 ## A. Latar Belakang 

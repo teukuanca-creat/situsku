@@ -7,6 +7,7 @@ description: "Ubah galeri HP menjadi aset digital ber-Dolar Pelajari panduan len
 tags: ["Peluang Cuan", "Media Penghasil Cuan"]
 cover:
   image: "/images/konten-photo.webp"
+comments: true
 ---
 
 ## Dari Foto HP Jadi Mesin Pendapatan Pasif

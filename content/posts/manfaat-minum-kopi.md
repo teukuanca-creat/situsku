@@ -7,6 +7,7 @@ description: "Manfaat Minum Kopi yang banyak belum diketahui, apakah mitos menah
 tags: ["Minum Kopi", "Manfaat Kopi bagi Tubuh"]
 cover:
   image: "/images/cofee.webp"
+comments: true
 ---
 
 ## Kalimat Sakti yang Tak Pernah Ketinggalan Zaman

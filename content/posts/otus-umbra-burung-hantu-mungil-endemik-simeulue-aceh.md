@@ -7,6 +7,7 @@ description: "Mengenal Celepuk Simalur (Otus umbra), satwa endemik Pulau Simeulu
 tags: ["Cilepuk Simalur", "Otus Umbra", "Simeulue", "Burung Endemik", "Satwa Langka"]
 cover:
   image: "/images/cilepuk-simalur.webp"
+comments: true
 ---
 
 ## A. Penjaga Malam dari Rimba Simeulue

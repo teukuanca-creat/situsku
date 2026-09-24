@@ -7,6 +7,7 @@ description: "Dapatkan informasi spot mancing di dermaga seputaran ibukota Simeu
 tags: ["memancing"]
 cover:
   image: "/images/spot-karang.jpg"
+comments: true
 ---
 
 ## Kenapa Memancing Selalu Punya Tempat di Hati Masyarakat?

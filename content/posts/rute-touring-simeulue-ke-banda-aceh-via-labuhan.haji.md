@@ -7,6 +7,7 @@ description: "Simak panduan lengkap touring motor dari Pulau Simeulue menembus p
 tags: ["Travelling", "Simeulue Banda Aceh", "Touring Motor", "Aceh", "Geurutee"]
 cover:
   image: "/images/touring.webp"
+comments: true
 --- 
 
 ## Perjalanan dengan Sepeda Motor ke Banda Aceh 

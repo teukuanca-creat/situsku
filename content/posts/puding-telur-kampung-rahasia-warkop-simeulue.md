@@ -7,6 +7,7 @@ description: "Mengulas manfaat puding telur ayam kampung, Menu khas warkop Simeu
 tags: ["puding", "telur ayam kampung", "warkop", "Simeulue", "kuliner Aceh"]
 cover:
   image: "/images/puding-telur-simeulue.webp"
+comments: true
 ---
 
 Kalau saya duduk di warung kopi manapun di Sinabang, ada satu menu yang hampir pasti muncul di meja sebelah, kadang pagi bahkan juga malam, segelas kecil cairan kuning kental yang mengepul. 

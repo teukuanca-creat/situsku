@@ -7,6 +7,7 @@ description: "Catatan pribadi tentang pengalaman tsunami 2004 di Simeulue, bagai
 tags: ["smong", "tsunami", "Simeulue", "kearifan lokal", "bencana"]
 cover:
   image: "/images/ombak.webp"
+comments: true
 ---
 
 Suatu sore, gerimis tipis menyelimuti kawasan teluk Sinabang, saya duduk di sebuah warung kopi tepat berada di Pelabuhan Cargo lama Simpang Lima.

@@ -7,6 +7,7 @@ description: "Membedah kreativitas nelayan Simeulue meracik umpan gurita dari se
 tags: ["gurita", "umpan sendok", "nelayan", "Simeulue", "kearifan lokal"]
 cover:
   image: "/images/ilustrasi-umpan-sendok.webp"
+comments: true
 ---
 
 ## Menyusuri Gosong Bersama Pemburu Gurita Labuhan Bakti
