@@ -119,3 +119,40 @@ figure.entry-cover img,
     background: #ffffff !important;
     color: #e60000 !important;
 }
+
+/* ============================================================
+   OPTIMASI GAMBAR - LAZY LOADING & RESPONSIF
+   ============================================================ */
+
+/* Semua gambar di artikel */
+.post-content img {
+    max-width: 100% !important;
+    height: auto !important;
+    border-radius: 8px !important;
+    margin: 20px auto !important;
+    display: block !important;
+}
+
+/* Gambar di cover (thumbnail) */
+.entry-cover img {
+    will-change: transform !important;
+    backface-visibility: hidden !important;
+}
+
+/* Optimasi rendering font */
+* {
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+}
+
+/* Percepat transisi hover */
+.entry-cover,
+.grid-card,
+.terms-tags a {
+    will-change: transform !important;
+}
+
+/* Preload penting */
+img {
+    content-visibility: auto !important;
+}
