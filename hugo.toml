@@ -37,19 +37,18 @@ theme = 'PaperMod'
     Title = "Selamat Datang di teukuanca.com"
     Content = "Portal Artikel dan Berita"
 
-  [params.socialIcons]
-    [[params.socialIcons]]
-      name = "facebook"
-      url = "https://www.facebook.com/share/14qwMpLdrqS/"
-    [[params.socialIcons]]
-      name = "x"
-      url = "https://x.com/teukuanca_TJI"
-    [[params.socialIcons]]
-      name = "instagram"
-      url = "https://www.instagram.com/ancateuku"
-    [[params.socialIcons]]
-      name = "youtube"
-      url = "https://youtube.com/@teukuancat.j.i8389"
+  [[params.socialIcons]]
+    name = "facebook"
+    url = "https://www.facebook.com/share/14qwMpLdrqS/"
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/teukuanca_TJI"
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/ancateuku"
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://youtube.com/@teukuancat.j.i8389"
 
 [menu]
   [[menu.main]]
