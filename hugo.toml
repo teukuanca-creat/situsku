@@ -3,6 +3,9 @@ languageCode = 'id-id'
 title = 'teukuanca.com'
 theme = 'PaperMod'
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -51,6 +54,11 @@ theme = 'PaperMod'
     url = "https://youtube.com/@teukuancat.j.i8389"
 
 [menu]
+  [[menu.main]]
+    identifier = "search"
+    name = "Cari"
+    url = "/search/"
+    weight = 5
   [[menu.main]]
     identifier = "categories"
     name = "Kategori"
