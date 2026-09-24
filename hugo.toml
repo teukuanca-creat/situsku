@@ -1,15 +1,74 @@
 baseURL = 'https://teukuanca.com/'
 languageCode = 'id-id'
 title = 'teukuanca.com'
-theme = 'mainroad'
+theme = 'PaperMod'
 
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [params]
+  env = "production"
   description = "Situs Web Resmi teukuanca.com"
   author = "Teuku Anca"
-  subtitle = "Portal Artikel dan Berita"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
 
+  [params.assets]
+    disableHLJS = true
+    favicon = "/images/logo.webp"
+    favicon16x16 = "/images/logo.webp"
+    favicon32x32 = "/images/logo.webp"
 
+  [params.homeInfoParams]
+    Title = "Selamat Datang di teukuanca.com"
+    Content = "Portal Artikel dan Berita"
+
+  [params.socialIcons]
+    [[params.socialIcons]]
+      name = "facebook"
+      url = "https://www.facebook.com/share/14qwMpLdrqS/"
+    [[params.socialIcons]]
+      name = "x"
+      url = "https://x.com/teukuanca_TJI"
+    [[params.socialIcons]]
+      name = "instagram"
+      url = "https://www.instagram.com/ancateuku"
+    [[params.socialIcons]]
+      name = "youtube"
+      url = "https://youtube.com/@teukuancat.j.i8389"
+
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "Kategori"
+    url = "/categories/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tag"
+    url = "/tags/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "Tentang Saya"
+    url = "/pages/tentang-saya/"
+    weight = 30
+  [[menu.main]]
+    identifier = "contact"
+    name = "Hubungi Saya"
+    url = "/pages/hubungi-saya/"
+    weight = 40
