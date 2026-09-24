@@ -1,0 +1,69 @@
+name: Convert Front Matter to PaperMod Format
+
+on:
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Convert featured_image to cover
+        run: |
+          python3 << 'PYEOF'
+          import re
+          import glob
+
+          count = 0
+          for filepath in glob.glob('content/**/*.md', recursive=True):
+              with open(filepath, 'r', encoding='utf-8') as f:
+                  content = f.read()
+              
+              if 'featured_image:' not in content:
+                  continue
+              
+              match = re.search(r'^featured_image:\s*(.+?)\s*$', content, re.MULTILINE)
+              if not match:
+                  continue
+              
+              image = match.group(1).strip().strip('"').strip("'")
+              
+              content = re.sub(r'^featured_image:.*\n', '', content, flags=re.MULTILINE)
+              
+              lines = content.split('\n')
+              start_idx = None
+              end_idx = None
+              for i, line in enumerate(lines):
+                  if line.strip() == '---':
+                      if start_idx is None:
+                          start_idx = i
+                      else:
+                          end_idx = i
+                          break
+              
+              if start_idx is not None and end_idx is not None:
+                  cover_block = ['cover:', '  image: "' + image + '"']
+                  lines = lines[:end_idx] + cover_block + lines[end_idx:]
+                  content = '\n'.join(lines)
+              
+              with open(filepath, 'w', encoding='utf-8') as f:
+                  f.write(content)
+              
+              count += 1
+              print('Converted: ' + filepath)
+          
+          print('Total: ' + str(count) + ' files converted')
+          PYEOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Convert featured_image to cover.image format"
+            git push
+          fi
