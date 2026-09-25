@@ -333,10 +333,17 @@ img {
 
 @media (max-width: 768px) {
     .header-logo {
-        height: 40px !important;
+        height: 48px !important;
+        max-width: 180px !important;
     }
 }
 
+@media (max-width: 480px) {
+    .header-logo {
+        height: 44px !important;
+        max-width: 160px !important;
+    }
+}
 /* ============================================================
    HOMEPAGE - RAPIKAN GRID POST
    ============================================================ */
