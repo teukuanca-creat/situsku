@@ -27,6 +27,26 @@
         <ul id="menu" class="menu">
             {{- range site.Menus.main }}
             {{- if ne .Identifier "search" }}
+            {{- if .HasChildren }}
+            <li class="menu-item has-children">
+                <a href="javascript:void(0)" class="menu-link-dropdown" title="{{ .Name }}">
+                    <span>
+                        {{- .Pre }}
+                        {{- .Name -}}
+                        {{ .Post -}}
+                    </span>
+                </a>
+                <ul class="submenu">
+                    {{- range .Children }}
+                    <li>
+                        <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
+                            <span>{{ .Name }}</span>
+                        </a>
+                    </li>
+                    {{- end }}
+                </ul>
+            </li>
+            {{- else }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
             <li>
@@ -38,6 +58,7 @@
                     </span>
                 </a>
             </li>
+            {{- end }}
             {{- end }}
             {{- end }}
         </ul>
@@ -55,6 +76,16 @@ document.addEventListener('DOMContentLoaded', function() {
             menu.classList.toggle('active');
         });
     }
+
+    var dropdownToggles = document.querySelectorAll('.has-children > a');
+    dropdownToggles.forEach(function(toggle) {
+        toggle.addEventListener('click', function(e) {
+            if (window.innerWidth <= 768) {
+                e.preventDefault();
+                toggle.parentElement.classList.toggle('open');
+            }
+        });
+    });
 });
 </script>
 <script>
