@@ -27,24 +27,6 @@
         <ul id="menu" class="menu">
             {{- range site.Menus.main }}
             {{- if ne .Identifier "search" }}
-            {{- if .HasChildren }}
-            <li class="menu-item menu-dropdown">
-                <details>
-                    <summary>
-                        {{- .Name -}} ▾
-                    </summary>
-                    <ul class="submenu">
-                        {{- range .Children }}
-                        <li>
-                            <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
-                                <span>{{ .Name }}</span>
-                            </a>
-                        </li>
-                        {{- end }}
-                    </ul>
-                </details>
-            </li>
-            {{- else }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
             <li>
@@ -56,7 +38,6 @@
                     </span>
                 </a>
             </li>
-            {{- end }}
             {{- end }}
             {{- end }}
         </ul>
