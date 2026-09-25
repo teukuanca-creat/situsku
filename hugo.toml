@@ -43,9 +43,9 @@ googleAnalytics = "G-B4RNLBDNYC"
     favicon16x16 = "/images/logo.webp"
     favicon32x32 = "/images/logo.webp"
 
-  [params.homeInfoParams]
-    Title = "Selamat Datang di teukuanca.com"
-    Content = "Portal Artikel dan Berita"
+    [params.homeInfoParams]
+    Title = ""
+    Content = ""
 
   [params.utterances]
     repo = "teukuanca-creat/situsku"
