@@ -81,25 +81,75 @@ googleAnalytics = "G-B4RNLBDNYC"
     weight = 5
     pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>'
   [[menu.main]]
-    identifier = "categories"
-    name = "Kategori"
-    url = "/categories/"
+    identifier = "cerita-menarik"
+    name = "Cerita Menarik"
+    url = "/categories/cerita-menarik/"
     weight = 10
   [[menu.main]]
-    identifier = "tags"
-    name = "Tag"
-    url = "/tags/"
+    identifier = "edukasi"
+    name = "Edukasi"
+    url = "/categories/edukasi/"
     weight = 20
+  [[menu.main]]
+    identifier = "regulasi"
+    name = "Regulasi"
+    url = "/categories/regulasi/"
+    weight = 30
+  [[menu.main]]
+    identifier = "travelling"
+    name = "Travelling"
+    url = "/categories/travelling/"
+    weight = 40
+  [[menu.main]]
+    identifier = "kuliner"
+    name = "Kuliner"
+    url = "/categories/kuliner/"
+    weight = 50
+  [[menu.main]]
+    identifier = "lainnya"
+    name = "Lainnya ▾"
+    url = "#"
+    weight = 60
+  [[menu.main]]
+    identifier = "musik"
+    name = "Musik"
+    url = "/categories/musik/"
+    weight = 61
+    parent = "lainnya"
+  [[menu.main]]
+    identifier = "seni"
+    name = "Seni"
+    url = "/categories/seni/"
+    weight = 62
+    parent = "lainnya"
+  [[menu.main]]
+    identifier = "kreativitas"
+    name = "Kreativitas"
+    url = "/categories/kreativitas/"
+    weight = 63
+    parent = "lainnya"
+  [[menu.main]]
+    identifier = "semua-kategori"
+    name = "Semua Kategori"
+    url = "/categories/"
+    weight = 64
+    parent = "lainnya"
+  [[menu.main]]
+    identifier = "semua-tag"
+    name = "Semua Tag"
+    url = "/tags/"
+    weight = 65
+    parent = "lainnya"
   [[menu.main]]
     identifier = "about"
     name = "Tentang Saya"
     url = "/pages/tentang-saya/"
-    weight = 30
+    weight = 70
   [[menu.main]]
     identifier = "contact"
     name = "Hubungi Saya"
     url = "/pages/hubungi-saya/"
-    weight = 40
+    weight = 80
   [[menu.footer]]
     identifier = "disclaimer"
     name = "Disclaimer"
