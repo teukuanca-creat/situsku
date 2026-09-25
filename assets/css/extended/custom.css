@@ -285,7 +285,7 @@ img {
         order: 1 !important;
     }
     
-    .header-nav .menu {
+        .header-nav .menu {
         display: none !important;
         flex-direction: column !important;
         width: 100% !important;
@@ -296,7 +296,11 @@ img {
         padding: 10px 0 !important;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1) !important;
         z-index: 99 !important;
-    }
+        max-height: 80vh !important;
+        overflow-y: auto !important;
+        overflow-x: hidden !important;
+        -webkit-overflow-scrolling: touch !important;
+        }
     
     .header-nav .menu.active {
         display: flex !important;
