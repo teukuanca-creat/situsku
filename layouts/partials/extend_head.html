@@ -1,2 +1,5 @@
-<meta name="google-adsense-account" content="ca-pub-4409260028071377">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4409260028071377" crossorigin="anonymous"></script>
+{{- $customCSS := resources.Get "css/extended/custom.css" -}}
+{{- if $customCSS -}}
+  {{- $customCSS = $customCSS | minify | fingerprint -}}
+  <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" integrity="{{ $customCSS.Data.Integrity }}">
+{{- end -}}
