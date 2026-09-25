@@ -43,10 +43,6 @@ googleAnalytics = "G-B4RNLBDNYC"
     favicon16x16 = "/images/logo.webp"
     favicon32x32 = "/images/logo.webp"
 
-    [params.homeInfoParams]
-    Title = ""
-    Content = ""
-
   [params.utterances]
     repo = "teukuanca-creat/situsku"
     issueTerm = "pathname"
