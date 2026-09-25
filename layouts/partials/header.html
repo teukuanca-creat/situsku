@@ -3,6 +3,9 @@
         <div class="logo">
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ site.Title }} (Alt + H)">{{ site.Title }}</a>
             <div class="logo-switches">
+                <a href="{{ "/search/" | absLangURL }}" class="search-icon" title="Cari" aria-label="Cari">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+                </a>
                 {{- if (not site.Params.disableThemeToggle) }}
                 <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg class="moon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"></path></svg>
@@ -21,9 +24,9 @@
         {{- $currentPage := . }}
         <ul id="menu" class="menu">
             {{- range site.Menus.main }}
+            {{- if ne .Identifier "search" }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
-            {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
             <li>
                 <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
                     <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
@@ -33,6 +36,7 @@
                     </span>
                 </a>
             </li>
+            {{- end }}
             {{- end }}
         </ul>
     </nav>
