@@ -560,3 +560,26 @@ article.post-single h1,
         gap: 10px !important;
     }
 }
+
+
+/* ============================================================
+   KATEGORI DI GRID HOMEPAGE
+   ============================================================ */
+
+.post-meta-info .post-categories {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+    font-weight: 500 !important;
+}
+
+.post-meta-info .post-categories a {
+    color: #e60000 !important;
+    text-decoration: none !important;
+    transition: all 0.2s ease !important;
+}
+
+.post-meta-info .post-categories a:hover {
+    color: #1f2937 !important;
+    text-decoration: underline !important;
+}
