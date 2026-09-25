@@ -934,3 +934,66 @@ body.list .post-entry .entry-content {
         font-size: 13px !important;
     }
 }
+
+   
+/* ============================================================
+   GRID 2 KOLOM DI DESKTOP (ALA LIPUTAN6)
+   ============================================================ */
+
+/* Hanya di desktop (layar lebar) */
+@media screen and (min-width: 769px) {
+    /* Bungkus semua card jadi grid */
+    body.list main.main {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        gap: 20px !important;
+        padding: 0 16px !important;
+        max-width: 1200px !important;
+        margin: 0 auto !important;
+    }
+    
+    /* Hero - full width, ambil 2 kolom */
+    body.list article.first-entry,
+    body.list .first-entry {
+        grid-column: 1 / -1 !important;
+        margin-bottom: 0 !important;
+    }
+    
+    /* Card artikel - masing-masing 1 kolom */
+    body.list article.post-entry,
+    body.list .post-entry {
+        margin: 0 !important;
+        height: 100% !important;
+        display: flex !important;
+        flex-direction: column !important;
+    }
+    
+    /* Pagination - full width */
+    body.list .page-footer,
+    body.list footer.page-footer {
+        grid-column: 1 / -1 !important;
+    }
+    
+    /* Card gambar - seragam */
+    body.list article.post-entry .entry-cover img,
+    body.list .post-entry .entry-cover img {
+        height: 220px !important;
+        max-height: 220px !important;
+        min-height: 220px !important;
+    }
+    
+    /* Card judul */
+    body.list article.post-entry h2,
+    body.list .post-entry h2 {
+        font-size: 18px !important;
+        line-height: 1.4 !important;
+    }
+    
+    /* Card ringkasan */
+    body.list article.post-entry .entry-content,
+    body.list .post-entry .entry-content {
+        font-size: 14px !important;
+        line-height: 1.6 !important;
+        flex-grow: 1 !important;
+    }
+}
