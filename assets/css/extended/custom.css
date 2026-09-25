@@ -480,3 +480,39 @@ article.post-single h1,
         padding: 6px 14px !important;
     }
 }
+
+
+/* ============================================================
+   META INFO - PENULIS & TANGGAL
+   ============================================================ */
+
+.post-meta-info {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 15px !important;
+    font-size: 13px !important;
+    color: #6b7280 !important;
+    margin-top: 10px !important;
+    align-items: center !important;
+}
+
+.post-author {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+    font-weight: 500 !important;
+}
+
+.post-date {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+}
+
+/* Responsive HP */
+@media (max-width: 768px) {
+    .post-meta-info {
+        font-size: 12px !important;
+        gap: 10px !important;
+    }
+}
