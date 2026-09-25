@@ -1,6 +1,6 @@
 <footer class="footer">
     <span>&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>. All rights reserved.</span>
-    {{- if .Site.Params.footerMenu }}
+    {{- if .Site.Menus.footer }}
     <ul class="footer-menu">
         {{- range .Site.Menus.footer }}
         <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
