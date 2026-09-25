@@ -776,3 +776,62 @@ h1 a[title*="rss"] {
 h1 > a > svg {
     display: none !important;
 }
+
+   
+/* ============================================================
+   HERO - ARTIKEL PERTAMA DI HOMEPAGE (HEADLINE BESAR)
+   ============================================================ */
+
+/* Artikel pertama - hero besar */
+body.list .first-entry {
+    margin-bottom: 30px !important;
+    padding: 0 !important;
+    border: none !important;
+    background: transparent !important;
+}
+
+body.list .first-entry .entry-cover {
+    margin: 0 0 16px 0 !important;
+}
+
+body.list .first-entry .entry-cover img {
+    height: 420px !important;
+    max-height: 420px !important;
+    min-height: 420px !important;
+    object-fit: cover !important;
+    border-radius: 12px !important;
+    width: 100% !important;
+}
+
+body.list .first-entry .entry-header h2,
+body.list .first-entry .entry-header h1 {
+    font-size: 28px !important;
+    line-height: 1.3 !important;
+    font-weight: 700 !important;
+    margin-bottom: 12px !important;
+}
+
+body.list .first-entry .entry-content {
+    font-size: 15px !important;
+    line-height: 1.6 !important;
+    color: #4b5563 !important;
+    margin: 10px 0 !important;
+}
+
+/* Responsive HP */
+@media (max-width: 768px) {
+    body.list .first-entry .entry-cover img {
+        height: 240px !important;
+        max-height: 240px !important;
+        min-height: 240px !important;
+    }
+    
+    body.list .first-entry .entry-header h2,
+    body.list .first-entry .entry-header h1 {
+        font-size: 22px !important;
+    }
+    
+    body.list .first-entry .entry-content {
+        font-size: 14px !important;
+    }
+}
