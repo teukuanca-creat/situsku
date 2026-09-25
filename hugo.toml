@@ -34,6 +34,9 @@ googleAnalytics = "G-B4RNLBDNYC"
   comments = true
   ShowSearchIcon = true
 
+  [params.header]
+    stickyMenu = true
+
   [params.assets]
     disableHLJS = true
     favicon = "/images/logo.webp"
@@ -71,6 +74,11 @@ googleAnalytics = "G-B4RNLBDNYC"
 
 [menu]
   [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
     identifier = "search"
     name = ""
     url = "/search/"
@@ -96,21 +104,6 @@ googleAnalytics = "G-B4RNLBDNYC"
     name = "Hubungi Saya"
     url = "/pages/hubungi-saya/"
     weight = 40
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-[minify]
-  disableCSS = false
-  disableHTML = false
-  disableJS = false
-  disableJSON = false
-  disableSVG = false
-  disableXML = false
-  minifyOutput = true
-
   [[menu.footer]]
     identifier = "disclaimer"
     name = "Disclaimer"
@@ -136,3 +129,17 @@ googleAnalytics = "G-B4RNLBDNYC"
     name = "Hubungi Saya"
     url = "/pages/hubungi-saya/"
     weight = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
