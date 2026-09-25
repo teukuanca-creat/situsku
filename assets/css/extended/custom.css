@@ -443,3 +443,40 @@ article.post-single h1,
     .first-entry .entry-header h2 {
         font-size: 24px !important;
     }
+
+
+/* ============================================================
+   TOMBOL BACA SELENGKAPNYA
+   ============================================================ */
+
+.read-more-wrapper {
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px dashed #e5e7eb;
+}
+
+.read-more-btn {
+    display: inline-block !important;
+    padding: 8px 16px !important;
+    background: #e60000 !important;
+    color: #ffffff !important;
+    font-size: 13px !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+    border-radius: 6px !important;
+    transition: all 0.3s ease !important;
+}
+
+.read-more-btn:hover {
+    background: #1f2937 !important;
+    color: #ffffff !important;
+    transform: translateX(3px) !important;
+}
+
+/* Responsive HP */
+@media (max-width: 768px) {
+    .read-more-btn {
+        font-size: 12px !important;
+        padding: 6px 14px !important;
+    }
+}
