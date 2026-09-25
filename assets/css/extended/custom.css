@@ -583,3 +583,88 @@ article.post-single h1,
     color: #1f2937 !important;
     text-decoration: underline !important;
 }
+
+
+/* ============================================================
+   SPASI PARAGRAF DI ARTIKEL (SINGLE POST)
+   ============================================================ */
+
+.post-single .post-content {
+    font-size: 17px !important;
+    line-height: 1.8 !important;
+    color: #2e2e33 !important;
+}
+
+.post-single .post-content p {
+    margin-top: 0 !important;
+    margin-bottom: 1.5em !important;
+    line-height: 1.8 !important;
+}
+
+/* Spasi antar heading */
+.post-single .post-content h2 {
+    margin-top: 2em !important;
+    margin-bottom: 0.8em !important;
+}
+
+.post-single .post-content h3 {
+    margin-top: 1.6em !important;
+    margin-bottom: 0.6em !important;
+}
+
+/* Spasi list (bullet / number) */
+.post-single .post-content ul,
+.post-single .post-content ol {
+    margin-top: 0 !important;
+    margin-bottom: 1.5em !important;
+    padding-left: 1.5em !important;
+}
+
+.post-single .post-content li {
+    margin-bottom: 0.5em !important;
+    line-height: 1.7 !important;
+}
+
+/* Spasi blockquote */
+.post-single .post-content blockquote {
+    margin: 1.5em 0 !important;
+    padding: 0.8em 1.2em !important;
+    border-left: 4px solid #e60000 !important;
+    background: #f9fafb !important;
+    border-radius: 4px !important;
+    font-style: italic !important;
+}
+
+/* Spasi gambar di dalam artikel */
+.post-single .post-content img {
+    margin: 1.5em auto !important;
+    display: block !important;
+    max-width: 100% !important;
+    height: auto !important;
+    border-radius: 8px !important;
+}
+
+/* Spasi link "Baca Juga" (bold quotes) */
+.post-single .post-content > p:has(> strong:first-child) {
+    margin-bottom: 1.5em !important;
+}
+
+/* Dark mode */
+[data-theme="dark"] .post-single .post-content {
+    color: #d1d5db !important;
+}
+
+[data-theme="dark"] .post-single .post-content blockquote {
+    background: #1f2937 !important;
+}
+
+/* Responsive HP */
+@media (max-width: 768px) {
+    .post-single .post-content {
+        font-size: 16px !important;
+        line-height: 1.75 !important;
+    }
+    .post-single .post-content p {
+        margin-bottom: 1.3em !important;
+    }
+}
