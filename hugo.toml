@@ -166,8 +166,6 @@ googleAnalytics = "G-B4RNLBDNYC"
     url = "/pages/hubungi-saya/"
     weight = 50
 
-
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
