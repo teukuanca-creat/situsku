@@ -106,50 +106,40 @@ googleAnalytics = "G-B4RNLBDNYC"
     url = "/categories/kuliner/"
     weight = 50
   [[menu.main]]
-    identifier = "lainnya"
-    name = "Lainnya ▾"
-    url = "#"
-    weight = 60
-  [[menu.main]]
     identifier = "musik"
     name = "Musik"
     url = "/categories/musik/"
-    weight = 61
-    parent = "lainnya"
+    weight = 60
   [[menu.main]]
     identifier = "seni"
     name = "Seni"
     url = "/categories/seni/"
-    weight = 62
-    parent = "lainnya"
+    weight = 70
   [[menu.main]]
     identifier = "kreativitas"
     name = "Kreativitas"
     url = "/categories/kreativitas/"
-    weight = 63
-    parent = "lainnya"
+    weight = 80
   [[menu.main]]
-    identifier = "semua-kategori"
+    identifier = "categories-all"
     name = "Semua Kategori"
     url = "/categories/"
-    weight = 64
-    parent = "lainnya"
+    weight = 90
   [[menu.main]]
-    identifier = "semua-tag"
+    identifier = "tags-all"
     name = "Semua Tag"
     url = "/tags/"
-    weight = 65
-    parent = "lainnya"
+    weight = 100
   [[menu.main]]
     identifier = "about"
     name = "Tentang Saya"
     url = "/pages/tentang-saya/"
-    weight = 70
+    weight = 110
   [[menu.main]]
     identifier = "contact"
     name = "Hubungi Saya"
     url = "/pages/hubungi-saya/"
-    weight = 80
+    weight = 120
   [[menu.footer]]
     identifier = "disclaimer"
     name = "Disclaimer"
@@ -175,6 +165,8 @@ googleAnalytics = "G-B4RNLBDNYC"
     name = "Hubungi Saya"
     url = "/pages/hubungi-saya/"
     weight = 50
+
+
 
 [markup]
   [markup.goldmark]
