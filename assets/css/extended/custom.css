@@ -332,3 +332,65 @@ img {
         height: 38px !important;
     }
 }
+
+
+/* ============================================================
+   HOMEPAGE - RAPIKAN GRID POST
+   ============================================================ */
+
+/* Kecilkan H1 di homepage */
+.first-entry h1 {
+    font-size: 22px !important;
+    line-height: 1.3 !important;
+    margin-bottom: 8px !important;
+}
+
+/* Kecilkan H2 di post entry */
+.post-entry h2 {
+    font-size: 18px !important;
+    line-height: 1.4 !important;
+    margin-bottom: 8px !important;
+}
+
+/* Ukuran gambar cover di homepage */
+.post-entry .entry-cover img {
+    height: 200px !important;
+    max-height: 200px !important;
+    min-height: 200px !important;
+    object-fit: cover !important;
+}
+
+/* Meta info (penulis & tanggal) */
+.entry-footer {
+    font-size: 13px !important;
+    color: #6b7280 !important;
+    margin-top: 8px !important;
+}
+
+/* Ringkasan artikel */
+.entry-content {
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+    color: #4b5563 !important;
+    margin: 10px 0 !important;
+}
+
+/* Tombol baca selengkapnya */
+.entry-link {
+    display: none !important;
+}
+
+/* Responsive HP */
+@media (max-width: 768px) {
+    .first-entry h1 {
+        font-size: 20px !important;
+    }
+    .post-entry h2 {
+        font-size: 16px !important;
+    }
+    .post-entry .entry-cover img {
+        height: 180px !important;
+        max-height: 180px !important;
+        min-height: 180px !important;
+    }
+}
