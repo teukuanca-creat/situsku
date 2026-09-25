@@ -74,6 +74,10 @@
     {{- partial "post_meta.html" . -}}
   </footer>
   {{- end }}
+  
+  <div class="read-more-wrapper">
+    <a href="{{ .Permalink }}" class="read-more-btn">Baca Selengkapnya →</a>
+  </div>
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
