@@ -777,8 +777,7 @@ h1 > a > svg {
     display: none !important;
 }
 
-   
-/* ============================================================
+   /* ============================================================
    HERO - ARTIKEL PERTAMA DI HOMEPAGE (ALA LIPUTAN6)
    ============================================================ */
 
@@ -788,8 +787,15 @@ body.list .first-entry,
 article.first-entry {
     display: block !important;
     margin: 0 0 24px 0 !important;
-    padding: 0 !important;
+    padding: 0 16px !important;
     background: transparent !important;
+}
+
+/* Hero - wrapper dalam */
+body.list article.first-entry > *,
+body.list .first-entry > *,
+article.first-entry > * {
+    max-width: 100% !important;
 }
 
 /* Hero - gambar */
@@ -806,7 +812,7 @@ article.first-entry .entry-cover img {
     display: block !important;
 }
 
-/* Hero - judul (JANGAN TERLALU BESAR) */
+/* Hero - judul */
 body.list article.first-entry h1,
 body.list article.first-entry h2,
 body.list .first-entry h1,
@@ -833,17 +839,16 @@ article.first-entry .entry-content {
    CARD ARTIKEL (SETELAH HERO) - ALA LIPUTAN6
    ============================================================ */
 
-/* Card - container dengan padding */
 body.list article.post-entry,
 body.list .post-entry {
     background: #ffffff !important;
     border-radius: 10px !important;
     padding: 14px !important;
-    margin-bottom: 18px !important;
+    margin: 0 16px 18px 16px !important;
     border: 1px solid #f0f0f0 !important;
+    display: block !important;
 }
 
-/* Card - gambar */
 body.list article.post-entry .entry-cover img,
 body.list .post-entry .entry-cover img {
     width: 100% !important;
@@ -854,7 +859,6 @@ body.list .post-entry .entry-cover img {
     border-radius: 8px !important;
 }
 
-/* Card - judul */
 body.list article.post-entry h2,
 body.list .post-entry h2 {
     font-size: 17px !important;
@@ -863,7 +867,6 @@ body.list .post-entry h2 {
     margin: 10px 0 8px 0 !important;
 }
 
-/* Card - ringkasan */
 body.list article.post-entry .entry-content,
 body.list .post-entry .entry-content {
     font-size: 14px !important;
@@ -877,7 +880,18 @@ body.list .post-entry .entry-content {
    ============================================================ */
 
 @media (max-width: 768px) {
-    /* Hero mobile */
+    body.list article.first-entry,
+    body.list .first-entry,
+    article.first-entry {
+        padding: 0 12px !important;
+    }
+    
+    body.list article.post-entry,
+    body.list .post-entry {
+        padding: 12px !important;
+        margin: 0 12px 14px 12px !important;
+    }
+    
     body.list article.first-entry .entry-cover img,
     body.list .first-entry .entry-cover img,
     article.first-entry .entry-cover img {
@@ -900,13 +914,6 @@ body.list .post-entry .entry-content {
     body.list .first-entry .entry-content,
     article.first-entry .entry-content {
         font-size: 13px !important;
-    }
-    
-    /* Card mobile */
-    body.list article.post-entry,
-    body.list .post-entry {
-        padding: 12px !important;
-        margin-bottom: 14px !important;
     }
     
     body.list article.post-entry .entry-cover img,
