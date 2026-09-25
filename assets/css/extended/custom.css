@@ -936,53 +936,44 @@ body.list .post-entry .entry-content {
 }
 
    /* ============================================================
-   GRID 2 KOLOM DI DESKTOP - OVERRIDE MAIN-WIDTH
+   GRID 2 KOLOM - BREAKPOINT KECIL (600px)
    ============================================================ */
 
-@media (min-width: 900px) {
-    /* Perlebar container utama */
+@media (min-width: 600px) {
+    /* Override main-width PaperMod */
     :root {
         --main-width: 1200px !important;
     }
     
-    body.list .main,
-    body.list main.main,
-    main.main {
+    /* Main container jadi grid 2 kolom */
+    body.list .main {
         max-width: 1200px !important;
         width: 100% !important;
         padding: 0 20px !important;
         margin: 0 auto !important;
         display: grid !important;
         grid-template-columns: 1fr 1fr !important;
-        gap: 24px !important;
+        gap: 20px !important;
         box-sizing: border-box !important;
     }
     
     /* Hero full width */
-    body.list main.main article.first-entry,
-    body.list .main article.first-entry,
-    main.main article.first-entry {
+    body.list .main > article.first-entry {
         grid-column: 1 / -1 !important;
         width: 100% !important;
-        margin: 0 0 10px 0 !important;
+        margin: 0 0 20px 0 !important;
     }
     
     /* Card artikel */
-    body.list main.main article.post-entry,
-    body.list .main article.post-entry,
-    main.main article.post-entry {
+    body.list .main > article.post-entry {
         width: 100% !important;
         margin: 0 !important;
-        display: flex !important;
-        flex-direction: column !important;
-        height: 100% !important;
         box-sizing: border-box !important;
     }
     
     /* Pagination full width */
-    body.list main.main .page-footer,
-    body.list .main .page-footer,
-    main.main .page-footer {
+    body.list .main > footer.page-footer,
+    body.list .main > .page-footer {
         grid-column: 1 / -1 !important;
     }
 }
