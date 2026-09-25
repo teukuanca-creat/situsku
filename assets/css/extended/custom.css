@@ -124,7 +124,6 @@ figure.entry-cover img,
    OPTIMASI GAMBAR - LAZY LOADING & RESPONSIF
    ============================================================ */
 
-/* Semua gambar di artikel */
 .post-content img {
     max-width: 100% !important;
     height: auto !important;
@@ -133,30 +132,25 @@ figure.entry-cover img,
     display: block !important;
 }
 
-/* Gambar di cover (thumbnail) */
 .entry-cover img {
     will-change: transform !important;
     backface-visibility: hidden !important;
 }
 
-/* Optimasi rendering font */
 * {
     -webkit-font-smoothing: antialiased !important;
     -moz-osx-font-smoothing: grayscale !important;
 }
 
-/* Percepat transisi hover */
 .entry-cover,
 .grid-card,
 .terms-tags a {
     will-change: transform !important;
 }
 
-/* Preload penting */
 img {
     content-visibility: auto !important;
 }
-
 
 /* ============================================================
    FOOTER - MENU VERTIKAL & COPYRIGHT DI TENGAH
@@ -171,7 +165,6 @@ img {
     text-align: center !important;
 }
 
-/* Menu Footer - Vertikal Satu per Satu */
 .footer-menu {
     list-style: none !important;
     padding: 0 !important;
@@ -202,7 +195,6 @@ img {
     text-decoration: underline !important;
 }
 
-/* Copyright - Tetap di Tengah */
 .footer-copyright {
     display: block !important;
     font-size: 13px !important;
@@ -217,9 +209,57 @@ img {
     text-decoration: none !important;
 }
 
-/* Responsive untuk HP */
 @media (max-width: 768px) {
     .footer-menu a {
         font-size: 13px !important;
     }
 }
+
+/* ============================================================
+   STICKY HEADER - PAKSA STICKY
+   ============================================================ */
+
+.header {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 100 !important;
+    background: var(--theme) !important;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1) !important;
+}
+
+/* ============================================================
+   HAMBURGER DI HP - PAKSA MUNCUL
+   ============================================================ */
+
+@media (max-width: 768px) {
+    .header-nav .menu {
+        display: none !important;
+        flex-direction: column !important;
+        width: 100% !important;
+        position: absolute !important;
+        top: 100% !important;
+        left: 0 !important;
+        background: var(--theme) !important;
+        padding: 10px 0 !important;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1) !important;
+    }
+    
+    .header-nav .menu.active {
+        display: flex !important;
+    }
+    
+    .header-nav .menu li {
+        width: 100% !important;
+        padding: 0 !important;
+    }
+    
+    .header-nav .menu a {
+        display: block !important;
+        width: 100% !important;
+        padding: 12px 20px !important;
+    }
+    
+    .header-nav .nav-toggle {
+        display: flex !important;
+    }
+   }
