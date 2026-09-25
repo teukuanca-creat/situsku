@@ -385,3 +385,51 @@ body.list .post-entry h2 {
     z-index: 10 !important;
     opacity: 0 !important;
    }
+
+
+/* ============================================================
+   PAKSA H1 KEMBALI BESAR
+   ============================================================ */
+
+/* H1 di halaman artikel (single) */
+.post-single h1,
+.post-single .post-title,
+article.post-single h1 {
+    font-size: 32px !important;
+    line-height: 1.3 !important;
+    font-weight: 700 !important;
+    margin-bottom: 15px !important;
+}
+
+/* H1 di homepage (first entry) */
+.first-entry h1,
+.home-info h1 {
+    font-size: 28px !important;
+    line-height: 1.3 !important;
+    font-weight: 700 !important;
+    margin-bottom: 10px !important;
+}
+
+/* H1 umum (untuk halaman lain) */
+h1 {
+    font-size: 32px !important;
+    line-height: 1.3 !important;
+}
+
+/* Responsive HP */
+@media (max-width: 768px) {
+    .post-single h1,
+    .post-single .post-title,
+    article.post-single h1 {
+        font-size: 24px !important;
+    }
+    
+    .first-entry h1,
+    .home-info h1 {
+        font-size: 22px !important;
+    }
+    
+    h1 {
+        font-size: 24px !important;
+    }
+}
