@@ -320,10 +320,10 @@ img {
    ============================================================ */
 
 .header-logo {
-    height: 45px !important;
+    height: 50px !important;
     width: auto !important;
     display: block !important;
-    max-width: 180px !important;
+    max-width: 185px !important;
     object-fit: contain !important;
 }
 
@@ -417,10 +417,10 @@ article.post-single h1,
 /* H1 di HOMEPAGE (judul post terbaru paling atas) - KECIL */
 .first-entry h1,
 .home-info h1 {
-    font-size: 22px !important;
-    line-height: 1.4 !important;
-    font-weight: 600 !important;
-    margin-bottom: 10px !important;
+    font-size: 28px !important;
+    line-height: 1.2 !important;
+    font-weight: 700 !important;
+    margin-bottom: 12px !important;
 }
 
 /* Responsive HP */
@@ -441,6 +441,6 @@ article.post-single h1,
     
     .first-entry h1,
     .home-info h1 {
-        font-size: 20px !important;
+        font-size: 24px !important;
     }
    }
