@@ -386,6 +386,7 @@ body.list .post-entry h2 {
    UKURAN JUDUL - SPESIFIK PER HALAMAN
    ============================================================ */
 
+/* H1 di HALAMAN ARTIKEL - BESAR */
 .post-single h1,
 article.post-single h1,
 .post-single .post-title {
@@ -395,6 +396,7 @@ article.post-single h1,
     margin-bottom: 16px !important;
 }
 
+/* H2 di HALAMAN ARTIKEL - lebih kecil dari H1 */
 .post-single h2 {
     font-size: 24px !important;
     line-height: 1.35 !important;
@@ -403,6 +405,7 @@ article.post-single h1,
     margin-bottom: 12px !important;
 }
 
+/* H3 di HALAMAN ARTIKEL */
 .post-single h3 {
     font-size: 20px !important;
     line-height: 1.4 !important;
@@ -411,6 +414,7 @@ article.post-single h1,
     margin-bottom: 10px !important;
 }
 
+/* Judul di HOMEPAGE (post terbaru paling atas) - H2 */
 .first-entry h2,
 .first-entry .entry-header h2 {
     font-size: 28px !important;
@@ -419,6 +423,7 @@ article.post-single h1,
     margin-bottom: 12px !important;
 }
 
+/* Responsive HP */
 @media (max-width: 768px) {
     .post-single h1,
     article.post-single h1,
@@ -434,11 +439,11 @@ article.post-single h1,
         font-size: 18px !important;
     }
     
-    .first-entry h2,
+        .first-entry h2,
     .first-entry .entry-header h2 {
         font-size: 24px !important;
     }
-}
+
 
 /* ============================================================
    TOMBOL BACA SELENGKAPNYA
@@ -468,12 +473,14 @@ article.post-single h1,
     transform: translateX(3px) !important;
 }
 
+/* Responsive HP */
 @media (max-width: 768px) {
     .read-more-btn {
         font-size: 12px !important;
         padding: 6px 14px !important;
     }
 }
+
 
 /* ============================================================
    META INFO - PENULIS & TANGGAL
@@ -502,12 +509,14 @@ article.post-single h1,
     gap: 4px !important;
 }
 
+/* Responsive HP */
 @media (max-width: 768px) {
     .post-meta-info {
         font-size: 12px !important;
         gap: 10px !important;
     }
 }
+
 
 /* ============================================================
    META INFO DI SINGLE POST
@@ -552,6 +561,7 @@ article.post-single h1,
     }
 }
 
+
 /* ============================================================
    KATEGORI DI GRID HOMEPAGE
    ============================================================ */
@@ -574,6 +584,7 @@ article.post-single h1,
     text-decoration: underline !important;
 }
 
+
 /* ============================================================
    SPASI PARAGRAF DI ARTIKEL (SINGLE POST)
    ============================================================ */
@@ -590,6 +601,7 @@ article.post-single h1,
     line-height: 1.8 !important;
 }
 
+/* Spasi antar heading */
 .post-single .post-content h2 {
     margin-top: 2em !important;
     margin-bottom: 0.8em !important;
@@ -600,6 +612,7 @@ article.post-single h1,
     margin-bottom: 0.6em !important;
 }
 
+/* Spasi list (bullet / number) */
 .post-single .post-content ul,
 .post-single .post-content ol {
     margin-top: 0 !important;
@@ -612,6 +625,7 @@ article.post-single h1,
     line-height: 1.7 !important;
 }
 
+/* Spasi blockquote */
 .post-single .post-content blockquote {
     margin: 1.5em 0 !important;
     padding: 0.8em 1.2em !important;
@@ -621,6 +635,7 @@ article.post-single h1,
     font-style: italic !important;
 }
 
+/* Spasi gambar di dalam artikel */
 .post-single .post-content img {
     margin: 1.5em auto !important;
     display: block !important;
@@ -629,10 +644,12 @@ article.post-single h1,
     border-radius: 8px !important;
 }
 
+/* Spasi link "Baca Juga" (bold quotes) */
 .post-single .post-content > p:has(> strong:first-child) {
     margin-bottom: 1.5em !important;
 }
 
+/* Dark mode */
 [data-theme="dark"] .post-single .post-content {
     color: #d1d5db !important;
 }
@@ -641,6 +658,7 @@ article.post-single h1,
     background: #1f2937 !important;
 }
 
+/* Responsive HP */
 @media (max-width: 768px) {
     .post-single .post-content {
         font-size: 16px !important;
@@ -651,41 +669,88 @@ article.post-single h1,
     }
 }
 
+
 /* ============================================================
-   DROPDOWN MENU - PAKAI <details>/<summary>
+   DROPDOWN MENU "LAINNYA"
    ============================================================ */
 
-/* Desktop */
+.menu .submenu {
+    position: relative;
+}
+
+.menu .submenu > ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--theme);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    border-radius: 6px;
+    padding: 8px 0;
+    min-width: 200px;
+    z-index: 999;
+    list-style: none;
+    margin: 0;
+}
+
+.menu .submenu:hover > ul {
+    display: block;
+}
+
+.menu .submenu > ul li {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.menu .submenu > ul li a {
+    display: block;
+    padding: 10px 20px;
+    font-size: 14px;
+    color: var(--primary);
+    text-decoration: none;
+    transition: background 0.2s ease;
+}
+
+.menu .submenu > ul li a:hover {
+    background: var(--tertiary);
+    color: var(--primary);
+}
+
+/* HP - menu dropdown jadi bagian dari hamburger */
+@media (max-width: 768px) {
+    .menu .submenu > ul {
+        position: static;
+        box-shadow: none;
+        background: transparent;
+        padding-left: 20px;
+    }
+    .menu .submenu:hover > ul {
+        display: none;
+    }
+    .menu .submenu > ul li a {
+        font-size: 13px;
+        padding: 8px 20px;
+    }
+}
+
+
+/* ============================================================
+   DROPDOWN MENU
+   ============================================================ */
+
+/* DESKTOP - hover untuk buka */
 @media screen and (min-width: 769px) {
-    .menu-dropdown {
+    .menu .has-children {
         position: relative !important;
     }
 
-    .menu-dropdown details {
-        position: relative;
+    .menu .has-children > a {
+        cursor: pointer !important;
     }
 
-    .menu-dropdown summary {
-        display: block;
-        padding: 12px 20px;
-        cursor: pointer;
-        font-size: 14px;
-        font-weight: 600;
-        list-style: none;
-        color: var(--primary);
-        user-select: none;
-    }
-
-    .menu-dropdown summary::-webkit-details-marker {
-        display: none;
-    }
-
-    .menu-dropdown summary::marker {
-        display: none;
-        content: "";
-    }
-
-    .menu-dropdown .submenu {
+    .menu .has-children .submenu {
+        display: none !important;
         position: absolute !important;
         top: 100% !important;
         left: 0 !important;
@@ -694,19 +759,23 @@ article.post-single h1,
         box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
         border-radius: 6px !important;
         padding: 8px 0 !important;
+        z-index: 9999 !important;
         list-style: none !important;
         margin: 0 !important;
-        z-index: 9999 !important;
     }
 
-    .menu-dropdown .submenu li {
+    .menu .has-children:hover .submenu {
+        display: block !important;
+    }
+
+    .menu .has-children .submenu li {
         display: block !important;
         width: 100% !important;
         margin: 0 !important;
         padding: 0 !important;
     }
 
-    .menu-dropdown .submenu li a {
+    .menu .has-children .submenu li a {
         display: block !important;
         padding: 10px 20px !important;
         color: var(--primary) !important;
@@ -715,53 +784,34 @@ article.post-single h1,
         white-space: nowrap !important;
     }
 
-    .menu-dropdown .submenu li a:hover {
+    .menu .has-children .submenu li a:hover {
         background: var(--tertiary) !important;
     }
 }
 
-/* HP */
+/* HP - submenu inline, terbuka saat klik */
 @media screen and (max-width: 768px) {
-    .menu-dropdown summary {
-        display: block;
-        padding: 12px 20px;
-        cursor: pointer;
-        font-size: 14px;
-        font-weight: 600;
-        list-style: none;
-        color: var(--primary);
-    }
-
-    .menu-dropdown summary::-webkit-details-marker {
-        display: none;
-    }
-
-    .menu-dropdown summary::marker {
-        display: none;
-        content: "";
-    }
-
-    .menu-dropdown .submenu {
+    .menu .has-children .submenu {
+        display: none !important;
         position: static !important;
         padding-left: 20px !important;
         background: transparent !important;
         box-shadow: none !important;
+        border-radius: 0 !important;
         list-style: none !important;
         margin: 0 !important;
     }
 
-    .menu-dropdown .submenu li {
+    .menu .has-children.open .submenu {
+        display: block !important;
+    }
+
+    .menu .has-children .submenu li {
         display: block !important;
         width: 100% !important;
         margin: 0 !important;
         padding: 0 !important;
     }
 
-    .menu-dropdown .submenu li a {
-        display: block !important;
-        padding: 8px 20px !important;
-        font-size: 13px !important;
-        color: var(--primary) !important;
-        text-decoration: none !important;
-    }
-       }
+.menu .has-children .submenu li a {
+        display: block !impor
