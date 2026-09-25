@@ -516,3 +516,47 @@ article.post-single h1,
         gap: 10px !important;
     }
 }
+
+
+/* ============================================================
+   META INFO DI SINGLE POST
+   ============================================================ */
+
+.post-meta-info-single {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 15px !important;
+    font-size: 14px !important;
+    color: #6b7280 !important;
+    margin-top: 15px !important;
+    margin-bottom: 20px !important;
+    padding-bottom: 15px !important;
+    border-bottom: 1px solid #e5e7eb !important;
+    align-items: center !important;
+}
+
+.post-meta-info-single .post-author {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+    font-weight: 500 !important;
+}
+
+.post-meta-info-single .post-date {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+}
+
+.post-meta-info-single .post-categories {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+}
+
+@media (max-width: 768px) {
+    .post-meta-info-single {
+        font-size: 13px !important;
+        gap: 10px !important;
+    }
+}
