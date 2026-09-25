@@ -935,79 +935,49 @@ body.list .post-entry .entry-content {
     }
 }
 
-   
-/* ============================================================
-   GRID 2 KOLOM DI DESKTOP (ALA LIPUTAN6) - FORCE
+   /* ============================================================
+   GRID 2 KOLOM DI DESKTOP - PAKAI CSS COLUMNS
    ============================================================ */
 
-/* Hanya di desktop (layar lebar) */
-@media screen and (min-width: 769px) {
-    /* Force main jadi grid */
+@media (min-width: 600px) {
+    /* Container utama jadi 2 kolom */
     body.list main.main,
     body.list main,
     main.main {
-        display: grid !important;
-        grid-template-columns: 1fr 1fr !important;
-        gap: 20px !important;
+        column-count: 2 !important;
+        column-gap: 20px !important;
+        display: block !important;
         padding: 0 16px !important;
         max-width: 1200px !important;
         margin: 0 auto !important;
-        width: 100% !important;
-        box-sizing: border-box !important;
     }
     
-    /* Hero - full width */
-    body.list article.first-entry,
-    body.list .first-entry,
-    article.first-entry {
-        grid-column: 1 / -1 !important;
-        margin-bottom: 0 !important;
+    /* Hero - full width (ambil 2 kolom) */
+    body.list main.main article.first-entry,
+    body.list main article.first-entry,
+    main.main article.first-entry {
+        column-span: all !important;
+        margin-bottom: 24px !important;
+        display: block !important;
         width: 100% !important;
-        padding: 0 !important;
     }
     
-    /* Card artikel - 1 kolom masing-masing */
-    body.list article.post-entry,
-    body.list .post-entry,
-    article.post-entry {
-        margin: 0 !important;
-        height: 100% !important;
-        display: flex !important;
-        flex-direction: column !important;
+    /* Card artikel */
+    body.list main.main article.post-entry,
+    body.list main article.post-entry,
+    main.main article.post-entry {
+        break-inside: avoid !important;
+        page-break-inside: avoid !important;
+        display: block !important;
+        margin: 0 0 20px 0 !important;
         width: 100% !important;
-        box-sizing: border-box !important;
     }
     
     /* Pagination - full width */
-    body.list .page-footer,
-    body.list footer.page-footer,
-    body.list nav.pagination {
-        grid-column: 1 / -1 !important;
-    }
-    
-    /* Card gambar seragam */
-    body.list article.post-entry .entry-cover img,
-    body.list .post-entry .entry-cover img,
-    article.post-entry .entry-cover img {
-        height: 220px !important;
-        max-height: 220px !important;
-        min-height: 220px !important;
-    }
-    
-    /* Card judul */
-    body.list article.post-entry h2,
-    body.list .post-entry h2,
-    article.post-entry h2 {
-        font-size: 18px !important;
-        line-height: 1.4 !important;
-    }
-    
-    /* Card ringkasan */
-    body.list article.post-entry .entry-content,
-    body.list .post-entry .entry-content,
-    article.post-entry .entry-content {
-        font-size: 14px !important;
-        line-height: 1.6 !important;
-        flex-grow: 1 !important;
+    body.list main.main .page-footer,
+    body.list main .page-footer,
+    main.main .page-footer {
+        column-span: all !important;
+        margin-top: 20px !important;
     }
 }
