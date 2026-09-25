@@ -118,3 +118,39 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 })();
 </script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var dropdownItems = document.querySelectorAll('.has-children');
+    
+    dropdownItems.forEach(function(item) {
+        var submenu = item.querySelector('.submenu');
+        var toggle = item.querySelector('a');
+        
+        // DESKTOP: hover untuk buka
+        item.addEventListener('mouseenter', function() {
+            if (window.innerWidth > 768 && submenu) {
+                submenu.style.display = 'block';
+            }
+        });
+        
+        item.addEventListener('mouseleave', function() {
+            if (window.innerWidth > 768 && submenu) {
+                submenu.style.display = 'none';
+            }
+        });
+        
+        // HP: klik untuk toggle
+        toggle.addEventListener('click', function(e) {
+            if (window.innerWidth <= 768 && submenu) {
+                e.preventDefault();
+                if (submenu.style.display === 'block') {
+                    submenu.style.display = 'none';
+                } else {
+                    submenu.style.display = 'block';
+                }
+            }
+        });
+    });
+});
+</script>
