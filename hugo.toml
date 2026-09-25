@@ -2,6 +2,7 @@ baseURL = 'https://teukuanca.com/'
 languageCode = 'id-id'
 title = 'teukuanca.com'
 theme = 'PaperMod'
+googleAnalytics = "G-B4RNLBDNYC"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -47,6 +48,12 @@ theme = 'PaperMod'
     issueTerm = "pathname"
     theme = "github-light"
     label = ""
+
+  [params.analytics]
+    google.SiteVerificationTag = ""
+
+  [params.verification]
+    bing = "90402F60B1603D31F7A14C9E4C1A0E47"
 
   [[params.socialIcons]]
     name = "facebook"
