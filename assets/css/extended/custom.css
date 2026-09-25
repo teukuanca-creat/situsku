@@ -779,59 +779,151 @@ h1 > a > svg {
 
    
 /* ============================================================
-   HERO - ARTIKEL PERTAMA DI HOMEPAGE (HEADLINE BESAR)
+   HERO - ARTIKEL PERTAMA DI HOMEPAGE (ALA LIPUTAN6)
    ============================================================ */
 
-/* Artikel pertama - hero besar */
-body.list .first-entry {
-    margin-bottom: 30px !important;
+/* Hero - container */
+body.list article.first-entry,
+body.list .first-entry,
+article.first-entry {
+    display: block !important;
+    margin: 0 0 24px 0 !important;
     padding: 0 !important;
-    border: none !important;
     background: transparent !important;
 }
 
-body.list .first-entry .entry-cover {
-    margin: 0 0 16px 0 !important;
-}
-
-body.list .first-entry .entry-cover img {
-    height: 420px !important;
-    max-height: 420px !important;
-    min-height: 420px !important;
-    object-fit: cover !important;
-    border-radius: 12px !important;
+/* Hero - gambar */
+body.list article.first-entry .entry-cover img,
+body.list .first-entry .entry-cover img,
+article.first-entry .entry-cover img {
     width: 100% !important;
+    height: 400px !important;
+    max-height: 400px !important;
+    min-height: 400px !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    border-radius: 10px !important;
+    display: block !important;
 }
 
-body.list .first-entry .entry-header h2,
-body.list .first-entry .entry-header h1 {
-    font-size: 28px !important;
+/* Hero - judul (JANGAN TERLALU BESAR) */
+body.list article.first-entry h1,
+body.list article.first-entry h2,
+body.list .first-entry h1,
+body.list .first-entry h2,
+article.first-entry h1,
+article.first-entry h2 {
+    font-size: 26px !important;
     line-height: 1.3 !important;
     font-weight: 700 !important;
-    margin-bottom: 12px !important;
+    margin: 12px 0 10px 0 !important;
 }
 
-body.list .first-entry .entry-content {
+/* Hero - ringkasan */
+body.list article.first-entry .entry-content,
+body.list .first-entry .entry-content,
+article.first-entry .entry-content {
     font-size: 15px !important;
+    line-height: 1.7 !important;
+    color: #4b5563 !important;
+    margin: 8px 0 !important;
+}
+
+/* ============================================================
+   CARD ARTIKEL (SETELAH HERO) - ALA LIPUTAN6
+   ============================================================ */
+
+/* Card - container dengan padding */
+body.list article.post-entry,
+body.list .post-entry {
+    background: #ffffff !important;
+    border-radius: 10px !important;
+    padding: 14px !important;
+    margin-bottom: 18px !important;
+    border: 1px solid #f0f0f0 !important;
+}
+
+/* Card - gambar */
+body.list article.post-entry .entry-cover img,
+body.list .post-entry .entry-cover img {
+    width: 100% !important;
+    height: 200px !important;
+    max-height: 200px !important;
+    min-height: 200px !important;
+    object-fit: cover !important;
+    border-radius: 8px !important;
+}
+
+/* Card - judul */
+body.list article.post-entry h2,
+body.list .post-entry h2 {
+    font-size: 17px !important;
+    line-height: 1.4 !important;
+    font-weight: 600 !important;
+    margin: 10px 0 8px 0 !important;
+}
+
+/* Card - ringkasan */
+body.list article.post-entry .entry-content,
+body.list .post-entry .entry-content {
+    font-size: 14px !important;
     line-height: 1.6 !important;
     color: #4b5563 !important;
-    margin: 10px 0 !important;
+    margin: 6px 0 !important;
 }
 
-/* Responsive HP */
+/* ============================================================
+   RESPONSIVE HP (ALA LIPUTAN6 MOBILE)
+   ============================================================ */
+
 @media (max-width: 768px) {
-    body.list .first-entry .entry-cover img {
-        height: 240px !important;
-        max-height: 240px !important;
-        min-height: 240px !important;
+    /* Hero mobile */
+    body.list article.first-entry .entry-cover img,
+    body.list .first-entry .entry-cover img,
+    article.first-entry .entry-cover img {
+        height: 220px !important;
+        max-height: 220px !important;
+        min-height: 220px !important;
     }
     
-    body.list .first-entry .entry-header h2,
-    body.list .first-entry .entry-header h1 {
-        font-size: 22px !important;
+    body.list article.first-entry h1,
+    body.list article.first-entry h2,
+    body.list .first-entry h1,
+    body.list .first-entry h2,
+    article.first-entry h1,
+    article.first-entry h2 {
+        font-size: 20px !important;
+        margin: 10px 0 8px 0 !important;
     }
     
-    body.list .first-entry .entry-content {
-        font-size: 14px !important;
+    body.list article.first-entry .entry-content,
+    body.list .first-entry .entry-content,
+    article.first-entry .entry-content {
+        font-size: 13px !important;
+    }
+    
+    /* Card mobile */
+    body.list article.post-entry,
+    body.list .post-entry {
+        padding: 12px !important;
+        margin-bottom: 14px !important;
+    }
+    
+    body.list article.post-entry .entry-cover img,
+    body.list .post-entry .entry-cover img {
+        height: 180px !important;
+        max-height: 180px !important;
+        min-height: 180px !important;
+    }
+    
+    body.list article.post-entry h2,
+    body.list .post-entry h2 {
+        font-size: 15px !important;
+        margin: 8px 0 6px 0 !important;
+    }
+    
+    body.list article.post-entry .entry-content,
+    body.list .post-entry .entry-content {
+        font-size: 13px !important;
     }
 }
