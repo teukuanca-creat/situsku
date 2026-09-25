@@ -937,46 +937,58 @@ body.list .post-entry .entry-content {
 
    
 /* ============================================================
-   GRID 2 KOLOM DI DESKTOP (ALA LIPUTAN6)
+   GRID 2 KOLOM DI DESKTOP (ALA LIPUTAN6) - FORCE
    ============================================================ */
 
 /* Hanya di desktop (layar lebar) */
 @media screen and (min-width: 769px) {
-    /* Bungkus semua card jadi grid */
-    body.list main.main {
+    /* Force main jadi grid */
+    body.list main.main,
+    body.list main,
+    main.main {
         display: grid !important;
         grid-template-columns: 1fr 1fr !important;
         gap: 20px !important;
         padding: 0 16px !important;
         max-width: 1200px !important;
         margin: 0 auto !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
     }
     
-    /* Hero - full width, ambil 2 kolom */
+    /* Hero - full width */
     body.list article.first-entry,
-    body.list .first-entry {
+    body.list .first-entry,
+    article.first-entry {
         grid-column: 1 / -1 !important;
         margin-bottom: 0 !important;
+        width: 100% !important;
+        padding: 0 !important;
     }
     
-    /* Card artikel - masing-masing 1 kolom */
+    /* Card artikel - 1 kolom masing-masing */
     body.list article.post-entry,
-    body.list .post-entry {
+    body.list .post-entry,
+    article.post-entry {
         margin: 0 !important;
         height: 100% !important;
         display: flex !important;
         flex-direction: column !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
     }
     
     /* Pagination - full width */
     body.list .page-footer,
-    body.list footer.page-footer {
+    body.list footer.page-footer,
+    body.list nav.pagination {
         grid-column: 1 / -1 !important;
     }
     
-    /* Card gambar - seragam */
+    /* Card gambar seragam */
     body.list article.post-entry .entry-cover img,
-    body.list .post-entry .entry-cover img {
+    body.list .post-entry .entry-cover img,
+    article.post-entry .entry-cover img {
         height: 220px !important;
         max-height: 220px !important;
         min-height: 220px !important;
@@ -984,14 +996,16 @@ body.list .post-entry .entry-content {
     
     /* Card judul */
     body.list article.post-entry h2,
-    body.list .post-entry h2 {
+    body.list .post-entry h2,
+    article.post-entry h2 {
         font-size: 18px !important;
         line-height: 1.4 !important;
     }
     
     /* Card ringkasan */
     body.list article.post-entry .entry-content,
-    body.list .post-entry .entry-content {
+    body.list .post-entry .entry-content,
+    article.post-entry .entry-content {
         font-size: 14px !important;
         line-height: 1.6 !important;
         flex-grow: 1 !important;
