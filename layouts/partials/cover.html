@@ -1,0 +1,15 @@
+{{- $image := "" -}}
+{{- $alt := "" -}}
+
+{{- if .cxt.Params.cover.image -}}
+    {{- $image = .cxt.Params.cover.image -}}
+    {{- $alt = .cxt.Params.cover.alt -}}
+{{- else if .cxt.Params.featured_image -}}
+    {{- $image = .cxt.Params.featured_image -}}
+{{- end -}}
+
+{{- if $image -}}
+<figure class="entry-cover">
+    <img loading="lazy" src="{{ $image | absURL }}" alt="{{ $alt | default .cxt.Title }}">
+</figure>
+{{- end -}}
