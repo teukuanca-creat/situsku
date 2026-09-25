@@ -737,3 +737,35 @@ article.post-single h1,
 
 .menu .has-children .submenu li a {
         display: block !impor
+
+   
+/* ============================================================
+   SEMBUNYIKAN IKON RSS
+   ============================================================ */
+
+/* Ikon RSS di halaman kategori & tag */
+.page-header a[href$="index.xml"],
+.page-header a[href*=".xml"],
+.page-header svg + a,
+h1 a[href*=".xml"],
+h1 a[href$="index.xml"],
+.list-page-header a[href*=".xml"],
+a[href$="index.xml"] {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    opacity: 0 !important;
+}
+
+/* Ikon RSS di dalam h1 */
+h1 svg[class*="rss"],
+h1 a[title*="RSS"],
+h1 a[title*="rss"] {
+    display: none !important;
+}
+
+/* Fallback: sembunyikan ikon RSS spesifik PaperMod */
+h1 > a > svg {
+    display: none !important;
+}
