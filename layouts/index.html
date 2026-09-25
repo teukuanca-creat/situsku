@@ -12,16 +12,14 @@
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
-{{- else }} {{/* if not profileMode */}}
+{{- else }}
 
 {{- if not .IsHome | and .Title }}
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
   <h1>{{ .Title }}</h1>
   {{- if .Description }}
-  <div class="post-description">
-    {{ .Description }}
-  </div>
+  <div class="post-description">{{ .Description }}</div>
   {{- end }}
 </header>
 {{- end }}
@@ -47,76 +45,114 @@
 {{- partial "home_info.html" . }}
 {{- end }}
 
-{{- $term := .Data.Term }}
-{{- range $index, $page := $paginator.Pages }}
+{{- if and .IsHome (eq $paginator.PageNumber 1) }}
 
-{{- $class := "post-entry" }}
+  {{- $allPosts := $paginator.Pages }}
+  {{- $hero := index $allPosts 0 }}
+  {{- $rest := after 1 $allPosts }}
 
-{{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
-{{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
-{{- $class = "first-entry" }}
-{{- end }}
-
-<article class="{{ $class }}">
-  {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
-  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-  
-  <header class="entry-header">
-    {{- if (and $.IsHome (eq $index 0) (not $user_preferred)) }}
-    <h1 class="entry-hint-parent">
-      {{- .Title }}
-    </h1>
-    {{- else }}
-    <h2 class="entry-hint-parent">
-      {{- .Title }}
-    </h2>
+  <article class="first-entry">
+    {{- $isHidden := ($hero.Param "cover.hiddenInList") | default ($hero.Param "cover.hidden") | default false }}
+    {{- partial "cover.html" (dict "cxt" $hero "IsSingle" false "isHidden" $isHidden) }}
+    <header class="entry-header">
+      <h1 class="entry-hint-parent">{{ $hero.Title }}</h1>
+    </header>
+    {{- if (ne ($hero.Param "hideSummary") true) }}
+    <div class="entry-content">
+      <p>{{ $hero.Summary | plainify | htmlUnescape }}{{ if $hero.Truncated }}...{{ end }}</p>
+    </div>
     {{- end }}
-  </header>
+    <footer class="entry-footer">
+      <div class="post-meta-info">
+        <span class="post-author">Oleh: {{ $hero.Params.author | default site.Params.author }}</span>
+        <span class="post-date">_{{ $hero.Date.Format "02 January 2006" }}</span>
+        {{- if $hero.Params.categories }}
+        <span class="post-categories">
+          _{{ range $i, $cat := $hero.Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}/">{{ $cat }}</a>{{ end }}
+        </span>
+        {{- end }}
+      </div>
+    </footer>
+    <div class="read-more-wrapper">
+      <a href="{{ $hero.Permalink }}" class="read-more-btn">Baca Selengkapnya →</a>
+    </div>
+    <a class="entry-link" aria-label="post link to {{ $hero.Title | plainify }}" href="{{ $hero.Permalink }}"></a>
+  </article>
 
-  {{- if (ne (.Param "hideSummary") true) }}
-  <div class="entry-content">
-    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+  <div class="posts-grid">
+    {{- range $rest }}
+    <article class="post-entry">
+      {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+      {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+      <header class="entry-header">
+        <h2 class="entry-hint-parent">{{ .Title }}</h2>
+      </header>
+      {{- if (ne (.Param "hideSummary") true) }}
+      <div class="entry-content">
+        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+      </div>
+      {{- end }}
+      <footer class="entry-footer">
+        <div class="post-meta-info">
+          <span class="post-author">Oleh: {{ .Params.author | default site.Params.author }}</span>
+          <span class="post-date">_{{ .Date.Format "02 January 2006" }}</span>
+          {{- if .Params.categories }}
+          <span class="post-categories">
+            _{{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}/">{{ $cat }}</a>{{ end }}
+          </span>
+          {{- end }}
+        </div>
+      </footer>
+      <div class="read-more-wrapper">
+        <a href="{{ .Permalink }}" class="read-more-btn">Baca Selengkapnya →</a>
+      </div>
+      <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+    </article>
+    {{- end }}
   </div>
+
+{{- else }}
+
+  {{- range $index, $page := $paginator.Pages }}
+  <article class="post-entry">
+    {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+    {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+    <header class="entry-header">
+      <h2 class="entry-hint-parent">{{ .Title }}</h2>
+    </header>
+    {{- if (ne (.Param "hideSummary") true) }}
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    </div>
+    {{- end }}
+    <footer class="entry-footer">
+      <div class="post-meta-info">
+        <span class="post-author">Oleh: {{ .Params.author | default site.Params.author }}</span>
+        <span class="post-date">_{{ .Date.Format "02 January 2006" }}</span>
+        {{- if .Params.categories }}
+        <span class="post-categories">
+          _{{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}/">{{ $cat }}</a>{{ end }}
+        </span>
+        {{- end }}
+      </div>
+    </footer>
+    <div class="read-more-wrapper">
+      <a href="{{ .Permalink }}" class="read-more-btn">Baca Selengkapnya →</a>
+    </div>
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  </article>
   {{- end }}
 
-      <footer class="entry-footer">
-    <div class="post-meta-info">
-      <span class="post-author">Oleh: {{ .Params.author | default site.Params.author }}</span>
-      <span class="post-date">_{{ .Date.Format "02 January 2006" }}</span>
-      {{- if .Params.categories }}
-      <span class="post-categories">
-        _{{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}/">{{ $cat }}</a>{{ end }}
-      </span>
-      {{- end }}
-    </div>
-  </footer>
-  
-  <div class="read-more-wrapper">
-    <a href="{{ .Permalink }}" class="read-more-btn">Baca Selengkapnya →</a>
-  </div>
-  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
-</article>
 {{- end }}
 
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">
   <nav class="pagination">
     {{- if $paginator.HasPrev }}
-    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
-      «&nbsp;{{ i18n "prev_page" }}&nbsp;
-      {{- if (.Param "ShowPageNums") }}
-      {{- sub $paginator.PageNumber 1 }}/{{ $paginator.TotalPages }}
-      {{- end }}
-    </a>
+    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">«&nbsp;{{ i18n "prev_page" }}&nbsp;{{- if (.Param "ShowPageNums") }}{{- sub $paginator.PageNumber 1 }}/{{ $paginator.TotalPages }}{{- end }}</a>
     {{- end }}
     {{- if $paginator.HasNext }}
-    <a class="next" href="{{ $paginator.Next.URL | absURL }}">
-      {{- i18n "next_page" }}&nbsp;
-      {{- if (.Param "ShowPageNums") }}
-      {{- add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}
-      {{- end }}
-      &nbsp;»
-    </a>
+    <a class="next" href="{{ $paginator.Next.URL | absURL }}">{{- i18n "next_page" }}&nbsp;{{- if (.Param "ShowPageNums") }}{{- add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}{{- end }}&nbsp;»</a>
     {{- end }}
   </nav>
 </footer>
