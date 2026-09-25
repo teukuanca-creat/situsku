@@ -110,3 +110,29 @@ googleAnalytics = "G-B4RNLBDNYC"
   disableSVG = false
   disableXML = false
   minifyOutput = true
+
+  [[menu.footer]]
+    identifier = "disclaimer"
+    name = "Disclaimer"
+    url = "/pages/disclaimer/"
+    weight = 10
+  [[menu.footer]]
+    identifier = "privacy"
+    name = "Kebijakan Privasi"
+    url = "/pages/kebijakan-privasi/"
+    weight = 20
+  [[menu.footer]]
+    identifier = "syarat"
+    name = "Syarat & Ketentuan"
+    url = "/pages/syarat-dan-ketentuan/"
+    weight = 30
+  [[menu.footer]]
+    identifier = "tentang"
+    name = "Tentang Saya"
+    url = "/pages/tentang-saya/"
+    weight = 40
+  [[menu.footer]]
+    identifier = "kontak"
+    name = "Hubungi Saya"
+    url = "/pages/hubungi-saya/"
+    weight = 50
