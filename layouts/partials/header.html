@@ -51,3 +51,29 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 </script>
+<script>
+(function() {
+    var themeToggle = document.getElementById('theme-toggle');
+    var html = document.documentElement;
+    
+    var savedTheme = localStorage.getItem('pref-theme');
+    if (savedTheme === 'dark') {
+        html.dataset.theme = 'dark';
+    } else if (savedTheme === 'light') {
+        html.dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        html.dataset.theme = 'dark';
+    } else {
+        html.dataset.theme = 'light';
+    }
+    
+    if (themeToggle) {
+        themeToggle.addEventListener('click', function() {
+            var current = html.dataset.theme;
+            var newTheme = current === 'dark' ? 'light' : 'dark';
+            html.dataset.theme = newTheme;
+            localStorage.setItem('pref-theme', newTheme);
+        });
+    }
+})();
+</script>
