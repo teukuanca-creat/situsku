@@ -320,16 +320,16 @@ img {
    ============================================================ */
 
 .header-logo {
-    height: 50px !important;
+    height: 60px !important;
     width: auto !important;
     display: block !important;
-    max-width: 185px !important;
+    max-width: 195px !important;
     object-fit: contain !important;
 }
 
 @media (max-width: 768px) {
     .header-logo {
-        height: 38px !important;
+        height: 40px !important;
     }
 }
 
