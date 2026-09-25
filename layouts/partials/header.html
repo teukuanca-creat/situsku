@@ -28,21 +28,25 @@
             {{- range site.Menus.main }}
             {{- if ne .Identifier "search" }}
             {{- if .HasChildren }}
-            <li class="menu-item has-children">
-                <a href="javascript:void(0)" class="menu-link-dropdown" title="{{ .Name }}">
+                        {{- if .HasChildren }}
+            <li class="menu-item has-children" style="position:relative;">
+                <a href="javascript:void(0)" class="menu-link-dropdown" title="{{ .Name }}" style="cursor:pointer;">
                     <span>
                         {{- .Pre }}
                         {{- .Name -}}
                         {{ .Post -}}
                     </span>
                 </a>
-                <ul class="submenu">
+                <ul class="submenu" style="display:none;position:absolute;top:100%;left:0;min-width:220px;background:var(--theme);box-shadow:0 4px 12px rgba(0,0,0,0.15);border-radius:6px;padding:8px 0;list-style:none;margin:0;z-index:9999;">
                     {{- range .Children }}
-                    <li>
-                        <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}">
+                    <li style="display:block;width:100%;margin:0;padding:0;">
+                        <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}" style="display:block;padding:10px 20px;color:var(--primary);font-size:14px;text-decoration:none;white-space:nowrap;">
                             <span>{{ .Name }}</span>
                         </a>
                     </li>
+                    {{- end }}
+                </ul>
+            </li>
                     {{- end }}
                 </ul>
             </li>
