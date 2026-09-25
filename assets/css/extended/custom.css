@@ -231,12 +231,10 @@ img {
    HAMBURGER - HANYA MUNCUL DI HP
    ============================================================ */
 
-/* Sembunyikan hamburger di desktop */
 .nav-toggle {
     display: none !important;
 }
 
-/* Header nav - atur posisi */
 .header-nav {
     display: flex !important;
     align-items: center !important;
@@ -257,7 +255,6 @@ img {
     gap: 10px !important;
 }
 
-/* Tampilan HP */
 @media (max-width: 768px) {
     .header-nav {
         flex-wrap: wrap !important;
@@ -276,7 +273,6 @@ img {
         color: var(--primary);
     }
     
-    /* Urutan: tema dulu, hamburger belakangan */
     .logo-switches {
         order: 2 !important;
     }
@@ -289,7 +285,6 @@ img {
         order: 1 !important;
     }
     
-    /* Sembunyikan menu horizontal di HP */
     .header-nav .menu {
         display: none !important;
         flex-direction: column !important;
@@ -319,3 +314,21 @@ img {
         border-bottom: 1px solid var(--border) !important;
     }
 }
+
+/* ============================================================
+   LOGO HEADER - UKURAN LEBIH KECIL
+   ============================================================ */
+
+.header-logo {
+    height: 32px !important;
+    width: auto !important;
+    display: block !important;
+    max-width: 150px !important;
+    object-fit: contain !important;
+}
+
+@media (max-width: 768px) {
+    .header-logo {
+        height: 28px !important;
+    }
+   }
