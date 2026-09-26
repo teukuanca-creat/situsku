@@ -1172,3 +1172,8 @@ body.list .post-entry:last-child::after {
         font-size: 20px !important;
     }
 }
+
+/* Smooth scroll */
+html {
+    scroll-behavior: smooth !important;
+}
