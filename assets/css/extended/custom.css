@@ -1034,24 +1034,43 @@ body.list .post-entry .entry-content {
         font-size: 15px !important;
     }
    }
-
-   
 /* ============================================================
-   FITUR 1: GARIS PEMISAH ANTAR CARD
+   FITUR 1: JARAK & SHADOW ANTAR CARD
    ============================================================ */
 
+body.list article.post-entry,
 body.list .post-entry {
-    border-bottom: 1px solid #e5e7eb !important;
-    padding-bottom: 20px !important;
+    margin-bottom: 24px !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06) !important;
+    transition: box-shadow 0.3s ease, transform 0.3s ease !important;
 }
 
-body.list .post-entry:last-child {
-    border-bottom: none !important;
-    padding-bottom: 0 !important;
+body.list article.post-entry:hover,
+body.list .post-entry:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12) !important;
+    transform: translateY(-2px) !important;
+}
+
+/* Garis pemisah tipis di bawah card (opsional) */
+body.list article.post-entry::after,
+body.list .post-entry::after {
+    content: '' !important;
+    display: block !important;
+    height: 1px !important;
+    background: #e5e7eb !important;
+    margin-top: 20px !important;
+    grid-column: 1 / -1 !important;
+}
+
+/* Card terakhir - tanpa garis */
+body.list article.post-entry:last-child::after,
+body.list .post-entry:last-child::after {
+    display: none !important;
 }
 
 @media (max-width: 768px) {
+    body.list article.post-entry,
     body.list .post-entry {
-        padding-bottom: 16px !important;
+        margin-bottom: 18px !important;
     }
 }
