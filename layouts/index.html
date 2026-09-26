@@ -145,51 +145,50 @@
   {{- $popular = first 6 $popular }}
   {{- if $popular }}
 
-    <div class="popular-section">
-    <div class="grid-tagline" style="display:block;margin:0 0 16px 0;padding:0;">
+  <div style="background:#111111;padding:30px 20px;border-radius:12px;margin:32px 0 0 0;width:100%;box-sizing:border-box;">
+    <div style="display:block;margin:0 0 16px 0;padding:0;">
       <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#ffffff;padding-bottom:8px;border-bottom:3px solid #e60000;">🔥 Paling Populer</span>
     </div>
 
     <div class="posts-grid">
-
-  <div class="posts-grid">
-    {{- range $popular }}
-    <article class="post-entry">
-      {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
-      {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-      <header class="entry-header">
-        <h2 class="entry-hint-parent">{{ .Title }}</h2>
-      </header>
-      {{- if (ne (.Param "hideSummary") true) }}
-      <div class="entry-content">
-        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
-      </div>
-      {{- end }}
-      <footer class="entry-footer">
-        <div class="post-meta-info">
-          <span class="post-author">{{ .Params.author | default site.Params.author }}</span>
-          <span class="post-sep">•</span>
-          <span class="post-date">{{ .Date.Format "02 Jan 2006" }}</span>
-          <span class="post-sep">•</span>
-          <span class="post-reading">{{ .ReadingTime }} menit baca</span>
-          {{- if .Params.views }}
-          <span class="post-sep">•</span>
-          <span class="post-views">👁️ {{ .Params.views }} views</span>
-          {{- end }}
-          {{- if .Params.categories }}
-          <span class="post-sep">•</span>
-          <span class="post-categories">
-            {{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}/">{{ $cat }}</a>{{ end }}
-          </span>
-          {{- end }}
+      {{- range $popular }}
+      <article class="post-entry" style="background:#1f1f1f;border:1px solid #333333;color:#ffffff;">
+        {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+        {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+        <header class="entry-header">
+          <h2 class="entry-hint-parent" style="color:#ffffff;"><a href="{{ .Permalink }}" style="color:#ffffff;text-decoration:none;">{{ .Title }}</a></h2>
+        </header>
+        {{- if (ne (.Param "hideSummary") true) }}
+        <div class="entry-content">
+          <p style="color:#d1d5db;">{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
         </div>
-      </footer>
-      <div class="read-more-wrapper">
-        <a href="{{ .Permalink }}" class="read-more-btn">Baca Selengkapnya →</a>
-      </div>
-      <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
-    </article>
-    {{- end }}
+        {{- end }}
+        <footer class="entry-footer">
+          <div class="post-meta-info">
+            <span class="post-author" style="color:#9ca3af;">{{ .Params.author | default site.Params.author }}</span>
+            <span class="post-sep" style="color:#9ca3af;">•</span>
+            <span class="post-date" style="color:#9ca3af;">{{ .Date.Format "02 Jan 2006" }}</span>
+            <span class="post-sep" style="color:#9ca3af;">•</span>
+            <span class="post-reading" style="color:#9ca3af;">{{ .ReadingTime }} menit baca</span>
+            {{- if .Params.views }}
+            <span class="post-sep" style="color:#9ca3af;">•</span>
+            <span class="post-views" style="color:#9ca3af;">👁️ {{ .Params.views }} views</span>
+            {{- end }}
+            {{- if .Params.categories }}
+            <span class="post-sep" style="color:#9ca3af;">•</span>
+            <span class="post-categories">
+              {{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}/" style="color:#ff4d4d;">{{ $cat }}</a>{{ end }}
+            </span>
+            {{- end }}
+          </div>
+        </footer>
+        <div class="read-more-wrapper">
+          <a href="{{ .Permalink }}" class="read-more-btn" style="background:#e60000;color:#ffffff;">Baca Selengkapnya →</a>
+        </div>
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+      </article>
+      {{- end }}
+    </div>
   </div>
 
   {{- end }}
