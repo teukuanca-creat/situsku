@@ -150,9 +150,9 @@
       <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#ffffff;padding-bottom:8px;border-bottom:3px solid #e60000;">🔥 Paling Populer</span>
     </div>
 
-    <div class="posts-grid">
+        <div style="display:flex;overflow-x:auto;gap:16px;padding-bottom:16px;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;">
       {{- range $popular }}
-      <article class="post-entry" style="background:#1f1f1f;border:1px solid #333333;color:#ffffff;">
+      <article class="post-entry" style="background:#1f1f1f;border:1px solid #333333;color:#ffffff;flex:0 0 280px;min-width:280px;max-width:280px;">
         {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
         {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
         <header class="entry-header">
