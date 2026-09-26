@@ -145,7 +145,7 @@
       <article style="background:#1f1f1f;border:1px solid #333333;border-radius:8px;color:#ffffff;flex:0 0 240px;min-width:240px;max-width:240px;display:flex;flex-direction:column;overflow:hidden;box-sizing:border-box;position:relative;">
         {{- if .Params.cover.image }}
         <a href="{{ .Permalink }}" style="display:block;width:100%;height:140px;overflow:hidden;text-decoration:none;">
-          <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
+                <img src="{{ $hero.Params.cover.image | absURL }}" alt="{{ $hero.Title }}" style="width:100%;height:280px;object-fit:cover;display:block;">
         </a>
         {{- end }}
         <div style="padding:12px;display:flex;flex-direction:column;gap:6px;flex:1;">
