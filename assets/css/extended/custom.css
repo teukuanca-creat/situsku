@@ -1217,3 +1217,34 @@ html {
         letter-spacing: 1.2px !important;
     }
 }
+
+   
+/* ============================================================
+   HORIZONTAL SCROLL UNTUK SECTION POPULER
+   ============================================================ */
+
+/* Scrollbar tipis */
+.popular-section div[style*="overflow-x:auto"]::-webkit-scrollbar,
+div[style*="overflow-x:auto"]::-webkit-scrollbar {
+    height: 6px;
+}
+
+div[style*="overflow-x:auto"]::-webkit-scrollbar-track {
+    background: #1f1f1f;
+    border-radius: 3px;
+}
+
+div[style*="overflow-x:auto"]::-webkit-scrollbar-thumb {
+    background: #e60000;
+    border-radius: 3px;
+}
+
+div[style*="overflow-x:auto"]::-webkit-scrollbar-thumb:hover {
+    background: #ff4d4d;
+}
+
+/* Firefox */
+div[style*="overflow-x:auto"] {
+    scrollbar-width: thin;
+    scrollbar-color: #e60000 #1f1f1f;
+}
