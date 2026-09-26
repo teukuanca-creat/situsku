@@ -50,6 +50,7 @@
   {{- $allPosts := $paginator.Pages }}
   {{- $hero := index $allPosts 0 }}
   {{- $rest := after 1 $allPosts }}
+  {{- $latest := first 5 $rest }}
 
   <div class="hero-tagline" style="display:block;margin:0 0 16px 0;padding:0;">
     <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Featured Post</span>
@@ -91,40 +92,31 @@
     <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Latest Posts</span>
   </div>
 
-  <div class="posts-grid">
-    {{- range $rest }}
-    <article class="post-entry">
-      {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
-      {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-      <header class="entry-header">
-        <h2 class="entry-hint-parent">{{ .Title }}</h2>
-      </header>
-      {{- if (ne (.Param "hideSummary") true) }}
-      <div class="entry-content">
-        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
-      </div>
+  <div class="posts-list-horizontal">
+    {{- range $latest }}
+    <article class="post-entry-list">
+      {{- if .Params.cover.image }}
+      <a href="{{ .Permalink }}" class="post-entry-list__thumb">
+        <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy">
+      </a>
       {{- end }}
-      <footer class="entry-footer">
-        <div class="post-meta-info">
-          <span class="post-author">{{ .Params.author | default site.Params.author }}</span>
-          <span class="post-sep">•</span>
-          <span class="post-date">{{ .Date.Format "02 Jan 2006" }}</span>
-          <span class="post-sep">•</span>
-          <span class="post-reading">{{ .ReadingTime }} menit baca</span>
+      <div class="post-entry-list__info">
+        <h2 class="post-entry-list__title">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h2>
+        <div class="post-entry-list__meta">
           {{- if .Params.categories }}
-          <span class="post-sep">•</span>
-          <span class="post-categories">
-            {{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}/">{{ $cat }}</a>{{ end }}
-          </span>
+          <a href="{{ "/categories/" | relLangURL }}{{ (index .Params.categories 0) | urlize }}/" class="post-entry-list__category">{{ index .Params.categories 0 }}</a>
           {{- end }}
+          <span class="post-entry-list__date">{{ .Date.Format "02 Jan 2006" }}</span>
         </div>
-      </footer>
-      <div class="read-more-wrapper">
-        <a href="{{ .Permalink }}" class="read-more-btn">Baca Selengkapnya →</a>
       </div>
-      <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
     </article>
     {{- end }}
+  </div>
+
+  <div class="latest-next-btn">
+    <a href="{{ "/posts/" | absLangURL }}">Next →</a>
   </div>
 
   {{- if gt $paginator.TotalPages 1 }}
@@ -150,7 +142,7 @@
       <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#ffffff;padding-bottom:8px;border-bottom:3px solid #e60000;">🔥 Paling Populer</span>
     </div>
 
-        <div style="display:flex;overflow-x:auto;gap:16px;padding-bottom:16px;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;">
+    <div style="display:flex;overflow-x:auto;gap:16px;padding-bottom:16px;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;">
       {{- range $popular }}
       <article class="post-entry" style="background:#1f1f1f;border:1px solid #333333;color:#ffffff;flex:0 0 280px;min-width:280px;max-width:280px;">
         {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
