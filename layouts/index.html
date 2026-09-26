@@ -183,6 +183,39 @@
 
   {{- end }}
 
+  {{- end }}
+
+  {{- $oldest := sort site.RegularPages "Date" "asc" }}
+  {{- $oldest = first 5 $oldest }}
+
+  <div style="margin:32px 0 0 0;padding:0;">
+    <div style="display:block;margin:0 0 16px 0;padding:0;">
+      <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Previous Post</span>
+    </div>
+
+    <div style="display:flex;flex-direction:column;gap:0;margin:0;padding:0;">
+      {{- range $index, $page := $oldest }}
+      <article style="display:flex;gap:16px;padding:16px 0;border-bottom:1px solid #e5e7eb;align-items:flex-start;">
+        <span style="font-size:28px;font-weight:800;color:#d1d5db;flex:0 0 50px;line-height:1;">{{ printf "%02d" (add $index 1) }}</span>
+        <div style="flex:1;min-width:0;display:flex;flex-direction:column;gap:6px;">
+          <h2 style="font-size:16px;line-height:1.4;font-weight:600;margin:0;padding:0;color:#1f2937;">
+            <a href="{{ .Permalink }}" style="color:#1f2937;text-decoration:none;">{{ .Title }}</a>
+          </h2>
+          <div style="display:flex;gap:8px;align-items:center;font-size:12px;color:#6b7280;">
+            {{- if .Params.categories }}
+            <a href="{{ "/categories/" | relLangURL }}{{ (index .Params.categories 0) | urlize }}/" style="color:#e60000;font-weight:600;text-decoration:none;">{{ index .Params.categories 0 }}</a>
+            <span>•</span>
+            {{- end }}
+            <span style="color:#9ca3af;">{{ .Date.Format "02 Jan 2006" }}</span>
+          </div>
+        </div>
+      </article>
+      {{- end }}
+    </div>
+  </div>
+
+{{- else }}
+
 {{- else }}
 
   {{- range $index, $page := $paginator.Pages }}
