@@ -1,5 +1,5 @@
 ---
-title: 'Musim Ikan Budu di Teluk Sinabang: Tradisi Silaturahmi Warga Sinabang'
+title: 'Memancing Ikan Budu yang Unik di Teluk Sinabang'
 date: 2026-07-08
 draft: false
 categories: ["Cerita Menarik"]
