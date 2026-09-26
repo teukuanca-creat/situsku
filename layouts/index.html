@@ -133,47 +133,34 @@
   {{- $popular = first 6 $popular }}
   {{- if $popular }}
 
-  <div style="background:#111111;padding:30px 20px;border-radius:12px;margin:32px 0 0 0;width:100%;box-sizing:border-box;">
+  <div style="background:#111111;padding:24px 16px;border-radius:12px;margin:32px 0 0 0;width:100%;box-sizing:border-box;">
     <div style="display:block;margin:0 0 16px 0;padding:0;">
       <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#ffffff;padding-bottom:8px;border-bottom:3px solid #e60000;">🔥 Paling Populer</span>
     </div>
 
-    <div style="display:flex;overflow-x:auto;gap:16px;padding-bottom:16px;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;">
+    <div style="display:flex;overflow-x:auto;gap:12px;padding-bottom:12px;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;">
       {{- range $popular }}
-      <article class="post-entry" style="background:#1f1f1f;border:1px solid #333333;color:#ffffff;flex:0 0 280px;min-width:280px;max-width:280px;">
-        {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
-        {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-        <header class="entry-header">
-          <h2 class="entry-hint-parent" style="color:#ffffff;"><a href="{{ .Permalink }}" style="color:#ffffff;text-decoration:none;">{{ .Title }}</a></h2>
-        </header>
-        {{- if (ne (.Param "hideSummary") true) }}
-        <div class="entry-content">
-          <p style="color:#d1d5db;">{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
-        </div>
+      <article style="background:#1f1f1f;border:1px solid #333333;border-radius:8px;color:#ffffff;flex:0 0 280px;min-width:280px;max-width:280px;display:flex;gap:10px;padding:10px;align-items:flex-start;box-sizing:border-box;position:relative;">
+        {{- if .Params.cover.image }}
+        <a href="{{ .Permalink }}" style="flex:0 0 80px;width:80px;height:80px;overflow:hidden;border-radius:6px;display:block;text-decoration:none;">
+          <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
+        </a>
         {{- end }}
-        <footer class="entry-footer">
-          <div class="post-meta-info">
-            <span class="post-author" style="color:#9ca3af;">{{ .Params.author | default site.Params.author }}</span>
-            <span class="post-sep" style="color:#9ca3af;">•</span>
-            <span class="post-date" style="color:#9ca3af;">{{ .Date.Format "02 Jan 2006" }}</span>
-            <span class="post-sep" style="color:#9ca3af;">•</span>
-            <span class="post-reading" style="color:#9ca3af;">{{ .ReadingTime }} menit baca</span>
+        <div style="flex:1;min-width:0;display:flex;flex-direction:column;gap:4px;">
+          <h2 style="font-size:14px;line-height:1.35;font-weight:600;margin:0;padding:0;">
+            <a href="{{ .Permalink }}" style="color:#ffffff;text-decoration:none;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">{{ .Title }}</a>
+          </h2>
+          <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:11px;color:#9ca3af;">
             {{- if .Params.views }}
-            <span class="post-sep" style="color:#9ca3af;">•</span>
-            <span class="post-views" style="color:#9ca3af;">👁️ {{ .Params.views }} views</span>
+            <span style="color:#9ca3af;">👁️ {{ .Params.views }}</span>
+            <span style="color:#9ca3af;">•</span>
             {{- end }}
             {{- if .Params.categories }}
-            <span class="post-sep" style="color:#9ca3af;">•</span>
-            <span class="post-categories">
-              {{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}/" style="color:#ff4d4d;">{{ $cat }}</a>{{ end }}
-            </span>
+            <a href="{{ "/categories/" | relLangURL }}{{ (index .Params.categories 0) | urlize }}/" style="color:#ff4d4d;font-weight:600;text-decoration:none;">{{ index .Params.categories 0 }}</a>
             {{- end }}
           </div>
-        </footer>
-        <div class="read-more-wrapper">
-          <a href="{{ .Permalink }}" class="read-more-btn" style="background:#e60000;color:#ffffff;">Baca Selengkapnya →</a>
         </div>
-        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}" style="position:absolute;top:0;left:0;right:0;bottom:0;z-index:10;opacity:0;"></a>
       </article>
       {{- end }}
     </div>
@@ -181,7 +168,7 @@
 
   {{- end }}
 
-      {{- $postsOnly := where site.RegularPages "Section" "posts" }}
+  {{- $postsOnly := where site.RegularPages "Section" "posts" }}
   {{- $postsOnly = where $postsOnly "Date" ">" (time "2020-01-01") }}
   {{- $oldest := sort $postsOnly "Date" "asc" }}
   {{- $oldest = first 5 $oldest }}
