@@ -1074,3 +1074,43 @@ body.list .post-entry:last-child::after {
         margin-bottom: 18px !important;
     }
 }
+
+   
+/* ============================================================
+   FITUR 2: WARNA MENU AKTIF (MERAH)
+   ============================================================ */
+
+/* Menu aktif di desktop - beri warna merah + underline */
+body.list .menu a span.active,
+.header-nav .menu a span.active {
+    color: #e60000 !important;
+    font-weight: 700 !important;
+    position: relative !important;
+}
+
+/* Underline di bawah menu aktif */
+body.list .menu a span.active::after,
+.header-nav .menu a span.active::after {
+    content: '' !important;
+    position: absolute !important;
+    bottom: -4px !important;
+    left: 0 !important;
+    right: 0 !important;
+    height: 2px !important;
+    background: #e60000 !important;
+    border-radius: 2px !important;
+}
+
+/* Hover menu biasa - beri warna merah tipis */
+.header-nav .menu a:hover span:not(.active) {
+    color: #e60000 !important;
+    transition: color 0.2s ease !important;
+}
+
+/* Responsive HP */
+@media (max-width: 768px) {
+    body.list .menu a span.active,
+    .header-nav .menu a span.active {
+        color: #e60000 !important;
+    }
+}
