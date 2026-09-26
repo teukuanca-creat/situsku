@@ -133,24 +133,24 @@
   {{- $popular = first 6 $popular }}
   {{- if $popular }}
 
-    <div style="background:#111111;padding:24px 16px;margin:32px -16px 0 -16px;width:calc(100% + 32px);box-sizing:border-box;border-radius:0;">
+  <div style="background:#111111;padding:24px 16px;margin:32px -16px 0 -16px;width:calc(100% + 32px);box-sizing:border-box;border-radius:0;">
     <div style="display:block;margin:0 0 16px 0;padding:0;">
       <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#ffffff;padding-bottom:8px;border-bottom:3px solid #e60000;">🔥 Paling Populer</span>
     </div>
 
     <div style="display:flex;overflow-x:auto;gap:12px;padding-bottom:12px;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;">
       {{- range $popular }}
-      <article style="background:#1f1f1f;border:1px solid #333333;border-radius:8px;color:#ffffff;flex:0 0 280px;min-width:280px;max-width:280px;display:flex;gap:10px;padding:10px;align-items:flex-start;box-sizing:border-box;position:relative;">
+      <article style="background:#1f1f1f;border:1px solid #333333;border-radius:8px;color:#ffffff;flex:0 0 240px;min-width:240px;max-width:240px;display:flex;flex-direction:column;overflow:hidden;box-sizing:border-box;position:relative;">
         {{- if .Params.cover.image }}
-        <a href="{{ .Permalink }}" style="flex:0 0 80px;width:80px;height:80px;overflow:hidden;border-radius:6px;display:block;text-decoration:none;">
+        <a href="{{ .Permalink }}" style="display:block;width:100%;height:140px;overflow:hidden;text-decoration:none;">
           <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
         </a>
         {{- end }}
-        <div style="flex:1;min-width:0;display:flex;flex-direction:column;gap:4px;">
-          <h2 style="font-size:14px;line-height:1.35;font-weight:600;margin:0;padding:0;">
+        <div style="padding:12px;display:flex;flex-direction:column;gap:6px;flex:1;">
+          <h2 style="font-size:14px;line-height:1.4;font-weight:600;margin:0;padding:0;">
             <a href="{{ .Permalink }}" style="color:#ffffff;text-decoration:none;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">{{ .Title }}</a>
           </h2>
-          <div style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:11px;color:#9ca3af;">
+          <div style="display:flex;gap:6px;align-items:center;font-size:11px;color:#9ca3af;margin-top:auto;">
             {{- if .Params.views }}
             <span style="color:#9ca3af;">👁️ {{ .Params.views }}</span>
             <span style="color:#9ca3af;">•</span>
