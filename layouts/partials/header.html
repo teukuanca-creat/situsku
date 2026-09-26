@@ -83,33 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 })();
 </script>
-<button id="backToTop" aria-label="Back to top">↑</button>
-<script>
-(function() {
-    function initBackToTop() {
-        var btn = document.getElementById('backToTop');
-        if (!btn) return;
-        
-        window.addEventListener('scroll', function() {
-            if (window.scrollY > 400) {
-                btn.classList.add('show');
-            } else {
-                btn.classList.remove('show');
-            }
-        });
-        
-        btn.addEventListener('click', function() {
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        });
-    }
-    
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initBackToTop);
-    } else {
-        initBackToTop();
-    }
-})();
-    </script>
+<a href="#top" id="backToTop" aria-label="Back to top">↑</a>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
