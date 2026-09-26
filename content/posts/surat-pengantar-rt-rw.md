@@ -2,6 +2,7 @@
 title: 'Surat Pengantar RT/RW di Aceh: Kapan Masih Wajib, dan Kenapa Istilahnya Beda di Gampong'
 date: 2026-09-06
 draft: false
+views: 7
 categories: ["Regulasi"]
 description: "Banyak yang mengira surat pengantar RT/RW wajib untuk urus KTP dan KK. Simak aturan Perpres 96/2018 pasal per pasal, kapan surat ini masih dibutuhkan, dan kenapa istilahnya berbeda di Aceh dan Simeulue yang memakai sistem Gampong."
 tags: ["surat pengantar RT RW", "administrasi kependudukan", "dukcapil", "Gampong Aceh", "Simeulue"]
