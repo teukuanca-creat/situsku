@@ -83,3 +83,28 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 })();
 </script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var activeMenu = document.querySelectorAll('.menu a span.active');
+    activeMenu.forEach(function(el) {
+        el.style.setProperty('color', '#e60000', 'important');
+        el.style.setProperty('font-weight', '700', 'important');
+        el.style.setProperty('-webkit-text-fill-color', '#e60000', 'important');
+        el.style.setProperty('position', 'relative', 'important');
+        el.style.setProperty('display', 'inline-block', 'important');
+        
+        // Tambah garis merah di bawah
+        if (!el.querySelector('.active-line')) {
+            var line = document.createElement('span');
+            line.className = 'active-line';
+            line.style.cssText = 'position:absolute;bottom:-4px;left:0;right:0;height:2px;background:#e60000;border-radius:2px;display:block;';
+            el.appendChild(line);
+        }
+        
+        // Set warna parent juga
+        if (el.parentElement) {
+            el.parentElement.style.setProperty('color', '#e60000', 'important');
+        }
+    });
+});
+</script>
