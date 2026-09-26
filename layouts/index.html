@@ -51,7 +51,12 @@
   {{- $hero := index $allPosts 0 }}
   {{- $rest := after 1 $allPosts }}
 
-  <article class="first-entry">
+  <div class="hero-tagline">
+    <span class="hero-tagline-text">ARTIKEL PILIHAN</span>
+  </div>
+
+<article class="first-entry">
+
     {{- $isHidden := ($hero.Param "cover.hiddenInList") | default ($hero.Param "cover.hidden") | default false }}
     {{- partial "cover.html" (dict "cxt" $hero "IsSingle" false "isHidden" $isHidden) }}
     <header class="entry-header">
