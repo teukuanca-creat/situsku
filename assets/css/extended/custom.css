@@ -1075,21 +1075,24 @@ body.list .post-entry:last-child::after {
     }
 }
 
-   
-/* ============================================================
+   /* ============================================================
    FITUR 2: WARNA MENU AKTIF (MERAH)
    ============================================================ */
 
-/* Menu aktif di desktop - beri warna merah + underline */
-body.list .menu a span.active,
+/* Menu aktif - warna merah tebal */
+.menu a span.active,
+.menu a.active,
+.menu li a.active span,
 .header-nav .menu a span.active {
     color: #e60000 !important;
     font-weight: 700 !important;
     position: relative !important;
+    display: inline-block !important;
 }
 
-/* Underline di bawah menu aktif */
-body.list .menu a span.active::after,
+/* Garis merah di bawah menu aktif */
+.menu a span.active::after,
+.menu a.active::after,
 .header-nav .menu a span.active::after {
     content: '' !important;
     position: absolute !important;
@@ -1099,18 +1102,27 @@ body.list .menu a span.active::after,
     height: 2px !important;
     background: #e60000 !important;
     border-radius: 2px !important;
+    display: block !important;
 }
 
-/* Hover menu biasa - beri warna merah tipis */
-.header-nav .menu a:hover span:not(.active) {
+/* Hover menu biasa - warna merah */
+.menu a:hover span:not(.active),
+.header-nav .menu a:hover span {
     color: #e60000 !important;
     transition: color 0.2s ease !important;
 }
 
-/* Responsive HP */
-@media (max-width: 768px) {
-    body.list .menu a span.active,
-    .header-nav .menu a span.active {
+/* Force color di semua device */
+@media (min-width: 769px) {
+    .menu a span.active {
         color: #e60000 !important;
+        font-weight: 700 !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu a span.active {
+        color: #e60000 !important;
+        font-weight: 700 !important;
     }
 }
