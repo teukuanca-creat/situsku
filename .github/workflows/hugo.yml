@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - binario
   workflow_dispatch:
 
 permissions:
@@ -29,8 +28,8 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Install Binario theme
-        run: git clone https://github.com/vimux/binario.git themes/binario --depth=1
+      - name: Install PaperMod theme
+        run: git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod --depth=1
 
       - name: Build
         run: hugo --minify
