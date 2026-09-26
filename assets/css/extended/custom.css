@@ -1034,3 +1034,24 @@ body.list .post-entry .entry-content {
         font-size: 15px !important;
     }
    }
+
+   
+/* ============================================================
+   FITUR 1: GARIS PEMISAH ANTAR CARD
+   ============================================================ */
+
+body.list .post-entry {
+    border-bottom: 1px solid #e5e7eb !important;
+    padding-bottom: 20px !important;
+}
+
+body.list .post-entry:last-child {
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+}
+
+@media (max-width: 768px) {
+    body.list .post-entry {
+        padding-bottom: 16px !important;
+    }
+}
