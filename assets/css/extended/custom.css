@@ -1177,3 +1177,43 @@ body.list .post-entry:last-child::after {
 html {
     scroll-behavior: smooth !important;
 }
+
+/* ============================================================
+   TAGLINE DI ATAS HERO
+   ============================================================ */
+
+.hero-tagline {
+    display: block !important;
+    margin: 0 0 16px 0 !important;
+    padding: 0 !important;
+    text-align: left !important;
+}
+
+.hero-tagline-text {
+    display: inline-block !important;
+    font-size: 14px !important;
+    font-weight: 800 !important;
+    letter-spacing: 1.5px !important;
+    text-transform: uppercase !important;
+    color: #1f2937 !important;
+    padding-bottom: 8px !important;
+    border-bottom: 3px solid #e60000 !important;
+    position: relative !important;
+}
+
+/* Dark mode */
+[data-theme="dark"] .hero-tagline-text {
+    color: #f3f4f6 !important;
+}
+
+/* Responsive HP */
+@media (max-width: 768px) {
+    .hero-tagline {
+        margin-bottom: 12px !important;
+    }
+    
+    .hero-tagline-text {
+        font-size: 12px !important;
+        letter-spacing: 1.2px !important;
+    }
+}
