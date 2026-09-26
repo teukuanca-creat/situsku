@@ -1,5 +1,5 @@
 ---
-title: 'Jejak Musik Band Simeulue: Panggung Hajatan Era 80-90 an'
+title: 'Jejak Band di Simeulue: Panggung Hajatan 80-90 an'
 date: 2026-09-17
 draft: false
 categories: ["Musik"]
