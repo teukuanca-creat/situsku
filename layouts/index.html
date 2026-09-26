@@ -52,7 +52,7 @@
   {{- $rest := after 1 $allPosts }}
 
     <div class="hero-tagline" style="display:block;margin:0 0 16px 0;padding:0;">
-    <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Artikel Terbaru</span>
+    <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Featured Post</span>
     </div>
 
 <article class="first-entry">
@@ -87,6 +87,10 @@
     </div>
     <a class="entry-link" aria-label="post link to {{ $hero.Title | plainify }}" href="{{ $hero.Permalink }}"></a>
   </article>
+
+  <div class="grid-tagline" style="display:block;margin:24px 0 16px 0;padding:0;">
+    <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Latest Posts</span>
+  </div>
 
   <div class="posts-grid">
     {{- range $rest }}
