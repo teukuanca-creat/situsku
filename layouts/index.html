@@ -145,9 +145,12 @@
   {{- $popular = first 6 $popular }}
   {{- if $popular }}
 
-  <div class="grid-tagline" style="display:block;margin:32px 0 16px 0;padding:0;">
-    <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">🔥 Paling Populer</span>
-  </div>
+    <div class="popular-section">
+    <div class="grid-tagline" style="display:block;margin:0 0 16px 0;padding:0;">
+      <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#ffffff;padding-bottom:8px;border-bottom:3px solid #e60000;">🔥 Paling Populer</span>
+    </div>
+
+    <div class="posts-grid">
 
   <div class="posts-grid">
     {{- range $popular }}
