@@ -52,7 +52,7 @@
   {{- $rest := after 1 $allPosts }}
   {{- $latest := first 5 $rest }}
 
-  <div class="hero-tagline" style="display:block;margin:0 0 16px 0;padding:0;">
+  <div style="display:block;margin:0 0 16px 0;padding:0;">
     <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Featured Post</span>
   </div>
 
@@ -88,35 +88,35 @@
     <a class="entry-link" aria-label="post link to {{ $hero.Title | plainify }}" href="{{ $hero.Permalink }}"></a>
   </article>
 
-  <div class="grid-tagline" style="display:block;margin:24px 0 16px 0;padding:0;">
+  <div style="display:block;margin:24px 0 16px 0;padding:0;">
     <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Latest Posts</span>
   </div>
 
-  <div class="posts-list-horizontal">
+  <div style="display:flex;flex-direction:column;gap:0;margin:0 0 20px 0;padding:0;">
     {{- range $latest }}
-    <article class="post-entry-list">
+    <article style="display:flex;gap:14px;padding:14px 0;border-bottom:1px solid #e5e7eb;align-items:flex-start;">
       {{- if .Params.cover.image }}
-      <a href="{{ .Permalink }}" class="post-entry-list__thumb">
-        <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy">
+      <a href="{{ .Permalink }}" style="flex:0 0 110px;width:110px;height:80px;overflow:hidden;border-radius:6px;display:block;text-decoration:none;">
+        <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
       </a>
       {{- end }}
-      <div class="post-entry-list__info">
-        <h2 class="post-entry-list__title">
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <div style="flex:1;min-width:0;display:flex;flex-direction:column;gap:6px;">
+        <h2 style="font-size:16px;line-height:1.4;font-weight:600;margin:0;padding:0;color:#1f2937;">
+          <a href="{{ .Permalink }}" style="color:#1f2937;text-decoration:none;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">{{ .Title }}</a>
         </h2>
-        <div class="post-entry-list__meta">
+        <div style="display:flex;gap:8px;align-items:center;font-size:12px;color:#6b7280;">
           {{- if .Params.categories }}
-          <a href="{{ "/categories/" | relLangURL }}{{ (index .Params.categories 0) | urlize }}/" class="post-entry-list__category">{{ index .Params.categories 0 }}</a>
+          <a href="{{ "/categories/" | relLangURL }}{{ (index .Params.categories 0) | urlize }}/" style="color:#e60000;font-weight:600;text-decoration:none;">{{ index .Params.categories 0 }}</a>
           {{- end }}
-          <span class="post-entry-list__date">{{ .Date.Format "02 Jan 2006" }}</span>
+          <span style="color:#9ca3af;">{{ .Date.Format "02 Jan 2006" }}</span>
         </div>
       </div>
     </article>
     {{- end }}
   </div>
 
-  <div class="latest-next-btn">
-    <a href="{{ "/posts/" | absLangURL }}">Next →</a>
+  <div style="display:flex;justify-content:flex-end;margin:20px 0 30px 0;">
+    <a href="{{ "/posts/" | absLangURL }}" style="display:inline-block;padding:10px 24px;background:#1f2937;color:#ffffff;border-radius:25px;text-decoration:none;font-size:14px;font-weight:600;">Next →</a>
   </div>
 
   {{- if gt $paginator.TotalPages 1 }}
