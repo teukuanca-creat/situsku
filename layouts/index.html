@@ -181,7 +181,8 @@
 
   {{- end }}
 
-    {{- $postsOnly := where site.RegularPages "Section" "posts" }}
+      {{- $postsOnly := where site.RegularPages "Section" "posts" }}
+  {{- $postsOnly = where $postsOnly "Date" ">" (time "2020-01-01") }}
   {{- $oldest := sort $postsOnly "Date" "asc" }}
   {{- $oldest = first 5 $oldest }}
 
