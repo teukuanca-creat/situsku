@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halaman Tidak Ditemukan - {{ site.Title }}</title>
+    <meta http-equiv="refresh" content="3; url={{ site.BaseURL }}">
+    <link rel="stylesheet" href="{{ "assets/css/stylesheet.css" | absURL }}">
+    <style>
+        body {
+            font-family: 'Inter', Arial, sans-serif;
+            text-align: center;
+            padding: 50px 20px;
+            background: #f9fafb;
+            color: #1f2937;
+        }
+        h1 {
+            font-size: 80px;
+            color: #e60000;
+            margin: 0 0 10px 0;
+            font-weight: 800;
+        }
+        h2 {
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+        p {
+            color: #6b7280;
+            margin: 15px 0;
+            font-size: 16px;
+        }
+        .countdown {
+            font-size: 14px;
+            color: #9ca3af;
+            margin-top: 20px;
+        }
+        a.btn {
+            display: inline-block;
+            background: #e60000;
+            color: #fff;
+            padding: 12px 30px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 700;
+            margin-top: 20px;
+            transition: background 0.3s ease;
+        }
+        a.btn:hover {
+            background: #1f2937;
+        }
+    </style>
+</head>
+<body>
+    <h1>404</h1>
+    <h2>Halaman Tidak Ditemukan</h2>
+    <p>Maaf, halaman yang Anda cari tidak ada atau telah dipindahkan.</p>
+    <p>Anda akan diarahkan ke halaman utama dalam <span id="count">3</span> detik...</p>
+    <a href="{{ site.BaseURL }}" class="btn">Kembali ke Beranda →</a>
+    <p class="countdown">Atau cari artikel lain di menu di atas.</p>
+
+    <script>
+        var count = 3;
+        var el = document.getElementById('count');
+        var interval = setInterval(function() {
+            count--;
+            if (el) el.textContent = count;
+            if (count <= 0) {
+                clearInterval(interval);
+                window.location.href = "{{ site.BaseURL }}";
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
