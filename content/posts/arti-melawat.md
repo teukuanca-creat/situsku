@@ -1,5 +1,5 @@
 ---
-title: 'Arti Melawat: Tradisi Kebersamaan Masyarakat Simeulue'
+title: 'Melawat: Tradisi Berkunjung di Simeulue'
 date: 2026-09-04
 draft: false
 categories: ["Cerita Menarik"]
