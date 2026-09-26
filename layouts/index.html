@@ -51,12 +51,11 @@
   {{- $hero := index $allPosts 0 }}
   {{- $rest := after 1 $allPosts }}
 
-    <div class="hero-tagline" style="display:block;margin:0 0 16px 0;padding:0;">
+  <div class="hero-tagline" style="display:block;margin:0 0 16px 0;padding:0;">
     <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Featured Post</span>
-    </div>
+  </div>
 
-<article class="first-entry">
-
+  <article class="first-entry">
     {{- $isHidden := ($hero.Param "cover.hiddenInList") | default ($hero.Param "cover.hidden") | default false }}
     {{- partial "cover.html" (dict "cxt" $hero "IsSingle" false "isHidden" $isHidden) }}
     <header class="entry-header">
@@ -127,6 +126,57 @@
     </article>
     {{- end }}
   </div>
+
+  {{- $popular := where site.RegularPages "Params.views" "!=" nil }}
+  {{- $popular = sort $popular "Params.views" "desc" }}
+  {{- $popular = first 6 $popular }}
+  {{- if $popular }}
+
+  <div class="grid-tagline" style="display:block;margin:32px 0 16px 0;padding:0;">
+    <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">🔥 Paling Populer</span>
+  </div>
+
+  <div class="posts-grid">
+    {{- range $popular }}
+    <article class="post-entry">
+      {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+      {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
+      <header class="entry-header">
+        <h2 class="entry-hint-parent">{{ .Title }}</h2>
+      </header>
+      {{- if (ne (.Param "hideSummary") true) }}
+      <div class="entry-content">
+        <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+      </div>
+      {{- end }}
+      <footer class="entry-footer">
+        <div class="post-meta-info">
+          <span class="post-author">{{ .Params.author | default site.Params.author }}</span>
+          <span class="post-sep">•</span>
+          <span class="post-date">{{ .Date.Format "02 Jan 2006" }}</span>
+          <span class="post-sep">•</span>
+          <span class="post-reading">{{ .ReadingTime }} menit baca</span>
+          {{- if .Params.views }}
+          <span class="post-sep">•</span>
+          <span class="post-views">👁️ {{ .Params.views }} views</span>
+          {{- end }}
+          {{- if .Params.categories }}
+          <span class="post-sep">•</span>
+          <span class="post-categories">
+            {{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}/">{{ $cat }}</a>{{ end }}
+          </span>
+          {{- end }}
+        </div>
+      </footer>
+      <div class="read-more-wrapper">
+        <a href="{{ .Permalink }}" class="read-more-btn">Baca Selengkapnya →</a>
+      </div>
+      <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+    </article>
+    {{- end }}
+  </div>
+
+  {{- end }}
 
 {{- else }}
 
