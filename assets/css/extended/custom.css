@@ -1125,8 +1125,14 @@ div[style*="overflow-x:auto"] {
    FIX STICKY HEADER — TIMPA OVERFLOW CLIP
    ============================================================ */
 
-body, html {
+html {
     overflow-x: hidden !important;
+    max-width: 100% !important;
+}
+
+body {
+    overflow-x: visible !important;
+    overflow-y: visible !important;
     max-width: 100% !important;
 }
 
