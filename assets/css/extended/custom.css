@@ -1121,3 +1121,25 @@ div[style*="overflow-x:auto"] {
         height: 18px !important;
     }
 }
+/* ============================================================
+   FIX STICKY HEADER — TIMPA OVERFLOW CLIP
+   ============================================================ */
+
+body, html {
+    overflow-x: hidden !important;
+    max-width: 100% !important;
+}
+
+body > *, main, .main, #main, #wrapper, .wrapper, .page, #page {
+    overflow: visible !important;
+}
+
+.header {
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 99999 !important;
+    background: var(--theme) !important;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1) !important;
+    width: 100% !important;
+}
