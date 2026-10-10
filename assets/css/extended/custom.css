@@ -1009,3 +1009,115 @@ div[style*="overflow-x:auto"] {
         width: 100% !important;
     }
 }
+/* ============================================================
+   FIX LOGO & IKON HEADER TEUKUANCA
+   ============================================================ */
+
+/* Header logo baris atas: logo kiri, icon kanan */
+.header-nav .logo {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100% !important;
+    flex-wrap: nowrap !important;
+    gap: 10px !important;
+    padding: 8px 12px !important;
+    box-sizing: border-box !important;
+}
+
+/* Logo ukuran pas */
+.header-logo {
+    height: 45px !important;
+    max-height: 45px !important;
+    min-height: 45px !important;
+    width: auto !important;
+    max-width: 170px !important;
+    object-fit: contain !important;
+    display: block !important;
+}
+
+/* Container untuk 3 icon (search, toggle, hamburger) */
+.logo-switches {
+    display: flex !important;
+    align-items: center !important;
+    gap: 14px !important;
+    flex-shrink: 0 !important;
+    margin-left: auto !important;
+}
+
+/* Pastikan setiap icon terlihat */
+.logo-switches .search-icon,
+.logo-switches .theme-toggle,
+.logo-switches .nav-toggle {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    background: none !important;
+    border: none !important;
+    cursor: pointer !important;
+    padding: 4px !important;
+    color: var(--primary) !important;
+    flex-shrink: 0 !important;
+}
+
+/* Icon SVG ukuran pas */
+.logo-switches svg {
+    width: 22px !important;
+    height: 22px !important;
+    display: block !important;
+}
+
+/* Desktop: hamburger tidak muncul */
+@media screen and (min-width: 769px) {
+    .logo-switches .nav-toggle {
+        display: none !important;
+    }
+}
+
+/* HP: semua icon muncul */
+@media (max-width: 768px) {
+    .header-nav .logo {
+        padding: 6px 10px !important;
+    }
+    
+    .header-logo {
+        height: 40px !important;
+        max-height: 40px !important;
+        min-height: 40px !important;
+        max-width: 150px !important;
+    }
+    
+    .logo-switches {
+        gap: 10px !important;
+    }
+    
+    .logo-switches svg {
+        width: 20px !important;
+        height: 20px !important;
+    }
+    
+    .logo-switches .nav-toggle {
+        display: inline-flex !important;
+    }
+}
+
+/* HP kecil */
+@media (max-width: 400px) {
+    .header-logo {
+        height: 36px !important;
+        max-height: 36px !important;
+        min-height: 36px !important;
+        max-width: 130px !important;
+    }
+    
+    .logo-switches {
+        gap: 8px !important;
+    }
+    
+    .logo-switches svg {
+        width: 18px !important;
+        height: 18px !important;
+    }
+}
