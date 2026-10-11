@@ -1,0 +1,142 @@
+{{- $latest := first 10 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+{{- $latest = where $latest "Params.hiddenInHomeList" "!=" "true" }}
+
+<style>
+.hero-slider-wrapper{position:relative;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;margin:0 0 24px 0;background:#1a1a1a;box-shadow:0 4px 12px rgba(0,0,0,0.15)}
+.hero-slider-track{position:absolute;top:0;left:0;right:0;bottom:0}
+.hero-slide{position:absolute;top:0;left:0;right:0;bottom:0;opacity:0;transition:opacity 0.5s ease;pointer-events:none;z-index:1}
+.hero-slide-active{opacity:1;pointer-events:auto;z-index:2}
+.hero-slide-link{display:block;width:100%;height:100%;position:relative;text-decoration:none;color:inherit}
+.hero-slide-img{width:100%;height:100%;object-fit:cover;display:block}
+.hero-slide-overlay{position:absolute;bottom:0;left:0;right:0;padding:40px 30px 30px;background:linear-gradient(to top,rgba(0,0,0,0.92) 0%,rgba(0,0,0,0.5) 60%,transparent 100%);color:#fff}
+.hero-slide-category{display:inline-block;background:#e60000;color:#fff;padding:4px 12px;border-radius:4px;font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;margin-bottom:10px}
+.hero-slide-title{color:#fff;font-size:26px;line-height:1.25;font-weight:800;margin:0 0 10px 0;text-shadow:0 2px 8px rgba(0,0,0,0.6);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.hero-slide-desc{color:#e5e7eb;font-size:14px;line-height:1.5;margin:0 0 10px 0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.hero-slide-meta{display:flex;gap:8px;font-size:12px;color:#d1d5db;flex-wrap:wrap}
+.hero-slider-arrow{position:absolute;top:50%;transform:translateY(-50%);width:40px;height:40px;border-radius:50%;background:rgba(0,0,0,0.5);color:#fff;border:none;font-size:24px;font-weight:700;cursor:pointer;z-index:10;display:flex;align-items:center;justify-content:center;transition:background 0.3s ease;line-height:1;padding:0 0 4px 0}
+.hero-slider-arrow:hover{background:#e60000}
+.hero-slider-prev{left:15px}
+.hero-slider-next{right:15px}
+.hero-slider-dots{position:absolute;bottom:15px;left:50%;transform:translateX(-50%);display:flex;gap:8px;z-index:10}
+.hero-slider-dot{width:10px;height:10px;border-radius:50%;background:rgba(255,255,255,0.5);border:none;cursor:pointer;transition:all 0.3s ease;padding:0}
+.hero-slider-dot-active{background:#e60000;width:28px;border-radius:5px}
+@media(max-width:768px){
+.hero-slider-wrapper{border-radius:8px;margin-bottom:18px}
+.hero-slide-overlay{padding:30px 16px 20px}
+.hero-slide-title{font-size:18px;margin-bottom:8px;-webkit-line-clamp:2}
+.hero-slide-desc{font-size:12px;-webkit-line-clamp:2;margin-bottom:8px}
+.hero-slide-category{font-size:10px;padding:3px 8px;margin-bottom:8px}
+.hero-slide-meta{font-size:11px;gap:6px}
+.hero-slider-arrow{width:34px;height:34px;font-size:20px}
+.hero-slider-prev{left:8px}
+.hero-slider-next{right:8px}
+.hero-slider-dot{width:8px;height:8px}
+.hero-slider-dot-active{width:22px}
+}
+</style>
+
+<div class="hero-slider-wrapper" id="heroSlider">
+  <div class="hero-slider-track" id="heroSliderTrack">
+    {{- range $i, $post := $latest }}
+    <div class="hero-slide{{ if eq $i 0 }} hero-slide-active{{ end }}" data-index="{{ $i }}">
+      <a href="{{ $post.Permalink }}" class="hero-slide-link">
+        {{- if $post.Params.cover.image }}
+        <img src="{{ $post.Params.cover.image | absURL }}" alt="{{ $post.Title }}" class="hero-slide-img">
+        {{- end }}
+        <div class="hero-slide-overlay">
+          {{- with $post.Params.categories }}
+          <span class="hero-slide-category">{{ index . 0 }}</span>
+          {{- end }}
+          <h2 class="hero-slide-title">{{ $post.Title }}</h2>
+          {{- if $post.Params.description }}
+          <p class="hero-slide-desc">{{ $post.Params.description | truncate 120 }}</p>
+          {{- end }}
+          <div class="hero-slide-meta">
+            <span>{{ $post.Params.author | default site.Params.author }}</span>
+            <span>•</span>
+            <span>{{ $post.Date.Format "02 Jan 2006" }}</span>
+            <span>•</span>
+            <span>{{ $post.ReadingTime }} menit baca</span>
+          </div>
+        </div>
+      </a>
+    </div>
+    {{- end }}
+  </div>
+  <button class="hero-slider-arrow hero-slider-prev" id="heroSliderPrev" aria-label="Sebelumnya">‹</button>
+  <button class="hero-slider-arrow hero-slider-next" id="heroSliderNext" aria-label="Selanjutnya">›</button>
+  <div class="hero-slider-dots" id="heroSliderDots">
+    {{- range $i, $post := $latest }}
+    <button class="hero-slider-dot{{ if eq $i 0 }} hero-slider-dot-active{{ end }}" data-index="{{ $i }}" aria-label="Slide {{ add $i 1 }}"></button>
+    {{- end }}
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var slides = document.querySelectorAll('.hero-slide');
+  var dots = document.querySelectorAll('.hero-slider-dot');
+  var prev = document.getElementById('heroSliderPrev');
+  var next = document.getElementById('heroSliderNext');
+  var wrapper = document.getElementById('heroSlider');
+  if (!slides.length) return;
+  var current = 0;
+  var timer;
+  var AUTOPLAY_MS = 5000;
+
+  function showSlide(n) {
+    if (n < 0) n = slides.length - 1;
+    if (n >= slides.length) n = 0;
+    current = n;
+    for (var i = 0; i < slides.length; i++) {
+      if (i === n) slides[i].classList.add('hero-slide-active');
+      else slides[i].classList.remove('hero-slide-active');
+    }
+    for (var j = 0; j < dots.length; j++) {
+      if (j === n) dots[j].classList.add('hero-slider-dot-active');
+      else dots[j].classList.remove('hero-slider-dot-active');
+    }
+  }
+  function nextSlide() { showSlide(current + 1); }
+  function prevSlide() { showSlide(current - 1); }
+  function startAuto() { stopAuto(); timer = setInterval(nextSlide, AUTOPLAY_MS); }
+  function stopAuto() { if (timer) { clearInterval(timer); timer = null; } }
+
+  if (next) next.addEventListener('click', function() { nextSlide(); startAuto(); });
+  if (prev) prev.addEventListener('click', function() { prevSlide(); startAuto(); });
+  for (var k = 0; k < dots.length; k++) {
+    (function(d) {
+      d.addEventListener('click', function() {
+        showSlide(parseInt(d.getAttribute('data-index')));
+        startAuto();
+      });
+    })(dots[k]);
+  }
+
+  if (wrapper) {
+    wrapper.addEventListener('mouseenter', stopAuto);
+    wrapper.addEventListener('mouseleave', startAuto);
+
+    var startX = 0, endX = 0, dragging = false;
+    wrapper.addEventListener('touchstart', function(e) {
+      startX = e.touches[0].clientX; dragging = true; stopAuto();
+    }, {passive: true});
+    wrapper.addEventListener('touchmove', function(e) {
+      if (!dragging) return;
+      endX = e.touches[0].clientX;
+    }, {passive: true});
+    wrapper.addEventListener('touchend', function() {
+      if (!dragging) return;
+      var diff = startX - endX;
+      if (Math.abs(diff) > 50) {
+        if (diff > 0) nextSlide();
+        else prevSlide();
+      }
+      dragging = false;
+      startAuto();
+    });
+  }
+
+  startAuto();
+});
+</script>
