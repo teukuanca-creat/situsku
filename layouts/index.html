@@ -109,8 +109,8 @@
       {{- range $popular }}
       <article style="background:#1f1f1f;border:1px solid #333333;border-radius:8px;color:#ffffff;flex:0 0 240px;min-width:240px;max-width:240px;display:flex;flex-direction:column;overflow:hidden;box-sizing:border-box;position:relative;">
         {{- if .Params.cover.image }}
-        <a href="{{ .Permalink }}" style="display:block;width:100%;height:auto;overflow:hidden;text-decoration:none;">
-          <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:auto;display:block;">
+        <a href="{{ .Permalink }}" style="display:block;width:100%;aspect-ratio:16/9;overflow:hidden;text-decoration:none;">
+          <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
         </a>
         {{- end }}
         <div style="padding:12px;display:flex;flex-direction:column;gap:6px;flex:1;">
@@ -186,6 +186,7 @@
 {{ partial "arsip_bulanan.html" . }}
 {{ partial "jelajahi_acak.html" . }}
 {{ partial "baca_juga.html" . }}
+
   {{- $otherPosts := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $otherPosts = where $otherPosts "Params.hiddenInHomeList" "!=" "true" }}
   {{- $otherPosts = where $otherPosts "Title" "!=" "Cari" }}
@@ -196,12 +197,26 @@
       <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Other Articles</span>
     </div>
 
-    <div id="other-articles-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;">
+    <style>
+      .other-articles-grid-custom {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+      }
+      @media (min-width: 768px) {
+        .other-articles-grid-custom {
+          grid-template-columns: repeat(3, 1fr);
+          gap: 16px;
+        }
+      }
+    </style>
+
+    <div id="other-articles-grid" class="other-articles-grid-custom">
       {{- range $otherPosts }}
       <article class="other-article-card" style="background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;display:flex;flex-direction:column;">
         {{- if .Params.cover.image }}
-        <a href="{{ .Permalink }}" style="display:block;width:100%;height:auto;overflow:hidden;text-decoration:none;">
-          <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:auto;display:block;">
+        <a href="{{ .Permalink }}" style="display:block;width:100%;aspect-ratio:16/9;overflow:hidden;text-decoration:none;">
+          <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
         </a>
         {{- end }}
         <div style="padding:12px;display:flex;flex-direction:column;gap:6px;flex:1;">
@@ -220,9 +235,9 @@
     </div>
 
     <div id="other-articles-pagination" style="display:flex;justify-content:center;align-items:center;gap:16px;margin-top:24px;">
-      <button id="other-prev" type="button" style="background:#1f2937;color:#ffffff;border:none;border-radius:6px;padding:10px 20px;font-size:14px;font-weight:600;cursor:pointer;">« Prev</button>
+      <button id="other-prev" type="button" style="background:#1f2937;color:#ffffff;border:none;border-radius:6px;padding:10px 20px;font-size:14px;font-weight:600;cursor:pointer;">‹ Sebelumnya</button>
       <span id="other-page-info" style="font-size:14px;font-weight:700;color:#1f2937;">1 / 1</span>
-      <button id="other-next" type="button" style="background:#e60000;color:#ffffff;border:none;border-radius:6px;padding:10px 20px;font-size:14px;font-weight:600;cursor:pointer;">Next »</button>
+      <button id="other-next" type="button" style="background:#e60000;color:#ffffff;border:none;border-radius:6px;padding:10px 20px;font-size:14px;font-weight:600;cursor:pointer;">Selanjutnya ›</button>
     </div>
   </div>
 
@@ -231,7 +246,7 @@
     var grid = document.getElementById('other-articles-grid');
     if (!grid) return;
     var cards = grid.querySelectorAll('.other-article-card');
-    var perPage = 6;
+    var perPage = 9;
     var currentPage = 1;
     var totalPages = Math.ceil(cards.length / perPage);
     var prevBtn = document.getElementById('other-prev');
