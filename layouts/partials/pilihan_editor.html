@@ -2,34 +2,12 @@
 {{- $featured = where $featured "Params.hiddenInHomeList" "!=" "true" }}
 {{- $featured = where $featured "Title" "!=" "Cari" }}
 {{- if $featured }}
-  {{- $editorHero := index $featured 0 }}
-  {{- $editorRest := after 1 $featured }}
-  {{- $editorGrid := first 6 $editorRest }}
+  {{- $editorGrid := first 6 $featured }}
 
   <div style="margin:32px 0 0 0;padding:0;">
     <div style="display:block;margin:0 0 16px 0;padding:0;">
       <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">🎯 Pilihan Editor</span>
     </div>
-
-    <article style="margin-bottom:24px;">
-      <a href="{{ $editorHero.Permalink }}" style="display:block;position:relative;text-decoration:none;border-radius:12px;overflow:hidden;margin-bottom:12px;">
-        {{- if $editorHero.Params.cover.image }}
-        <img src="{{ $editorHero.Params.cover.image | absURL }}" alt="{{ $editorHero.Title }}" style="width:100%;height:280px;object-fit:cover;display:block;">
-        {{- end }}
-        <div style="position:absolute;bottom:0;left:0;right:0;padding:40px 24px 24px 24px;background:linear-gradient(to top,rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 60%,transparent 100%);">
-          <h1 style="color:#ffffff;font-size:26px;line-height:1.3;font-weight:800;margin:0;padding:0;text-shadow:0 2px 4px rgba(0,0,0,0.5);">{{ $editorHero.Title }}</h1>
-        </div>
-      </a>
-      <div style="display:flex;gap:8px;align-items:center;font-size:12px;color:#6b7280;">
-        {{- if $editorHero.Params.categories }}
-        <a href="{{ "/categories/" | relLangURL }}{{ (index $editorHero.Params.categories 0) | urlize }}/" style="color:#e60000;font-weight:600;text-decoration:none;">{{ index $editorHero.Params.categories 0 }}</a>
-        <span>•</span>
-        {{- end }}
-        <span style="color:#9ca3af;">{{ $editorHero.Date.Format "02 Jan 2006" }}</span>
-        <span>•</span>
-        <span style="color:#9ca3af;">{{ $editorHero.ReadingTime }} menit baca</span>
-      </div>
-    </article>
 
     {{- if $editorGrid }}
     <style>
