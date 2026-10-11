@@ -50,15 +50,15 @@ Pernah saya mendengarkan cerita Mancolok dari seorang teman, semalam dia mendapa
 
 Saya pernah ikut Mancolok dengan beberapa orang teman. Kami tidak pakai perahu, hanya berjalan kaki menyisir tanaman bakau di pinggir sungai Panter Desa Sinabang.
 
-Malam itu kami dapat ikan marang, udang-udang segar, dan kepiting kecil-kecil. Pulangnya langsung di masak. Seperti mendapatkan dua kenikmatan langsung bagi saya, pertama keseruan Mancolok, kedua menikmati hasil tangkapan langsung yang di masak dengan mie menjadi menu lezat.
+Malam itu kami dapat ikan marang, udang-udang segar, dan kepiting kecil-kecil. Pulangnya langsung di masak. Seperti mendapatkan dua kenikmatan langsung bagi saya, pertama keseruan Mancolok, kedua dapat menikmati hasil tangkapan menjadi menu lezat yang di padukan dengan mie.
 
 ## Jangan Turun Tanpa Persiapan
 
-Meski terlihat sederhana, Mancolok butuh persiapan. Tidak bisa asal berangkat. Sebab,ada juga beberapa hal yang menurut saya harus dipersiapkan, seperti:
+Meski terlihat sederhana, Mancolok butuh persiapan juga sebelum turun. Sebab, ada beberapa hal yang harus dipersiapkan, seperti:
 
-**1. Lotion anti nyamuk:** karena kita akan masuk ke area bakau, nyamuk dan agas lumayan mengusik
+**1. Lotion anti nyamuk:** karena kita akan masuk ke area bakau, nyamuk dan agas lumayan mengusik.
 
-**2. Senter yang terang dan baterai penuh:** Ini adalah senjata utama. Ada yang pakai senter tangan, ada yang pakai senter kepala biar kedua tangan bebas.
+**2. Senter terang dengan baterai penuh:** Ini adalah senjata utama. Ada yang pakai senter tangan, ada yang pakai senter kepala biar kedua tangan bebas.
 
 **3. Parang atau pisau kecil:** Sekadar pegangan untuk memotong rumput atau ranting yang menghalangi jalan.
 
@@ -66,11 +66,11 @@ Meski terlihat sederhana, Mancolok butuh persiapan. Tidak bisa asal berangkat. S
 
 **5. Tangguk bergagang panjang:** Supaya bisa menjangkau ikan yang agak jauh tanpa harus membuat banyak gerakan air.
 
-Menurut pengalaman, musim hujan bukan waktu yang cocok, sebab air jadi keruh dan beriak, cahaya senter tidak tembus. Mancolok butuh air yang tenang dan suasana alam yang cerah.
+Menurut pengalaman, musim hujan bukan waktu yang cocok untuk Mancolok, sebab air keruh dan beriak, kemudian cahaya senter tidak tembus. Mancolok ini butuh air yang tenang dan suasana alam yang cerah.
 
 Begitulah keseruan Mancolok yang lebih dari sekadar mencari ikan. Ini adalah cara warga mengisi malam-malam tanpa kegiatan, bahkan bagi sebagian orang sudah menjadi mata pencaharian tetap.
 
-Ini juga pengingat bahwa laut Simeulue itu sangat bersahabat. Rezekinya bisa dipetik di mana saja, tidak harus pergi jauh ke tengah laut dalam. Di pinggiran bakau dan dermaga pun, laut sudah memberikan potensi yang luar biasa.
+Di lain itu juga pengingat bahwa laut Simeulue sangat bersahabat. Artinya Rezeki bisa dipetik di mana saja, tidak harus pergi jauh ke tengah laut dalam. Di pinggiran bakau dan dermaga pun laut sudah memberikan potensi yang luar biasa.
 
 > **Baca Juga:** [Mancing di Perairan Siumat sambil Mendengar Nandong](https://teukuanca.com/posts/nandong-di-perairan-siumat/)
 
