@@ -1260,3 +1260,99 @@ body.list article[style*="display:flex"] a[href][style*="width:110px"] {
         aspect-ratio: 16 / 9 !important;
     }
 }
+/* ============================================================
+   FIX PILIHAN EDITOR — HILANGKAN KOTAK SILVER KOSONG
+   ============================================================ */
+
+/* Kartu editor: auto height, konten rapat */
+.pilihan-editor-grid article {
+    display: flex !important;
+    flex-direction: column !important;
+    height: auto !important;
+    background: #ffffff !important;
+    border: 1px solid #e5e7eb !important;
+    border-radius: 8px !important;
+    overflow: hidden !important;
+}
+
+/* Container gambar */
+.pilihan-editor-grid article a:first-child,
+.pilihan-editor-grid article > a:first-of-type {
+    display: block !important;
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    overflow: hidden !important;
+    background: #e5e7eb !important;
+    flex-shrink: 0 !important;
+}
+
+.pilihan-editor-grid article a:first-child img,
+.pilihan-editor-grid article > a:first-of-type img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    display: block !important;
+}
+
+/* Content area: rapat, tanpa flex-grow */
+.pilihan-editor-grid article > div {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 6px !important;
+    padding: 10px !important;
+    flex: 0 0 auto !important;
+    background: transparent !important;
+}
+
+/* Judul */
+.pilihan-editor-grid article > div h2 {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 14px !important;
+    line-height: 1.35 !important;
+    font-weight: 600 !important;
+}
+
+/* Meta info (kategori + tanggal) - rapat, bukan didorong ke bawah */
+.pilihan-editor-grid article > div > div {
+    display: flex !important;
+    gap: 6px !important;
+    align-items: center !important;
+    font-size: 11px !important;
+    color: #6b7280 !important;
+    margin-top: 0 !important;
+    flex-wrap: wrap !important;
+}
+
+.pilihan-editor-grid article > div > div a {
+    color: #e60000 !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+}
+
+.pilihan-editor-grid article > div > div span {
+    color: #9ca3af !important;
+}
+
+/* Grid tetap rata — pakai stretch biar tinggi sama */
+.pilihan-editor-grid {
+    align-items: stretch !important;
+}
+
+/* Tapi kalau tinggi beda karena judul, ini OK — kartu lebih rapat */
+
+/* HP */
+@media (max-width: 768px) {
+    .pilihan-editor-grid article > div {
+        padding: 8px !important;
+        gap: 4px !important;
+    }
+    .pilihan-editor-grid article > div h2 {
+        font-size: 13px !important;
+    }
+    .pilihan-editor-grid article > div > div {
+        font-size: 10px !important;
+        gap: 4px !important;
+    }
+}
