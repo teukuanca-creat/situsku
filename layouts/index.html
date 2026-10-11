@@ -198,22 +198,29 @@
     </div>
 
     <style>
-      .other-articles-grid-custom {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 12px;
+      #other-articles-grid {
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 12px !important;
       }
       @media (min-width: 768px) {
-        .other-articles-grid-custom {
-          grid-template-columns: repeat(3, 1fr);
-          gap: 16px;
+        #other-articles-grid {
+          grid-template-columns: repeat(3, 1fr) !important;
+          gap: 16px !important;
         }
+      }
+      #other-articles-grid .other-article-card.is-hidden {
+        display: none !important;
+      }
+      #other-articles-grid .other-article-card:not(.is-hidden) {
+        display: flex !important;
+        flex-direction: column !important;
       }
     </style>
 
-    <div id="other-articles-grid" class="other-articles-grid-custom">
+    <div id="other-articles-grid">
       {{- range $otherPosts }}
-      <article class="other-article-card" style="background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;display:flex;flex-direction:column;">
+      <article class="other-article-card" style="background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;flex-direction:column;">
         {{- if .Params.cover.image }}
         <a href="{{ .Permalink }}" style="display:block;width:100%;aspect-ratio:16/9;overflow:hidden;text-decoration:none;">
           <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
@@ -257,7 +264,11 @@
       var start = (currentPage - 1) * perPage;
       var end = start + perPage;
       for (var i = 0; i < cards.length; i++) {
-        cards[i].style.display = (i >= start && i < end) ? 'flex' : 'none';
+        if (i >= start && i < end) {
+          cards[i].classList.remove('is-hidden');
+        } else {
+          cards[i].classList.add('is-hidden');
+        }
       }
       pageInfo.textContent = currentPage + ' / ' + totalPages;
       prevBtn.disabled = (currentPage === 1);
