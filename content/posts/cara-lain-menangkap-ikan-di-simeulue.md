@@ -1,47 +1,56 @@
 ---
-title: 'Cara Lain Menangkap Ikan Malam Hari di Simeulue'
+title: Cara Lain Menangkap Ikan Malam Hari di Simeulue
 date: 2026-10-04
 draft: false
-categories: ["Cerita Menarik"]
-description: "Menangkap ikan di malam hari dengan peralatan sederhana dan memberikan hasil yang memuaskan di Simeulue."
-tags: ["menangkap ikan", "hasil laut", "laut simeulue", "Simeulue", "cara menangkap ikan"]
-cover:
-  image: "/images/mancolok-di-simeulue.webp"
+description: Menangkap ikan di malam hari dengan peralatan sederhana dan
+  memberikan hasil yang memuaskan di Simeulue.
+categories:
+  - Cerita Menarik
+tags:
+  - menangkap ikan
+  - hasil laut
+  - laut simeulue
+  - Simeulue
+  - cara menangkap ikan
+views: 0
 comments: true
+cover:
+  image: /images/mancolok-di-simeulue.webp
 ---
+## Menangkap Ikan di Malam Hari
 
-## Cara Lain Menangkap Ikan di Malam Hari
-
-Kalau menangkap ikan dengan pancingan, jala, atau dengan tembak ikan. sudah biasa kita dengar dan lihat, Tapi di pesisir Simeulue, juga ada satu kebiasaan yang sedikit berbeda. Cara inipun bergeraknya saat malam hari.
+Kalau menangkap ikan dengan pancingan, jala, atau dengan tembak ikan. sudah biasa kita mendengar dan melihatnya. Tapi di pesisir Simeulue, ada juga satu kebiasaan yang sedikit berbeda dan cara ini pun bergeraknya di saat malam hari.
 
 Di sini, orang menyebutnya **Mancolok**.
 
-Tidak perlu perahu mesin. Cukup perahu dayung kayu yang melaju pelan, sebuah senter di tangan atau yang diikat di kepala, dan tangguk dengan tangkai yang panjang. 
+Tidak perlu perahu mesin. Cukup perahu dayung yang melaju pelan, dengan sebuah senter di tangan atau di ikatkan di kepala, kemudian tangguk bertangkai yang panjang. 
 
-Dengan peralatan sesederhana itu, lalu menyisir pinggiran laut mencari ikan, udang, kepiting, bahkan lahok (lobster). 
+Dengan peralatan sesederhana itu, kemudian menyisir pinggiran laut mencari ikan, udang, kepiting, bahkan lahok (lobster). 
 
 ## Membaca Alam Sebelum Turun
 
-Mancolok tidak bisa dilakukan sembarang malam. Umumnya ada waktu yang ditunggu juga.
+Mancolok tidak bisa dilakukan di sembarang malam, ada waktu yang ditunggu juga.
 
-Air harus dalam kondisi yang pas, seperti tidak terlalu surut dan tidak terlalu pasang naik. Bulan pun sebaiknya tidak terlalu terang. Justru saat gelap gulita. Sebab, saat bulan mati, ikan-ikan di tepian seperti tertidur dan diam di sela batu, di bawah akar bakau, atau di pasir dangkal.
-![mancolok](/images/mancolok.webp)
-Ketika cahaya senter menyoroti ikan di dalam air itu, membuat mereka kaku sesaat. Di detik itulah tangguk bergerak perlahan, menangkap tanpa banyak perlawanan.
+Misalnya, air harus dalam kondisi yang pas, seperti tidak terlalu surut dan tidak terlalu pasang naik. Bulan pun sebaiknya tidak terlalu terang, justru saat gelap gulita. Sebab, saat bulan mati, ikan-ikan di tepian seperti tertidur dan diam di sela batu, di bawah akar bakau, atau di pasir dangkal.  
+  
+Ketika cahaya senter menyoroti ikan di dalam air itu, biasanya membuat mereka kaku sesaat. Di detik itulah tangguk bergerak perlahan, menangkap tanpa banyak perlawanan.
 
 Ada kepuasan tersendiri ketika perjalanan menyisir pinggiran hutan bakau atau tepian dermaga pada malam mancolok ini. Selain pemenuhan lauk pauk di rumah, hasilnya juga dapat dijual. 
 
 Lumayan untuk menambah cuan harian. Apalagi kalau yang nyangkut itu lobster atau kepiting bakau ukuran jumbo.
 
-Kebiasaan mancolok ini juga dilakukan warga pesisir pantai lepas dan berombak pada malam hari. Biasanya, selain ikan dan lobster, warga juga berburu **kekdang** yang nama latinnya kerang moluska dan beberapa kerang lainnya.
-![kerang molouska](/images/kerang-molouska.webp)
+Selain di seputar bakau dan dermaga Teluk Sinabang, kebiasaan mancolok ini juga dilakukan warga di sepanjang pesisir pantai lepas yang berombak pada malam hari. Biasanya, selain ikan dan lobster yang di buru, warga juga mendapatkan jenis kerang dengan nama latinnya kerang moluska, warga Simeulue biasa menyebutnya **Kekdang**.  
+
 
 ## Kearifan Lama dari Teluk Sinabang
 
-Ini bukan tradisi baru. Kearifan lokal ini sudah terlihat sejak saya masih kanak-kanak, melihat lampu-lampu senter bergerak seperti kunang-kunang di sepanjang Teluk Sinabang. Sampai hari ini, tradisi itu masih tetap hidup.
+Kebiasaan Mancolok ini bukan tradisi baru, kearifan lokal ini sudah terlihat sejak saya masih kanak-kanak lagi. Sebab, sering saya melihat lampu-lampu senter bergerak seperti kunang-kunang di sepanjang Teluk Sinabang, hingga sekarang Mancolok masih tetap terlihat.
 
-Di warung kopi, cerita mancolok tak kalah seru untuk didengar. Seorang kawan bercerita semalam dapat kepiting jumbo sebesar piring, juga cerita bagaimana cumi-cumi menyemprotkan tinta hitam saat tertangkap. Gelak tawa dan kehebohan itu menjadi bagian dari keseruannya.
+Pernah saya mendengarkan cerita Mancolok dari seorang teman, semalam dia mendapatkan kepiting jumbo sebesar piring, kemudian bagaimana cumi-cumi menyemprotkan tinta hitam ke wajahnya saat tertangkap. Gelak tawa serta keseruan yang terpancar di raut wajahnya dalam momen cerita itu.
 
-Saya sendiri pernah ikut turun. Kami tidak pakai perahu, hanya berjalan kaki menyisir tanaman bakau di pinggir Sungai Panter. Malam itu kami dapat ikan marang, udang-udang segar, dan kepiting kecil-kecil. Pulangnya langsung dimasak dengan mie ala lokal, rasanya mantap sekali karena masih sangat segar.
+Saya pernah ikut Mancolok dengan beberapa orang teman. Kami tidak pakai perahu, hanya berjalan kaki menyisir tanaman bakau di pinggir sungai Panter Desa Sinabang.
+
+Malam itu kami dapat ikan marang, udang-udang segar, dan kepiting kecil-kecil. Pulangnya langsung di masak. Seperti mendapatkan dua kenikmatan langsung bagi saya, pertama keseruan Mancolok, kedua menikmati hasil tangkapan langsung yang di masak dengan mie menjadi menu lezat.
 
 ## Jangan Turun Tanpa Persiapan
 
@@ -64,3 +73,4 @@ Begitulah keseruan Mancolok yang lebih dari sekadar mencari ikan. Ini adalah car
 Ini juga pengingat bahwa laut Simeulue itu sangat bersahabat. Rezekinya bisa dipetik di mana saja, tidak harus pergi jauh ke tengah laut dalam. Di pinggiran bakau dan dermaga pun, laut sudah memberikan potensi yang luar biasa.
 
 > **Baca Juga:** [Mancing di Perairan Siumat sambil Mendengar Nandong](https://teukuanca.com/posts/nandong-di-perairan-siumat/)
+
