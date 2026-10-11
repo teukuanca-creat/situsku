@@ -4,42 +4,26 @@
 {{- if $featured }}
   {{- $editorGrid := first 6 $featured }}
 
-  <div style="margin:32px 0 0 0;padding:0;">
-    <div style="display:block;margin:0 0 16px 0;padding:0;">
-      <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">🎯 Pilihan Editor</span>
-    </div>
+  <div class="pe-section">
+    <div class="pe-heading"><span>🎯 Pilihan Editor</span></div>
 
     {{- if $editorGrid }}
-    <style>
-  .pilihan-editor-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
-  }
-  @media (min-width: 768px) {
-    .pilihan-editor-grid {
-      grid-template-columns: repeat(3, 1fr);
-      gap: 16px;
-    }
-  }
-</style>
-<div class="pilihan-editor-grid">
+    <div class="pe-grid">
       {{- range $editorGrid }}
-      <article style="background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;display:flex;flex-direction:column;">
+      <article class="pe-card">
         {{- if .Params.cover.image }}
-        <a href="{{ .Permalink }}" style="display:block;width:100%;height:160px;overflow:hidden;text-decoration:none;">
-          <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
+        <a href="{{ .Permalink }}" class="pe-img">
+          <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy">
         </a>
         {{- end }}
-        <div style="padding:12px;display:flex;flex-direction:column;gap:6px;flex:1;">
-          <h2 style="font-size:16px;line-height:1.4;font-weight:600;margin:0;padding:0;color:#1f2937;">
-            <a href="{{ .Permalink }}" style="color:#1f2937;text-decoration:none;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">{{ .Title }}</a>
-          </h2>
-          <div style="display:flex;gap:8px;align-items:center;font-size:12px;color:#6b7280;margin-top:auto;">
+        <div class="pe-body">
+          <h2 class="pe-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <div class="pe-meta">
             {{- if .Params.categories }}
-            <a href="{{ "/categories/" | relLangURL }}{{ (index .Params.categories 0) | urlize }}/" style="color:#e60000;font-weight:600;text-decoration:none;">{{ index .Params.categories 0 }}</a>
+            <a href="{{ "/categories/" | relLangURL }}{{ (index .Params.categories 0) | urlize }}/" class="pe-cat">{{ index .Params.categories 0 }}</a>
+            <span class="pe-dot">•</span>
             {{- end }}
-            <span style="color:#9ca3af;">{{ .Date.Format "02 Jan 2006" }}</span>
+            <span class="pe-date">{{ .Date.Format "02 Jan 2006" }}</span>
           </div>
         </div>
       </article>
@@ -48,3 +32,75 @@
     {{- end }}
   </div>
 {{- end }}
+
+<style>
+.pe-section { margin: 32px 0 0 0; padding: 0; }
+.pe-heading { margin: 0 0 16px 0; padding: 0; }
+.pe-heading span { display: inline-block; font-size: 14px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; color: #1f2937; padding-bottom: 8px; border-bottom: 3px solid #e60000; }
+
+.pe-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; align-items: start; }
+@media (min-width: 768px) { .pe-grid { grid-template-columns: repeat(3, 1fr); gap: 16px; } }
+
+.pe-card {
+  display: flex; flex-direction: column;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+  height: auto;
+  padding: 0; margin: 0;
+  align-self: start;
+  box-shadow: none;
+}
+.pe-card * { box-shadow: none; }
+
+.pe-img {
+  display: block; width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #e5e7eb;
+  text-decoration: none;
+  padding: 0; margin: 0;
+  flex: 0 0 auto;
+}
+.pe-img img {
+  display: block;
+  width: 100%; height: 100%;
+  object-fit: cover;
+  margin: 0; padding: 0;
+  background: transparent;
+}
+
+.pe-body {
+  display: block;
+  padding: 10px;
+  margin: 0;
+  background: #ffffff;
+  flex: 0 0 auto;
+}
+.pe-body > * { background: transparent; }
+
+.pe-title {
+  margin: 0 0 4px 0; padding: 0;
+  font-size: 14px; line-height: 1.35; font-weight: 600;
+  color: #1f2937;
+}
+.pe-title a { color: #1f2937; text-decoration: none; }
+.pe-title a:hover { color: #e60000; }
+
+.pe-meta {
+  display: flex; gap: 6px; align-items: center;
+  font-size: 11px; color: #6b7280;
+  margin: 0; padding: 0;
+  flex-wrap: wrap;
+}
+.pe-cat { color: #e60000; font-weight: 600; text-decoration: none; }
+.pe-dot { color: #d1d5db; }
+.pe-date { color: #9ca3af; }
+
+@media (max-width: 768px) {
+  .pe-body { padding: 8px; }
+  .pe-title { font-size: 13px; }
+  .pe-meta { font-size: 10px; gap: 4px; }
+}
+</style>
