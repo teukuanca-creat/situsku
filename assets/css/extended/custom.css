@@ -1356,3 +1356,103 @@ body.list article[style*="display:flex"] a[href][style*="width:110px"] {
         gap: 4px !important;
     }
 }
+/* ============================================================
+   FIX FINAL PILIHAN EDITOR — AUTO HEIGHT, TANPA KOTAK SILVER
+   ============================================================ */
+
+/* Grid: kartu tidak dipaksa sama tinggi — pakai align-items: start */
+.pilihan-editor-grid {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 12px !important;
+    align-items: start !important;
+}
+
+@media (min-width: 768px) {
+    .pilihan-editor-grid {
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 16px !important;
+    }
+}
+
+/* Kartu: auto height, tidak stretch */
+.pilihan-editor-grid article,
+.pilihan-editor-grid > article {
+    display: flex !important;
+    flex-direction: column !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    align-self: start !important;
+    background: #ffffff !important;
+    border: 1px solid #e5e7eb !important;
+    border-radius: 8px !important;
+    overflow: hidden !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Container gambar: fixed 16:9 */
+.pilihan-editor-grid article > a,
+.pilihan-editor-grid article a:first-of-type {
+    display: block !important;
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    flex: 0 0 auto !important;
+    overflow: hidden !important;
+    background: #e5e7eb !important;
+    border-radius: 8px 8px 0 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.pilihan-editor-grid article > a img,
+.pilihan-editor-grid article a:first-of-type img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Content area: auto, tidak grow */
+.pilihan-editor-grid article > div {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 4px !important;
+    padding: 10px !important;
+    flex: 0 0 auto !important;
+    height: auto !important;
+    background: #ffffff !important;
+}
+
+/* Hapus semua margin-top:auto dari meta info — biar rapat */
+.pilihan-editor-grid article > div > div,
+.pilihan-editor-grid article > div > div[style] {
+    margin-top: 0 !important;
+    padding: 0 !important;
+}
+
+/* Judul rapat */
+.pilihan-editor-grid article > div h2 {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 14px !important;
+    line-height: 1.35 !important;
+    font-weight: 600 !important;
+    color: #1f2937 !important;
+}
+
+/* Meta info rapat */
+.pilihan-editor-grid article > div > div {
+    display: flex !important;
+    gap: 6px !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    font-size: 11px !important;
+    line-height: 1.3 !important;
+}
