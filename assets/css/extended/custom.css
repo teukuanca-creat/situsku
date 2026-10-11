@@ -1149,3 +1149,114 @@ body > *, main, .main, #main, #wrapper, .wrapper, .page, #page {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1) !important;
     width: 100% !important;
 }
+/* ============================================================
+   SERAGAMKAN GAMBAR DI GRID — TEUKUANCA
+   ============================================================ */
+
+/* 1. PILIHAN EDITOR — grid rata */
+.pilihan-editor-grid article a:first-child,
+.pilihan-editor-grid article > a {
+    display: block !important;
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+    background: #e5e7eb !important;
+    border-radius: 8px 8px 0 0 !important;
+}
+
+.pilihan-editor-grid article a:first-child img,
+.pilihan-editor-grid article > a img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    margin: 0 !important;
+}
+
+.pilihan-editor-grid article {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important;
+}
+
+.pilihan-editor-grid article > div {
+    display: flex !important;
+    flex-direction: column !important;
+    flex: 1 !important;
+}
+
+/* 2. PALING POPULER — kartu seragam */
+div[style*="overflow-x:auto"] article {
+    display: flex !important;
+    flex-direction: column !important;
+    height: auto !important;
+}
+
+div[style*="overflow-x:auto"] article > a:first-child,
+div[style*="overflow-x:auto"] article > a {
+    display: block !important;
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+    background: #2a2a2a !important;
+}
+
+div[style*="overflow-x:auto"] article > a:first-child img,
+div[style*="overflow-x:auto"] article > a img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    margin: 0 !important;
+}
+
+/* 3. OTHER ARTICLES — kalau ada */
+#other-articles-grid .other-article-card > a,
+#other-articles-grid .other-article-card > a:first-child {
+    display: block !important;
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    overflow: hidden !important;
+    background: #e5e7eb !important;
+}
+
+#other-articles-grid .other-article-card > a img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    margin: 0 !important;
+}
+
+#other-articles-grid .other-article-card {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important;
+}
+
+/* 4. KARTU LATEST POSTS (list kecil) — thumbnail seragam */
+body.list article[style*="display:flex"] > a:first-child,
+body.list article[style*="display:flex"] a[href][style*="width:110px"] {
+    aspect-ratio: 11 / 8 !important;
+    height: auto !important;
+}
+
+/* HP */
+@media (max-width: 768px) {
+    .pilihan-editor-grid article a:first-child,
+    .pilihan-editor-grid article > a,
+    div[style*="overflow-x:auto"] article > a:first-child,
+    div[style*="overflow-x:auto"] article > a {
+        aspect-ratio: 16 / 9 !important;
+    }
+}
