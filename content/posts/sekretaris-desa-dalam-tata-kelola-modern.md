@@ -40,7 +40,7 @@ Untuk menyelaraskan implementasi UU No. 6 Tahun 2014 yang sudah diperbarui lewat
 
 Langkah ini setidaknya menjawab tiga hal penting: kepastian status kepegawaian aparatur desa yang selama ini abu-abu, standardisasi rekrutmen berbasis kompetensi dan transparansi publik, serta penegakan netralitas aparatur desa dari kontestasi politik lokal.
 
-> **Baca Juga:** [Sejarah dan Kerangka Hukum Mukim](https://teukuanca.com/posts/sejarah-kerangka-hukum-mukim-di-imeulue/)
+> **Baca Juga:** [Sejarah dan Kerangka Hukum Mukim](https://teukuanca.com/posts/sejarah-kerangka-hukum-mukim-di-simeulue/)
 
 ### Tiga Pilar Tugas Operasional Sekretaris Desa
 
