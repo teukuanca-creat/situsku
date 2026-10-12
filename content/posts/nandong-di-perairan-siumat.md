@@ -1,6 +1,5 @@
 ---
-title: "Nandong di Tengah Laut Siumat: Seni Tutur Simeulue yang Hidup di Laut,
-  Kebun, dan Panggung"
+title: "Nandong di Tengah Laut Siumat: Seni Tutur Simeulue yang Hidup di Manapun"
 date: 2026-10-12
 draft: false
 description: Nandong adalah seni tutur khas Simeulue yang dilantunkan
@@ -83,7 +82,7 @@ Bahasa Devayan dan bahasa Aneuk Jamee.
 
 Nasihat, sindiran, pesan moral, dan kisah kehidupan, termasuk peringatan tentang smong.
 
-4. **Apakah Nandong warisan budaya resmi?** 
+4. **Apakah Nandong warisan budaya resmi?**
 
 Ya. Nandong ditetapkan sebagai Warisan Budaya Tak Benda Indonesia pada tahun 2016.
 
@@ -94,5 +93,5 @@ Ya. Nandong ditetapkan sebagai Warisan Budaya Tak Benda Indonesia pada tahun 201
 > 3. Mongabay Indonesia, "Merawat Seni Nandong dari Simeulue" (2014): [https://mongabay.co.id/2014/12/27/merawat-seni-nandong-dari-simeulue/](https://mongabay.co.id/2014/12/27/merawat-seni-nandong-dari-simeulue/)
 > 4. Kajian kesenian Nandong, ISBI Aceh: [https://e-journal.umaha.ac.id/deskovi/article/download/1935/1150/5480](https://e-journal.umaha.ac.id/deskovi/article/download/1935/1150/5480)
 > 5. Kearifan lokal Smong di Simeulue, Sosietas (UPI): [https://ejournal.upi.edu/index.php/sosietas/article/download/83420/32861](https://ejournal.upi.edu/index.php/sosietas/article/download/83420/32861)
-> 6. Nilai kearifan lokal tradisi Nandong, Pakis (ULM): https://ppjp.ulm.ac.id/journals/index.php/pakis/article/view/12077.
+> 6. Nilai kearifan lokal tradisi Nandong, Pakis (ULM): [https://ppjp.ulm.ac.id/journals/index.php/pakis/article/view/12077](https://ppjp.ulm.ac.id/journals/index.php/pakis/article/view/12077).
 
