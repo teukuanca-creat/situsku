@@ -1,18 +1,21 @@
 ---
-title: 'Di Balik Hujan Sinabang yang Dulu'
+title: "Becak Mesin Sinabang: Rajanya Jalanan Saat Musim Hujan"
 date: 2026-09-19
 draft: false
+description: "Dulu becak mesin merajai jalanan Sinabang saat hujan. Kenapa
+  sekarang langka? Ini sejarah lengkap becak Sinabang: mesin Honda GL Pro, bodi
+  airbrush dari Sumut, pangkalan di Simpang Lima, dan arti tulisan PPBMS di
+  kaca."
+categories:
+  - Cerita Menarik
+tags:
+  - Becak Klasik
+  - Musim Hujan Simeulue
+views: 0
 comments: true
-categories: ["Cerita Menarik"]
-description: "Memori becak di tengah hujan dulu di Sinabang. Catatan kerinduan akan masa lalu dan dinamika kemajuan di Pulau Simeulue."
-tags: ["BecakKlasik", "Musim Hujan Simeulue"]
 cover:
- image: "/images/ilustrasi-becak.webp"
-related:
-  - /posts/bunga-raflesia/
-  - /posts/nandong-di-perairan-siumat/
+  image: /images/ilustrasi-becak.webp
 ---
-
 "Cuaca mendung terus, sepertinya mau hujan lagi." Begitulah kalimat yang sering terdengar dari percakapan di warung kopi. 
 
 Memang akhir-akhir ini matahari sedikit malu-malu, muncul sebentar lalu hilang lagi.
@@ -27,6 +30,7 @@ Tidak jarang saya melihat pengendara becak memakai mantel bertutup kepala dengan
 Sekarang pemandangan seperti ini sudah berkurang, hanya satu-persatu yang terlihat melintasi jalanan. Bahkan menurut saya, bentuk becak penumpang sekarangpun tidak sama seperti yang sering dilihat dulu.
 
 Kalau digambarkan bentuknya dulu seperti ini:
+
 - **Mesin Penggerak:** Sebelah kanan menggunakan sepeda motor jenis atau merek Honda, baik GL Pro, GL Max, CG, maupun CB100. Tipe ini selain irit, juga diyakini lebih bertenaga saat digandeng dengan bak atau bodi becak, kemudian simple sebab besi dekat mesin tengah mempermudah dalam perakitan.
 - **Bodi Klasik:** Bak atau bodi becak terbuat dari plat besi yang berada di sisi kiri dengan bentuk klasik serta bervariasi. Ada yang sedikit lonjong ke depan, ada juga yang berbentuk petak saja. bak atau bodi itu diwarnai dengan cat airbrush berukiran indah, tergantung selera pemiliknya.
 - **Fasilitas Penumpang:** Terdapat kaca di bagian depan bak, memberikan keleluasaan bagi penumpang untuk melihat arah jalan. Juga dilengkapi pintu penutup di bagian kiri dan kanan, serta kursi panjang sekitar 1 meter yang muat untuk dua orang penumpang. Selain itu, ada rak bagasi untuk barang di bagian belakang dan atas luarnya.
@@ -49,3 +53,4 @@ Simeulue, dengan kehidupan yang terus mengikuti perkembangan jaman, layaknya dae
 Kemajuan dan kemudahan transportasi sekarang ini membuat semua jarak terasa begitu singkat dalam lingkaran pulau ini. Namun, di balik kemudahan itu, selalu ada yang hilang bersama kenangan lama.
 
 > **Baca Juga:** [Bunga Raflesia: Ketika Penemuannya di Pulau Simeulue](https://teukuanca.com/posts/bunga-raflesia/)
+
