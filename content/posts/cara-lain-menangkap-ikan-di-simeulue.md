@@ -34,14 +34,14 @@ Tidak perlu perahu mesin. Cukup perahu dayung kayu yang melaju pelan, atau bahka
 Peralatan mancolok murah dan mudah didapat, tetapi setiap alat punya fungsi yang tidak boleh diabaikan.
 
 
-| Alat | Fungsi |
-| --------------------------------------------- | -------------------------------------------------------------------------- |
-| Senter tangan atau senter kepala | Senjata utama; senter kepala membuat kedua tangan bebas |
-| Tangguk bergagang panjang | Menjangkau ikan yang agak jauh tanpa banyak gerakan air |
-| Perahu dayung kayu (jika tidak berjalan kaki) | Menyusuri tepian dengan tenang tanpa suara mesin |
-| Sepatu karet tahan air | Melindungi kaki dari batu tajam, cangkang kerang, atau hewan berbisa |
-| Parang atau pisau kecil | Sekadar pegangan untuk memotong rumput atau ranting yang menghalangi jalan |
-| Lotion anti nyamuk | Di area bakau, nyamuk dan agas lumayan mengusik |
+| **Alat** | **Fungsi** |
+| --------------------------------------------- | ---------------------------------------------------------------------------- |
+| Senter tangan atau senter kepala | *Senjata utama; senter kepala membuat kedua tangan bebas* |
+| Tangguk bergagang panjang | *Menjangkau ikan yang agak jauh tanpa banyak gerakan air* |
+| Perahu dayung kayu (jika tidak berjalan kaki) | *Menyusuri tepian dengan tenang tanpa suara mesin* |
+| Sepatu karet tahan air | *Melindungi kaki dari batu tajam, cangkang kerang, atau hewan berbisa* |
+| Parang atau pisau kecil | *Sekadar pegangan untuk memotong rumput atau ranting yang menghalangi jalan* |
+| Lotion anti nyamuk | *Di area bakau, nyamuk dan agas lumayan mengusik* |
 
 
 Pastikan senter terang dan baterainya penuh sebelum berangkat. Senter yang redup di tengah bakau membuat seluruh malam terbuang sia-sia.
