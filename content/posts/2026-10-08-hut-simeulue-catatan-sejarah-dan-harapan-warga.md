@@ -1,7 +1,7 @@
 ---
 title: "Hari Jadi Kabupaten Simeulue ke-27: Dari Pulau Terisolasi Menjadi
   Kabupaten Otonom"
-date: 2026-10-08
+date: 2026-10-12
 draft: false
 description: Hari Jadi Kabupaten Simeulue diperingati setiap 12 Oktober. Simak
   sejarah lengkap dari Pembantu Bupati Aceh Barat hingga jadi kabupaten otonom
@@ -38,7 +38,7 @@ Artikel ini saya rangkum sebagai warga Sinabang berdasarkan arsip peraturan resm
 
 *Foto: Karnaval Hut Kabupaten Simeulue ke-27 di sinabang*
 
-## 1. Sejarah Lengkap: Sebelum Dipanggil Kabupaten 
+## 1. Sejarah Lengkap: Sebelum Dipanggil Kabupaten
 
 Dulu Simeulue bukan kabupaten. Statusnya hanya wilayah kerja Pembantu Bupati Aceh Barat yang berpusat di Sinabang. Alasannya sederhana tapi berat: Aceh Barat terlalu luas, sementara perahu penyeberangan dan radio komunikasi sangat terbatas. Warga harus berlayar berhari-hari ke Meulaboh hanya untuk urusan administrasi.
 
@@ -82,7 +82,7 @@ Ini potret perubahannya berdasarkan data resmi BPS:
 
 - Hanya berisi 5 kecamatan
 - Akses layanan dasar kesehatan dan pendidikan masih sangat terbatas
-- Angka kemiskinan makro sempat menyentuh 34,26 persen pada tahun 2004 
+- Angka kemiskinan makro sempat menyentuh 34,26 persen pada tahun 2004
 
 **Sekarang di Tahun 2025-2026:**
 
@@ -90,7 +90,7 @@ Ini potret perubahannya berdasarkan data resmi BPS:
 - Kemiskinan: Berhasil ditekan menjadi 15,52 persen di 2025. Turun 18,74 poin dalam 21 tahun.
 - Pendidikan: Rata-rata lama sekolah mencapai 10,09 tahun di 2025. Angka ini di atas rata-rata Provinsi Aceh 9,95 tahun dan nasional 9,07 tahun.
 - PR Besar - Daya Beli: Rata-rata pengeluaran per kapita Rp 1,13 juta per bulan di 2025. Menempatkan Simeulue di peringkat 22 dari 23 kabupaten/kota di Aceh.
-- PR Besar - Pangan: Prevalensi ketidakcukupan konsumsi pangan masih 10,11 persen, di atas rata-rata nasional 7,89 persen. 
+- PR Besar - Pangan: Prevalensi ketidakcukupan konsumsi pangan masih 10,11 persen, di atas rata-rata nasional 7,89 persen.
 
 Artinya apa? Kemiskinan turun drastis itu prestasi. Tapi daya beli yang peringkat 22 dan pangan yang masih di atas rata-rata nasional menunjukkan pertumbuhan belum merata. Inilah yang membuat isu konektivitas logistik menjadi sangat krusial.
 
@@ -136,7 +136,7 @@ Hampir semua daerah punya ritual HUT. Yang membuat Simeulue istimewa adalah skal
 - Karnaval budaya dan sepeda hias antar desa dan sekolah di Jalan Lingkar Simeulue.
 - Panggung seni lokal, band lokal, hingga atraksi Debus.
 
-## 5. Biar Tidak Berhenti di Sorak-Sorai: 4 Agenda untuk HUT ke-27 
+## 5. Biar Tidak Berhenti di Sorak-Sorai: 4 Agenda untuk HUT ke-27
 
 Catatan ini sebagai warga yang mencintai pulau ini.
 
