@@ -125,8 +125,3 @@ Boleh. PP Nomor 16 Tahun 2026 menghapus klausul batas domisili yang kaku, memung
 * [Komunitasbelajar.id. Peraturan Pemerintah PP Nomor 16 Tahun 2026, Mei 2026.](https://www.komunitasbelajar.id/?m=1)
 * [Desa Lasara Sowu. Perangkat Desa: Struktur, Susunan, Tugas, dan Penghasilan Berdasarkan PP Nomor 16 Tahun 2026, April 2026.](https://lasarasowu.desa.id/artikel/2026/4/24/perangkat-desa-struktur-susunan-tugas-dan-penghasilan-berdasarkan-pp-nomor-16-tahun-2026)
 * [Kecamatan Samalanga, Bireuen. Peraturan Pemerintah Nomor 16 Tahun 2026: Sekretaris Gampong Otomatis Non-ASN, April 2026.](https://peraturan.go.id/id/pp-no-16-tahun-2026)
-
-**Catatan editorial:** Dua angka spesifik di draf awal Siltap "110% dari gaji PNS Golongan II/a" dan kenaikan "2% setiap 2 tahun"—tidak bisa saya konfirmasi persis dari sumber yang saya temukan (Pasal 90-92 memang mengatur skema ini terkait gaji PNS Golongan II/a dengan kenaikan berkala 2 tahun, tapi angka persentase pastinya tidak tercantum jelas di cuplikan yang saya akses). Saran saya, cek langsung ke salinan resmi PP 16/2026 atau Peraturan Menteri turunannya sebelum mempublikasikan angka pasti ini, supaya tidak keliru menyebut persentase kalau ternyata berbeda.
-
-
-
