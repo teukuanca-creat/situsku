@@ -1,16 +1,17 @@
 ---
-title: "Hari Jadi Kabupaten Simeulue ke-27: Sejarah Lengkap 12 Oktober 1999,
-  Data BPS 2025, dan Makna Smong"
+title: "Hari Jadi Kabupaten Simeulue ke-27: Dari Pulau Terisolasi Menjadi
+  Kabupaten Otonom"
 date: 2026-10-08
 draft: false
-description: Menelusuri kilas balik sejarah otonomi daerah Kabupaten Simeulue,
-  kisah para perintis, hingga harapan warga di momen hari jadi 12 Oktober.
+description: Hari Jadi Kabupaten Simeulue diperingati setiap 12 Oktober. Simak
+  sejarah lengkap dari Pembantu Bupati Aceh Barat hingga jadi kabupaten otonom
+  lewat UU 48/1999, data BPS terbaru 2025, dan agenda HUT ke-27.
 categories:
   - "Cerita Menarik "
 tags:
-  - "Ulang Tahun Simeulue "
-  - "Pulau Simeulue "
-  - "Hari jadi Kabupaten Simeulue "
+  - Hari Jadi Kabupaten Simeulue
+  - HUT Simeulue ke-27 Artikel
+  - Sejarah Simeulue
 views: 0
 comments: true
 cover:
