@@ -31,7 +31,7 @@ Pada tahun 2016, Nandong ditetapkan sebagai Warisan Budaya Tak Benda Indonesia.
 
 Masyarakat Simeulue tumbuh bersama Nandong. Bagi kami, ia bukan sekadar nyanyian, melainkan sejarah yang dirawat lewat tutur lisan dari satu generasi ke generasi berikutnya. Nandong kerap hadir di acara desa, pesta pernikahan, atau panggung hiburan, menjadi ruh ketika orang-orang berkumpul di malam hari.
 
-> **Baca Juga:** Minyak Cengkeh untuk Apa? Napak Tilas "Emas Hijau" yang Pernah Berjaya
+> **Baca Juga:** [Minyak Cengkeh untuk Apa? Napak Tilas "Emas Hijau" yang Pernah Berjaya](https://teukuanca.com/posts/minyak-cengkeh-untuk-apa/)
 
 ## Sore di perairan Siumat
 
@@ -53,8 +53,6 @@ Di panggung desa, Nandong hadir dengan tata lampu, mikrofon, penonton, dan pakai
 
 Nandong juga hidup di daratan. Dulu, sewaktu kecil, saya sering mendengarnya dari para pengrajin perahu di tepi pantai, nelayan yang memperbaiki jaring, atau warga yang sedang memetik cengkeh di kebun daerah Kahat, Simeulue Timur. Sambil bekerja, mereka saling bersahutan Nandong, membuat suasana di kebun menjadi ramai dan lelah seharian pun terasa lebih ringan.
 
-
-
 ## Lebih dari hiburan: Nandong dan pesan Smong
 
 Nandong juga menyimpan pesan penting. Ada Nandong yang berisi kisah dan peringatan tentang smong, sebutan dalam bahasa Devayan untuk gelombang besar yang datang setelah gempa, atau yang kita kenal sebagai tsunami. Pesan itu diwariskan lewat nyanyian, termasuk lagu pengantar tidur.
@@ -71,7 +69,7 @@ Sore itu di perairan Siumat, saya mendengar Nandong bukan lagi sebagai penonton,
 
 Nandong biasa ditampilkan pada acara ulang tahun Simeulue, festival budaya, dan penyambutan tamu, selain di pesta adat dan pernikahan. Kalau kamu datang ke Simeulue, tanyakan kepada warga setempat tentang acara yang sedang berlangsung.
 
-**Tanya jawab**
+### Tanya jawab
 
 1. **Apakah Nandong harus memakai alat musik?**
 
