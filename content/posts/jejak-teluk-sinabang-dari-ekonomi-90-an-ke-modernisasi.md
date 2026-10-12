@@ -1,5 +1,5 @@
 ---
-title: Kenapa Pelabuhan Simpang Lima Sinabang Sekarang Sepi
+title: Kenapa Pelabuhan Simpang Lima Sinabang Sekarang Sep?i
 date: 2026-07-01
 draft: false
 description: Dulu Simpang Lima Sinabang adalah jantung pelabuhan Simeulue.
@@ -22,7 +22,7 @@ Padahal kalau kamu tanya ke bapak-bapak yang ngopi di warung sekitar Simpang Lim
 
 Saya masih ingat betul. Tahun 90-an, setiap kali ada suara toa pelabuhan berbunyi dari Teluk, seluruh Simpang Lima langsung hidup. Bukan sepi karena ditinggalkan, tapi memang sengaja dipindah. Ini cerita kenapa.
 
-## 1. Dulu Simpang Lima Bukan Simpang, Tapi Pelabuhan
+## 1. Dulu Simpang Lima Bukan Hanya Simpang, Tapi Pelabuhan
 
 Anak sekarang kenal Simpang Lima sebagai pertemuan jalan. Anak era 90-an kenal Simpang Lima sebagai dermaga.
 
@@ -40,7 +40,7 @@ Pemindahan itu bukan tiba-tiba. Ada tiga alasan besar yang membuat pemerintah ak
 
 **Alasan Pertama: Kota Sudah Tidak Kuat Menahan Macet**
 
-Sinabang makin ramai. Setiap kapal feri datang, aktivitas kota lumpuh 2-3 jam. Anak sekolah tidak bisa lewat, orang mau ke pasar tertahan. Arus penumpang dan arus barang berat yang bercampur di tengah kota sangat berisiko untuk keselamatan. Simpang Lima butuh dikembalikan fungsinya sebagai simpang kota, bukan simpang logistik.
+Sinabang makin ramai. Setiap kapal feri datang, aktivitas kota sedikit lumpuh. Anak sekolah kadang antri untuk bisa lewat, orang mau ke pasar tertahan. Arus penumpang dan arus barang berat yang bercampur di tengah kota sangat berisiko untuk keselamatan. Simpang Lima butuh dikembalikan fungsinya sebagai simpang kota, bukan simpang logistik.
 
 **Alasan Kedua: Butuh Dermaga yang Lebih Besar dan Dalam**
 
@@ -87,7 +87,7 @@ Itulah kenapa Pelabuhan Suka Jaya sekarang butuh fasilitas berpendingin dan lapa
 
 Simpang Lima sekarang memang sepi dari kapal, tapi justru di situlah kita bisa duduk ngopi dengan tenang sambil melihat Teluk. Sepi ini adalah tanda Sinabang sudah naik kelas dari kota pelabuhan yang berantakan menjadi kota yang tertata.
 
-Kalau kamu masih punya foto lama saat kerbau dinaikkan ke kapal di Teluk atau tumpukan karung cengkeh di Simpang Lima, simpan baik-baik. Itu arsip sejarah ekonomi Simeulue yang paling berharga.
+> Kalau kamu masih punya foto lama saat kerbau dinaikkan ke kapal di Teluk atau tumpukan karung cengkeh di Simpang Lima, simpan baik-baik. Itu arsip sejarah ekonomi Simeulue yang paling berharga.
 
 ### FAQ
 
