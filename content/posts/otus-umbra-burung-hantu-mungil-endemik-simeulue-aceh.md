@@ -1,134 +1,127 @@
 ---
-title: 'Mengenal Otus Umbra, Burung Hantu Endemik Simeulue'
+title: Mengenal Otus Umbra, Burung Hantu Endemik Simeulue
 date: 2026-07-19
-featured: true
 draft: false
+description: Mengenal Celepuk Simalur Otus umbra, burung hantu kerdil endemik
+  Pulau Simeulue. Dari kisah Kapal Terrapin 1901, ciri fisik 16cm, suara
+  cegukan, sampai kenapa statusnya Least Concern.
+categories:
+  - Cerita Menarik
+tags:
+  - Cilepuk Simalur
+  - Otus Umbra
+  - Simeulue
+  - Burung Endemik
+  - Satwa Langka
 views: 6
-categories: ["Cerita Menarik"]
-description: "Mengenal Celepuk Simalur (Otus umbra), satwa endemik Pulau Simeulue. Temukan fakta sejarah ekspedisi, morfologi unik, suara vokal, dan status IUCN-nya."
-tags: ["Cilepuk Simalur", "Otus Umbra", "Simeulue", "Burung Endemik", "Satwa Langka"]
-cover:
-  image: "/images/cilepuk-simalur.webp"
 comments: true
+cover:
+  image: /images/cilepuk-simalur.webp
 ---
-
-## A. Penjaga Malam dari Rimba Simeulue
+## Penjaga Malam dari Rimba Simeulue
 
 Di belahan barat Kepulauan Nusantara, tersembunyi di antara rindangnya hutan hujan tropis dan hamparan kebun cengkeh tua Pulau Simeulue, hidup sebuah keajaiban evolusi yang tidak akan Anda temukan di sudut bumi mana pun.
 
-Warga lokal mengenalnya sebagai **penjaga malam**. Dunia sains menamainya **Celepuk Simalur** (*Otus umbra*).
+Warga di kampung saya mengenalnya sebagai penjaga malam. Bukan karena mistis, tapi karena suaranya yang selalu terdengar selepas Isya dari arah kebun. Dunia sains menamainya Celepuk Simalur atau Otus umbra.
 
-Bagi saya, spesies burung hantu berukuran kerdil ini bukan sekadar satwa endemik biasa. Ia saksi bisu dari isolasi geografis ratusan ribu tahun. Sebuah proses panjang yang diam-diam membentuk salah satu mahakarya biodiversitas paling unik yang dimiliki Indonesia.
+Bagi saya, burung hantu berukuran kerdil ini bukan sekadar satwa endemik. Ia saksi bisu dari isolasi geografis ratusan ribu tahun. Sebuah proses panjang yang diam-diam membentuk salah satu mahakarya biodiversitas paling unik yang dimiliki Indonesia.
 
-## B. Kisah di Balik Pelayaran Kapal Terrapin
+## Kisah di Balik Pelayaran Kapal Terrapin
 
-Cerita penemuan Celepuk Simalur berakar dari dedikasi seorang penjelajah dan naturalis asal Amerika Serikat, **Dr. William Louis Abbott**.
+Cerita penemuan Celepuk Simalur berakar dari dedikasi seorang naturalis asal Amerika, Dr. William Louis Abbott.
 
-Pada November 1901, ia berlayar mengarungi Samudra Hindia dari Singapura menggunakan kapal kayu bernama *Terrapin*. Misinya satu: memetakan fauna tersembunyi di pulau-pulau luar pantai barat Sumatera.
+Pada November 1901, ia berlayar mengarungi Samudra Hindia dari Singapura menggunakan kapal kayu bernama Terrapin. Misinya satu: memetakan fauna tersembunyi di pulau-pulau luar pantai barat Sumatera.
 
-Selama hampir dua bulan, Abbott menyusuri sudut-sudut paling liar di Simeulue. Ia merambah:
+Selama hampir dua bulan, Abbott menyusuri sudut-sudut paling liar di Simeulue. Catatan perjalanannya menyebut ia merambah:
 
 - Vegetasi hutan Teluk Dalam
 - Hutan riparian di sepanjang Sungai Sigulai
-- Bahkan menyeberang sampai ke pulau-pulau satelit seperti Pulo Asu dan Siumat
+- Bahkan menyeberang sampai ke pulau-pulau satelit seperti Pulo Asu dan Siumat 
 
-Dari perjalanan panjang ini, ia berhasil mengumpulkan **450 spesimen fauna** bernilai tinggi, kemudian dikirim ke Smithsonian Institution di Washington, D.C.
+Dari perjalanan ini ia berhasil mengumpulkan 450 spesimen fauna dan dikirim ke Smithsonian Institution di Washington, D.C.
 
-Setahun berselang, tepatnya tahun 1902, seorang ornitolog kenamaan bernama **Charles Wallace Richmond** terpaku melihat salah satu spesimen burung hantu berukuran sangat mungil di antara koleksi Abbott. Ia menyadari burung ini belum pernah tercatat dalam buku sains mana pun.
+Setahun kemudian, tahun 1902, seorang ornitolog bernama Charles Wallace Richmond terpaku melihat satu spesimen burung hantu yang sangat mungil di antara koleksi itu. Ia sadar burung ini belum pernah tercatat.
 
-Barulah pada 1903, Richmond resmi menerbitkan deskripsi ilmiah spesies ini dengan nama *Pisorhina umbra*. Kata *umbra* diambil dari bahasa Latin yang berarti "bayangan" atau "hantu". Nama yang menurut saya cukup puitis untuk seekor burung malam.
+Barulah pada 1903, Richmond menerbitkan deskripsi ilmiah pertamanya dengan nama Pisorhina umbra. Kata umbra dari bahasa Latin artinya "bayangan" atau "hantu". Nama yang puitis untuk burung malam. Dalam revisi taksonomi modern, namanya menjadi Otus umbra seperti yang kita kenal sekarang.
 
-Dalam revisi taksonomi modern, burung hantu mungil ini kini dikelompokkan ke dalam genus *Otus*, sehingga namanya menjadi *Otus umbra* seperti yang kita kenal sekarang.
+## Tubuh Mungil dengan Segudang Trik Bertahan Hidup
 
-> **Baca Juga:** [Trend Puding Telur Ayam Kampung di Warkop Sinabang](https://teukuanca.com/posts/puding-telur-kampung-rahasia-warkop-simeulue/)
+Secara fisik, Celepuk Simalur termasuk burung hantu terkecil di Asia Tenggara.
 
-## C. Tubuh Mungil dengan Segudang Trik Bertahan Hidup
+**Ukuran**: Panjang tubuhnya hanya 16 sampai 18 sentimeter. Tidak lebih besar dari jengkal tangan orang dewasa, dengan bobot ringan sekitar 90 sampai 100 gram.
 
-Secara fisik, Celepuk Simalur termasuk salah satu jenis burung hantu terkecil di Asia Tenggara.
-
-Panjang tubuhnya hanya berkisar **16 hingga 18 sentimeter**. Tidak lebih besar dari jengkal tangan orang dewasa, dengan bobot ringan sekitar **90 hingga 100 gram**.
-
-Tapi jangan salah, tubuh sekecil itu ternyata dibekali fitur adaptasi yang luar biasa untuk bertahan hidup di tengah kerapatan kanopi hutan.
+Tapi jangan salah, tubuh sekecil itu dibekali fitur adaptasi luar biasa:
 
 ### 1. Kamuflase Sempurna
 
-Bulunya didominasi warna cokelat kemerahan pekat (*rufous-brown*) dengan guratan vertikal samar di bagian dada. Pola warna ini membuatnya seolah "lenyap" begitu bertengger di kulit pohon tua berlumut.
+Bulunya didominasi cokelat kemerahan pekat dengan guratan vertikal samar di dada. Begitu bertengger di kulit pohon tua berlumut di kebun cengkeh, ia seolah lenyap. Saya beberapa kali mencoba mencarinya dari suaranya, tetap tidak ketemu.
 
 ### 2. Mata Amber yang Tajam Menembus Gelap
 
-Iris matanya berwarna kuning amber terang dengan konsentrasi sel batang (*rod cells*) yang sangat tinggi. Fitur ini memungkinkannya mengunci pergerakan belalang, jangkrik, atau kumbang malam meski dalam kondisi gelap gulita.
+Iris matanya kuning amber terang dengan sel batang yang sangat tinggi. Ini memungkinkannya mengunci gerakan belalang, jangkrik, atau kumbang malam meski gelap gulita.
 
 ### 3. Antena Telinga yang Tersembunyi
 
-Berbeda dari saudara dekatnya yang punya rumbai telinga tegak dan mencolok, rumbai telinga Celepuk Simalur justru sangat pendek dan rata. Ini membuat bentuk kepalanya tampak membulat anggun.
+Berbeda dengan burung hantu lain yang rumbai telinganya tegak mencolok, rumbai Celepuk Simalur sangat pendek dan rata. Kepalanya tampak membulat anggun.
 
 ### 4. Kaki Berbulu Halus
 
-Bulu-bulu halus melapisi kakinya hingga ke pangkal jari, berfungsi meredam desir angin saat ia meluncur menyergap serangga tanpa bersuara sedikit pun.
+Bulu halus melapisi kakinya hingga ke pangkal jari, berfungsi meredam desir angin saat ia meluncur menyergap serangga tanpa bersuara.
 
-## D. Cegukan di Kegelapan Malam
+## Suaranya Bukan Hoo Hoo, Tapi Cegukan di Kegelapan Malam
 
-Sebagai pemburu nokturnal yang lebih banyak beraktivitas di balik kegelapan, Celepuk Simalur mengandalkan komunikasi vokal untuk menandai wilayah dan mencari pasangan.
+Sebagai pemburu nokturnal, ia mengandalkan vokal untuk menandai wilayah.
 
-Menariknya, suara Celepuk Simalur jauh dari kesan menyeramkan seperti yang sering dibayangkan orang soal burung hantu.
+Menariknya, suara Celepuk Simalur jauh dari kesan menyeramkan. Panggilan utamanya justru berupa nada pendek berirama cepat yang menyerupai "cegukan" halus, sekilas mirip panggilan burung takur.
 
-Panggilan utamanya justru berupa nada-nada pendek berirama cepat yang menyerupai bunyi **"cegukan" halus**, sekilas mirip panggilan burung takur (famili Megalaimidae).
+Kalau kamu jalan di pinggir kebun cengkeh sekitar jam 8-10 malam di Simeulue Tengah, dengarkan baik-baik. Bunyi "uk... uk... uk..." cepat itu sering kali dia.
 
-Yang paling menarik terjadi saat musim berbiak tiba. Pasangan jantan dan betina akan saling bersahutan (*duetting*) dengan nada yang tersinkronisasi rapi. Semacam keajaiban bioakustik kecil di tengah hutan.
+Yang paling menakjubkan terjadi saat musim berbiak. Pasangan jantan dan betina akan saling bersahutan dengan nada tersinkronisasi rapi. Duet ini berfungsi sebagai barikade suara untuk mempertegas batas wilayah mereka kepada pasangan lain.
 
-Nyanyian duet ini rupanya berfungsi sebagai "barikade suara" untuk mempertegas batas wilayah kekuasaan mereka kepada kelompok lain.
+## Kabar Baik dari Hutan dan Kebun Cengkeh
 
-## E. Kabar Baik dari Hutan dan Kebun Cengkeh
+Biasanya, satwa endemik yang hanya hidup di satu pulau sangat rentan punah. Tapi kabar baik datang dari evaluasi terbaru IUCN. Status Celepuk Simalur diperbarui dari Hampir Terancam menjadi Risiko Rendah atau Least Concern.
 
-Biasanya, satwa endemik yang hanya hidup di satu pulau tunggal (*single-island endemic*) rentan berada di ambang kepunahan.
+### Kenapa populasinya bisa stabil?
 
-Tapi kabar menggembirakan justru datang dari evaluasi terbaru **International Union for Conservation of Nature (IUCN)**. Status konservasi Celepuk Simalur kini sudah diperbarui dari **Hampir Terancam** (*Near Threatened*) menjadi **Risiko Rendah** (*Least Concern*).
+**Pertama**, Daya Adaptasinya Luar Biasa
 
-Lalu apa yang membuat populasi burung hantu mungil ini tetap stabil?
+Ia tidak bergantung pada hutan primer lebat saja. Ia cukup toleran hidup di hutan sekunder maupun agroforestri tradisional, terutama kebun cengkeh dan karet milik warga. Kebun cengkeh tua yang tidak disemprot justru jadi hotelnya.
 
-### 1. Daya Adaptasinya Luar Biasa
+**Kedua**, Laju Deforestasi Simeulue Terbilang Rendah
 
-Celepuk Simalur ternyata tidak melulu bergantung pada hutan primer yang lebat. Ia cukup toleran dan bisa hidup berdampingan di hutan sekunder maupun kawasan agroforestri tradisional, terutama kebun cengkeh dan karet milik warga Simeulue sendiri.
+Dalam satu dekade terakhir, tutupan hutan Simeulue relatif terjaga dibanding pulau lain. Ini menjaga ketersediaan mangsa serangga dan tempat bersarang.
 
-### 2. Laju Deforestasi di Pulau Ini Terbilang Sangat Rendah
+**Ketiga**, Ada Kemitraan Tidak Tertulis dengan Warga
 
-Dalam satu dekade terakhir, ketahanan hutan lokal Simeulue justru menjadi benteng alami yang menjaga ketersediaan mangsa sekaligus tempat bersarang bagi burung ini.
+Rendahnya perburuan liar dan tradisi masyarakat yang tidak menganggap burung hantu sebagai hama, memberi ruang aman untuk berkembang biak. Warga melihatnya sebagai penjaga kebun karena makan serangga.
 
-### 3. Ada Semacam "Kemitraan" tak Tertulis dengan Warga Lokal
+## Simbol Kerapuhan Sekaligus Ketangguhan
 
-Rendahnya tingkat perburuan liar, ditambah tradisi masyarakat Simeulue yang menjaga kelestarian alam, ikut memberi ruang aman bagi burung hantu ini untuk terus berkembang biak.
+Bagi saya, Otus umbra adalah simbol kerapuhan sekaligus ketangguhan ekosistem pulau kecil. Keberadaannya yang lestari membuktikan harmonisasi antara kehidupan warga dan kelestarian hutan ternyata mampu menjaga mahakarya alam yang tak ternilai.
 
-## F. Simbol Kerapuhan sekaligus Ketangguhan
+Jika kamu ke Simeulue dan ingin mendengarnya, jangan dicari dengan senter. Cukup duduk tenang di pinggir kebun cengkeh selepas Isya, matikan lampu, dan dengarkan. Jangan rekam dengan suara keras dan jangan pancing dengan playback. Biarkan penjaga malam itu tetap menjaga malamnya.
 
-Bagi saya, Celepuk Simalur (*Otus umbra*) adalah simbol kerapuhan sekaligus ketangguhan ekosistem pulau kecil.
+### FAQ Seputar Celepuk Simalur
 
-Keberadaannya yang tetap lestari hingga hari ini membuktikan satu hal sederhana: harmonisasi antara kehidupan masyarakat lokal dan kelestarian hutan ternyata mampu menjaga keberlangsungan mahakarya alam yang nilainya tak terhingga.
+**1. Apakah Celepuk Simalur bisa ditemukan di pulau lain?**
 
-## FAQ Seputar Celepuk Simalur
+Tidak. Ini endemik murni single-island. Wilayah jelajah alaminya eksklusif hanya di Pulau Simeulue, Aceh.
 
-**Apakah Celepuk Simalur bisa ditemukan di pulau lain di luar Simeulue?**
+**2. Apa bedanya dengan Celepuk Asia yang juga ada di Simeulue?**
 
-Tidak. *Otus umbra* adalah spesies endemik murni. Wilayah jelajah dan habitat alamiahnya secara eksklusif hanya berada di Pulau Simeulue, Aceh.
+Celepuk Simalur adalah penghuni asli yang menetap dan berbiak sepanjang tahun. Sementara Celepuk Asia atau Otus sunia adalah burung migran yang hanya singgah sementara saat musim dingin di belahan bumi utara.
 
-**Apa perbedaan Celepuk Simalur dengan Celepuk Asia (*Otus sunia*) yang juga ada di Simeulue?**
+**3. Apa makanan utamanya?**
 
-Celepuk Simalur adalah penghuni asli yang menetap dan berkembang biak sepanjang tahun di Simeulue. Sementara Celepuk Asia (*Otus sunia*) berstatus sebagai burung migran (*winter visitor*) yang hanya singgah sementara saat musim dingin di belahan bumi utara.
+Serangga malam seperti belalang, jangkrik, dan kumbang. Sesekali cicak atau mamalia kecil.
 
-**Apa makanan utama Celepuk Simalur di alam liar?**
+Tentang Penulis: Ditulis oleh Teuku Anca, warga Simeulue yang merekam suara cegukan Celepuk Simalur di kebun cengkeh.
 
-Sebagai burung hantu berukuran kecil, dietnya terutama terdiri dari serangga malam seperti belalang, jangkrik, dan kumbang. Sesekali menambah vertebrata kecil seperti cicak atau mamalia kerdil.
+**Referensi**:
 
-## Referensi
-
-1. [Celepuk simalur
-Otus umbra](https://ebird.org/species/sisowl1?continue)
-2. [Simeulue scops owl](https://en.wikipedia.org/wiki/Simeulue_scops_owl)
-3. [Abbott, William Louis, 1860-1936
-William Louis Abbott Papers, 1887-1923](https://siarchives.si.edu/collections/siris_arc_217275)
-4. [The Indonesian Collections of William Louis Abbott (1860-1936): Invitation to a Research Resource at the Smithsonian Institution](https://www.academia.edu/38817386/The_Indonesian_Collections_of_William_Louis_Abbott_1860_1936_Invitation_to_a_Research_Resource_at_the_Smithsonian_Institution)
-5. [Simeulue Scops-owl (Otus umbra)](https://forums.birdlife.org/2023-2-simeulue-scops-owl-otus-umbra/)
-6. [Celepuk nikobar
-Spesies burung](https://id.wikipedia.org/wiki/Celepuk_nikobar)
-7. [Simeulue Scops Owl ~ Otus umbra](https://www.owlpages.com/owls/species.php?s=690)
-8. Sumber Foto: Dismon Simeulue 
+- [eBird - Simeulue Scops Owl Otus umbra](https://ebird.org/species/sisowl1)
+- [Wikipedia - Simeulue scops owl](https://en.wikipedia.org/wiki/Simeulue_scops_owl#cite_ref-2)
+- [Smithsonian Institution Archives - William Louis Abbott Papers 1887-1923](https://www.williamreesecompany.com/?gad_source=1&gad_campaignid=21738578564&gbraid=0AAAAA9cxDtHwXvQ4c0fhoVG4B5KECV4J2&gclid=CjwKCAjwrbfWBhAeEiwAc2e6Por0Z2vYxB7YhUQ2BfpKMzJQ4vn8VHuDyqIFRcBabI2F7heym297dhoCPXIQAvD_BwE)
+- [OwlPages - Otus umbra](https://www.owlpages.com/owls/species.php?s=690)
 
