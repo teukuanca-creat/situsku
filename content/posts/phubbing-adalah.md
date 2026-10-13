@@ -2,7 +2,7 @@
 title: Di Aceh, Tamu Tidak Dibiarkan Duduk Begitu Saja
 date: 2026-10-01
 draft: false
-description: • Ketahui arti fenomena sibuk dengan ponsel saat mengobrol dan
+description: Ketahui arti fenomena sibuk dengan ponsel saat mengobrol dan
   bagaimana kebiasaan ini perlahan merusak cara kita menghargai kawan atau tamu.
 categories:
   - Edukasi
@@ -25,6 +25,8 @@ Tapi coba lihat pemandangan yang sekarang makin sering kita jumpai di Sinabang.
 Tamu sudah duduk di ruang tamu, tuan rumah ada tepat di depannya. Keduanya sama-sama menunduk. Bukan menunduk karena malu, tapi karena layar HP yang menyala.
 
 Itulah yang orang sekarang sebut phubbing.
+
+
 
 ## Apa Itu Phubbing Sebenarnya?
 
