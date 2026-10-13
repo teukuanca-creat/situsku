@@ -72,9 +72,9 @@ Meja makan keluarga dan sudut warung kopi yang dulu riuh, pelan-pelan bisa jadi 
 
 Duduk satu meja, tapi masing-masing sibuk dengan dunianya sendiri di layar 6 inci.
 
-![](/images/memuliakan-tamu.jpg)
+![](/images/ngobrol.webp)
 
-*Foto: Suasana makan tanpa HP, keluarga di Sinabang* 
+*Foto: Suasana tanpa HP*
 
 ## Bukan Salah Ponselnya, Salah Waktunya
 
