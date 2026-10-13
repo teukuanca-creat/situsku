@@ -1,16 +1,21 @@
 ---
-title: 'Eksistensi Warung Kopi di Simeulue'
+title: Eksistensi Warung Kopi di Simeulue
 date: 2026-09-14
 draft: false
-categories: ["Cerita Menarik"]
-description: "Mengulas budaya warung kopi (warkop) di Kabupaten Simeulue bukan sekadar tempat minum kopi saring, melainkan jantung sosial dan ekonomi"
-tags: ["Warkop Sinabang", "Warung Kopi Simeulue"]
-cover:
-  image: "/images/warkop.webp"
+description: Mengulas budaya warung kopi (warkop) di Kabupaten Simeulue bukan
+  sekadar tempat minum kopi saring, melainkan jantung sosial dan ekonomi
+categories:
+  - Cerita Menarik
+tags:
+  - Warkop Sinabang
+  - Warung Kopi Simeulue
+views: 0
 comments: true
+cover:
+  image: /images/warkop.webp
 ---
-
 ## Kilas Balik Warkop
+
 Aceh sangat familiar dengan warung kopi, hampir setiap daerah di Aceh ini tidak terlepas dari bangunan-bangunan usaha ini. 
 
 Di Simeulue, sama dengan di daratan Aceh, warung kopi sudah menjamur hingga ke pelosok kampung.
@@ -40,6 +45,10 @@ Selain itu, Kemudahan jaringan internet wifi yang tersedia di warkop, menjadikan
 
 Bukan sekedar itu saja, kemudahan lainnya juga dimanfaatkan mereka yang ingin tempat santai sambil mendaftar kuliahan, membuat tugas online, dan aktivitas dengan jaringan lainnya.
 
+![](</images/Kebersamaan warkop-2.webp>)
+
+*Foto: Kebersamaan di salah satu warkop Sinabang* 
+
 ### Ruang Ketiga ala Ray Oldenburg
 
 Dari gambaran sebagai ruang ketiga, konsep itu sebenarnya bukan sekadar impresi personal saya. Berdasarkan literatur, sosiolog Ray Oldenburg dalam bukunya The Great Good Place (1989) sudah memperkenalkan istilah The Third Place, ruang ketiga di luar rumah (tempat pertama) dan tempat kerja (tempat kedua). Di ruang inilah orang-orang berkumpul secara sukarela, informal, dan lintas status sosial.
@@ -67,14 +76,15 @@ Hasilnya adalah segelas kopi berkarakter pekat, full body, dan tanpa endapan amp
 Soal makanan, menu Mie Aceh di sini biasanya didominasi pilihan seperti lobster, kepiting, atau cumi. Selain itu, di etalase luar juga tersedia nasi goreng, nasi gurih, gorengan, hingga martabak. 
 Sementara di bagian dalam, terdapat steling yang memajang beragam kuliner olahan rumahan.
 
-> **Baca Juga:** [Mengapa Pohon Pinggir Jalan Sama](https://teukuanca.com/posts/mengapa-pohon-pinggir-jalan-sama/)
+> **Baca Juga:** [Keragaman Rasa Kopi Sinabang dan Manfaat Kopi Bagi Tubuh](https://teukuanca.com/posts/manfaat-minum-kopi/)
 
 Dari sisi harga, kisarannya cukup ramah meski tetap fluktuatif tergantung musim tangkap:
-* Kopi saring panas biasanya dibanderol Rp.4.000,–Rp.5.000
-* Kudapan titipan UMKM seperti kue kripik sekitar Rp.1.000–Rp.2.000.
-* Nasi gurih atau nasi bungkus (kecil) Rp.6.000–Rp.13.000.
-* Mie Aceh reguler atau telur Rp.13.000–Rp.14.000, dan
-* Mie Aceh special lobster berkisar Rp25.000–Rp60.000 tergantung bobot lobster yang tersedia hari itu.
+
+- Kopi saring panas biasanya dibanderol Rp.4.000,–Rp.5.000
+- Kudapan titipan UMKM seperti kue kripik sekitar Rp.1.000–Rp.2.000.
+- Nasi gurih atau nasi bungkus (kecil) Rp.6.000–Rp.13.000.
+- Mie Aceh reguler atau telur Rp.13.000–Rp.14.000, dan
+- Mie Aceh special lobster berkisar Rp25.000–Rp60.000 tergantung bobot lobster yang tersedia hari itu.
 
 Perlu dicatat, harga lobster memang paling rentan berubah mengikuti pasokan tangkapan nelayan dan cuaca laut, jadi angka di atas sebaiknya dianggap sebagai **gambaran umum, bukan patokan mutlak**.
 
@@ -86,7 +96,7 @@ Sistem kolaborasinya cukup solid, pemilik warkop fokus menyajikan minuman dan te
 
 Ini contoh nyata rantai pasok ekonomi kerakyatan yang bertumpu pada rasa saling percaya (social trust) antarwarga, tanpa kontrak tertulis apapun.
 
-## Ikhtisar 
+## Ikhtisar
 
 Warung kopi sebagai bukti nyata bagaimana sajian sederhana mampu merajut kebersamaan.
 
