@@ -1,0 +1,231 @@
+{{- $latest := first 16 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+{{- $latest = where $latest "Params.hiddenInHomeList" "!=" "true" }}
+{{- $featured := index $latest 0 }}
+{{- $rest := after 1 $latest }}
+
+<div class="hero-block">
+
+  {{- with $featured }}
+  <article class="hero-featured">
+    <a href="{{ .Permalink }}" class="hero-featured-link">
+      {{- if .Params.cover.image }}
+      <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" class="hero-featured-img">
+      {{- end }}
+      <div class="hero-featured-overlay">
+        {{- with .Params.categories }}
+        <span class="hero-featured-cat">{{ index . 0 }}</span>
+        {{- end }}
+        <h2 class="hero-featured-title">{{ .Title }}</h2>
+        {{- if .Params.description }}
+        <p class="hero-featured-desc">{{ .Params.description | truncate 130 }}</p>
+        {{- end }}
+        <div class="hero-featured-meta">
+          <span>{{ .Params.author | default site.Params.author }}</span>
+          <span>•</span>
+          <span>{{ .Date.Format "02 Jan 2006" }}</span>
+          <span>•</span>
+          <span>{{ .ReadingTime }} menit baca</span>
+        </div>
+      </div>
+    </a>
+  </article>
+  {{- end }}
+
+  {{- if $rest }}
+  <div class="hero-strip-wrapper">
+    <div class="hero-strip">
+      {{- range $rest }}
+      <article class="hero-mini">
+        <a href="{{ .Permalink }}" class="hero-mini-link">
+          {{- if .Params.cover.image }}
+          <div class="hero-mini-img">
+            <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy">
+          </div>
+          {{- end }}
+          <div class="hero-mini-body">
+            {{- with .Params.categories }}
+            <span class="hero-mini-cat">{{ index . 0 }}</span>
+            {{- end }}
+            <h3 class="hero-mini-title">{{ .Title }}</h3>
+            <div class="hero-mini-meta">
+              <span>{{ .Date.Format "02 Jan 2006" }}</span>
+            </div>
+          </div>
+        </a>
+      </article>
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+
+</div>
+
+<style>
+.hero-block { margin: 0 0 32px 0; padding: 0; }
+
+/* ==== FEATURED ==== */
+.hero-featured {
+  position: relative;
+  margin: 0 0 14px 0;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #1a1a1a;
+}
+.hero-featured-link {
+  display: block;
+  width: 100%;
+  position: relative;
+  text-decoration: none;
+}
+.hero-featured-img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  display: block;
+}
+.hero-featured-overlay {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  padding: 40px 30px 30px;
+  background: linear-gradient(to top, rgba(0,0,0,0.92) 0%, rgba(0,0,0,0.5) 60%, transparent 100%);
+  color: #fff;
+}
+.hero-featured-cat {
+  display: inline-block;
+  background: #e60000;
+  color: #fff;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.hero-featured-title {
+  color: #fff;
+  font-size: 26px;
+  line-height: 1.25;
+  font-weight: 800;
+  margin: 0 0 10px;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.6);
+}
+.hero-featured-desc {
+  color: #e5e7eb;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0 0 10px;
+}
+.hero-featured-meta {
+  display: flex;
+  gap: 8px;
+  font-size: 12px;
+  color: #d1d5db;
+  flex-wrap: wrap;
+}
+
+/* ==== STRIP 3 KARTU — SWIPE MANUAL ==== */
+.hero-strip-wrapper {
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+.hero-strip {
+  display: flex !important;
+  overflow-x: auto !important;
+  scroll-snap-type: x mandatory !important;
+  gap: 12px !important;
+  padding-bottom: 8px !important;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+.hero-strip::-webkit-scrollbar { display: none; }
+
+.hero-mini {
+  flex: 0 0 calc((100% - 24px) / 3);
+  scroll-snap-align: start;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.hero-mini-link {
+  text-decoration: none;
+  color: inherit;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.hero-mini-img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  background: #e5e7eb;
+}
+.hero-mini-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.hero-mini-body {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+}
+.hero-mini-cat {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  color: #e60000;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.hero-mini-title {
+  font-size: 13px;
+  line-height: 1.4;
+  font-weight: 600;
+  color: #1f2937;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.hero-mini-meta {
+  font-size: 11px;
+  color: #9ca3af;
+  margin-top: auto;
+}
+
+/* Dark mode */
+[data-theme="dark"] .hero-mini {
+  background: #1f2937;
+  border-color: #374151;
+}
+[data-theme="dark"] .hero-mini-title {
+  color: #f3f4f6;
+}
+
+/* HP */
+@media (max-width: 768px) {
+  .hero-block { margin-bottom: 24px; }
+  .hero-featured-overlay { padding: 22px 14px 14px; }
+  .hero-featured-title { font-size: 17px; margin-bottom: 6px; }
+  .hero-featured-desc { font-size: 12px; margin-bottom: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .hero-featured-cat { font-size: 10px; padding: 3px 8px; margin-bottom: 8px; }
+  .hero-featured-meta { font-size: 11px; gap: 6px; }
+  .hero-strip { gap: 8px !important; }
+  .hero-mini { flex: 0 0 calc((100% - 16px) / 3); }
+  .hero-mini-body { padding: 7px; gap: 3px; }
+  .hero-mini-cat { font-size: 9px; }
+  .hero-mini-title { font-size: 11px; -webkit-line-clamp: 3; }
+  .hero-mini-meta { font-size: 9px; }
+}
+</style>
