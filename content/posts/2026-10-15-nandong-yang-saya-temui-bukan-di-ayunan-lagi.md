@@ -5,6 +5,8 @@ draft: false
 description: Nandong Simeulue bukan cuma lagu tidur. Di Sinabang, Nandong hidup
   di sanggar seni, di lagu musisi, sampai jadi candaan di warkop. Ini bukti
   Nandong mendarah daging.
+categories:
+  - Seni
 views: 0
 comments: true
 cover:
@@ -62,7 +64,7 @@ Nandong tidak punah karena ia berevolusi. Ia tidak kaku harus di ayunan.
 
 - Saat ayunan tidak ada, ia pindah ke panggung sanggar.
 - Saat anak tidak lagi ditidurkan dengan Nandong, ia pindah ke lagu musisi yang didengar anak muda.
-- Saat rumah panggung mulai jarang, ia pindah ke warkop sebagai kode bercanda. 
+- Saat rumah panggung mulai jarang, ia pindah ke warkop sebagai kode bercanda.
 
 Inilah yang saya maksud mendarah daging. Nandong bukan lagi sekadar lagu tidur. Ia sudah jadi bagian dari cara orang Simeulue berkarya dan bercanda.
 
