@@ -1,6 +1,5 @@
 ---
-title: "Kabut Mulai Selimuti Sinabang Sore Ini: Pegunungan Pintu Babang
-  Menghilang dari Pelabuhan Simpang Lima"
+title: "Kabut Mulai Selimuti Sinabang Sore Ini: di Dermaga Simpang Lima"
 date: 2026-10-15
 draft: false
 description: Sore ini saya jalan sore di Sinabang, suasana pegunungan berbeda
@@ -73,7 +72,7 @@ Udara di pelabuhan sore tadi juga terasa lebih dingin dari biasanya. Bukan dingi
 
 *Foto: Matahari Merah Sore di Pelabuhan Simpang Lima Sinabang*
 
-## Ikhtisar 
+## Ikhtisar
 
 Bersamaan dengan hilangnya matahari di balik pegunungan, azan Magrib pun mulai terdengar dari kejauhan. Kabut sore itu tidak hanya mengubah wajah Sinabang menjadi lebih syahdu, tetapi juga memberi pengingat kecil bagi saya: bahwa alam selalu punya cara sendiri untuk mengejutkan kita, bahkan di rute jalan sore yang paling biasa sekalipun.
 
