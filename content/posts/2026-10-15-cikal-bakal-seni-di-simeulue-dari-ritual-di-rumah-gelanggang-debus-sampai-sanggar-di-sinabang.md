@@ -1,6 +1,5 @@
 ---
-title: "Cikal Bakal Seni di Simeulue: Dari Ritual di Rumah, Gelanggang Debus,
-  Sampai Sanggar di Sinabang"
+title: "Cikal Bakal Seni di Simeulue: Dari Ritual Rumah, Gelanggang hingga Sanggar"
 date: 2026-10-15
 draft: false
 description: Dari mana seni di Simeulue bermula? Bukan dari gedung kesenian. Ia
@@ -69,7 +68,7 @@ Di sanggar-sanggar di kawasan Sinabang dan sekitanya, karya seni tidak lagi murn
 
 Di kalangan musisi lokal, persaingan karya lebih jelas. Musisi di Sinabang sekarang berlomba menciptakan lagu yang beriringan dengan *Nandong* dan *Nanga-nanga*. Ada yang ambil lirik lama, ada yang bikin lirik baru dengan nada asli bawaan tradisi itu. Tujuannya satu: biar *Nandong* dan *Nanga-nanga* didengar generasi muda.
 
-## Ikhtisar 
+## Ikhtisar
 
 Jadi kalau ditanya di mana cikal bakal seni di Simeulue, jawabannya bukan satu tempat.
 
