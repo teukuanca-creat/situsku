@@ -28,9 +28,9 @@ Nyanyian itu sederhana, tanpa iringan, hanya suara dan irama yang diulang-ulang.
 
 Kisah Smong 1907 menjadi titik nol yang mengajarkan satu hal: laut bisa berubah menjadi ancaman dalam hitungan menit. Lewat Nandong, nasehat itu disampaikan turun-temurun.
 
-"Apalagi ketika terdengar suara gemericik seperti daun kering terbakar dari laut, itu menunjukkan akan datang ombak besar, dikenal dengan smong.
-
-Nah, dalam seni nandong juga disampaikan langkah agar tidak ke tepi laut mengambil ikan, dan harus segera menyelamatkan diri", kata Juman, seperti dikutip [Mongabay](https://mongabay.co.id/2014/12/27/merawat-seni-nandong-dari-simeulue/).
+> "Apalagi ketika terdengar suara gemericik seperti daun kering terbakar dari laut, itu menunjukkan akan datang ombak besar, dikenal dengan smong.
+>
+> Nah, dalam seni nandong juga disampaikan langkah agar tidak ke tepi laut mengambil ikan, dan harus segera menyelamatkan diri", kata Juman, seperti dikutip [Mongabay](https://mongabay.co.id/2014/12/27/merawat-seni-nandong-dari-simeulue/).
 
 Kutipan itu benar adanya. Dan saya membuktikannya sendiri bukan di rumah, tapi di tengah laut.
 
