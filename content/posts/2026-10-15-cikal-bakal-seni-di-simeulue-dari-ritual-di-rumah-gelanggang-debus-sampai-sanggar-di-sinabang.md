@@ -16,7 +16,7 @@ comments: true
 cover:
   image: /images/seni-di-simeulue.webp
 ---
-Kalau warga luar bertanya di mana gedung kesenian di Simeulue, saya bingung jawabnya. Karena seni di Simeulue tidak lahir di gedung. Ia lahir di berbagai tempat yang sangat dekat dengan hidup kami: di rumah, di gelanggang tanah, dikebun dan di dapur. Dan saya dengar sendiri semuanya, dari tengah laut sampai warkop.
+Kalau warga luar bertanya di mana gedung kesenian di Simeulue, saya bingung jawabnya. Karena seni di Simeulue tidak lahir di gedung. Ia lahir di berbagai tempat yang sangat dekat dengan hidup kami: di rumah, di gelanggang tanah, di kebun dan di dapur. Dan saya dengar sendiri semuanya, dari tengah laut sampai warkop.
 
 ## 1. Cikal Bakal di Dalam Rumah dan di Perahu: Seni Suara dan Doa
 
