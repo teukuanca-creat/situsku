@@ -18,7 +18,7 @@ cover:
 ---
 Kalau warga luar bertanya di mana gedung kesenian di Simeulue, saya bingung jawabnya. Karena seni di Simeulue tidak lahir di gedung. Ia lahir di berbagai tempat yang sangat dekat dengan hidup kami: di rumah, di gelanggang tanah, di kebun dan di dapur. Dan saya dengar sendiri semuanya, dari tengah laut sampai warkop.
 
-## 1. Cikal Bakal di Dalam Rumah dan di Perahu: Seni Suara dan Doa
+## 1. Cikal Bakal di Dalam Rumah dan di Perahu, Seni Suara dan Doa
 
 Kesenian awal masyarakat Simeulue berbasis pada seni tutur lisan yang berfungsi sebagai media edukasi, doa, dan pelestarian kearifan lokal.
 
@@ -40,7 +40,7 @@ Bukan untuk menghibur diri, tapi seperti yang pernah saya tulis sebelumnya, nela
 
 Artinya, seni suara di Simeulue sejak awal tidak pernah berdiri sendiri. Ia selalu punya fungsi seperti penghubung, dan pengingat.
 
-## 2. Cikal Bakal di Gelanggang Tanah: Seni Pertunjukan Fisik
+## 2. Cikal Bakal di Gelanggang Tanah, Seni Pertunjukan Fisik
 
 Setelah dari rumah dan perahu, seni pindah ke tanah lapang. Inilah yang orang tua dahulu sebut gelanggang, tempat Debus ditampilkan saat kenduri besar, dan tempat Tari Ranup Lampuan disajikan untuk menyambut tamu.
 
@@ -60,7 +60,7 @@ Panggungnya panggung nikahan biasa, pakai tenda, tapi isinya Tari Ranup Lampuan 
 
 Di acara Pemda, biasanya di lapangan Pendopo, mereka tampil dengan kostum lengkap. Di situlah saya lihat bagaimana Debus yang tadinya di tanah gelanggang, sekarang naik ke panggung nikahan dan panggung resmi pemerintah. Tetap sama gerakannya, tapi penontonnya sudah pakai kursi.
 
-## 3. Cikal Bakal di Dapur dan di Kebun: Seni Tangan dan Kriya
+## 3. Cikal Bakal di Dapur dan di Kebun, Seni Tangan dan Kriya
 
 Ini cikal bakal yang sering dilupakan, padahal ini yang paling banyak pelakunya: seni tangan.
 
@@ -72,7 +72,7 @@ Di kebun dan di tepi pantai, bapak-bapak mengukir perahu. Lengkungan haluan pera
 
 Ini semua lahir bukan dari sanggar, tapi dari aktivitas harian. Sayangnya, pilar ketiga ini yang paling cepat hilang, karena anak muda lebih tertarik ke pilar keempat yang bisa diposting di media sosial.
 
-## 4. Cikal Bakal di Sinabang Hari Ini: Seni di Warkop dan di Band
+## 4. Cikal Bakal di Sinabang Hari Ini, Seni di Warkop dan di Band
 
 Inilah cikal bakal seni versi hari ini yang saya lihat sendiri di Sinabang sepanjang 2024-2026. Setelah dari rumah, gelanggang, dan dapur, seni sekarang hidup di dua tempat: warkop dan band.
 
