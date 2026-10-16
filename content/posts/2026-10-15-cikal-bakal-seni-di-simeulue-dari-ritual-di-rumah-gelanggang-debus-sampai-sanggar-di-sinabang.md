@@ -3,9 +3,9 @@ title: "Cikal Bakal Seni di Simeulue: Dari Ritual Rumah, Gelanggang hingga Sangg
 date: 2026-10-15
 draft: false
 description: Dari mana seni di Simeulue bermula? Bukan dari gedung kesenian. Ia
-  lahir dari ritual Nandong di ayunan, mantra melaut di perahu, Debus di
-  gelanggang, anyaman tikar di dapur, sampai jadi karya sanggar dan candaan
-  warkop Sinabang hari ini.
+  lahir dari ritual Nandong di ayunan, di perahu, Debus di gelanggang, anyaman
+  tikar di dapur, sampai jadi karya sanggar dan candaan warkop Sinabang hari
+  ini.
 categories:
   - Seni
 tags:
