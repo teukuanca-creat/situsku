@@ -1,5 +1,5 @@
 ---
-title: "Cikal Bakal Seni di Simeulue: Dari Ritual Rumah, Gelanggang hingga Sanggar"
+title: Cikal Bakal Seni di Simeulue. Dari Ritual Rumah, Gelanggang hingga Sanggar
 date: 2026-10-15
 draft: false
 description: Dari mana seni di Simeulue bermula? Bukan dari gedung kesenian. Ia
