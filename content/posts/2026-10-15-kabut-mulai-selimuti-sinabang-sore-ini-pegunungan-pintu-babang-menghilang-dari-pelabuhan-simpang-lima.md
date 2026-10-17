@@ -2,9 +2,9 @@
 title: "Kabut Mulai Selimuti Sinabang Sore Ini: di Dermaga Simpang Lima"
 date: 2026-10-15
 draft: false
-description: Sore ini saya jalan sore di Sinabang, suasana pegunungan berbeda
-  seperti diselimuti kabut. Dari Pelabuhan Simpang Lima, kabut tebal menutupi
-  Teluk Sinabang dan Pegunungan Pintu Babang, matahari terlihat merah.
+description: Suasana pegunungan berbeda seperti diselimuti kabut. Dari Pelabuhan
+  Simpang Lima, kabut tebal menutupi Teluk Sinabang dan Pegunungan Pintu Babang,
+  matahari terlihat merah.
 categories:
   - Cerita Menarik
 tags:
