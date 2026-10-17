@@ -18,7 +18,7 @@ cover:
 ---
 ## Jalan Sore di Sinabang
 
-Sore tadi saya jalan sore seperti biasa. Rutenya tidak jauh, dari rumah keliling kawasan Lapangan Pendopo Bupati lalu lanjut ke jalan utama Sinabang sekitar jam setengah lima.
+Sore tadi saya jalan seperti biasa. Rutenya tidak jauh, dari rumah keliling kawasan Lapangan Pendopo Bupati lalu lanjut ke jalan utama Sinabang sekitar jam setengah lima.
 
 Awalnya tidak ada yang aneh. Sebab langit terlihat cerah dan aktivitas jalanan umum berjalan normal. Tapi pas saya menoleh ke arah pegunungan, kok rasanya berbeda.
 
