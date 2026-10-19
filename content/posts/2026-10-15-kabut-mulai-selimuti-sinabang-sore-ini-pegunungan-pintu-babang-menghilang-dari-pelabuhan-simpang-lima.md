@@ -78,7 +78,7 @@ Udara di pelabuhan sore tadi juga terasa lebih dingin dari biasanya. Bukan dingi
 
 *Foto: Matahari Merah Sore di Pelabuhan Simpang Lima Sinabang*
 
-## Ikhtisar
+### Catatan Sore Hari Ini
 
 Bersamaan dengan hilangnya matahari di balik pegunungan, azan Magrib pun mulai terdengar dari kejauhan. Kabut sore itu tidak hanya mengubah wajah Sinabang menjadi lebih syahdu, tetapi juga memberi pengingat kecil bagi saya: bahwa alam selalu punya cara sendiri untuk mengejutkan kita, bahkan di rute jalan sore yang paling biasa sekalipun.
 
