@@ -2,9 +2,9 @@
 title: Cikal Bakal Seni di Simeulue. Dari Ritual Rumah, Gelanggang hingga Sanggar
 date: 2026-10-15
 draft: false
-description: Seni lahir dari ritual Nandong di ayunan, di perahu, Debus di
+description: "Seni lahir dari ritual Nandong di ayunan, di perahu, Debus di
   gelanggang, anyaman tikar di dapur, sampai jadi karya sanggar dan candaan
-  warkop Sinabang hari ini.
+  warkop Sinabang hari ini di Simeulue "
 categories:
   - Seni
 tags:
