@@ -24,11 +24,17 @@ Awalnya tidak ada yang aneh. Sebab langit terlihat cerah dan aktivitas jalanan u
 
 Di Sinabang, momen seperti ini tidak setiap hari ada. Kalau habis hujan deras biasanya gunung malah tambah jelas. Sore ini tidak habis hujan, cuaca dari siang malah agak panas, tapi kenapa berkabut.
 
+### Menuju Dermaga Lama Simpang Lima 
+
 Sebab penasaran, saya memilih Pelabuhan Simpang Lima sebagai tempat yang tepat untuk menyaksikan fenomena ini.
 
 Sampai di pelabuhan sekitar jam 16.55 WIB, suasana pelabuhan terlihat ramai. Ada beberapa warga memancing dari atas dermaga, nelayan yang baru sandar, dan ada bapak-bapak yang duduk di warung kopi pelabuhan.
 
 Biasanya dari jalan tempat saya berdiri, Pegunungan Pintu Babang itu terlihat tegas. Garis punggungnya jelas, lekuk-lekuknya kelihatan.
+
+![](/images/pintu-babang.webp)
+
+*Foto: Pintu Babang Tanpa Kabut*
 
 Sore tadi tidak. Punggungnya seperti dilap kain tipis. Warnanya tidak lagi hijau tua, tapi abu-abu pucat. Seperti ada asap yang menggantung rendah.
 
@@ -38,7 +44,7 @@ Perahu-perahu yang biasanya terlihat jelas di tengah teluk, sore ini siluetnya s
 
 Ya, itu kabut. Tipis, tapi turunnya rata menutupi pegunungan.
 
-Angin di pelabuhan tidak kencang. Malah pelan sekali. Tetapi permukaan teluk sedikit ada riak ombak. Justru karena angin tenang itulah kabutnya terlihat menggantung, tidak terbawa angin.
+Angin di pelabuhan tidak kencang, tetapi permukaan teluk sedikit ada riak ombak. Sebab angin tenang, kabutnya terlihat menggantung dan tidak terbawa angin.
 
 ![](/images/kabut-sinabang-1.webp)
 
