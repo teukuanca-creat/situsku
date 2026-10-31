@@ -1,5 +1,5 @@
 ---
-title: Nandong yang Saya Temui Bukan di Ayunan Lagi
+title: "Nandong di Tengah Laut "
 date: 2026-10-14
 draft: false
 description: Nandong Simeulue bukan cuma lagu tidur. Di Sinabang, Nandong hidup
