@@ -5,9 +5,7 @@ draft: false
 description: "Ringkasnya: Mancolok adalah cara warga pesisir Simeulue menangkap
   ikan, udang, kepiting, dan lobster di malam hari memakai senter dan tangguk
   bergagang panjang. Waktu terbaiknya saat air tenang dan bulan gelap, dan cara
-  ini tidak cocok dilakukan di musim hujan. Artikel ini memuat alat yang
-  dibutuhkan, waktu yang pas, langkah-langkahnya, serta pengalaman saya
-  sendiri."
+  ini tidak cocok dilakukan di musim hujan."
 categories:
   - Cerita Menarik
 tags:
