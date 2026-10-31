@@ -1,5 +1,5 @@
 ---
-title: Cikal Bakal Seni di Simeulue. Dari Ritual Rumah, Gelanggang hingga Sanggar
+title: Cikal Bakal Seni di Simeulue
 date: 2026-10-15
 draft: false
 description: "Seni lahir dari ritual Nandong di ayunan, di perahu, Debus di
