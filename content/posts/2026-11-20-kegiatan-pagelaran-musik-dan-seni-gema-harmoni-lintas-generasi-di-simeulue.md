@@ -5,6 +5,8 @@ draft: false
 description: Forum Musisi Simeulue mengadakan acara Pagelaran Musik dan Seni
   tanggal 27-28 November 2026. Sebagai wadah penyaluran bakat dan silaturahmi
   lintas generasi.
+categories:
+  - Musik
 views: 0
 comments: true
 cover:
