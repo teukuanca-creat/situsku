@@ -14,7 +14,7 @@ Kabupaten Simeulue memiliki tradisi dan seni budaya yang khas. Warisan itu hidup
 
 Namun di tengah perkembangan zaman, ruang bagi seniman dan musisi lokal untuk tampil dan berkarya masih sangat terbatas. Bakat ada di mana-mana, tetapi panggung, peralatan, dan wadah pembinaan dikawatirkan belum selalu tersedia.
 
-Dari hal itu, Forum Musisi Simeulue (FMS) berencana menggelar Pagelaran Musik dan Seni bertema "Gema Harmoni Lintas Generasi". Acara ini direncanakan bukan sekadar sebagai hiburan, tetapi sebagai gerakan sosial-kreatif yang menyentuh banyak sisi kehidupan masyarakat.
+Dari hal itu, Forum Musisi Simeulue (FMS) berencana menggelar Pagelaran Musik dan Seni bertema "Gema Harmoni Lintas Generasi". Acara ini direncanakan bukan sekadar sebagai hiburan, tetapi sebagai gerakan sosial-kreatif yang juga menyentuh sisi kehidupan masyarakat.
 
 ## Ruang Temu antara Seniman dan Masyarakat
 
@@ -22,15 +22,15 @@ Seni akan kehilangan maknanya jika tidak bertemu dengan penikmatnya. Pagelaran m
 
 Di atas panggung, musisi mendapat kesempatan menunjukkan karya dan membangun kepercayaan diri. Di depan panggung, masyarakat dari berbagai usia dapat menikmati hiburan yang sehat dan merasa memiliki kebanggaan terhadap talenta-talenta daerah sendiri.
 
-Tema "Lintas Generasi" menegaskan bahwa musik adalah bahasa yang bisa dipahami semua usia. Orang tua, anak muda, hingga pelajar dapat duduk dalam satu ruang yang sama, saling menghargai selera dan karya. Pertemuan semacam ini memperkuat ikatan sosial sekaligus menjaga kesinambungan nilai budaya dari satu generasi ke generasi berikutnya.
+Tema "Lintas Generasi" menegaskan bahwa musik adalah bahasa yang bisa dipahami semua usia. Orang tua, anak muda, hingga pelajar dapat berkarya dalam satu wadah yang sama, saling menghargai selera dan karya. Pertemuan semacam ini memperkuat ikatan sosial sekaligus menjaga kesinambungan nilai budaya dari satu generasi ke generasi berikutnya.
 
 ## Menggerakkan Ekonomi Kreatif dan UMKM
 
-Pagelaran ini juga membuka peluang ekonomi. Rencana kegiatan menghadirkan pelaku UMKM melalui stand-stand yang berpartisipasi di sekitar lapangan pendopo Bupati Simeulue. 
+Pagelaran ini juga membuka peluang ekonomi. Sebab, rencana kegiatan juga menghadirkan pelaku UMKM melalui stand-stand yang berpartisipasi di sekitar lapangan pendopo Bupati Simeulue. 
 
 Bagi pelaku usaha lokal, ini adalah kesempatan memperkenalkan produk, bertemu langsung dengan konsumen, dan menjalin kedekatan dengan pasar di Simeulue.
 
-Keramaian sebuah acara budaya sering membawa efek berantai. Pengunjung yang datang menikmati musik juga berbelanja, mencicipi kuliner, dan mengenal produk lokal. 
+Sebab, keramaian sebuah acara sering membawa efek berantai. Pengunjung yang datang menikmati musik juga berbelanja, mencicipi kuliner, dan mengenal produk lokal. 
 
 Dengan begitu, seni dan ekonomi tumbuh berdampingan, dan ekonomi kreatif daerah mendapat dorongan nyata.
 
@@ -42,7 +42,7 @@ Seorang anak muda yang belajar bermain alat musik juga belajar disiplin, kerja s
 
 ### Antisipasi Ancaman Nyata di Sekitar Kita
 
-Kita juga perlu jujur melihat tantangan yang dihadapi pemuda-pemudi hari ini. Di tengah kemajuan zaman, rentan berhadapan dengan ancaman nyata seperti pergaulan yang tidak tepat sasaran, penyalahgunaan narkoba, dan maraknya praktik judi online.
+Kita juga perlu jujur melihat tantangan yang dihadapi pemuda-pemudi hari ini. Di tengah kemajuan zaman, rentan berhadapan dengan ancaman nyata seperti pergaulan yang tidak tepat sasaran seperti penyalahgunaan narkoba, juga maraknya praktik judi online.
 
 Tanpa wadah kegiatan yang terarah, menarik, dan produktif, daya saing serta karakter moral generasi muda Simeulue terancam terdegradasi.
 
