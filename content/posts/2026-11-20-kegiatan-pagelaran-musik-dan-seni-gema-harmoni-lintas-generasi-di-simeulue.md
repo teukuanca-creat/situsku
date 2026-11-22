@@ -10,7 +10,7 @@ categories:
 views: 0
 comments: true
 cover:
-  image: /images/Petik dan Ketuk (3).png
+  image: /images/Petik dan Ketuk.jpg
 ---
 Kabupaten Simeulue memiliki tradisi dan seni budaya yang khas. Warisan itu hidup dalam tutur, nyanyian, dan kebersamaan masyarakat.
 
